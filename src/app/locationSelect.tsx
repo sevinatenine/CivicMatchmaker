@@ -1,7 +1,10 @@
+import { Screen, ScreenTitle } from '@/components/Screen';
+import { typography } from '@/theme/typography';
 import { City, State } from 'country-state-city';
 import { useRouter } from 'expo-router';
 import { useTheme } from 'expo-router/react-navigation';
 import { useMemo, useState } from 'react';
+
 import {
   Button,
   FlatList, Modal, Pressable, SafeAreaView, StyleSheet, Text, TextInput, View
@@ -128,36 +131,33 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
 
 export default function LocationSelectPage() {
   const { colors } = useTheme();
-  const router = useRouter(); 
+  const router = useRouter();
   const [location, setLocation] = useState<Location | null>(null);
 
+  const isFormValid = !!(location?.state && location?.city);
+
   return (
-    <SafeAreaView style={[styles.container, { backgroundColor: colors.background }]}>
-      <View style={[styles.container]}>
-        <Text style={[styles.title, { color: colors.text }]}>Select your location</Text>
-        <Text style={[styles.subtitle, { color: colors.text }]}>
-          We ask this so we can find candidates near you. Note: This is only available for US citizens.
-        </Text>
+    <Screen>
+      <ScreenTitle>Select your location</ScreenTitle>
+      <Text style={[styles.subtitle, { color: colors.text }]}>
+        We ask this so we can find candidates near you. Note: This is only available for US citizens.
+      </Text>
 
-        <LocationForm onChange={setLocation} />
+      <LocationForm onChange={setLocation} />
 
-        <Text style={[styles.result, { color: colors.text }]}>
-          {[location?.city, location?.state, location?.country].filter(Boolean).join(', ') || 'Nothing selected yet'}
-        </Text>
-
-        <Button 
-          title="Continue" 
-          onPress={() => router.push('/locationSelect')} 
-          color={colors.primary}
-        />
-      </View>
-    </SafeAreaView>
+      <Button
+        title="Continue"
+        disabled={!isFormValid}
+        onPress={() => router.navigate('/questions')}
+        color={colors.primary}
+      />
+    </Screen>
   );
 }
 
 const styles = StyleSheet.create({
   container: { flex: 1, padding: 24 },
-  title: { fontSize: 28, fontWeight: '700', marginTop: 16 },
+  title: { ...typography.title, marginTop: 16 },
   subtitle: { fontSize: 15, opacity: 0.7, marginTop: 6, marginBottom: 28 },
   form: { gap: 18 },
   fieldLabel: { fontSize: 13, fontWeight: '600', opacity: 0.7, marginBottom: 6 },
