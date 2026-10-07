@@ -207,7 +207,12 @@ export default function LocationSelectPage() {
       <PrimaryButton
         title="Continue"
         disabled={!isFormValid}
-        onPress={() => router.navigate('/questions')}
+        onPress={() =>
+          router.navigate({
+            pathname: '/questions',
+            params: { state: location!.state!, city: location!.city! },
+          })
+        }
       />
     </Screen>
   );
