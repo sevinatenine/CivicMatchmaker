@@ -1,15 +1,15 @@
-import { Screen, ScreenTitle } from '@/components/Screen';
+import { PrimaryButton } from '@/components/PrimaryButton';
+import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 import { useRouter } from 'expo-router';
-import { useTheme } from 'expo-router/react-navigation';
-import { Button, Image, StyleSheet } from 'react-native';
+import { Image, StyleSheet } from 'react-native';
 
 export default function Home() {
-  const router = useRouter();
-  const { colors } = useTheme();
+  const router = useRouter(); 
 
   return (
     <Screen>
       <ScreenTitle>Welcome to CivicMatchmaker</ScreenTitle>
+      <ScreenSubtitle>Answer a lot of usless, boring questions and meet the candidates who fit/hate you, and will take your money. Just like Donald Trump. Don't vote for him.</ScreenSubtitle>
 
       <Image
         source={require('@/assets/front-image.png')}
@@ -17,11 +17,7 @@ export default function Home() {
         resizeMode="contain"
       />
 
-      <Button
-        title="Get started"
-        onPress={() => router.push('/locationSelect')}
-        color={colors.primary}
-      />
+      <PrimaryButton title="Get started" onPress={() => router.push('/locationSelect')} />
     </Screen>
   );
 }
@@ -30,6 +26,6 @@ const styles = StyleSheet.create({
   frontImage: {
     flex: 1,
     width: '100%',
-    marginVertical: 16,
+    marginBottom: 24,
   },
 });

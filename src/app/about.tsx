@@ -1,27 +1,10 @@
-import { useTheme } from 'expo-router/react-navigation';
-import { StyleSheet, Text, View } from 'react-native';
+import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 
 export default function AboutPage() {
-  const { colors } = useTheme();
-
   return (
-    <View style={[styles.container, { backgroundColor: colors.background }]}>
-      <Text style={[styles.title, { color: colors.text }]}>About Us</Text>
-      <Text style={{ color: colors.text }}>Welcome to the About Page!</Text>
-    </View>
+    <Screen>
+      <ScreenTitle>About Us</ScreenTitle>
+      <ScreenSubtitle>Welcome to the About Page!</ScreenSubtitle>
+    </Screen>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 16,
-  },
-  title: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    marginBottom: 10,
-  }
-});
