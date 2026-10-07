@@ -1,5 +1,6 @@
-import { Screen, ScreenTitle } from '@/components/Screen';
-import { useTheme } from 'expo-router/react-navigation';
+import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
+import { Colors } from '@/constants/Colors';
+import { typography } from '@/theme/typography';
 import { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
@@ -12,23 +13,18 @@ function QuestionButton({
   selected: boolean;
   onPress: () => void;
 }) {
-  const { colors } = useTheme();
-
   return (
     <Pressable
+      accessibilityRole="button"
+      accessibilityState={{ selected }}
       style={({ pressed }) => [
         styles.button,
-        {
-          backgroundColor: selected ? colors.primary : colors.card,
-          borderColor: selected ? colors.primary : colors.border,
-          opacity: pressed ? 0.8 : 1,
-        },
+        selected && styles.buttonSelected,
+        pressed && !selected && styles.buttonPressed,
       ]}
       onPress={onPress}
     >
-      <Text style={[styles.buttonTitle, { color: selected ? colors.background : colors.text }]}>
-        {title}
-      </Text>
+      <Text style={[styles.buttonTitle, selected && styles.buttonTitleSelected]}>{title}</Text>
     </Pressable>
   );
 }
@@ -42,11 +38,9 @@ function Question({
   value: number | null;
   onChange: (value: number) => void;
 }) {
-  const { colors } = useTheme();
-
   return (
     <View style={styles.question}>
-      <Text style={[styles.questionTitle, { color: colors.text }]}>{question}</Text>
+      <Text style={styles.questionTitle}>{question}</Text>
       <View style={styles.options}>
         {[1, 2, 3, 4, 5].map((n) => (
           <QuestionButton
@@ -57,20 +51,23 @@ function Question({
           />
         ))}
       </View>
+      <View style={styles.scaleLabels}>
+        <Text style={styles.scaleLabel}>Lowest</Text>
+        <Text style={styles.scaleLabel}>Highest</Text>
+      </View>
     </View>
   );
 }
 
 export default function QuestionsPage() {
-  const { colors } = useTheme();
   const [experience, setExperience] = useState<number | null>(null);
 
   return (
     <Screen>
       <ScreenTitle>Questions</ScreenTitle>
-      <Text style={{ color: colors.text }}>
+      <ScreenSubtitle>
         We will ask you a series of questions to help match you with candidates.
-      </Text>
+      </ScreenSubtitle>
       <Question
         question="What is your experience level?"
         value={experience}
@@ -81,29 +78,41 @@ export default function QuestionsPage() {
 }
 
 const styles = StyleSheet.create({
-  questionTitle: {
-    fontSize: 20,
-    fontWeight: '600',
-    marginBottom: 10,
-  },
-  buttonTitle: {
-    fontSize: 16,
-    fontWeight: '600',
-  },
   question: {
-    marginVertical: 10,
     alignSelf: 'stretch',
+    backgroundColor: Colors.card,
+    borderRadius: 18,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+    padding: 18,
   },
-  options: {
-    flexDirection: 'row',
-    gap: 8,
+  questionTitle: {
+    ...typography.heading,
+    color: Colors.text,
+    marginBottom: 16,
   },
+  options: { flexDirection: 'row', gap: 8 },
   button: {
     flex: 1,
-    paddingVertical: 10,
-    borderRadius: 8,
+    paddingVertical: 14,
+    borderRadius: 12,
     borderWidth: 1,
+    borderColor: Colors.border,
+    backgroundColor: Colors.background,
     alignItems: 'center',
     justifyContent: 'center',
   },
+  buttonPressed: { backgroundColor: Colors.cardAlt },
+  buttonSelected: {
+    backgroundColor: Colors.button,
+    borderColor: Colors.button,
+  },
+  buttonTitle: { fontSize: 17, fontWeight: '600', color: Colors.text },
+  buttonTitleSelected: { color: Colors.onButton },
+  scaleLabels: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginTop: 10,
+  },
+  scaleLabel: { ...typography.label, color: Colors.textMuted },
 });

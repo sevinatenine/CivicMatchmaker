@@ -1,20 +1,31 @@
-import { Screen, ScreenTitle } from '@/components/Screen';
+import { PrimaryButton } from '@/components/PrimaryButton';
+import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
+import { Colors } from '@/constants/Colors';
 import { typography } from '@/theme/typography';
 import { City, State } from 'country-state-city';
 import { useRouter } from 'expo-router';
-import { useTheme } from 'expo-router/react-navigation';
 import { useMemo, useState } from 'react';
-
 import {
-  Button,
-  FlatList, Modal, Pressable, SafeAreaView, StyleSheet, Text, TextInput, View
+  FlatList,
+  Modal,
+  Pressable,
+  SafeAreaView,
+  StyleSheet,
+  Text,
+  TextInput,
+  View,
 } from 'react-native';
 
 type Option = { label: string; value: string };
 type Location = { country: string | null; state: string | null; city: string | null };
 
 function SelectField({
-  label, value, placeholder, options, onSelect, disabled,
+  label,
+  value,
+  placeholder,
+  options,
+  onSelect,
+  disabled,
 }: {
   label: string;
   value: string;
@@ -23,38 +34,48 @@ function SelectField({
   onSelect: (v: string) => void;
   disabled?: boolean;
 }) {
-  const { colors } = useTheme();
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
 
-  const selected = options.find(o => o.value === value);
+  const selected = options.find((o) => o.value === value);
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return q ? options.filter(o => o.label.toLowerCase().includes(q)) : options;
+    return q ? options.filter((o) => o.label.toLowerCase().includes(q)) : options;
   }, [options, query]);
 
-  const close = () => { setOpen(false); setQuery(''); };
+  const close = () => {
+    setOpen(false);
+    setQuery('');
+  };
 
   return (
     <View style={{ opacity: disabled ? 0.4 : 1 }}>
-      <Text style={[styles.fieldLabel, { color: colors.text }]}>{label}</Text>
+      <Text style={styles.fieldLabel}>{label}</Text>
       <Pressable
         disabled={disabled}
         onPress={() => setOpen(true)}
-        style={[styles.field, { backgroundColor: colors.card, borderColor: colors.border }]}
+        style={({ pressed }) => [styles.field, pressed && { backgroundColor: Colors.cardAlt }]}
       >
-        <Text style={{ color: selected ? colors.text : colors.text + '80', fontSize: 16, flex: 1 }} numberOfLines={1}>
+        <Text
+          style={[styles.fieldText, !selected && { color: Colors.textMuted }]}
+          numberOfLines={1}
+        >
           {selected?.label ?? placeholder}
         </Text>
-        <Text style={{ color: colors.text + '80', fontSize: 18 }}>⌄</Text>
+        <Text style={styles.chevron}>⌄</Text>
       </Pressable>
 
-      <Modal visible={open} animationType="slide" presentationStyle="pageSheet" onRequestClose={close}>
-        <SafeAreaView style={{ flex: 1, backgroundColor: colors.background }}>
+      <Modal
+        visible={open}
+        animationType="slide"
+        presentationStyle="pageSheet"
+        onRequestClose={close}
+      >
+        <SafeAreaView style={styles.sheet}>
           <View style={styles.sheetHeader}>
-            <Text style={[styles.sheetTitle, { color: colors.text }]}>{label}</Text>
+            <Text style={styles.sheetTitle}>{label}</Text>
             <Pressable onPress={close} hitSlop={12}>
-              <Text style={{ color: colors.primary, fontSize: 16, fontWeight: '600' }}>Done</Text>
+              <Text style={styles.sheetDone}>Done</Text>
             </Pressable>
           </View>
 
@@ -62,9 +83,11 @@ function SelectField({
             value={query}
             onChangeText={setQuery}
             placeholder={`Search ${label.toLowerCase()}...`}
-            placeholderTextColor={colors.text + '80'}
+            placeholderTextColor={Colors.textMuted}
+            selectionColor={Colors.button}
+            keyboardAppearance="dark"
             autoCorrect={false}
-            style={[styles.search, { backgroundColor: colors.card, borderColor: colors.border, color: colors.text }]}
+            style={styles.search}
           />
 
           <FlatList
@@ -72,38 +95,59 @@ function SelectField({
             keyExtractor={(o, i) => `${o.value}-${i}`}
             keyboardShouldPersistTaps="handled"
             initialNumToRender={20}
-            renderItem={({ item }) => (
-              <Pressable
-                onPress={() => { onSelect(item.value); close(); }}
-                style={[styles.row, { borderBottomColor: colors.border }]}
-              >
-                <Text style={{ color: colors.text, fontSize: 16, flex: 1 }}>{item.label}</Text>
-                {item.value === value && <Text style={{ color: colors.primary, fontSize: 18 }}>✓</Text>}
-              </Pressable>
-            )}
-            ListEmptyComponent={
-              <Text style={{ color: colors.text + '80', textAlign: 'center', marginTop: 32 }}>No results</Text>
-            }
+            renderItem={({ item }) => {
+              const isSelected = item.value === value;
+              return (
+                <Pressable
+                  onPress={() => {
+                    onSelect(item.value);
+                    close();
+                  }}
+                  style={({ pressed }) => [
+                    styles.row,
+                    isSelected && { backgroundColor: Colors.buttonSoft },
+                    pressed && { backgroundColor: Colors.cardAlt },
+                  ]}
+                >
+                  <Text style={[styles.rowText, isSelected && { color: Colors.button }]}>
+                    {item.label}
+                  </Text>
+                  {isSelected && <Text style={styles.check}>✓</Text>}
+                </Pressable>
+              );
+            }}
+            ListEmptyComponent={<Text style={styles.empty}>No results</Text>}
           />
         </SafeAreaView>
       </Modal>
     </View>
   );
 }
+
 const COUNTRY_CODE = 'US';
 
 export function LocationForm({ onChange }: { onChange?: (l: Location) => void }) {
   const [stateCode, setStateCode] = useState('');
   const [city, setCity] = useState('');
 
-  const states = useMemo(
-    () => State.getStatesOfCountry(COUNTRY_CODE).map(s => ({ label: s.name, value: s.isoCode })),
-    []
+  const states = useMemo(() => {
+  // Collect every state code that has at least one city
+  const stateCodesWithCities = new Set(
+    (City.getCitiesOfCountry(COUNTRY_CODE) ?? []).map((c) => c.stateCode)
   );
+
+  return State.getStatesOfCountry(COUNTRY_CODE)
+    .filter((s) => stateCodesWithCities.has(s.isoCode))
+    .map((s) => ({ label: s.name, value: s.isoCode }));
+}, []);
   const cities = useMemo(
-    () => (stateCode
-      ? City.getCitiesOfState(COUNTRY_CODE, stateCode).map(c => ({ label: c.name, value: c.name }))
-      : []),
+    () =>
+      stateCode
+        ? City.getCitiesOfState(COUNTRY_CODE, stateCode).map((c) => ({
+            label: c.name,
+            value: c.name,
+          }))
+        : [],
     [stateCode]
   );
 
@@ -117,20 +161,32 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
   return (
     <View style={styles.form}>
       <SelectField
-        label="State" placeholder="Select state" value={stateCode} options={states}
-        onSelect={(v) => { setStateCode(v); setCity(''); emit(v, ''); }}
+        label="State"
+        placeholder="Select state"
+        value={stateCode}
+        options={states}
+        onSelect={(v) => {
+          setStateCode(v);
+          setCity('');
+          emit(v, '');
+        }}
       />
       <SelectField
-        label="City" placeholder="Select city" value={city} options={cities}
+        label="City"
+        placeholder="Select city"
+        value={city}
+        options={cities}
         disabled={!stateCode || cities.length === 0}
-        onSelect={(v) => { setCity(v); emit(stateCode, v); }}
+        onSelect={(v) => {
+          setCity(v);
+          emit(stateCode, v);
+        }}
       />
     </View>
   );
 }
 
 export default function LocationSelectPage() {
-  const { colors } = useTheme();
   const router = useRouter();
   const [location, setLocation] = useState<Location | null>(null);
 
@@ -139,45 +195,75 @@ export default function LocationSelectPage() {
   return (
     <Screen>
       <ScreenTitle>Select your location</ScreenTitle>
-      <Text style={[styles.subtitle, { color: colors.text }]}>
-        We ask this so we can find candidates near you. Note: This is only available for US citizens.
-      </Text>
+      <ScreenSubtitle>
+        We ask this so we can find candidates near you. Note: This is only available for US
+        citizens.
+      </ScreenSubtitle>
 
       <LocationForm onChange={setLocation} />
 
-      <Button
+      <View style={{ flex: 1 }} />
+
+      <PrimaryButton
         title="Continue"
         disabled={!isFormValid}
         onPress={() => router.navigate('/questions')}
-        color={colors.primary}
       />
     </Screen>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 24 },
-  title: { ...typography.title, marginTop: 16 },
-  subtitle: { fontSize: 15, opacity: 0.7, marginTop: 6, marginBottom: 28 },
-  form: { gap: 18 },
-  fieldLabel: { fontSize: 13, fontWeight: '600', opacity: 0.7, marginBottom: 6 },
+  form: { gap: 20 },
+  fieldLabel: {
+    ...typography.label,
+    color: Colors.textMuted,
+    marginBottom: 8,
+  },
   field: {
-    flexDirection: 'row', alignItems: 'center',
-    paddingHorizontal: 14, paddingVertical: 14,
-    borderWidth: StyleSheet.hairlineWidth, borderRadius: 12,
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingVertical: 16,
+    backgroundColor: Colors.card,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+    borderRadius: 14,
   },
+  fieldText: { flex: 1, fontSize: 16, color: Colors.text },
+  chevron: { color: Colors.button, fontSize: 18 },
+
+  sheet: { flex: 1, backgroundColor: Colors.background },
   sheetHeader: {
-    flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center',
-    paddingHorizontal: 20, paddingVertical: 16,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 20,
+    paddingVertical: 18,
   },
-  sheetTitle: { fontSize: 20, fontWeight: '700' },
+  sheetTitle: { ...typography.heading, fontSize: 20, color: Colors.text },
+  sheetDone: { color: Colors.button, fontSize: 16, fontWeight: '600' },
   search: {
-    marginHorizontal: 20, marginBottom: 8, paddingHorizontal: 14, paddingVertical: 12,
-    borderWidth: StyleSheet.hairlineWidth, borderRadius: 12, fontSize: 16,
+    marginHorizontal: 20,
+    marginBottom: 8,
+    paddingHorizontal: 14,
+    paddingVertical: 12,
+    backgroundColor: Colors.card,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+    borderRadius: 12,
+    fontSize: 16,
+    color: Colors.text,
   },
   row: {
-    flexDirection: 'row', alignItems: 'center',
-    paddingHorizontal: 20, paddingVertical: 16, borderBottomWidth: StyleSheet.hairlineWidth,
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 20,
+    paddingVertical: 16,
+    borderBottomWidth: StyleSheet.hairlineWidth,
+    borderBottomColor: Colors.border,
   },
-  result: { marginTop: 32, fontSize: 16, textAlign: 'center', opacity: 0.8 },
+  rowText: { flex: 1, fontSize: 16, color: Colors.text },
+  check: { color: Colors.button, fontSize: 18 },
+  empty: { color: Colors.textMuted, textAlign: 'center', marginTop: 32 },
 });
