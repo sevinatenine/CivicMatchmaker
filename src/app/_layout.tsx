@@ -34,6 +34,7 @@ export default function RootLayout() {
         <Stack.Screen name="locationSelect" options={{ title: 'Your location' }} />
         <Stack.Screen name="about" options={{ title: 'About Us' }} />
         <Stack.Screen name="questions" options={{ title: 'Questions' }} />
+        <Stack.Screen name="selectType" options={{ title: 'Select type' }} />
       </Stack>
     </ThemeProvider>
   );
