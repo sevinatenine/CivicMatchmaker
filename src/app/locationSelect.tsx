@@ -188,9 +188,9 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
 
 export default function LocationSelectPage() {
   const router = useRouter();
-  const [location, setLocation] = useState<Location | null>(null);
+  const [location, setLocation] = useState<Location>({ country: null, state: null, city: null });
 
-  const isFormValid = !!(location?.state && location?.city);
+  const isFormValid = !!(location.state && location.city);
 
   return (
     <Screen>
@@ -207,7 +207,12 @@ export default function LocationSelectPage() {
       <PrimaryButton
         title="Continue"
         disabled={!isFormValid}
-        onPress={() => router.navigate('/questions')}
+        onPress={() =>
+          router.navigate({
+            pathname: '/questions',
+            params: { state: location!.state!, city: location!.city! },
+          })
+        }
       />
     </Screen>
   );
