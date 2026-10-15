@@ -1,0 +1,712 @@
+{
+  "name": "Ted Lieu",
+  "page_title": "Ted Lieu's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 36, Democratic Minority Caucus Vice Chair",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 36",
+  "candidate_id": "1516",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/1516/ted-lieu",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Justice Thomas is wrong, again. The crucial bond that has been broken is that the public can no longer trust the word of multiple Supreme Court Justices. Multiple conservative Justices misled the American people under oath about their views of Roe in order to get confirmed.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1525542951304183816?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/1516/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/1516/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe social security should be strengthened.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1521168922996748288?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #TrumpBudget cuts Medicare, Medicaid and Social Security by over 1.5 trillion dollars. If you still believe @realDonaldTrump wants to protect Medicare and Social Security, then you are very stupid.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1227039957853917187?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 99% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why not raise revenue by making billionaires pay their fair share?\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1722437760089280715?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/1516/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe the wealthy should pay their fair share\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1519337211229085698?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats put #PeopleOverPolitics and passed the bipartisan infrastructure law to grow the economy and create good paying jobs. What are Republicans focused on? Helping the rich avoid paying their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1676680228297400320?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe the wealthy should pay their fair share\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1519337211229085698?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/1516/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #FreedomToVote Act will restore the promise of democracy for all Americans. The Senate must pass this legislation to protect the fundamental right to vote, end the dominance of dark money in politics and stop partisan gerrymandering. Our democracy is at stake\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1450904516358979594?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is why we need to enact campaign finance reform and pass HR1 by @RepSarbanes. SBF and crypto folks gave Republican dark money groups millions of dollars and then tried to hide it. Democrats believe in transparency and are calling in SBF to testify.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1601632358867664903?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/1516/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"George Floyd, Breonna Taylor, Freddie Gray, Philando Castile, Tamir Rice, Michael Brown, Eric Garner and many other Black Americans would disagree with you, if they were still alive and not murdered by our government.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1269112960133169154?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"What @realDonaldTrump & his @GOP enablers still donât understand is that there is no military solution here. Protests erupted because our government murdered George Floyd and countless black Americans for generations. We stop these protests when we commit to real reforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1267926647916785664?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77710/1516/george-floyd-justice-in-policing-act-of-2021#77710"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Having served on active duty at the Space and Missile Systems Center -- which was involved with the Airborne Laser program -- I know how practical innovative laser systems like the LLD are, and the incredible potential they present for the future of naval combat operations. I am pleased that the Navy's test of the Lockheed Martin Layered Laser Defense system was successful. From destroying unmanned aerial systems, or drones, to tracking incoming threats, the LLD is a multi-functional system that can address numerous threats. In addition, laser weapons are often safer for ships and their crews as they run on electricity, allowing them to function as long as a ship has power. Throughout my time in Congress, I've been pushing for increased investment and research in directed energy defense technology, and am pleased to see the success of the LLD system that will make our nation stronger and more secure.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1614072/rep-lieu-applauds-us-navys-successful-test-of-new-laser-weapon-system"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/1516/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/1516/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/1516/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats put #PeopleOverPolitics and passed the bipartisan infrastructure law to grow the economy and create good paying jobs. What are Republicans focused on? Helping the rich avoid paying their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1676680228297400320?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/1516/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/1516/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/1516/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS signed our bill, the West LA VA Campus Improvement Act, into LAW! This is a success for our Los Angeles veterans, especially those experiencing homelessness. No one who served our country should go without housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1407749039836311558?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As the #COVID19 pandemic continues, the risk of homelessness is growing. We introduced a bill to establish a $500 million housing stabilization fund to address the root causes of homelessness and help those at risk avoid losing their homes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1322189061101158401?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our nation's small towns & rural communities have experienced their own unique challenges throughout #COVID19. #HelpIsHere w/ the #AmericanRescuePlan, which provides $39M in mortgage assistance for rural homeowners, & $100M in rent help for those in USDA-assisted rural housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1397990992129794049?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Good news: inflation has fallen for the 11th straight month and job creation is still booming, well above expectations. @HouseDemocrats are united to bring lower costs and good-paying jobs to American families. What are extreme MAGA Republicans focused on? Chaos.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1668651735072505857?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2020, American seniors on #Medicare spent $1 BILLION on their out-of-pocket insulin costs. Thatâs why Democrats passed the Inflation Reduction Act, so no one on Medicare will pay more than $35 for their monthly insulin.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1613989263703478286?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. economy added 209,000 jobs in June, for a total of 13.2 million jobs created since @POTUS Biden took office! Our pandemic recovery is the strongest in the world with 30 months of job growth, record low unemployment, and falling inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1677364352586850329?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/1516/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs time the Trump admin work for defrauded student borrowers, not predatory for-profit colleges. This week, the House passed a resolution to reverse the harmful borrower defense rule that would deny debt relief to students defrauded by predatory colleges. #StandWithStudents\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1218281575848214529?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #FreedomToVote Act will restore the promise of democracy for all Americans. The Senate must pass this legislation to protect the fundamental right to vote, end the dominance of dark money in politics and stop partisan gerrymandering. Our democracy is at stake\"",
+          "source": "x.com",
+          "url": "https://x.com/tedlieu/status/1450904516358979594?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/1516/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/1516/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By investing in clean energy technologies, we can create more good-paying jobs while addressing the existential threat of climate change. Pleased to have Voted in favor of @HouseDemocrats' funding bill that invests in the green jobs of tomorrow. #ForThePeople\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1420822856670253063?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/1516/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/1516/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The majority of Californians oppose offshore drilling and with aging infrastructure, weâre likely to see more oil spills in the future if we donât make a change now. Joined @KTLA to discuss the need to end offshore drilling.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1446203678927507464?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to #endoffshoredrilling. Joined @FOXLA to discuss legislation that would ban oil drilling off the Pacific Coast. Our environment and our communities depend on it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1451654599677448203?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/1516/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nearly 40,000 Americans lose their lives each year because of gun violence. We canât afford to make this a partisan issue. Enough is enough. It's time to face the facts on this episode of #TruthWithTed. #EndGunViolence\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1101293476510081024?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/1516/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/1516/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More than 69% of Americans support #MedicareForAll. We know itâs time for a truly universal health care system that has no copays, deductibles, or hidden fees. Health care is a human right. Letâs get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1658898234838769667?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the first time Congress has ever held a hearing on #MedicareForAll. It's time we provide quality, affordable healthcare for every person living in the United States. Proud to be a co-sponsor of the #MedicareForAll Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1123282159232593922?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/1516/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs no secret that working families are struggling. How do we support them? By pushing for policies like paid leave, affordable child care, and the #ChildTaxCredit.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1641160799375982592?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Paid leave is a top priority for us and the workers we represent. Pleased to join over 100 @HouseDemocrats in expressing our support for maintaining robust paid family and medical leave in the final reconciliation package. Our letter to @POTUS\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1450878565524836353?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We've been fighting hard for accessible and affordable child care, and advocating for paid family leave. Excited for the year ahead!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1750926574608875939?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/1516/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In 2020, American seniors on #Medicare spent $1 BILLION on their out-of-pocket insulin costs. Thatâs why Democrats passed the Inflation Reduction Act, so no one on Medicare will pay more than $35 for their monthly insulin.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1613989263703478286?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"NEWS: @POTUS has announced that manufacturers of all 10 drugs selected for Medicare price negotiation through the Inflation Reduction Act have decided to participate in this vital program, lowering drug costs for Medicare beneficiaries. Thatâs putting #PeopleOverPolitics.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1709674755471691880?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one in America should struggle to afford the medication they need. Thatâs why @HouseDemocrats took on drug companies to lower the price of insulin and let Medicare force companies to charge less for lifesaving prescriptions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1669058372769816592?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/1516/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There is a bipartisan agreement including a solution for #DREAMers & border security that Congress would easily pass if Republican leadership would bring it up for a vote. @SpeakerRyan, can we get a vote? #StateOfTheDream#DreamActNow #SOTU\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/958534165007421448?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump refuses to reopen the govt & work w/ Democrats on effective border security & has dragged us into the longest shutdown in history. Now, he wants to add disaster victims to the list of millions who are already suffering from this shutdown!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1083868994656972801?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're all for smart border security â but Trumpâs wall isnât that. Itâs ineffective. Itâs wasteful. And the way heâs going about trying to get it is hurting American families. #EndTheShutdown\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1086341820215377920?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Dreamers strengthen our nation as students, servicemembers, frontline workers, & more. On #DACA's 9th anniversary, we celebrate the establishment of this landmark program & call for the Senate to pass #HR6 to provide a pathway to citizenship for dreamers. #HomeIsHere\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1404851194292367361?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must recognize immigrant essential workers as the heroes â and Americans â they are. That's why we introduced the Citizenship for Essential Workers Act to provide a fair, secure, and accessible pathway to citizenship for immigrant essential workers. #WeAreHome\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1392550717248966659?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/1516/ted-lieu"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/1516/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is appalling. The Biden Administration should impose all possible sanctions on Iran. Our country and decent countries around the world need to exert maximum pressure on the Iranian regime for these horrific human rights violations. Now.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1592238438727786497?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/1516/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/1516/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/1516/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/1516/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/1516/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/1516/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/1516/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is great news! Democrats put #PeopleOverPolitics and are focused on lowering the cost of prescription drugs. What are Republicans focused on? Well, they've now had two congressional hearings complaining about Twitter. Contrast is clear.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1636725321939705856?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Democrats were in the majority, we passed bipartisan laws to improve our nation's infrastructure, keep schools open, bring manufacturing back to the U.S., and support our veterans. What do Republicans do in the majority? Hold a hearing about Twitter.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1623743399198093313?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While we were in the majority, @HouseDemocrats passed a bipartisan law to rebuild roads, bridges, and highways. What do extreme MAGA Republicans do with their majority? Hold two hearings to complain about Twitter. That doesnât help the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTedLieu/status/1638593468397232130?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:16:01+00:00"
+}

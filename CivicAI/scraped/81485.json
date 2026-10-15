@@ -1,0 +1,436 @@
+{
+  "name": "Dale Strong",
+  "page_title": "Dale Strong's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AL) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (AL) - District 5",
+  "candidate_id": "81485",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/81485/dale-strong",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a pro-life Christian who will stand up for the unborn and fight for our Christian values.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Raising taxes is not an option. The American people are taxed enough and deserve leaders that will be good stewards of their money.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Raising taxes is not an option. The American people are taxed enough and deserve leaders that will be good stewards of their money.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Anyone saying \"defund the police\" insults those men and women that put their lives on the line to protect us every single day. I have been there to help bury fallen officers who have died in the line of duty and I will always have the backs of our law enforcement officers.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cutting the ribbon to celebrate @northropgrumman adding a new two-building campus just outside of Redstone Arsenal in Huntsville, Alabama. This will expand their launch and missile defense development capability and will be home to over 1,000 Northrop Grumman employees.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1644430375006126080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The FY24 NDAA supports service members and their families, and prioritizes military readiness. I urge my colleagues to pass this bill, it is crucial to our national defense!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1679536456367235104?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/81485/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cutting wasteful spending and downsizing government must be a top priority. In just a few weeks on the job, Biden and his team have added trillions of dollars to our national debt. This must stop.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"From day 1, Iâve called for a conservative Speaker who will prioritize fighting Bidenâs failed policies. From cutting spending, to securing our borderâ the American people want Congress to get to work. Jim Jordan is the right man to lead our conference as Speaker of the House.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1714029329015841002?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want to see a commitment to quickly return to debating single-subject appropriations bills and using their leverage against Democrats in the House, Senate, and White House to slash wasteful government spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1711787015815991306?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cutting wasteful spending and downsizing government must be a top priority. In just a few weeks on the job, Biden and his team have added trillions of dollars to our national debt. This must stop.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden says that our economy is strong, but for the past two years, American families and small businesses have felt firsthand the impact out-of-control spending as inflation has skyrocketedâ costing American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1623146092220088320?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Weekends are for family and there is nothing better than a cold morning hunt with Harrison. I am a proud lifetime member of the NRA and will fight for all of our 2nd Amendment rights. I will fight the liberal Democrats who work every day to chip away at those rights as they work toward their goal to take away our guns and trample the Constitution.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I fully support building the wall, sending illegals back to their country of origin, and fully enforcing the law on those that are in our country illegally. Illegal immigrants swamp our schools, overcrowd our prisons, take advantage of our healthcare, and stretch our law enforcement thin. Enough is enough. I will carry on President Trumpâs agenda and his legacy to fight against illegal immigration and fulfill our Constitutional duty to protect our borders.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"In my first speech on the House floor, I called for the Biden Administration to resume building the wall along the Southern Border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDaleStrong/status/1633928804564361216?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protecting our borders is a core responsibility of our government. We must do this and send a strong message to those that are now flooding across those borders with no leadership from Joe Biden.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I fully support building the wall, sending illegals back to their country of origin, and fully enforcing the law on those that are in our country illegally. Illegal immigrants swamp our schools, overcrowd our prisons, take advantage of our healthcare, and stretch our law enforcement thin. Enough is enough. I will carry on President Trumpâs agenda and his legacy to fight against illegal immigration and fulfill our Constitutional duty to protect our borders.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nancy Pelosi and the Democrats in Congress have already voted to give amnesty to over two million more illegal immigrants just this year. That is why you see hundreds of thousands trying to cross our borders today with more on the way. This must stop.\"",
+          "source": "www.dalestrongforcongress.com",
+          "url": "https://www.dalestrongforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81485/dale-strong"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 340 \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/81485/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/81485/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6126 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/81485/israel-security-supplemental-appropriations-act-2024#95976"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/81485/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:27:39+00:00"
+}

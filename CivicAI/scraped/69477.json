@@ -1,0 +1,682 @@
+{
+  "name": "Mark DeSaulnier",
+  "page_title": "Mark DeSaulnier's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 10, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 10",
+  "candidate_id": "69477",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/69477/mark-desaulnier",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care decisions should be between a woman and her doctor. I support a woman's right to choose, her right to free contraceptives, and her right to make these choices without government intervention.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/69477/mark-desaulnier/#.Xa9CpOdKhYg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/69477/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/69477/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Given the success of our nation's Medicare program, Mark supports expanding it to cover all Americans. To do that, Mark is a proud sponsor of the Expanded and Improved Medicare for All Act (H.R. 676), which would provide every American with Medicare coverage and is a step in the direction of universal health care.\"",
+          "source": "desaulnier.house.gov",
+          "url": "https://desaulnier.house.gov/issues/preserving-social-security-and-medicare"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We look forward to continuing to work with you to further strengthen the Medicare Advantage program and ensure millions of seniors have access to comprehensive, affordable health coverage choices.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1324823/letter-to-the-hon-seema-verma-administrator-of-centers-for-medicare-and-medicaid-services-guthrie-leads-effort-to-protect-medicare-program"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hatched in secret and rushed through Congress, this lopsided bill increases taxes on more than half of all middle class families, at least 5.5 million of which are Californians, and fans the flames of inequality in our country. With more than 80 percent of the bill's benefits going to the top 1%--people like President Trump, his family, and billionaire political donors-- and to corporations, our children will be left to pay the bill.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214500/congressman-desaulniers-statement-on-passage-of-the-republican-tax-scam"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/69477/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/69477/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hatched in secret and rushed through Congress, this lopsided bill increases taxes on more than half of all middle class families, at least 5.5 million of which are Californians, and fans the flames of inequality in our country. With more than 80 percent of the bill's benefits going to the top 1%--people like President Trump, his family, and billionaire political donors-- and to corporations, our children will be left to pay the bill.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214500/congressman-desaulniers-statement-on-passage-of-the-republican-tax-scam"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs focus on the facts: The #InflationReductionAct doesn't raise taxes on anyone making less than $400k a year. In fact, this historic bill helps lower energy & drug costs for working families. Democrats are delivering & putting #PeopleOverPolitics\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1562937870180130816?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yes, Citizens United and related rulings allowed unlimited contributions from Super PACs to candidates. As a result, the influence of money in political campaigns has exploded. For example, in 2016 Super PACs spent over $1.8 billion dollars whereas in 2008, outside groups spent $338 million. I believe we need to get Super PACs and dark money out of our political system and that we need transparency, so voters know who is funneling money and trying to influence elections. We should move to a public financing system where politicians answer to their constituents and not special interests.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/69477/mark-desaulnier/#.Xa9CpOdKhYg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/69477/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now more than ever, we need to come together as a nation to dismantle the systems that were built to disadvantage people of color. We don't need to study this endlessly -- as Senate Republicans are proposing -- to know that racism and police brutality are killing people. We need action to ban deadly chokeholds, hold problematic officers accountable, and show communities of color that we are serious about making a change. Anything less dishonors the lives and memories of Mr. Floyd and the countless others who have been killed needlessly,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1443640/congressman-desaulniers-statement-on-passage-of-the-george-floyd-justice-in-policing-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The murder of #GeorgeFloyd made clearer than ever the need to dismantle our nationâs racist systems built to disadvantage people of color. I voted for the #JusticeInPolicing Act tonight, a bold, comprehensive approach to reimagine policing in this country and save lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1367302429625225216?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/69477/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As President Eisenhower warned, \"we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex.' The bloated budget at the Department of Defense has become what President Eisenhower prophesized. It is long past time for the Pentagon to undergo an audit of its assets. After reports of $125 billion of waste at the DoD and years of repeatedly authorizing bloated defense budgets--this audit is a welcome first step,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1214499/congressman-desaulnier-welcomes-first-ever-dod-audit"
+        },
+        {
+          "type": "statement",
+          "text": "\"The NDAA would give an additional $717 billion to the Department of Defense. For context, that is almost four times the entire budget for the State of California. Instead of giving funding unchecked to the Pentagon, where $125 billion in bureaucratic waste has already been identified, we should be spending on only the essentials while demanding a completed audit. I have not voted in favor of any of the annual bills to authorize defense spending and will continue to oppose the measure until the DoD has completed a full audit and I am confident taxpayers' hard earned money is spent in an open, transparent, and efficient manner that also ensures our troops' safety.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1273747/congressman-mark-desaulnier-comments-on-passage-of-the-national-defense-authorization-act-for-fy2019"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/69477/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/69477/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/69477/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/69477/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/69477/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/69477/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In 1968, the #FairHousingAct was passed into law to prevent housing discrimination, but too many Americans still face unfair obstacles when it comes to housing. This #FairHousingMonth, we reflect on progress made & commit to working to ensure equitable, affordable housing for all\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1516496011069476867?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It was a pleasure meeting with local #Realtors this week to discuss how we can improve access to housing for more residents in the Bay Area. Solving the #housingcrisis will not be easy, but by working together we can make home-buying a reality for every generation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1129525032072273920?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Working families across the nation are running out of affordable housing options, making commutes longer & pushing the country to the brink of a housing crisis. I introduced a bill to help bring needed investment & planning to todayâs housing challenges.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1066379556737753090?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is a significant victory for Americaâs families! It will lower familiesâ kitchen table costs, combat the climate crisis, cut prescription drug costs, ask the largest corporations to pay their fair share, & reduce the #deficit.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkDeSaulnier/status/1559328023228231680?s=20&t=5GDh0kx36qBIGdpYbjoG4g"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Leader Schumer: \"During the COVID-19 pandemic, the child care industry has faced numerous and steep challenges in their work to adequately serve the population most affected by the pandemic. Families were forced to choose between staying home to care for their children or returning to the workforce and relying on inefficient or scarce alternatives. Furthermore, as inflationary pressures increase and families face rising child care prices, this proposal will allow parents, families, and child care workers to offset part of that burden. The funding will allow those parents who have been unable to rejoin the workforce an opportunity to continue their careers, make sure that their children are adequately cared for, and support the existing child care workforce.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1621683/letter-to-chuck-schumer-senate-majority-leader-and-nancy-pelosi-speaker-of-the-house-making-bold-investments-in-affordable-child-care-for-families/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/69477/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Assocition",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Canceling student debt is one of the most powerful ways to address racial and economic equity issues. The student loan system mirrors many of the inequalities that plague American society and widens the racial wealth gap.10 Black students in particular borrow more to attend college, borrow more often while they are in school, and have a harder time paying their debt off than their white peers.11 They are more than three times as likely to go into default within four years on their federal loans as white borrowers12â and face wage garnishment, tax refund withholding, and federal benefit offsets. 13 While Latino borrowers often have lower loan balances than their white peers, they are more likely to struggle in repaying their loans, and have some of the lowest post-education earnings among all racial or ethnic groups.14\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610814/letter-to-joseph-r-biden-jr-president-of-the-united-states-extend-the-payment-pause-and-cancel-student-debt/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/69477/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The legacy of the civil rights movement is under attack as states pass strict voter ID laws, gerrymander, & purge voter rolls. I was proud to vote today for #HR4, critical legislation that will help stop the most egregious voter suppression tactics. #RestoreTheVote\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1203120690779561990?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/69477/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/69477/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The time is now for the fossil fuel industry to shift toward more sustainable sources of energy, but they cannot leave thousands of workers jobless in their wake,\" said Congressman Mark DeSaulnier. \"By bringing community leaders, industry, environmental groups, and the workforce together, like my amendment would do, we can provide these workers with meaningful support to ensure they are not left behind. At home in Contra Costa and around the country, we have the opportunity to set the stage for green jobs that are both worthy of workers skills and help our nation in the much-needed fight against climate change.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1470162/desaulnier-effort-to-support-workers-transitioning-out-of-fossil-fuel-industry-passes-house"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/69477/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/69477/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "statement",
+          "text": "\"The time is now for the fossil fuel industry to shift toward more sustainable sources of energy, but they cannot leave thousands of workers jobless in their wake,\" said Congressman Mark DeSaulnier. \"By bringing community leaders, industry, environmental groups, and the workforce together, like my amendment would do, we can provide these workers with meaningful support to ensure they are not left behind. At home in Contra Costa and around the country, we have the opportunity to set the stage for green jobs that are both worthy of workers skills and help our nation in the much-needed fight against climate change.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1470162/desaulnier-effort-to-support-workers-transitioning-out-of-fossil-fuel-industry-passes-house"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/69477/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/69477/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have sponsored 4 bills to reduce gun violence and believe that we can adhere to the Second Amendment without putting the lives of our children and communities at risk. At a minimum, the federal government should emulate California gun law, where we have the strictest laws in the nation and the 9th lowest rate of gun deaths. To do that, we must implement universal background checks and ban assault weapons.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/69477/mark-desaulnier/#.Xa9CpOdKhYg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/69477/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/69477/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/69477/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a sponsor of #MedicareForAll, I was delighted my staff had an opportunity to meet with @NationalNurses to discuss the vital need for this legislation to ensure health care is affordable for every American.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1300194755167621121?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        },
+        {
+          "type": "statement",
+          "text": "\"With 15 million Americans having lost health insurance since the pandemic alone, the need for universal coverage is urgent. Proud to reintroduce #MedicareForAll with @RepJayapal and @RepDingell because no one in the richest country on earth should go without quality health care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1372279976062488577?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Studies show a business benefits when its employees have access to paid family and medical leave. Today at @OversightDems, I discussed how Congress can support both small businesses and workers by creating a national program to guarantee #PaidLeaveForAll.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1408160327183876101?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Furthermore, we cannot ignore the economic benefits of paid leave. Enacting paid leave also means that families will continue to earn some income at the very time when they need it most â when a family is growing or a member is sick and needs medical care. Workers will be able to continue to earn a portion of their wages, allowing them to continue to meet their basic needs and pay bills before returning to work. Moreover, lack of paid leave has meant that workers lose an estimated $22.5 billion in wages each year when that could have been used to keep a family afloat and spent in local economies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1569262/letter-to-hon-joe-biden-president-of-the-united-states-pressley-100-house-democrats-urge-president-biden-to-protect-paid-leave-in-build-back-better-act/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No American should have choose between life-saving medicine or other necessities like food, heat, and shelter. @OversightDems is taking a stand against Big Pharma for their unfair pricing and the Senate must pass the #BuildBackBetter Act to lower the cost of prescription drugs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1469405495601635331?s=20&t=R0GdVGqz_CeR76y7muK4jQ"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Insulin Now Act would take a historic step to lower the cost of insulin and cap out-of-pocket costs at $35 per month. This means individuals with private insurance could save up to $500 per year. This bill ensures affordable access to lifesaving medication for the more than 37 million people in the United States who have diabetes and the over 7 million Americans who rely on insulin to maintain their health and well-being.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1593655/affordable-insulin-now-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/69477/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/69477/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/69477/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/69477/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Any immigration reform must be done comprehensively to ensure that we hold true to our country's values while being fair and safe. DACA recipients and their families deserve the respect of having their rights restored and having policymakers find a permanent solution with a pathway to citizenship. I support the Dream Act, to do just that. We must also protect those who came to the U.S. fleeing violence, disease, political turmoil, or other unsafe conditions. Refugees, asylum seekers, and people previously granted Temporary Protected Status deserve the full protection of the U.S., respect the Trump Administration has not given them.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/69477/mark-desaulnier/#.Xa9CpOdKhYg"
+        },
+        {
+          "type": "statement",
+          "text": "\"On this day 7 years ago, Pres. Obama established the #DACA program, which has helped over 800,000 #Dreamers legally work, go to college, build successful lives & contribute to our country. Despite the Administrationâs attempts to undermine it, we are fighting to #ProtectTheDream.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeSaulnier/status/1162138337752174592?s=20&t=s0i-W7cNLWf0eJduIj6IPA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/69477/mark-desaulnier"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/69477/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/69477/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/69477/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/69477/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/69477/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/69477/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/69477/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/69477/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Misinformation is being spread online at an alarming pace. Russia, Iran, and China are using sites like TikTok and Instagram to manipulate public opinion. We must act now to stop these bad actors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1174670445624352768?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Big tech companies wield incredible influence over all aspects of modern life. Whether through the consumption of information or the protection of consumersâ privacy, we need to make sure these companies are not abusing this power.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1135672291390500864?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now more than ever, I am committed to continuing our work to hold Big Tech accountable for its role in the spread of disinformation & extremism.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDeSaulnier/status/1353796739577348097?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:35:41+00:00"
+}

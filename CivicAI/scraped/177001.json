@@ -1,0 +1,616 @@
+{
+  "name": "Lauren Underwood",
+  "page_title": "Lauren Underwood's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (IL) - District 14, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (IL) - District 14",
+  "candidate_id": "177001",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/177001/lauren-underwood",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am disgusted by the plans that Republican lawmakers have laid out to impose a federal ban on abortion care and overturn other legal precedents that protect our civil rights. Our lives will change radically, even those of us in states like Illinois.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1540816804536549376"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ultra-conservative Courtâs opinions in this ruling make clear that our civil rights are broadly under threat â everything from who we can marry, to which Americans are protected from illegal discrimination is now at risk.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1540816805723242496"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is a dark day for women and Americans across the nation. The Supreme Court just struck down our constitutional right to privacy and bodily autonomy. In the history of our country, Americans have never, ever, lost a constitutional right. Unfortunately, that's now no longer true. Abortion became illegal in at least 13 states today â often with no exceptions for rape and incest. This marks a shameful moment in our country's history â a day that will always be remembered as the moment the Supreme Court ripped away a woman's right to make decisions about her body and conservatives across the country criminalized health care. This activist Supreme Court is clearly ruling to meet the demands of an extremist minority of Americans. There must be court reform to restore public trust and confidence in their role of ensuring equal justice under the law.\"",
+          "source": "underwood.house.gov",
+          "url": "https://underwood.house.gov/media/press-releases/underwoods-statement-supreme-court-overturning-roe-v-wade"
+        },
+        {
+          "type": "statement",
+          "text": "\"Six Supreme Court justices, who are completely out of step with the American people, ripped away Americansâ reproductive rights. We wonât go back. Iâm fighting for a reality where women arenât criminalized for getting health care and providers arenât prosecuted for doing their jobs. Republican lawmakers across the country are trying to ban abortion â often without exception. My Democratic colleagues and I voted to pass this legislation to reinstate a federal right to abortion and guarantee that Americans canât be prosecuted for seeking care in states where abortion remains legal.\"",
+          "source": "underwood.house.gov",
+          "url": "https://underwood.house.gov/media/press-releases/underwood-votes-defend-reproductive-freedoms-against-extreme-republican"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For millions of seniors, Social Security is an essential part of a comfortable retirement. As we celebrate the 86th anniversary of #SocialSecurity, Iâm committed to protecting this essential program for generations to come.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1421485816472391685?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security and Medicare are worth defending, strengthening, and protecting for generations to come.\"",
+          "source": "www.instagram.com",
+          "url": "https://www.instagram.com/reel/Cl4jGEGgeg1/"
+        },
+        {
+          "type": "statement",
+          "text": "\"ð¨ House Republicansâ new plan would cut Social Security benefits for nearly 10 million Illinois residents.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1673373062551552015"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In our representative democracy, we have a campaign finance system that is the opposite of representative. The vast majority of Americans have no influence in this crucial part of our political process, while mega donors are working to kill needed reforms.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1400873031300493314?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177001/lauren-underwood"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177001/lauren-underwood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/177001/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans have demanded their communities be made safer. The George Floyd Justice in Policing Act delivers urgently needed reforms to require body cameras, ban chokeholds, and create a national database of police misconduct. Itâs now time for the Senate to pass this bill.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1397247283641659394?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since the events of last summer, millions of Americans have demanded their communities be made safer for everyone. Safe communities and accountable policing go hand in hand, and the George Floyd Justice in Policing Act delivers urgently needed reforms.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1369004821232160774?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have seen too many lives taken and communities devastated by police brutality and racial injustice. Action is long overdue.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1270103408012296202"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/177001/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/93292/177001/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35724/95261/177001/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32973/86809/177001/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32002/83750/177001/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The historic, bipartisan Infrastructure Investment and Jobs Act is now law! The $17 billion investment in Illinois will create jobs, modernize our infrastructure, expand broadband, and strengthen the supply chain.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1462828570095591425?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I voted on a once-in-a-generation bill to rebuild our infrastructure & create jobs for millions of Americans. Infrastructure is more than just roads and bridgesâit's an investment in families, jobs, our supply chains & our global futureâ & itâs an investment that pays off.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1456834066553131013?s=20&t=hKxTHH7jjm3bpbrNb-JJQg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Moving Forward Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28221/73177/177001/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/177001/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/177001/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fantastic news â my bill, the Health Care Affordability Act, has been included in the Inflation Reduction Act! If passed, the Inflation Reduction Act will extend the tax credits from my bill that have helped lower out-of-pocket premium costs by an average of $2,400 per family.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1554633150323646465"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is now law! This historic law addresses the most critical issues we face today and lowers the cost of health coverage and prescription drugs, tackles our climate crisis, and fights inflation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1570086978023997440"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/177001/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden administrationâs Mastermind application for student loan debt relief is no Labyrinth! It takes less than 5 minutes to fill out, so Youâre (not) On Your Own, Kid!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1583533421610954752"
+        },
+        {
+          "type": "statement",
+          "text": "\"For too many Americans, college is unaffordable and student debt in our country is at a crisis level. As a country, we need to ensure all young people have the choice to obtain affordable higher education without the burden of back-breaking loan debt after graduation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1158779326961262593"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student debt is a barrier for millions of people who are hoping to start a family, own a home, start a business, and save for retirement. If youâre struggling with debt, there are options for relief.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1732100719644144001"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/177001/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My community is already experiencing the effects of climate change. I passed the Inflation Reduction Act, the single largest climate investment in our history, to prevent the worst effects of climate change. Because it's not a future threat â itâs an immediate one.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1560400959846715393"
+        },
+        {
+          "type": "statement",
+          "text": "\"Climate change is an emergency that demands urgent, bold action. The Build Back Better Act is historic legislation that will tackle the climate crisis while investing in our competitiveness and creating clean energy jobs to power our future.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1442903290551799808"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must take action to create a clean and bright future for young people everywhere.â¯Hear from my Youth Transportation Advisor, Rowan, on how the Bipartisan Infrastructure Law will invest in clean energy solutions and build a brighter future for generations to come.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1537087438337736704"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre driving into a clean energy future in my community! The Bipartisan Infrastructure Law is helping manufacturers like Lion Electric expand our fleet of electric school buses. Iâm beaming with pride that this work is happening right in Joliet.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1684685094232154116"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enough is enough. Our gun violence crisis must end. When I voted to pass the Assault Weapons Ban, I thought of the senseless tragedies that have touched too many communities, and how this legislation will help protect future generations from violence.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1556437535701602305"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gun violence is preventable, and yet, itâs such a tragically routine occurrence in this country that every community has a story. Mine is no exception. Recently, I strongly supported the passage of two bipartisan, commonsense solutions to address our nationâs gun violence crisis.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1373680806032474122?s=20&t=Ym114LsvZFr8SdZbtCxiug"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2019, five of our neighbors left their homes to go to work at the Henry Pratt Company and never returned because of an unspeakable act of gun violence â a senseless tragedy for their families and our community. And now, just three years later, I am continuing to hear from my constituents who are heartbroken over the countless mass shootings in this country and fearful that their community could experience the same tragedy that took place in Aurora. Whether it's at school, work, a concert, a place of worship, or their own home, everyone deserves to feel safe. I took action to reduce our country's horrific gun violence crisis by voting to pass the Protecting Our Kids Act.\"",
+          "source": "underwood.house.gov",
+          "url": "https://underwood.house.gov/media/press-releases/underwood-votes-pass-life-saving-gun-safety-legislation-end-senseless-gun"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30270/77850/177001/enhanced-background-checks-act-of-2021#77850"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@ewarren and I have the same belief: everyone deserves quality, affordable healthcare. So honored to be endorsed by Senator Warren and @TeamWarren, and proud to have a partner to lower healthcare costs for working families\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1253011254429409280"
+        },
+        {
+          "type": "statement",
+          "text": "\"AS A REGISTERED NURSE, PUBLIC HEALTH EXPERT, AND A WOMAN WITH A PRE-EXISTING HEART CONDITION, LAURENâS NUMBER ONE PRIORITY IN CONGRESS IS ENSURING ACCESS TO HIGH-QUALITY, AFFORDABLE HEALTH CARE FOR OUR FAMILIES AND ELIMINATING COST BARRIERS TO CARE.\"",
+          "source": "www.underwoodforcongress.com",
+          "url": "https://www.underwoodforcongress.com/issues/healthcare"
+        },
+        {
+          "type": "statement",
+          "text": "\"As part of her work to eliminate cost barriers to health care, Lauren wrote the Health Care Affordability Act with her constituents top of mind. Signed into law as part of the American Rescue Plan, and later extended through the Inflation Reduction Act, the Health Care Affordability Act limits the cost of health care coverage for people who choose Marketplace plans to eight and a half percent or less of their income. This law has proven to be so popular, over 16 million Americans signed up for health care coverage in 2022, with 4 in 5 enrollees finding a plan for $10 or less per month.\"",
+          "source": "www.underwoodforcongress.com",
+          "url": "https://www.underwoodforcongress.com/issues/healthcare"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Illinois, African Americans are 5x more likely to die from COVID-19. We canât assume people will come to a healthcare system where there may be mistrust or long-standing barriers & expect positive outcomes. We must meet people where they are & provide quality, affordable care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1250551977676660736"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care. Reproductive rights. Paid family leave. Equal pay. Affordable childcare. These aren't Democratic or Republican, male or female issues. They're human issues. We're ready to bring humanity back to government.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1091409800393572354"
+        },
+        {
+          "type": "statement",
+          "text": "\"Providing a strong economic footing for women in Illinois is one of my top priorities in Congress. I introduced a Womenâs Economic Agenda: focused on a paid family leave policy, access to affordable healthcare, and closing the gender pay gap for women.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1236026003367084032"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women and families shouldnât have to choose between paying the bills and taking care of someone they love. I admire these women for sharing their stories. Itâs time we implement a national paid family leave program.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1166875556127707141"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women now outnumber men in our workforce. We must have programs in place to support the realities of being a woman in the workforce, our economy depends on it. We are fighting for national paid family leave, affordable child care, equal pay, & our reproductive rights.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LaurenUnderwood/status/1216815116831854594"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lauren responded to skyrocketing insulin prices with the bipartisan Lower Insulin Costs Now Act. The legislation was signed into law by President Trump in 2019, to make lower-cost, generic insulin available more quickly. Now, insulin costs are now capped at $35/month for seniors on Medicare.\"",
+          "source": "www.underwoodforcongress.com",
+          "url": "https://www.underwoodforcongress.com/issues/healthcare"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/177001/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36123/96624/177001/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/177001/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5283 \" Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36064/96417/177001/protecting-our-communities-from-failure-to-secure-the-border-act#96417"
+        },
+        {
+          "type": "statement",
+          "text": "\"For over a year, itâs been clear that policies at the border have harmed the physical and mental health of migrant children. I believe, at this point, failure to change these broken policies based on that knowledge is intentional and unacceptable.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1131226408150339584"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/177001/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"But we cannot stop here! DACA recipients are our neighbors, our teachers, and our heroes on the frontline of our #COVID response. They have grown up in our country & deserve a pathway to citizenship. It's time for the Senate to immediately pass the American Dream and Promise Act.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1273665947723800576?s=20&t=Ym114LsvZFr8SdZbtCxiug"
+        },
+        {
+          "type": "statement",
+          "text": "\"Did you know that 83% of Americans support #DACA? #HomeIsHere for over 800,000 neighbors, students, business owners, and families who rely on DACA protections. We must #ProtectTheDream at #SCOTUS.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1194357035363717123?s=20&t=Ym114LsvZFr8SdZbtCxiug"
+        },
+        {
+          "type": "statement",
+          "text": "\"Dreamers & TPS holders are valuable, contributing members of our communities & the US economy. The passage of the American Dream & Promise Act this week is an important step towards ensuring that they continue to be. #ProtectTheDream\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1136726592577789952?s=20&t=Ym114LsvZFr8SdZbtCxiug"
+        },
+        {
+          "type": "statement",
+          "text": "\"What's happening right now at the border is totally unacceptable. Individuals are not being treated with the decency and humanity they deserve. Itâs time for the Administration to stop the cruel practice of child separation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1116455591671681025?s=20&t=Ym114LsvZFr8SdZbtCxiug"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32418/84733/177001/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "statement",
+          "text": "Abstained from voting HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) ACT\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35952/96006/177001/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 340 \"Hamas International Financing Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35940/95972/177001/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32388/84643/177001/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted YES on the Asset Seizure for Ukraine Reconstruction Act, which will seize and sell assets of Putinâs cronies to help Ukraine. This legislation will transform funds that fuel Putinâs atrocities into the resources that Ukraine needs to rebuild.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepUnderwood/status/1521993071747117056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/177001/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/88795/177001/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/177001/lauren-underwood/?p=6"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/177001/lauren-underwood/?p=6"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:12:18+00:00"
+}

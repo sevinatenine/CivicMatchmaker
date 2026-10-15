@@ -1,0 +1,604 @@
+{
+  "name": "Gil Cisneros' Issue Positions (Political Courage Test)",
+  "page_title": "Gil Cisneros' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 31, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 31",
+  "candidate_id": "179370",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/179370/gil-cisneros",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On this 51st anniversary of Roe v Wade. We must recognize the need to elect leaders who do more than use pro-choice beliefs as a political talking point. I am the only candidate in this race who has taken action to increase abortion accessibility. When I am back in Congress I will work to overturn the decision by the extremist Supreme Court.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1749446459362332729?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is disgraceful. Overturning Roe v. Wade would be dangerous for women in California and across the country. This continued assault on reproductive healthcare needs to stop.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1212884272660582400?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Furthermore, Gil is prepared to stand as a bulwark against any attempts by Republicans to cut or privatize Social Security or Medicare. These programs are essential cornerstones of our social safety net, and they should remain accessible, reliable, and government-administered.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gil will work to protect Medicare and Social Security from Republican attacks. Social security protects many seniors from poverty, we have to keep our promise to seniors and protect the benefits they have worked for and earned.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security serves as a lifeline for many elderly Americans who have diligently contributed to this system throughout their working lives. These social safety nets have played a pivotal role in preventing countless seniors from slipping into poverty during their retirement years, and Gil believes it is our moral duty to honor the promises made to our seniors.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe that the wealthy need to pay their fair share in taxes and should not be seeing their taxes decrease at the expense of the middle class.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe that the wealthy need to pay their fair share in taxes and should not be seeing their taxes decrease at the expense of the middle class.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will co-sponsor legislation for a Constitutional amendment that overturns the disastrous Citizens United decision by the Supreme Court. I am proudly endorsed by End Citizens United. I also support increasing financial disclosure requirements for political spending. Corporate money has dominated our politics for too long, and in Congress I will work to enact real campaign finance reform. In my campaign I have refused contributions from corporations and unions.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of indirect campaign contributions from corporations and unions? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A disturbing video, but most disturbing is the lie to cover up the truth that an elderly protestor was violently shoved to the ground. We need transparency & accountability. The right to speak out for George Floyd & our Black communities must be respected.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1268935410249580550?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As #GeorgeFloyd is laid to rest in Houston today, my prayers are with his family, friends, and loved ones. We can honor his life and memory by continuing to root out racial injustice and answer the calls for change with action.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1270462959098236938?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120: \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/179370/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"To fortify national security, Gil will fight for strategic defense investments and the integration of cutting-edge technologies. Proposing a forward-looking defense strategy, he envisions modernization efforts that prioritize agility, cyber capabilities, and intelligence gathering. In Congress, Gill will advocate for advancements in technology, including artificial intelligence and space exploration, to ensure that the U.S. military remains adaptable and prepared to counter emerging threats in the 21st century.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395: \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28441/76074/179370/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1790: \"National Defense Authorization Act for Fiscal Year 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26706/70440/179370/national-defense-authorization-act-for-fiscal-year-2020#70440"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In #CA39 we know the importance of infrastructure because we struggle with it everyday but for too long Washington has done nothing. Our families are paying the price. It's time for real action.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1129199279048814593?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"One of my priorities in Congress will be to advocate for more infrastructure investment. Iâm confident that both parties can work together to improve & modernize our nationâs roads, ports & schools.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1069712256265404416?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/179370/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families in #CA39 and across the US are struggling to pay their rent or mortgage. Itâs why the House passed the #HeroesAct and a stand-alone emergency housing bill to provide relief to renters & homeowners. Itâs time for the Senate to vote on these bills.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1280990844145852416?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rent is due today. 40 million people are at risk of eviction. 2 bills have been sitting on Sen. Mitch McConnell's desk that provide rent/mortgage relief & extend the federal eviction moratoriumâ#HeroesAct & Emergency Housing Protections and Relief Act. The Senate needs to act.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1300928250303180801?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The OC has a homeless and housing crisis. As we look for solutions that provide dignity and improve access, we also need to pause and remember those that have passed due to the failure to adequately address homelessness.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/943938336820834304?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My opponent thinks the student loan debt crisis is \"something to look into.\" I think we should bring Pell Grants in line w/tuition, allow students to refinance their loans, expand loan forgiveness programs & encourage college savings accounts.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1054780232236843011?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Students go to school in search of a better future w/ more opportunities. We cannot let the largest financial institutions in America saddle them w/ debt that will impact the rest of their lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1034138402780631041?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have an unfair tax system that gives massive corporations a break at the expense of working families & students. In Congress, reforming the student loan system & making higher ed affordable will be my priority.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1052285550407766018?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"53 years ago President Johnson secured voting rights for all people w/ the #VotingRightsAct. Today, it's more important than ever that we work to #RestoreTheVRA.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1026600053023105024?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rep. John Lewis spent his life fighting for voting rights. In December, he presided over the House as we passed #HR4âthe Voting Rights Advancement Act. We can honor his life & legacy by getting this bill signed into law & restoring the Voting Rights Act. The Senate needs to act.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1284528982654885890?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Congressman for CA-39, I will support legislation to increase investment in clean energy infrastructure and incentivize the purchase of products from wind, solar, and other renewable energy businesses. I believe these efforts will create millions of new jobs and save families and businesses money on their monthly energy bills.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gil understands the need for urgent action to protect our communities from climate disasters and supports legislation that invests in infrastructure that supports clean energy, reduces greenhouse gas emissions, and ensures a sustainable future for our planet. That is why he is the only candidate in this race endorsed by the California Environmental Voters, formerly The League of Conservation Voters.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When he returns to Washington, Gil will fight for investments to create millions of family-supporting and union jobs that will build the infrastructure for our clean energy generation, energy efficiency, clean transportation, advanced manufacturing, and sustainable agriculture. He will champion initiatives that promote a sustainable, fair, and globally competitive manufacturing industry. This includes endorsing national standards like Buy Clean and Buy America and encouraging the production of environmentally friendly building materials such as steel, cement, and timber within our borders.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gil understands the need for urgent action to protect our communities from climate disasters and supports legislation that invests in infrastructure that supports clean energy, reduces greenhouse gas emissions, and ensures a sustainable future for our planet. That is why he is the only candidate in this race endorsed by the California Environmental Voters, formerly The League of Conservation Voters.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Like so many crises facing the United States, the impacts of climate change are not evenly distributed in our society or our economy. Communities of color and low-income families have long suffered disproportionate and cumulative harm from air pollution, water pollution, and toxic sites. Gil refuses to take money from big oil corporations, who are ripping off consumers and opposing efforts to expand clean energy. Gil is fighting to crack down on gas price-gouging at the gas pump and to combat climate change and end our reliance on polluting fossil fuels by investing in renewable energy sources like wind and solar.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gil is a staunch supporter of bringing back an assault weapons ban to protect the safety and well-being of our communities, particularly our school children. As a Navy veteran, Gil knows there is no place for military-style assault weapons on our streets. By limiting access to these high-capacity, rapid-firing firearms, Congress can reduce the likelihood of more devastating incidents like those weâve witnessed far too often.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"My family has been affected by gun violence. I believe it's not enough to simply embrace gun violence prevention, I will fight to expand background check requirements, ban assault weapons, oppose Concealed Carry Reciprocity, repeal the Dickey Amendment, and take other measures to keep guns out of the hands of violent criminals, domestic terrorists, and those with mental challenges.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care is a right, not a privilege. I will defend the ACA from their attacks and fight for increased access and more affordable care for everyone. We need to work to fix and improve the ACA, not repeal it. I will fight for the public option that was originally intended to be part of the ACA, and give people the option to buy into Medicare. We need to work to stabilize insurance markets and have the government directly negotiate drug prices with pharmaceutical companies to bring costs down.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "statement",
+          "text": "\"We canât go back to a time when insurance companies could deny you coverage or charge you more because of a pre-existing condition. Healthcare is on the ballot. I'm fighting to protect and strengthen healthcare and the Affordable Care Act, my opponent isn't.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1322266571444609025?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While in Congress, Gil defended the ACA from Republican attacks and fought for increased access and more affordable care for everyone. The ACA has been instrumental in expanding access to healthcare for millions of Americans, and it is essential to protect and build upon its achievements. When he returns to Washington, Gil will champion efforts to strengthen the ACA, and to create a public option that gives people the option to buy into Medicare.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will never forget the feeling of hope & inspiration of the Women's March. I'm committed to fighting for equal pay for equal work, paid family leave, affordable childcare, & access to critical healthcare services for women.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1047980936409825280?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to have the endorsement of @plusactionfund! We need to support the families in our district w/ paid family leave. When we support working moms & dads and invest in workers, we support quality of life.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1049034126874087425?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/179370/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gil knows that Big Pharma is all too often ripping Americans off. Thatâs why he is a staunch proponent of the government taking a stand against the pharmaceutical giants. While at the Pentagon, Gil oversaw the Defense Health Activity, which negotiated the price of prescription for DoD and he will fight for direct negotiations on drug prices and against the excessive and unfair pricing of prescription medications for all Americans. This approach leverages the governmentâs purchasing power to lower costs and make essential medications more affordable for all Americans.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Health care is a right, not a privilege. I will defend the ACA from their attacks and fight for increased access and more affordable care for everyone. We need to work to fix and improve the ACA, not repeal it. I will fight for the public option that was originally intended to be part of the ACA, and give people the option to buy into Medicare. We need to work to stabilize insurance markets and have the government directly negotiate drug prices with pharmaceutical companies to bring costs down.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/179370/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@realDonaldTrump wants $25B for his border wall. Instead, we should spend that money on assistance for DREAMers, immigrant families & smart border security technology.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1050464803943325698?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Investigating the conditions at our border should be a top priority for the new Congress. And the President's insistence on a senseless border wall has put much needed funding for medical resources, personnel, and smart, safe border technology on hold.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1077754318252589058?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This administration needs to accept responsibility for its actions and immediately end its \"zero-tolerance\" policy at the border and #KeepFamilesTogether.\"",
+          "source": "x.com",
+          "url": "https://x.com/gilcisnerosca/status/1009145711219257344?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gil knows that we must also protect those who are in a Temporary Protective Status (TPS). These are individuals who have been allowed to come into the country to escape wars and persecution in their home country. Many of these individuals have been here for years, and have families that are American Citizens. We must protect TPS and find a path to citizenship for these individuals who have contributed so much to our communities and our economy.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"These individuals, often referred to as DREAMers, have lived in the United States for most of their lives and consider it their home. DACA has provided opportunities for these aspiring young Americans to pursue education, serve in our nationâs military, and contribute to the betterment of their communities and the country at large. When he returns to Congress, Gil will continue to be an outspoken advocate for DACA recipients, and he is committed to standing up for their rights and security.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/179370/gil-cisneros"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179370/gil-cisneros"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gil believes we must work closely with our allies and partners to find diplomatic solutions in order to protect our national security. He knows we need to support emerging democracies and speak out against repressive regimes and recognize that we live in a global economy and interconnected world and work with nations around the world to find solutions to our common problems. Through active engagement with multilateral institutions, Gil will work to advance American interests by promoting democracy, human rights, and global stability.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"To support Ukrainian democracy and prevent Russiaâs expansion by force, Gil believes that we must continue to strengthen our international coalition and reaffirm our commitment to NATO, improve intelligence sharing with our allies, and strangle terrorist financial networks. We need to strengthen domestic intelligence sharing between local and Federal law enforcement agencies to identify threats before they strike.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"To support Ukrainian democracy and prevent Russiaâs expansion by force, Gil believes that we must continue to strengthen our international coalition and reaffirm our commitment to NATO, improve intelligence sharing with our allies, and strangle terrorist financial networks. We need to strengthen domestic intelligence sharing between local and Federal law enforcement agencies to identify threats before they strike.\"",
+          "source": "www.gilonthehill.com",
+          "url": "https://www.gilonthehill.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:32:59+00:00"
+}

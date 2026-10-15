@@ -1,0 +1,676 @@
+{
+  "name": "Eli Crane",
+  "page_title": "Eli Crane's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AZ) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (AZ) - District 2",
+  "candidate_id": "205885",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/205885/eli-crane",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans can celebrate a new era of morality and human dignity. Roe v. Wade was a mistake that cost millions of innocent lives, and our Consitition never authoritzes the right to terminate human life.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/photo.php?fbid=188177050219060&set=pb.100070802985868.-2207520000&type=3"
+        },
+        {
+          "type": "statement",
+          "text": "\"Eli is proudly and unflinchingly pro-life\"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90338"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since Biden took office, rising prices have hammered working families. â¬ï¸Gasoline is up 45% â¬ï¸Groceries are up 20% â¬ï¸Electricity is up 24% Meanwhile, Biden is busy spending our money on Green New Deal handouts for big corporations & welfare for the wealthy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1635653663845654530"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Eli is fighting for lower taxes, less regulation, and pro-growth policies. The more money that Arizonans get to keep in their pockets and the least government involvement, the better. \"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In order to reverse the damage, we must reduce taxes & regulations, unleash domestic energy production, avoid nation building & forever wars, rebuild our manufacturing base, and rein in out-of-control federal spending that destroys our buying power.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/economic-prosperity/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American people donât always expect us to win. But they expect us to fight. If weâre ever going to secure the border, balance the budget, or restore peace through strength, we need more fighters willing to stand up to the Swamp.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1750929839920484692"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 46% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 46% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "statement",
+          "text": "\"Eli is fighting for lower taxes, less regulation, and pro-growth policies. The more money that Arizonans get to keep in their pockets and the least government involvement, the better. \"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In order to reverse the damage, we must reduce taxes & regulations, unleash domestic energy production, avoid nation building & forever wars, rebuild our manufacturing base, and rein in out-of-control federal spending that destroys our buying power.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/economic-prosperity/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "If the dark money machine in DC wants to attack that, it says more about them than anyone on Team Crane.\"",
+          "source": "x.com",
+          "url": "https://x.com/EliCraneAZ/status/1783611596222124053"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NYC is slashing its budget for police officers because it spent too many tax dollars on services for illegal aliens. Less police officers + more lawbreaking illegal aliens = intentional sabotage of American society.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1725559175755845925"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to cosponsor @chiproytx's TRUST in Congress Act, which would promote transparency & reduce stock trading by Members of Congress. #DrainTheSwamp\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1624114787339599882"
+        },
+        {
+          "type": "statement",
+          "text": "\"The SBA Inspector General estimated that there was $200 billion in fraud in two COVID-era assistance programs. According to the Government Accountability Office, nobody at SBA was fired. The lack of consequences for shackling the American people with this debt is unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1765467910070267964"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by National Assocation of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will be voting NO on NDAA. FISA 702 is a violation of the 4th Amendment. Additionally, this bill continues to entangle us in forever wars abroad and even managed to abandon heroes from Northern Arizona, including the Navajo Nation, that sacrificed for our country during WWII\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1735315420494573620"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will not support an NDAA that leaves behind so many Arizonans. From Prescott to Window Rock, we owe it to those who sacrificed their health for this country during WWII.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1734766048312791293"
+        },
+        {
+          "type": "statement",
+          "text": "\"Peace through strength demands we maintain a national defense that's maximally efficient & minimally wasteful. I voted in support of the FY25 NDAA, which: â Advances border security â Mandates a Pentagon audit â Defunds climate conspiracy nonsense â Combats harmful DEI agenda\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1801643182284812712"
+        },
+        {
+          "type": "statement",
+          "text": "\" Itâs gonna be a hard no from me. The proposed NDAA includes: ðð» Unconstitutional govât spying on Americans ðð» Taxpayer funded abortion travel & genital mutilations ðð» Climate conspiracy nonsense ðð» Counterproductive \"equity\" initiatives. Did the definition of \"defense\" change?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1733556241895489878"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/205885/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Eli is fighting for lower taxes, less regulation, and pro-growth policies. The more money that Arizonans get to keep in their pockets and the least government involvement, the better. \"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pause federal spending to save our nation. Good perspective from â¦@RepAndyBiggsAZ\"",
+          "source": "x.com",
+          "url": "https://x.com/EliCrane_CEO/status/1705286549452005728"
+        },
+        {
+          "type": "statement",
+          "text": "\"Representative Crane recognizes that our national debt threatens the prosperity and security of all Americans. Just like every household and business, Representative Crane believes the federal government needs to enact a balanced budget. Instead of operating by continuing resolutions and omnibus bills filled with special interest priorities, the House must return to the appropriations process as required by law. Specifically, Representative Crane believes we need to pass single-subject spending bills, defund agencies that fail to serve the people, and quit spending money we donât have on other nations while America drowns in debt.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/government-waste/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Representative Crane recognizes that our national debt threatens the prosperity and security of all Americans. Just like every household and business, Representative Crane believes the federal government needs to enact a balanced budget. Instead of operating by continuing resolutions and omnibus bills filled with special interest priorities, the House must return to the appropriations process as required by law. Specifically, Representative Crane believes we need to pass single-subject spending bills, defund agencies that fail to serve the people, and quit spending money we donât have on other nations while America drowns in debt.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/government-waste/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As inflation rates and our national debt skyrockets, Congress continues to spend money we donât have. This is unacceptable and Eli has consistently gone against the grain, voting to rein in reckless spending.\"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Eli is fighting for lower taxes, less regulation, and pro-growth policies. The more money that Arizonans get to keep in their pockets and the least government involvement, the better. \"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Record-high inflation & senseless regulations are crushing small businesses on every level. If that wasn't bad enough, our entrepreneurs also have to deal with rising crime in Biden's America. Our economy can't thrive when Biden's policies undermine those who keep it afloat.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1767676495391059972"
+        },
+        {
+          "type": "statement",
+          "text": "\"Representative Crane recognizes that our national debt threatens the prosperity and security of all Americans. Just like every household and business, Representative Crane believes the federal government needs to enact a balanced budget. Instead of operating by continuing resolutions and omnibus bills filled with special interest priorities, the House must return to the appropriations process as required by law. Specifically, Representative Crane believes we need to pass single-subject spending bills, defund agencies that fail to serve the people, and quit spending money we donât have on other nations while America drowns in debt.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/government-waste/"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "statement",
+          "text": "\" The Supreme Court's decision to strike down the Biden admin's student loan bailout is a win for taxpayers and fiscal sanity. Hardworking Americans who chose not to go to college shouldn't be strapped with the debt of those who did.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1674809201606942722"
+        },
+        {
+          "type": "statement",
+          "text": "\"The VA Secretary has done tremendous damage by lying to vets about the GOP spending plan. Instead of going after veteran care, as he claims, we're going after woke & weaponized spending like Green New Deal initiatives, the student loan bailout, & funding for 87,000 IRS agents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1662201942574022657"
+        },
+        {
+          "type": "statement",
+          "text": "\"While you tirelessly work to provide for your family, the Biden Admin is using YOUR tax dollars to fund benefits for illegal aliens & loan \"forgiveness\" for art diplomas. The contempt this administration has for working Americans is a cancer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1786583666421825916"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More evidence of election fraud coming out of Wisconsin. Narrative of a perfect 2020 election eroding as Wisconsin becomes investigative ground zero | Just The News \"",
+          "source": "x.com",
+          "url": "https://x.com/EliCrane_CEO/status/1454457878031462400"
+        },
+        {
+          "type": "statement",
+          "text": "\"People in this town use the phrase, \"according to the officials\" to back up their claims...as if Americans believe the officials. They don't. To say that election fraud couldn't take place in a country run by the Biden Crime Family is foolish. @KariLake\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1657057952774209538"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Although politicians and bureaucrats attempt to mandate renewables, Representative Crane understands the necessity of untapping our oil and natural gas reserves at home.\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/energy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin is raising electric rates to pay for its wasteful Green New Deal agendaâalmost doubling some Arizonansâ bills. My amendment would have reduced the salary of Bidenâs Chair of the Council on Environmental Qualityâensuring taxpayers arenât funding her incompetence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1720504718730973415"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ðð» Canceled the Keystone XL pipeline. ðð» Banned drilling on federal lands. ðð» Depleted our Strategic Petroleum Reserve. The Biden Admin has sabotaged American energy & compromised our national security. Not to mention, these idiotic moves impose crippling costs on Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1731695207995834756"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Independent Petroleum Assocation of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        },
+        {
+          "type": "statement",
+          "text": "\"Canceled the Keystone XL pipeline. ðð» Banned drilling on federal lands. ðð» Depleted our Strategic Petroleum Reserve. The Biden Admin has sabotaged American energy & compromised our national security. Not to mention, these idiotic moves impose crippling costs on Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1731695207995834756"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Eli is proudly and unflinchingly pro-life and pro-Second Amendment and will never apologize for it\"",
+          "source": "eliforarizona.com",
+          "url": "https://eliforarizona.com/issues-eli-crane/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The reason Iâm running is because of the alarm that I see and feel from this totalitarian overreach that weâre seeing across the board. The Second Amendment is one that protects the rights that protect all our other rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/EliCrane_CEO/status/1422592532928622594"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the National Rifle Assocation",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since President Biden has been in office, there have been over 1.4 million known got-aways. That's 1.4 million people who evaded border security and infiltrated our homeland. Build. The. Wall.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1651990576403820550"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Adminâs policies have left our border open and our country inexcusably vulnerable. My bill would help ensure that Congress has the necessary data to craft another much-needed layer of defense to secure our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1779945825810207104"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92230"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" \"74 percent in new poll support more funding for border security\" cc: @POTUS That means funding for actual border security, NOT more $ to process illegal aliens into the country faster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1727027137717129642"
+        },
+        {
+          "type": "statement",
+          "text": "\" Instead of processing more illegal aliens into the country and emboldening the cartels, our government should be focused on deterring illegal immigration and fortifying our security\"",
+          "source": "crane.house.gov",
+          "url": "https://crane.house.gov/issues/securing-our-border/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/205885/eli-crane"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Heâs the embodiment of the Swamp, out-of-touch with everyday Americans, and heâs obsessed with burning money in Ukraine instead of protecting Americaâs borders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1758195521066242196"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs absurd that overnighting more tax dollars to Ukraine is even a consideration. It should be totally off the table and replaced with a push for peace talks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1775533739474317497"
+        },
+        {
+          "type": "statement",
+          "text": "\"This article gives a snapshot of the kind of insanity infesting our federal government. How does anyone justify voting for this, knowing full well that our border is a disaster? Omnibus Spending Bill: $410M for Border Security -- in the Middle East\"",
+          "source": "x.com",
+          "url": "https://x.com/EliCrane_CEO/status/1605633671884460032"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"According to Transparency International, Ukraine ranks near the bottom 1/3 of all countries when it comes to government corruption. We have no business inserting ourselves in this conflict to defend a non-ally ESPECIALLY when there's no accountability where our money is going.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1776292212181024926"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs absurd that overnighting more tax dollars to Ukraine is even a consideration. It should be totally off the table and replaced with a push for peace talks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1775533739474317497"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Uniparty has let their obsession with Ukraine overshadow the duty they swore to the American people. Even the so-called \"border deal\" that was released last night gives 3X as much to Ukraine as it does to our border. The Swampâs priorities are disgustingly out-of-whack.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEliCrane/status/1754535381008023899"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted for HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/205885/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:06:02+00:00"
+}

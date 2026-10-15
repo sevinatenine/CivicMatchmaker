@@ -1,0 +1,602 @@
+{
+  "name": "David Valadao",
+  "page_title": "David Valadao's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 22, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (CA) - District 22",
+  "candidate_id": "120200",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/120200/david-valadao",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe it is my responsibility as a member of Congress to give a voice to the unborn and defend life. I am proud to receive an A+ rating from @SBAList for my pro-life voting record. #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1484180736425050112?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill removes nearly all pro-life protections for the unborn and overrides existing laws against late-term abortions. It is the responsibility of those of us in government to give unborn children a voice and protect them from harm\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1441456887619366917?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by California Pro-Life Council",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3504 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must provide robust support for our social safety-net programs, like Medicare and Medicaid so they can continue to ensure access to health care for all Americans\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14900"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protecting Social Security is important for so many seniors throughout the Valley. Iâm proud to cosponsor bills like: â H.R. 82 to ensure public servants can access the benefits theyâve earned â H. Res. 109 to reaffirm Congressâ commitment to preserving Social Security\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1630670328341856258?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Reforming our tax code, expanding domestic oil production, and rolling back excessive regulations on our financial institutions would let taxpayers keep more of their hard-earned money and free up capital that job creators could use to hire more workers. As long as entrepreneurs remain skeptical about the future business environment, job creation will remain low and unemployment high.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14899"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House just passed the Tax Relief for American Families and Workers Act. This bipartisan bill will strengthen American manufacturing, reduce burdens on our small businesses, and put more money back into the pockets of hardworking Central Valley families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1752873448672489497?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This sluggish economic recovery, caused by burdensome regulatory policies at the state and federal levels, and man-made water shortages in the Valley cannot continue. Unemployment coupled with a stagnant economy and climbing taxes hurt our nationâs competitiveness and make jobs for hardworking Americans difficult to find.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14899"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 23 \"Family and Small Business Taxpayer Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On November 2, 2017, Representative Kevin Brady (R-TX) combined those ideas in a comprehensive tax reform plan, H.R. 1, the Tax Cuts and Jobs Act. This legislation simplifies our tax code, lowers rates for individuals and families, eliminates loopholes for the wealthy, and encourages small businesses to grow and create jobs.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14903"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Association of Police Organizations",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 95% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/22/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The primary role of the United States government is providing for our national defense.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14898"
+        },
+        {
+          "type": "statement",
+          "text": "\"Just passed our budget to strengthen defense & unlock tax reform while balancing our budget over by 2027\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/915976325805989888?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"Extending Government Funding and Delivering Emergency Assistance Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/90/government-budget-and-spending?p=1"
+        },
+        {
+          "type": "statement",
+          "text": "\"As families rely on the internet for healthcare, school, & work, many communities are left behind without access to reliable, high-speed internet. I'm proud to cosponsor the Gigabit Opportunity Act to incentivize private investment in rural broadband infrastructure. #CA21 #GOAct\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1395419443086471170?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While our nationâs infrastructure is in desperate need of repair, I cannot, in good conscience, vote in favor of any part of this multi-trillion dollar package. Read my full statement at the link below. #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1456846041576316933?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"Consolidated Appropriations Act, 2018\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great to meet with the President and CEO of Self-Help Enterprises Tom Collishaw today to discuss the importance of funding USDA programs that help increase the supply of affordable housing in our rural communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1717662396138050029?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Excited to join @usdaRD California State Director Kim Dolbow Vann and @SelfHelpEnt\"s CEO Tom Collishaw to discuss the importance of federal, local partnerships to provide affordable housing opportunities in our community.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/search?q=housing%20(from%3ARepDavidValadao)&src=typed_query&f=top"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is rising at a 31-year high, yet the Majority wants to pass a multi-trillion dollar spending package. Today I joined my colleagues in standing against that package. The last thing middle class families need is to pay for this reckless spending for years to come. #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1461069096565489675?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by Council for Citizens Against Government Waste",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/82/economy-and-fiscal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted agianst HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 25% by National Education Association (NEA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/12/elections"
+        },
+        {
+          "type": "statement",
+          "text": "\"H.R. 4 is an unconstitutional power grab by the Majority to keep themselves in power and puts the federal government in charge of state elections. I will vote against it. #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1430289061604954116?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021 \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/120200/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@RepJimCosta and I introduced the Biodiesel, Renewable Diesel, and Alternative Fuels Extension Act - a bill to extend tax credits for the production of biodiesel and alternative fuel mixtures. #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1394661429756801024?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Renewable Solar continues to create opportunities for businesses and families in our community to convert to solar, and I look forward to seeing their continued innovation bring more projects like this to the Valley. Congratulations on the grand opening! #CA21\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1437502666041561089?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/29/energy?p=1"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs energy policies are having a devastating impact not just on local oil jobs & county revenue, but also on our state parks and conservation efforts. Read my latest Op-Ed with @ConservAmerica â¬ï¸\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1726662501956501513?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/29/energy?p=1"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120200/david-valadao/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"CNN reports ObamaCare has cost CA 43k jobs. Has your family/business experienced financial burden as a result?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/509718069972066304?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obamacare has demonstrated that possession of an insurance card does not equate to health care services and medical treatment. The failed law restricts health care professionalsâ ability to provide care, increases premiums for families and individuals, eliminates patient choice, and severely reduces access to health care within Californiaâs Central Valley.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14900"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since implementation of the law, both Republicans and Democrats have expressed concerns regarding its effectiveness in strengthening our nationâs failing health care system. For years, I have heard firsthand accounts from my constituents about Obamacareâs negative impacts on their health care.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14900"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 45 \"Repeals the Patient Protection and Affordable Care Act and Health Care-Related Provisions in the Health Care and Education Reconciliation Act of 2010\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/16686/44099/120200/repeals-the-patient-protection-and-affordable-care-act-and-health-care-related-provisions-in-the-health-care-and-education-reconciliation-act-of-2010#44099"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There is no doubt we have a health care crisis on our hands, however, I am confident we can fix our health care problems by weeding out waste, fraud, and abuse to bring down costs while still offering affordable health care. It is my priority to ensure your health care remains in the hands of you and your doctor, not the government.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14900"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/38/health-and-health-care?p=1"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/38/health-and-health-care?p=1"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We get elected to Congress to serve the people, and this isnât serving anyone. We need to hold the administration accountable, secure the border, and do the things we promised we would do in the majority. Itâs time to elect McCarthy as Speaker so we can get to work.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1611031824251367425?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/40/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"We wonât be able to make necessary reforms to our immigration system with the current humanitarian and national security crisis weâre experiencing at the border. I will continue working with my colleagues on both sides of the aisle to reform our broken immigration system, provide certainty for our farmers and farm workers, and secure the border.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=664"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"That is why, I cosponsored H.R. 3440, the Dream Act of 2017, and H.R. 1468, the Recognizing Americaâs Children (RAC) Act, which provides a path to legal status for undocumented immigrants brought to the United States as children.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14901"
+        },
+        {
+          "type": "statement",
+          "text": "\"These young people, known as Dreamers, make significant contributions to our communities each and every day and have lived with the uncertainty about their future for far too long. Congress must provide a legislative solution so these individuals may continue to live in America - the only home they know.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/issues/issue/?IssueID=14901"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America must send a clear message that we support Israel and Jewish people here at home and abroad. This week, the House passed bills to: â Provide emergency funding for Israel â Sanction foreign terrorist organizations like Hamas â Condemn Anti-Semitism on college campuses\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1720461628829802734?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putinâs unprovoked attack on sovereign and independent Ukraine must be met with swift consequences. Now is the time for the U.S. and our allies to stand united and enact crippling sanctions against Russia. I stand with the people of Ukraine and am praying for their safety.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1496831658363871238?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1698 \"Iran Ballistic Missiles and International Sanctions Enforcement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/32/foreign-affairs?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120200/david-valadao/32/foreign-affairs?p=1"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just voted yes on a House Resolution reaffirming our support for Ukraine. I will continue to work with my colleagues to provide political, financial, and humanitarian assistance to the Ukrainian people fighting for their freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1499142401314762753?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning I listened to President Zelenskyâs powerful address to Congress. His strength and dedication to his country and the Ukrainian people is evident. As the leader of the free world, the U.S. must continue to support Ukraine in its fight for freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidValadao/status/1504129258133798914?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Congressman David G. Valadao voted in support of a House Resolution reaffirming Congressâ support for Ukraine. The resolution includes several of Rep. Valadaoâs concerns about the crisis in Ukraine, including the importance of American energy independence, tougher sanctions on Vladimir Putin and his inner circle, and additional military aid to Ukraine.\"",
+          "source": "valadao.house.gov",
+          "url": "https://valadao.house.gov/news/documentsingle.aspx?DocumentID=233"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:07:21+00:00"
+}

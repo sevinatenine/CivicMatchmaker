@@ -1,0 +1,706 @@
+{
+  "name": "Lucy McBath",
+  "page_title": "Lucy McBath's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (GA) - District 6",
+  "candidate_id": "178538",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178538/lucy-mcbath",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"50 years ago, the Roe v. Wade decision provided a constitutional right to abortion. That right is now under attack.In @HouseJudiciary, I shared the heartbreak that comes with a miscarriage. Without Roe, all reproductive care is on the line.We can't back down in this fight.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1617145053004152834"
+        },
+        {
+          "type": "statement",
+          "text": "\"A year ago, the Dobbs decision overturned Roe v. Wade and allowed states to begin attacking the reproductive care that so many women rely on.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1672339581549838336"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fortunately, the courts are upholding women's rights around the country. A federal court overturned Georgia's extreme abortion ban earlier this month. We will never stop the fight to protect Roe v. Wade in Washington.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/lucymcbath/status/1189256581294297090"
+        },
+        {
+          "type": "statement",
+          "text": "\"Good news -- Governor Kemp's extreme abortion ban in GA won't go into effect on 1/1/20, but we have to keep defending Roe v. Wade here and in Washington D.C. We'll keep fighting until every woman can make her own reproductive healthcare decisions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/lucymcbath/status/1179428374810365953"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/959/rating/13947"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 1935, President Roosevelt signed the Social Security Act into law. To celebrate 87 years of Social Security, I welcomed state leaders from AARP to discuss the needs of over 100,000 beneficiaries in our district. I am fighting hard in Congress to #ProtectSocialSecurity.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1559272081862365191"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2017, Social Security lifted 422k Georgia seniors out of poverty, more than half of them women. Today, we are grateful & celebrate #SocSec84. Letâs protect this important program that helps so many families across America.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1161709812444467200"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead, I favor focusing on the middle class and working families. In addition to making middle class tax cuts permanent, I want to increase the minimum wage and making the federal earned income tax credit more generous. Growing up, I was taught that if you are able and willing to put in hard work in America, you should be able to earn a living wage. No one in Cobb, DeKalb, or Fulton Counties can comfortably live on $7.25 an hour.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1263185/issue-position-jobs-the-economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"This historic investment will set us on a course to create millions of good-paying jobs, lower health care costs for our communities, provide tax cuts to hard-working families, and get Americans back to work and America back to normal.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1461708886524764161"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/178538/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/178538/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman McBath strongly believes in the need for campaign finance reform and strengthening voting rights. As a member of the House Judiciary Committee, the Congresswoman advocates for reforming voting rights, civil liberties, and the criminal justice system. One of her first actions in Congress was to co-sponsor H.R. 1, the For the People Act, a bill that would enact landmark campaign finance reforms to our democratic process.\"",
+          "source": "mcbath.house.gov",
+          "url": "https://mcbath.house.gov/campaign-finance-and-election-reform"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2568/rating/12358"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/178538/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A year ago today George Floyd was murdered. Nothing will bring him back or erase the pain Americans have felt for generations as a direct result of a broken system. We have put forward legislation to reform our laws, and now we must pass it. Lives depend on it.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/lucymcbath/status/1397225099271475207?s=20&t=C95y03tAb3Gjbz5QzUX2Tg"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am so proud of our many officers in Georgia's Sixth District, here in the Capitol Building, and those nationwide who do all they can to keep our families safe. They have the trust of their communities, and as a result are better at ensuring everyone's safety,\" said McBath. \"This bill is about making sure every officer and every department is held to the high standard set by officers like these. By passing the George Floyd Justice in Policing Act, we ensure all of our police officers have the resources to become our very best police officers, and that will make every one of us safer.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1509312/mcbath-votes-to-pass-george-floyd-justice-in-policing-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must continue to hold our government accountable for their actions. We must continue to hold this administration accountable for their actions. We must continue to fight for transparency, accountability, and oversight.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/lucymcbath/status/1154062009857650688"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/178538/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our service men and women sacrifice so much to protect our country, our citizens, and our freedoms,\" said McBath. \"My father, brother, and nephew all served this nation in uniform, and I am committed to the unwavering support of those who defend this nation and our values.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1450530/rep-mcbath-votes-to-pass-fy-2021-national-defense-authorization-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/96799/178538/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/178538/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "statement",
+          "text": "\"Glad my bipartisan amendment was included in the #NDAA! The bill passed & provides:a pay raise to our troops \"safe-to-report\" policy to allow sexual assault victims report w/out fear strong congressional oversight a robust defense budget\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1150023067248107521"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In America, we have severe problems with our aging roads, bridges, and communications infrastructure. I would support a plan that funds public projects to bring our roads, airports, and transit into the 21st century.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1263203/issue-position-infrastructure#.XcA7EUFTkfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34806/91855/178538/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2617 \"Consolidated Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34000/90241/178538/consolidated-appropriations-act-2023#90241"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/178538/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Without proper access to health care and affordable housing, a person cannot thrive and our community cannot properly grow.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1643327580576321536"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was grateful to host @SecFudge in #GA07 to help understand the impact of @HUDgov funding here at home. Without proper access to health care and affordable housing, a person cannot thrive and our community cannot properly grow.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/search?q=%40RepLucyMcBath%20affordable%20housing&src=typed_query&f=top"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/178538/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/178538/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to support the Inflation Reduction Act and help ensure our seniors can get the medication they need. Thanks to the $35 monthly cap on insulin that I led, 2,700 Medicare beneficiaries in #GA07 are saving more than $450 a year on their insulin.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1706691312047587659"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act we passed last year, Medicare is now able to negotiate for lower drug costs for 10 common drugs, saving Americans thousands\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1696922919157350545"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/178538/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/178538/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman McBath has made lowering student debt a priority because it too often holds students and graduates back. She supports fully funding K-12 education and making public universities, vocational schools, and community colleges more affordable.\"",
+          "source": "lucyforcongress.com",
+          "url": "https://lucyforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"ICYMI: This week, I introduced the #ReliefAct2019 to #DefendStudents & provide opportunities for student debt relief after misconduct by institutions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1150132791251615744"
+        },
+        {
+          "type": "statement",
+          "text": "\"In #GA06, Argosy closed & ripped off hundreds of kids, leaving them with huge student debt. Our children should be leaving school ready for success, not paying for the misconduct of institutions. Today, we voted to protect students & reverse the DeVos rule. #StandWithStudents\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepLucyMcBath/status/1217886846484733952"
+        },
+        {
+          "type": "statement",
+          "text": "\"She also supports measures expanding access to higher education, fully funding public schools, and making community colleges and vocational schools more affordable for all of our children.\"",
+          "source": "mcbath.house.gov",
+          "url": "https://mcbath.house.gov/education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ten years ago, the Shelby County ruling opened the floodgates to voting discrimination with an intensity that has only continued. Voting rights protect all other rights, and today we fight on to protect and exercise the fundamental right to vote. #ShelbyAt10\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1671583762759524369"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Voting Rights Act turns 55 today. We must each commit to the VRA's legacy to ensure that all Americans have access to the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1291401507275976706"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/178538/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/178538/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman McBath is fighting to ensure our children hve clear water to drink, clean air to breathe, and an environment that is sustainable for future generations. She is fighting to protect parks and rivers, which benefit our environment and give families a place to learn about the world together. Congresswoman McBath believes we must address climate change while securing a sustainable energy future. The Congresswoman supports increased investment in sustainable energy and increasing subsidies for homeowners who utilize solar or other forms of renewable energy.\"",
+          "source": "mcbath.house.gov",
+          "url": "https://mcbath.house.gov/energy-environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will fight for larger investments into alternative, clean sources of fuel, and I will support legislation that would increase subsidies for homeowners who wish to utilize solar and other forms of energy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1263198/issue-position-environment"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/178538/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/178538/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/178538/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need action - we need Congress to STOP thinking about their seats and enact legislation that will keep guns out of the hands of those who shouldn't have them! #RememberParkland\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/LucyWins2018/status/964156096792465410"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/178538/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/178538/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a two-time breast cancer survivor who lives with pre-existing conditions, and a daughter of two medical professionals, Congresswoman McBath understands the importance of quality, affordable health care. No family should have to worry about choosing between paying their bills and paying for healthcare. She supports proposals making it easier for more Georgians to get covered and to expand upon the Affordable Care Act (ACA). Moreover, her tireless efforts in Congress sent the Centers for Disease Control additional pandemic related funding to protect the health of our entire communities.\"",
+          "source": "lucyforcongress.com",
+          "url": "https://lucyforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have beaten breast cancer twice - I know how important it is that we fight to cover those with pre-existing conditions. That is why today I proudly voted to defend the #ACA, and to make it easier to get quality and affordable health insurance.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1083142676969603072"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/178538/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to support the #FamilyAct, which creates a comprehensive national paid family & medical leave program. No parent or family should be forced to make the impossible choice between earning a paycheck & taking care of their loved ones. #FMLA28\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1357743290481836033"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/178538/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Furthermore, we cannot ignore the economic benefits of paid leave. Enacting paid leave also means that families will continue to earn some income at the very time when they need it most â when a family is growing or a member is sick and needs medical care. Workers will be able to continue to earn a portion of their wages, allowing them to continue to meet their basic needs and pay bills before returning to work. Moreover, lack of paid leave has meant that workers lose an estimated $22.5 billion in wages each year when that could have been used to keep a family afloat and spent in local economies.\"",
+          "source": "pressley.house.gov",
+          "url": "https://pressley.house.gov/2021/10/19/pressley-100-house-democrats-urge-president-biden-protect-paid-leave-build-back/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to support the Inflation Reduction Act and help ensure our seniors can get the medication they need. Thanks to the $35 monthly cap on insulin that I led, 2,700 Medicare beneficiaries in #GA07 are saving more than $450 a year on their insulin.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1706691312047587659"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act we passed last year, Medicare is now able to negotiate for lower drug costs for 10 common drugs, saving Americans thousands\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1696922919157350545"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/178538/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/178538/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "statement",
+          "text": "\"Making sure there are humanitarian standards at the border is not a problem for the future â itâs a problem right now. We have got to act right now. I truly fear the consequences if we donât\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLucyMcBath/status/1151643838861238274"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/178538/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/178538/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178538/lucy-mcbath"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/178538/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/178538/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/178538/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/178538/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36415/97653/178538/israel-security-supplemental-appropriations-act-2024#97653"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/178538/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/178538/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/178538/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/178538/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/178538/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/178538/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/178538/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:29:22+00:00"
+}

@@ -1,0 +1,664 @@
+{
+  "name": "Brad Sherman",
+  "page_title": "Brad Sherman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 32, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 32",
+  "candidate_id": "142",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/142/brad-sherman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"48 years ago Roe v. Wade established the legal right to reproductive freedom. Today we celebrate that victory and commit to making the right to choose accessible to all. We must ensure everyone has equal access regardless of income, race, and ZIP code. #RoeAnniversary\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1352705732496527360?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"7 in 10 Americans do NOT support @POTUS relentless quest to strike down Roe v Wade. I fear #Gorsuch is part of that effort. #SCOTUS\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/826604841485160448?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/142/brad-sherman#.WuoE67Q-eRs"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3755 \"Women's Health Protection Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31780/82919/142/womens-health-protection-act-of-2021#82919"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On the 88th anniversary of #SocialSecurity, @HouseDemocrats are working to protect & enhance #SocialSecurity, while #Republicans want to cut/end this vital program! I helped introduce #SocialSecurity 2100 to expand & protect benefits. To celebrate #SocSec88, we must #Secure2100!\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1691163970042732544?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government has made a promise to all Americans: if they contribute to #SocialSecurity every paycheck, they can retire with dignity and security. While #MAGARepublicans want to gut this promise, my @housedemocrats colleagues and I will protect this sacred trust.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1620553565315137537?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I spoke out against the #Republicans IRS bill that would increase the national debt by $1.6 trillion and protect wealthy tax cheats.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1612882055607775232?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I will be voting NO on the #GOPTaxScam. The fact is that all it will do is kill jobs, explode the deficit, give tax breaks to billionaires, and hurt California families.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/931213656796356608?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/142/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats are making this critical investment in our planet, communities and economic future while NOT raising a single penny of taxes on families making under $400,000 a year. Paid for by making the ultra-wealthy & corporations pay their fair share. #PeopleOverPolitics\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1558211570810978311?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I spoke out against the #Republicans IRS bill that would increase the national debt by $1.6 trillion and protect wealthy tax cheats.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1612882055607775232?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/142/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today marks a decade since the Supreme Court's #CitizensUnited decision allowed wealthy donors & special interests to amass vast amounts of political influence. I joined my colleagues to fight back when I co-sponsored #HR1, a transformative bill to get big money out of politics.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/1219648528869470208?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/142/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Last summer, in the wake of George Floydâs murder, I joined my colleagues to help introduce the #JusticeInPolicingAct in order to hold police accountable. Since then, millions have marched & voiced an urgent call to end deadly police violence thatâs claimed too many lives.",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/1367300452707143680?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Today I was honored to take my daughters, Molly & Naomi, near the Supreme Court to march with those mourning #GeorgeFloyd and demanding justice and an end to discrimination, hate and racism in all its forms. I wanted to show my daughters democracy in action. #BlackLivesMatter",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/1269401531813593089?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/142/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/142/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/142/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/142/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to have worked with my Democratic colleagues to help pass this historic bill,\" said Congressman Sherman. \"This once-in-a-century investment in our national infrastructure will help create millions of good-paying jobs, unleash the full potential of working families and ensure America's global competitiveness for the 21st Century.\" Sherman added \"I am confident that we will pass an important Build Back Better bill later this month.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1581621/congressman-sherman-votes-to-pass-president-bidens-transformative-bipartisan-infrastructure-bill"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/142/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/142/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/142/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Always happy to meet with the @CAREALTORS. Today we discussed housing affordability in the Valley, expanding federal housing protections to LGBTQ individuals, and preserving the National Flood Insurance Program.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1128769698202562562?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was pleased to meet with the Southland Regional Association of Realtors @SouthlandAOR. We discussed ways Congress can help expand access to affordable housing and make the dream of home ownership a reality for more Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1521884956129116163?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was pleased to see @MayorOfLA today at the U.S. Capitol. Mayor Bass led a delegation of L.A. City Councilmembers to D.C. for a meeting with my California Congressional colleagues and I to address vital issues - housing & homelessness, infrastructure, the LA28 Olympics & more.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1714801755467211251?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"PASSED! The #InflationReductionAct is the single largest federal investment in our climate EVER, will lower health care and energy costs, cut prescription drug prices, and usher in other substantial measures designed to help working and middle class families.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1558211562220953602?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/142/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/142/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pleased to meet with Texas State Representative @GeneforTexas, who is among the Texas House Democrats trying to stop dangerous, GOP-backed voting bills. We had a productive conversation on protecting voting rights across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1418306490025357315?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House passed the Voting Rights Advancement Act. I was proud to have co-sponsored this critical legislation that ends voter suppression and ensures every eligible American voter has full access to the ballot box and the ability to have their voice heard. #RestoreTheVote\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1203008619383574529?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/142/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/142/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman cosponsored of the Green New Deal when it was initially introduced in 2019 and has once again co-sponsored the Green New Deal in this Congress. Sherman also co-sponsored the Climate Emergency Act, which will require the President to declare a national climate emergency and take further steps to quell the climate crisis. Finally, to prohibit the production of oil and national gas off the California coast, Congressman Sherman co-sponsored The West Coast Ocean Protection Act and co-sponsored the Water Recycling Investment and Improvement Act in order to increase federal funding for critical water reuse and recycling efforts.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/142/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 - Climate Action Now Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/67056#.XaXml-dKhYg"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman cosponsored of the Green New Deal when it was initially introduced in 2019 and has once again co-sponsored the Green New Deal in this Congress. Sherman also co-sponsored the Climate Emergency Act, which will require the President to declare a national climate emergency and take further steps to quell the climate crisis. Finally, to prohibit the production of oil and national gas off the California coast, Congressman Sherman co-sponsored The West Coast Ocean Protection Act and co-sponsored the Water Recycling Investment and Improvement Act in order to increase federal funding for critical water reuse and recycling efforts.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In addition to his efforts to end drilling off the California coast, Congressman Sherman has fought against polluters by helping introduce the Fracturing Responsibility and Awareness of Chemicals Act, which cracks down on fracking by empowering the Environmental Protection Agency to protect groundwater sources. He also joined Congresswoman Yvette Clarke to introduce the CLOSE Act, which closes loopholes in the Clean Air Act that allows polluters to evade emissions regulations by repealing the current exemption for oil and gas emissions and worked with Congressman Alan Lowenthal to introduce the Break Free from Plastic Pollution Act, which makes producers of single-use plastics financially responsible for collecting and recycling their products after consumer use, thus reducing plastic consumption and encouraging recycling efforts.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"As Members of the California congressional delegation, we write in strong opposition to the Department of the Interior's National Outer Continental Shelf Oil and Gas Leasing Draft Proposed Program (DPP) for 2019-2024 and its inclusion of lease sales in the Pacific. We urge you to immediately withdraw the DPP for 2019-2024.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1218860/letter-to-the-hon-ryan-zinke-secretary-of-the-interior-opposing-offshore-drilling-in-california#.Xa88oudKhYg"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman co-sponsored two recent bills, which both passed the House in March, in order to improve background check laws. The first of which is the Bipartisan Background Checks Act, a bill that would make background checks required for every kind of firearm sale, effectively closing the loopholes regarding gun shows and online gun stores. The second bill is the Enhanced Background Checks Act, which would increase the time that the FBI is given to conclude background checks, from three business days to ten\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman supports banning assault weapons, supporting the Assault Weapons Ban of 2021 and introducing the Automatic Gunfire Prevention Act, which would ban bump stocks, which are devices that can effectively enable a semi-automatic weapon to operate as a machine gun.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman has earned a 100% voting record rating from the Brady Campaign to Prevent Gun Violence, as well as other groups that actively fight against gun violence. Furthermore, Congressman Sherman has also been awarded an \"F\" grade by the NRA in the same regard.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman is a strong supporter of the Keeping Guns from High-Risk Individuals Act, which would prohibit individuals considered \"high-risk\" from owning or purchasing firearms.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to join @RepJayapal, @RepDebDingell, & @SenSanders today to reintroduce #MedicareForAll. This bill would transform Americaâs health care system, guaranteeing that families wonât have to choose between necessary medical care & putting food on the table.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1658996595487014918?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I'm proud to have joined @RepJayapal and my colleagues to reintroduce #MedicareForAll â bold legislation that will help ensure that millions of uninsured and underinsured Americans receive access to quality, affordable healthcare. #M4A\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/1372271588087828480?s=20&t=fZzGta5IPZyS5wdTUcwHLA"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Paid sick leave allows employees to take time off to take care of themselves and their families without the fear of losing pay. I am proud to have joined @RepJimmyGome in supporting California working families #SB616\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1691963306318463021?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "The House just took its next major step in combating the spread of the #coronavirus with the #FamiliesFirst Coronavirus Response Act which: - secures paid emergency/family/medical leave - strengthens nutrition security initiatives - increases federal funds for Medicaid",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/1238708640179269632?s=20&t=fZzGta5IPZyS5wdTUcwHLA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/142/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "The Inflation Reduction Act will: -Lower prescription drug prices: empowering Medicare to negotiate the price of prescription drugs, preventing excessive price hikes and capping seniors' out-of-pocket drug costs at $2,000.",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1625225/congressman-sherman-house-dems-pass-historic-inflation-reduction-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/142/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/142/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Trump allows the government to open for 3 weeks. Letâs keep it open. And letâs pass Comprehensive Immigration Reform: border security and permanent relief for #Dreamers and millions of long-term U.S. residents who have not committed violent crimes.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1088886581660995584?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The original deal was Dreamers for border security. Now Trump wants border security, a Wall, end family reunification, cancel the diversity visa, slash Legal immigration. And our firstborn.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/958538004301217793?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/142/brad-sherman"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "I am committed to working with House Republicans and my Democratic colleagues to pass legislation that will safeguard our young DREAMers.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1193309/congressman-sherman-releases-statement-condemning-trumps-decision-to-end-daca"
+        },
+        {
+          "type": "statement",
+          "text": "Letâs focus on comprehensive immigration reform, not divisive policies like deporting parents of American citizens. #JointSession",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BradSherman/status/836768481295097858?s=21"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We respectfully request that you continue Deferred Action for Childhood Arrivals (DACA) and engage in a vigorous legal defense of DACA in light of the renewed threat of litigation. Along with continuing to accept requests for DACA, we ask that you direct your administration to: (a) oppose any efforts to challenge DACA in the ongoing Texas v. United States litigation;' (b) ask the court to dismiss the complaint in United States v. Texas; and (c) refuse any settlement that would end DACA.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1186357/letter-to-president-donald-j-trump-defense-of-daca-program"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/142/american-dream-and-promise-act-of-2021#77980"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Sherman strongly supports the current Memorandum of Understanding (MOU) signed between Israel and the United States, committing $3.8 billion in annual defense assistance through 2028. He also supports Congressâs prerogative to appropriate more aid than the MOU calls forâ¦Congressman Sherman also joined Rep. Schneider in introducing H.R. 849 â Guaranteeing Israelâs QME Act of 2020, which would require consultation with the government of Israel prior to the sale of any advanced weapon system to the region to ensure Israel maintains its strategic defense posture.\"",
+          "source": "bradsherman.com",
+          "url": "https://bradsherman.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Russia and Belarus Financial Sanctions Act would close this gap by requiring that U.S. financial institutions, that are obligated to comply with each of the sanctions imposed on Russia and Belarus, must take steps to ensure that any entity they own or control, including any foreign subsidiaries, complies with these sanctions as well. This bill is \"likely to have a greater impact on Russian than sanctions the United States has imposed previously,\" according to a Congressional Research Service report.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1613794/house-passes-sherman-bill-strengthening-us-financial-sanctions-targeting-russia-belarus/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/142/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/142/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/142/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/142/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32637/85398/142/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/142/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A free and robust press is an essential element for our democratic society. That's why today I co-sponsored the Journalism Competition and Preservation Act to address #BigTech's power over news organizations.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1578093421511704577?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"American media companies have very limited access to #China's market -- so why should #TikTok have access to our market?\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1639387902575509507?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have no doubt that U.S. technology companies can provide users with an excellent #TikTok-like experience. We are dependent on #China for many things, but we are self-sufficient in cat video distribution systems.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradSherman/status/1639003462628245505?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:11:46+00:00"
+}

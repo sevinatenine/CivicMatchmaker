@@ -1,0 +1,694 @@
+{
+  "name": "Ed Case",
+  "page_title": "Ed Case's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (HI) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (HI) - District 1",
+  "candidate_id": "3422",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3422/ed-case",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The U.S. Supreme Court's ruling striking down Roe v. Wade is tragic on so many fronts. It rejects the basic rights of women, condemns millions of women and their families back to a dark pre-roe world, dismisses a careful balancing of interests that has stood for two generations, undermines our institutions of government and embarrasses us in the eyes of the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1540366266531303424"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/3422/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32974/86813/3422/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security is among our most consequential programs ever. Today, in my district alone, out of some 730,000 residents, fully 138,192 receive Social Security benefits averaging $1,480/month for a total of $205 million/month. But Social Security is at great risk of failing soon if we donât act now. I just joined 194 of my colleagues in introducing our Social Security 2100, a bill that would secure and improve Social Security for this and coming generations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1453372171464683521"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/53/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/3422/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 13% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by CommonCause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/3422/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/3422/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 40% by National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/61/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/3422/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28148/73007/3422/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/3422/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28441/76074/3422/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/3422/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/3422/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined my HawaiÊ»i delegation colleagues in kicking off Gov Greenâs invaluable & timely Federal Funds Coalition Summit to bring all of our state & county government & community partners together to share knowledge & opportunities on maximizing federal funding of Hawaiiâs needs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1813328171116495077"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/3422/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/3422/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/83568/3422/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing is acute not just in our Hawaiâi but across our country. This provide opportunities to partner with my colleagues in Congress on national initiatives, like cosponsoring the Interagency Council on Affordable Housing Act to expand the stock of affordable housing, protect public housing and housing voucher programs, combat rent gouging and encourage fairness in the rental market.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1662166598566674455"
+        },
+        {
+          "type": "statement",
+          "text": "\"My Appropriations Committee confronted the everyday challenges this bill covers across our country and provided the funds necessary to address our crumbling infrastructure as well as the lack of affordable housing,\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/news/documentsingle.aspx?DocumentID=920"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/3422/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/3422/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation Reduction Act passes House! Breakthrough day for Congress on climate change, prescription drug prices, family energy and health care costs, stabilizing our national budget and more, plus many direct benefits for Hawaiâi\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1558239876331384833"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two landmark pieces of legislation, both of which I strongly supported, were enacted in the 117th Congress (2021-2023). The Infrastructure Investment and Jobs Act (IIJA; also known as the Bipartisan Infrastructure Plan) is the largest reinvestment in our countryâs infrastructure in generations. The Inflation Reduction Act (IRA) is the largest climate/energy-related investment in our history\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14936"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/3422/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is critical not only to our world and country, but to our Hawaiâi on several fronts,\" said Case. \"By offering grants, rebates and tax credits to help states, counties, communities and families move toward cleaner energy sources, the Act is fully synched with our own state leadership to renewables.\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/news/documentsingle.aspx?DocumentID=944"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Continuing to highlight my individual constituent services, hereâs another good result, this one on getting my constituents to the right federal student loan forgiveness program. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1727074740387652029"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the United States, rising tuition costs have made it an increasingly more difficult for many to go to college. I believe we need to make it easier for students to afford the cost of higher education.\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14892"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/3422/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Voting Rights Act was the crown jewel of the Civil Rights Movement, and it must be restored in this time of unprecedented assaults on the right to vote. The \"shield\" provided by a restored Voting Rights Act can prevent late changes to state laws, provide for preclearance of laws affecting the right to vote, and give litigants a chance to effectively challenge laws in federal court\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1553381/letter-to-the-hon-joseph-biden-president-of-the-united-states-the-hon-nancy-pelosi-speaker-of-the-house-and-the-hon-chuck-schumer-senate-majority-leader-allred-escobar-and-slotkin-lead-2018-freshman-class-in-urging-passage-of-modified-voting-rights-legislation-during-august-recess"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by CommonCause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/3422/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/3422/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must pivot our nation to a clean and renewable energy future that will reduce carbon emissions and address global warming.\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14893"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance (AEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/3422/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/3422/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance (AEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/3422/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34063/90422/3422/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/3422/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/3422/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/3422/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Despite the advances that have been made under the Affordable Care Act (ACA) and, in Hawaiâi, under the Prepaid Health Care Act, there are still tens of millions of Americans who are uncovered and tens of millions more who are insufficiently or unaffordably covered. And there remain unacceptably high costs throughout much of current health care, especially prescription drugs, as well as attempts to reverse the ACAâs prohibition on discriminating against those with pre-existing conditions.\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14894"
+        },
+        {
+          "type": "statement",
+          "text": "\"My goal is to preserve the best of American health care while closing the unacceptable gaps in availability, affordability, access and quality. It is critical to get this right for current and future generations, and I believe we need a renewed national debate, including within Congress, on how best to do so. This is why it is critical for Congress to focus on the Affordable Care Act, prescription drug prices and medical research.\"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14894"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is why I have consistently voted for the legislation that will increase affordability and reduce premium costs for consumers, prevent \"junk plans\" or short-term plans that are not required to comply by the ACAâs consumer protections for pre-existing conditions or include essential health benefits. In addition, I have supported funding for community-based organizations (navigators) that provide a critical source of unbiased information on coverage options for consumers who have questions. \"",
+          "source": "case.house.gov",
+          "url": "https://case.house.gov/issues/issue/?IssueID=14894"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just voted to pass our U.S. Houseâs second major #COVID19 bill in a week: the Families First Coronavirus Response Act, aiming straight at the concerns Hawaiiâs families and workers with access to free testing, paid sick leave, food security and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1238682134916648962"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/3422/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"26% of Americans with diabetes ration their insulin at least once a year. No one should put themselves at grave health risk because of the cost of their prescription. Thatâs why I voted for the #AffordableInsulinNow Act, which will cap the cost of insulin at $35/month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1509975546003927050"
+        },
+        {
+          "type": "statement",
+          "text": "\"A truly momentous vote on HR 3, which I proudly cosponsored, to cut prescription drug costs for millions of Americans including throughout Hawaiâi. It passed the House 230-192.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1205203504639467520"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation Reduction Act passes House! Breakthrough day for Congress on climate change, prescription drug prices, family energy and health care costs, stabilizing our national budget and more, plus many direct benefits for Hawaiâi\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1558239876331384833"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/3422/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Deeply troubling visit with 17 of my House colleagues to the Southern Border at the Brownsville, TX and Matamoros, Mexico crossing, especially a refugee camp, and thatâs exactly what it is, on the Mexico side, a camp of our own making.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1218271200486576130"
+        },
+        {
+          "type": "statement",
+          "text": "\"I appeared yesterday on MSNBC to highlight the critical importance of the US House overcoming election year politics to forge & pass a bipartisan measure to secure our borders and aid our democratic friends & allies around the world, most urgently Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1760040992562897019"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/3422/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/3422/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 27% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3422/ed-case/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/3422/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30330/77979/3422/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033 \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37091/99585/3422/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5923 \"Iran-China Energy Sanctions Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37062/99527/3422/iran-china-energy-sanctions-act-of-2023#99527"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015 \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37081/99564/3422/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/3422/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I appeared yesterday on MSNBC to highlight the critical importance of the US House overcoming election year politics to forge & pass a bipartisan measure to secure our borders and aid our democratic friends & allies around the world, most urgently Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEdCase/status/1760040992562897019"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/3422/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/88795/3422/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/3422/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/3422/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/3422/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:27:11+00:00"
+}

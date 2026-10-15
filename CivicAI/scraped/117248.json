@@ -1,0 +1,652 @@
+{
+  "name": "Greg Steube",
+  "page_title": "Greg Steube's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 17, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 17",
+  "candidate_id": "117248",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/117248/greg-steube",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More than 63 million unborn children have been murdered by abortion since Roe v Wade was decided in 1973. Many of them would be adults now, contributing to our communities and economy, making our world a better place. But they never had a chance.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1528008229967601665"
+        },
+        {
+          "type": "statement",
+          "text": "\"One conservative value which we give unwavering support is to defend the unborn child. We stand firmly with the pro-life movement and will continue the fight in Congress for supporting legislation.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/life-values/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/117248/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My Republican colleagues and I are fighting to secure the success of our nation. We have made efforts to strengthen and preserve Social Security and Medicare so Americans can continue to get the care that was promised to them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1315306164712767489"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's tax hike plans? A direct hit on the average American wallet. His proposed $7 trillion in new taxes means less money for families, less growth for small businesses, and less opportunity for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1785368930963296366"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs promise to end the Trump tax cuts will unquestionably financially damage families and small businesses. His far-left policy proposals will lead to LESS job opportunities and LESS money for American families. Republicans must fight to make the Trump Tax Cuts permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1787146403300413768"
+        },
+        {
+          "type": "statement",
+          "text": "\"The contrast between Trump and Biden's tax policies could not be clearer. The Trump tax cuts lifted six million people out of poverty and provided historic savings for millions of Americans. Meanwhile, Joe Biden wants to increase taxes by 7 trillion on hard working Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1778808495371866340"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/36/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/117248/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Crime rates are up, law enforcement retirements have skyrocketed, and liberal cities have defunded their police departments. Now, the left wants to end qualified immunity, take away protective gear, and handicap those who protect and serve. What's next?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1369079784358219781"
+        },
+        {
+          "type": "statement",
+          "text": "\"Violent attacks on officers have increased dramatically, and we must support them more than ever during this time. I recently supported legislation to maintain their qualified immunity protections and ensure that they are not punished for doing their jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1421833093875265537"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/117248/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I look forward to bringing my military experience to the conference as we set a sound defense policy and provide our servicemembers with the resources they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1329445285697884162"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our unequalled national defense is a beacon of freedom and liberty that is revered around the world. I am honored to bring my military experience to Congress as we draft and debate crucial legislation to set sound defense policy and provide our service members with the resources they need. Peace, prosperity and democracy at home and abroad are made possible by our continued investment in our national defense.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/military-foreign-affairs/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/117248/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/117248/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted NO on tonightâs COVID legislation. Americans donât need inadequate stimulus checks and forced government dependency to get them back on their feet - we need efforts to safely reopen and return back to normal.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1343693873567199234"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs proposed $3.5 trillion spending spree is the highest federal spending level in history. Conveniently left out of this budget is extra funding to combat the raging border crisis. It instead funds progressive priorities and ignores national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1427253812578816000"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Democrats' \"infrastructure\" package has nothing to do with real infrastructure. It's an excuse to spend American taxpayer money on outrageous proposals related to climate change, supporting partisan unions, and increasing funding for schools that refuse to open.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1387577952540532742"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/117248/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/117248/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/117248/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 97% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4521: \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/117248/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot spend ourselves out of this recession. The Democratsâ Inflation Expansion Act cuts jobs and raises taxes on millions of Americans across all incomes during 40-year high inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1558188294604734464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688: \"Fuel Price Gouging Prevetion Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/117248/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs politically motivated student loan giveaway was stopped dead in its tracks by our courageous Supreme Court. Despite trying to go around Congress, Biden never had the power to cancel billions in debt. If you take out a loan, pay it back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1675229254517153797"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Biden's America, the burden of student debt wrongly falls on the shoulders of hardworking Americans, many of whom have never even set foot in a college classroom. Bidenâs student loan giveaway is a slap in the face to Americans who worked hard to pay off their loans and does nothing to fix the out-of-control costs of higher education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1766859514865672560"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/117248/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The left will try anything to federally manipulate elections, even claim that security measures are for oppressing people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1413613033121882123"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/117248/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/117248/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's \"infrastructure\" plan is the Green New Deal in disguise. $10 billion goes directly to the Civilian Climate Corps, and even more is allocated for destroying the existing energy grid and implementing unreliable alternatives that put millions of jobs at risk.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1382083673311297548"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nothing this Administration does will help ease prices at the pump. Biden is scrambling to figure out how to provide energy for our country after he intentionally shut down the domestic production of oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1507319267250909187"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/117248/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Prioritizing domestic oil production isn't just about energy independenceâit's about putting America first. Why are we enriching Russia and Iran when we should be bolstering the American economy and American jobs?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1761781795224539580"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/117248/alaskas-right-to-produce-act-of-2023#100086"
+        },
+        {
+          "type": "statement",
+          "text": "\"The establishment press continues to ignore Bidenâs attack on our energy independence. Maybe the adminâs abandonment of domestic oil projects like the Keystone Pipeline has something to do with these \"strange price increases?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1448000515934203913"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is our belief, without reservation, that the Second Amendment is an unquestionable Constitutional right. Whether you are a lifelong sportsman as I am, or any citizen intent on protecting life, home, and family, weâll faithfully defend your Second Amendment right. Weâll continue our efforts in Congress to protect from infringement on an individualâs right to have arms for their defense or recreational use.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/second-amendment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Red flag laws trample on our Constitutional 2nd Amendment rights and I will never support any legislation that enables the government to strip these rights away.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1455640864181600262"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117248/greg-steube/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938: \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/117248/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"High quality healthcare should be affordable, accessible and provide Americans with a choice of doctors and plans. Weâll work to keep drug prices low and expand options for all Floridians, including those enrolled in Medicare. With over 3.5 million Floridians enrolled in some form of Medicare prescription drug coverage, it is my mission to fight the harmful effects of the ACA and to reform prescription drug standards.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/117248/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/117248/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"High quality healthcare should be affordable, accessible and provide Americans with a choice of doctors and plans. Weâll work to keep drug prices low and expand options for all Floridians, including those enrolled in Medicare. With over 3.5 million Floridians enrolled in some form of Medicare prescription drug coverage, it is my mission to fight the harmful effects of the ACA and to reform prescription drug standards.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The lost cures and innovation from Democratsâ drug pricing proposals is too high of a price to pay. With over 3.5 million Floridians enrolled in Medicare prescription drug coverage, we understand the risk.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1320875430006689792"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/117248/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/117248/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A country isnât a country without borders, but Joe Biden has decimated the Southern Border and let in more than 11 million illegals, including hundreds of terrorists and violent criminals.\"",
+          "source": "x.com",
+          "url": "https://x.com/gregsteube/status/1803242308382470209"
+        },
+        {
+          "type": "statement",
+          "text": "\"Having weak border security puts our national security at risk. Violent crime and gang activity are on the rise, and dangerous groups are even recruiting the youth.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1396813235689443335"
+        },
+        {
+          "type": "statement",
+          "text": "\"Welcome to the land of 'sanctuary cities' - a leftist fantasy where illegal immigrants roam free to commit crimes without consequences. This is all courtesy of Biden's open-border policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1773076807287185677"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/117248/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we don't have a border, we don't have a nation. By promising amnesty and outlawing deportations, Joe Biden has created the #BidenBorderCrisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1372246353305235456"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden admin has undermined our laws and sovereignty by offering 'mass amnesty' to illegals and terminated 350,000 asylum cases. This reckless and dangerous move threatens our national security and the safety of American citizens!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1798052339942936917"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/117248/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/117248/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs weakness has given billions to Iran to launch attacks on US Soldiers and now Israel. All their military capability should be destroyed and severe economic sanctions put back in place. The Iranians were broke when Trump left office and now they are enriched, empowered and emboldened.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1779245717262831726"
+        },
+        {
+          "type": "statement",
+          "text": "\"Until we start sanctioning the other countries who are assisting Russia, there isnât going to be as much of an impact on the Russian economy as there should be.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1511129121958551556"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/117248/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8369: \"Israel Security Assistance Support Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37360/100451/117248/israel-security-assistance-support-act#100451"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My district wants to know - Why are we prioritizing sending hard-earned American tax dollars to foreign countries that are completely corrupt and hate us?No money for Iraq. No money for Lebanon. No money for Ukraine. America First.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1707454910822797502"
+        },
+        {
+          "type": "statement",
+          "text": "\"This yearâs NDAA will include my amendment to require the Department of Defense to provide detailed oversight and report to Congress on the U.S. taxpayer-funded Ukraine assistance. The American people deserve transparency on the BILLIONS sent to Ukraine by the Biden Administration!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1679598835725631493"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/117248/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/117248/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I fully support a ban on TikTok in the United States. China is the #1 security threat to the United States, so why would we want all of our information in their hands?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregSteube/status/1640423726045904910"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the era of Big Tech, new oversight and accountability mechanisms are necessary to protect American consumers and our fundamental First Amendment rights. We are prepared to fight Big Techâs abuse of the Section 230 provision of the Communications Decency Act. Itâs time to hold technology companies accountable and ensure that all Americans have a platform for their voice and free exchange of ideas.\"",
+          "source": "steube.house.gov",
+          "url": "https://steube.house.gov/issues/big-tech/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/117248/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:23:41+00:00"
+}

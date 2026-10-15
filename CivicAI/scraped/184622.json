@@ -1,0 +1,369 @@
+{
+  "name": "Amish Shah",
+  "page_title": "Amish Shah's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. House (AZ) - District 1",
+  "candidate_id": "184622",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/184622/amish-shah",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" We're actively collecting signatures for a constitutional amendment to protect abortion access in our state. Your support is crucial. If you haven't signed, it's not too late. Message for details or to contribute your signature. Thank you for being part of this movement.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1737156549712167186"
+        },
+        {
+          "type": "statement",
+          "text": "\"51 years ago, Roe v. Wade secured a woman's right to choose. Today, this right is restricted in Arizona. Let's stand together to support the women in our lives. Sign a petition near you to include abortion on the November ballot.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1749477685447758152"
+        },
+        {
+          "type": "statement",
+          "text": "\"I STAND FOR UNIVERSAL HEALTH CARE, INCLUDING REPRODUCTIVE RIGHTS. I'M 100% PRO-CHOICE.\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I turned in over 350 signatures that I collected personally for the petition to protect abortion access. If you havenât already signed, please find a nearby location ASAP!",
+          "source": "azreproductivefreedom.com",
+          "url": "https://azreproductivefreedom.com"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"And I will push for quality, affordable healthcare for everyone so you don't have to choose between your medicine and your rent\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"So stand with me. I stand for ALL AMERICANS to have comprehensive and high-quality healthcare with ease of access.\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" we must stand against gerrymandering and the detrimental influence of money in politics. \"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over the last few years, some Arizona elected officials have cast doubt on the results of our elections with no evidence to back their claims. They have lost every challenge and every lawsuit. But they continue to make false assertions. Some even attempt to pass laws to create obstacles to voting. I believe this undermines our democracy.\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy Earth Day! Let's celebrate our planet by making a positive impact. As water management in Arizona becomes increasingly crucial, let's do our part to conserve this precious resource. Every drop counts.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1782582602508984344"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy Earth Day! Let's celebrate our planet by making a positive impact. As water management in Arizona becomes increasingly crucial, let's do our part to conserve this precious resource. Every drop counts.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1782582602508984344"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today is National Gun Violence Awareness Day, a day dedicated to honoring the lives affected by gun violence and advocating for safer communities. Wear orange today to show solidarity and raise awareness about the impact of gun violence on our society.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1799137163780481147"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"And I will push for quality, affordable healthcare for everyone so you don't have to choose between your medicine and your rent\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"So stand with me. I stand for ALL AMERICANS to have comprehensive and high-quality healthcare with ease of access.\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"And I will push for quality, affordable healthcare for everyone so you don't have to choose between your medicine and your rent\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"So stand with me. I stand for ALL AMERICANS to have comprehensive and high-quality healthcare with ease of access.\"",
+          "source": "www.amishforarizona.com",
+          "url": "https://www.amishforarizona.com/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The humanitarian crisis in Ukraine is still very real and very grim. I want voters to know I will always stand on the right side of history, and that is why I condemn Russiaâs invasion of Ukraine. I continue to #StandWithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1565110055300567040"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The humanitarian crisis in Ukraine is still very real and very grim. I want voters to know I will always stand on the right side of history, and that is why I condemn Russiaâs invasion of Ukraine. I continue to #StandWithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/DrAmishShah/status/1565110055300567040"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:16:06+00:00"
+}

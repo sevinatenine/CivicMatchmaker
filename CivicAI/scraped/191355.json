@@ -1,0 +1,610 @@
+{
+  "name": "Scott Franklin",
+  "page_title": "Scott Franklin's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 18, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 18",
+  "candidate_id": "191355",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191355/scott-franklin",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a defender of the unborn, I would welcome any decision that overturns Roe v. Wade, but the leaking of the Dobbs opinion is an unacceptable effort to undermine our venerable Supreme Court.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1521588462780039168"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since Roe vs. Wade was decided 49 years ago, 63 million unborn babies have been deprived of their most basic human right to life. We have a sacred responsibility to protect the lives of the unborn. I will always give a voice to those without one.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1484518388508545027"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs Supreme Court decision rights a 50 year wrong in defense of life. Itâs a victory for all who believe in the sanctity of life and the countless lives that will be saved. I was proud to stand with my colleagues to celebrate this occasion.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1540386286011310080"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/191355/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that Bidenâs $2T \"infrastructure\" plan only includes 5% for roads and bridges? It fails to address infrastructure, and this liberal wish list will be paid for by raising record-high taxes on job creators. Yet another socialist proposal by this administration.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1382470248268451841"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 86% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin"
+        },
+        {
+          "type": "statement",
+          "text": "\"Did you know that Bidenâs $2T \"infrastructure\" plan only includes 5% for roads and bridges? It fails to address infrastructure, and this liberal wish list will be paid for by raising record-high taxes on job creators. Yet another socialist proposal by this administration.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1382470248268451841"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/191355/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, I signed @Heritage_Action's Police Pledge, promising not to support any legislation which seeks to defund the police. I will always stand with our law enforcement officers and reject any Democrat attempt to strip them of the resources they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1420440988284342276"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/191355/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americaâs armed forces exist to fight and win wars in defense of our national security interests, not to further political ideologies or social experiments. The #FY24NDAA we passed today authorizes the resources and programs to do just that â nothing more, nothing less.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1679903218078298112"
+        },
+        {
+          "type": "statement",
+          "text": "\"At a time of dangerous global instability w/Russia & China, we MUST continue needed investments in our national security. I joined my colleagues on @HASCRepublicans urging @POTUS to include a 5% increase above inflation for defense spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1507404434988482568"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House just passed a STRONG National Defense Authorization Act thatð ðºð¸ Increases troop pay and BAH ðºð¸ Refocuses our military on winning wars, not social programs ðºð¸ Extends the Pacific Deterrence Initiative to deter threat from China ðºð¸ Standing up for Israel & our allies\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1801651260740730952"
+        },
+        {
+          "type": "statement",
+          "text": "\"The passage of the FY23 National Defense Authorization Act is an insurance policy for our national security. This year, we enhanced our military readiness & lethality by including a number of critical provisions & prevented the spread of the woke agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1600991169307373568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/191355/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats' reckless tax-and-spend policies are damaging the economy. Three major takeaways when reading Fridayâs Jobs Report: ð©Workforce participation is stuck at 1977 levels ð©Inflation is at levels not seen since the early â80s ð©Widespread supply chain bottlenecks\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1466851421375107080"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today @HouseGOP passed the most conservative Interior and Environment budget bill ever: â Slashes wasteful spending & bureaucracy â Rebuilds American energy independence â Reins in the EPA & cuts their budget by 40% â Supports growers & ends burdensome EPA water regulations\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1720584391271841827"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/191355/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/191355/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS is divorced from reality when it comes to the economy. Inflation is costing every American family nearly $384/month. Real wages continue to drop under Biden and House Democrats think new taxes and more spending will solve inflation. They are wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1501925979257774086"
+        },
+        {
+          "type": "statement",
+          "text": "\"In @POTUSâs op-ed on how he plans to address his 40-year high inflation, he doubles down on crippling taxes and government spending. This will add inflationary pressure. We must reduce spending and lower taxes to fight inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1532070276615196672"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prices on everyday goods have surged at the highest pace in 39 years. Inflation & supply chain disruptions are crushing everyone. House Democrats are delusional if they think radical spending will help our economy. Inflation is a tax on all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1469323466155429894"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/191355/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Businesses forced by the government to shut down during Covid received PPP loans to keep paying their employees. Students who took out loans for college did so willingly for their own benefit. Thereâs no comparison. The White House needs to stop lying to the American public\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1563662646464991232"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden's illegal student loan bailout will come at the expense of the vast majority of hardworking taxpayers who do not have student loan debt. It's one more in a long list of attempts to buy votes with \"free stuff\" and pander to supporters.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1562521986009829376"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres. Biden's illegal student loan bailout will add to runaway inflation and escalate our national debt further. Itâs patently unfair to ask hardworking Americans without college debt to pay for it. Thatâs why I voted to repeal this bailout.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1661483459154706432"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/191355/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Requiring proof of citizenship to register to vote in federal elections shouldnât be a partisan issue. In Florida, itâs the law. I cosponsored HR 8281, the SAVE Act, to ensure this practice nationwide. Americans MUST trust their elections are secure.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1803139187006140877"
+        },
+        {
+          "type": "statement",
+          "text": "\"Requiring proof of citizenship to vote keeps our elections secure. Thereâs only one real reason Democrats would oppose the SAVE Act: they count on benefiting from illegal immigrantsâ votes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1811098617530212770"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/191355/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Liberals continue their assault on American oil & gas producers through overregulation. This drives up energy costs for American families at a time of record inflation. We need policies that promote economic prosperity & energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1489365898096005127"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration isn't hiding its intentions: They want to usher in Green New Deal policies by making it even more painful for Americans to afford gas.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1458490645207818240"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted for @congbillposey's bipartisan bill to support American solar manufacturers and hold China accountable for breaking our trade laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1652043006055260161"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/191355/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I Voted in favor of @congbillposey's bipartisan bill to support American solar manufacturers and hold China accountable for breaking our trade laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1652043006055260161"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS has sold our economy out to climate alarmists. America is less safe because of it. Iâm supporting @RepPflugerâs bill to:â¡Rebuild American energy independenceâ¡End all restrictions on natural gas tradeâ¡Prohibit trade with state sponsors of terror\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1758212285514785032"
+        },
+        {
+          "type": "statement",
+          "text": "\"If Democrats were serious about lowering energy prices and helping Americans thrive, they would âï¸Streamline the permitting process for new energy projects âï¸Approve pipeline permits âï¸Approve LNG export facilities, so our allies donât rely on Russia for oil\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1532372460775038982"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over the past two years, President Biden prioritized a radical climate agenda that shut down domestic energy, put our national security at risk, and caused record-high gas prices. The solution is clear: unleash American energy independence!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1623144785597943810"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/30/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last week, the Democrats voted to defund the police. Now they want to infringe on the rights of law-abiding gun owners. HR 8 & HR 1446 punish law-abiding citizens â not criminals. I will always defend the #2A.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1369739152460251141"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ATF's pistol brace rule is an unconstitutional overreach. Iâll always fight to protect the rights of law-abiding gun owners and disabled combat veterans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1668747091127029764"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/191355/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/191355/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border security is national security. @HouseGOP passed the strongest border security bill in history almost A YEAR AGO. Democrats have American blood on their hands while it continues to collect dust in the Senate. Shameful.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1763324771897401664"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everyday the President refuses to address the crisis across the Southern border, Americans and border patrol like Chief Owens are put at risk. This is not just a national security threat, it's an invasion.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1777857028527997235"
+        },
+        {
+          "type": "statement",
+          "text": "\"How can the Biden Admin. think the Southern border is secure? This is an invasion.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1773419755451421018"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/40/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since Oct. 2022, Florida has received the majority of the 386,000 illegal immigrants on DHS-approved flights into the U.S. Not only is the Biden Administration failing to reduce the influx of illegal aliens crossing the border, itâs also flying them in directly and releasing them on parole. Itâs an invasion encouraged and facilitated by this administration!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1775534506348347892"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we passed H.R. 5283 to prohibit the federal government from using your tax dollars to house illegals on federal land. This bill, along with House Republicans' HR 2 passed earlier this year, are important steps to stem the crisis and hold the Biden Admin accountable for the crisis at our southern border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1730382029303218442"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 76% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191355/scott-franklin/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/191355/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If @POTUS wonât hold supporters of state sponsors of terrorism accountable, @HouseGOP will. Today, we passed a bill to slap sanctions on financial institutions doing business with banks holding the $6B in Iranian funds released by our president.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1730356177815449782"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iran threatened to light Israel on fire. The Biden administration should not engage in negotiations with Iranian leaders. Instead, we must reapply sanctions to stop Iranâs nuclear advancements.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1473408589545054215"
+        },
+        {
+          "type": "statement",
+          "text": "\"Once again President Biden is putting foreign governments ahead of the US. Waiving these sanctions will fund Iranâs terrorist activities and sends a clear message that the administration is not putting Americans first.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1415373265720258567"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/191355/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/191355/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/191355/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Communist China is targeting, surveilling, and manipulating Americans through Tik Tok. This is a MAJOR national security threat. No one is banning Tik Tok, today the House acted to prevent foreign adversaries from spying on you.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFranklin/status/1768010909237018667"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/191355/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/191355/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:30:19+00:00"
+}

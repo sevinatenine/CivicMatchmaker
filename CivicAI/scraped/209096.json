@@ -1,0 +1,682 @@
+{
+  "name": "Maxwell Frost",
+  "page_title": "Maxwell Frost's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 10, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (FL) - District 10",
+  "candidate_id": "209096",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/209096/maxwell-frost",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been one year since Roe was overturned but we arenât giving up on the fight for bodily autonomy. We are working to get #AbortionOnTheBallot here in Florida. After the canvass launch this morning hosted by @AnnaForFlorida, we hit the doors. One person at a time, WE WILL WIN.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1672650223800164352"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Florida's inhumane near-total abortion ban goes into effect, a dangerous and life-threatening reality for many. Reproductive healthcare is a human right. This battle is about basic human dignity and freedom. I will keep fighting at the federal level to protect bodily autonomy and choice for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1785743262755500054"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Planned Parenthood Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/209096/maxwell-frost/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My Republican colleagues need to stop playing games with our economy and give our seniors some certainty: Assure our seniors that you will NOT cut Social Security and Medicaid. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1661082758586744833"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans have decided to threaten the nation's economic collapse to try & get their way. Social Security, SNAP, Medicare payments will all suffer. The earned-benefits & livelihood of millions of Americans are on the line. That's not something we can play around with.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1661432377858576386"
+        },
+        {
+          "type": "statement",
+          "text": "\"Seniors have earned Social Security through a lifetime of work; they deserve to retire with dignity. Today, on the 88th anniversary of Social Security, we must recommit to protecting and enhancing this program that serves so many today and for years to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1691133546495193088"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans want to gut vital programs we depend on so they can give the wealthy & huge corporations more wasteful tax breaks. No one should put the ultra-rich before the needs of hardworking Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1650898952059867136"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm going to fight to get dark money out of politics.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1603134587705909248"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm honored to be endorsed by End Citizens United & Let America Vote. For too long, weâve had an uneven playing field thatâs put the wealthy over working families. Our future needs to be one that is better for all Americans. Iâm committed to making that happen in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1553183069829472256"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre building a multi-racial, multi-generational movement of working-class people who are ready for change. Too often, a campaignâs viability is determined by how many big donors and dark money PACs max out their contributions.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1449489291470585858"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by the National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "statement",
+          "text": "\"As the first generation-z member of Congress, from day one, I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "Roger Fortson was shot and killed by the police in his own home for nothing. The country he was serving killed him. I hope there is accountability. \"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1789730550074187987"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This year I voted NO on the NDAA. Again, R leadership has shown an inability to get serious work done. The bill veered off-topic, attacking diversity, LGBTQ+ rights, & abortion. Despite this, I fought for transparency & accountability against wasteful spending by defense contractors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1679939032036397056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/101337"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"June: 209k jobs added, 13.2M total since @POTUS took office. Smart investments in US infrastructure + clean energy, higher wages for workers, union power, & fair opportunities for small businesses WORK. Enough of failed, trickle-down, for-the-rich policies; just real progress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1677390396781895686"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For us to fully realize housing as a human right, we must: Institute national tenant protections, including rent stabilization, restricting evictions without cause, and a tenant right to counsel:\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"If we are going to build strong communities with abundant, affordable housing, then we have to build a fair, sustainable transportation system to move people around. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the Biden-Harris Administration unveiled a plan to cap rent increases at 5%. I'm calling on my colleagues in Congress to make this plan a reality for millions of working families who deserve and need better housing options and protections.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1813279398470226303"
+        },
+        {
+          "type": "statement",
+          "text": "For us to fully realize housing as a human right, we must massively increase funding for public housing and social housing in the US to spur the construction of mixed-income, dense, beautiful housing in our cities\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Only a year since @POTUS signed the Inflation Reduction Act into law, & it's already transforming the lives of working-class folks and our community by lowering healthcare costs, reducing energy bills, & creating new jobs. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1691912946623066132"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS has the right to #CancelStudentDebt, SCOTUS must not stand in the way. Over 1 million people would benefit from having their student loan debt canceled in Florida. It's time to allow so many students to live their life with the economic security that they deserve!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1630657497101893633"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans giving tax cuts to the ultra-wealthy: ð House Republicans when we offer student loan relief: ð¡ Watch as @virginiafoxx tries to silence my words on the House floor for standing with borrowers who need student loan forgiveness.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1661488216707420160"
+        },
+        {
+          "type": "statement",
+          "text": "\"This move by the Biden Administration empowers individuals towards a brighter future, and we're STILL NOT DONE. I'll continue to fight for broader student debt relief and lowering higher education costs, until all of us can get the education we demand and deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1709988438672339365"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frostv"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"IN CONGRESS, I WILL WORK TO restore voting rights to all Americans including those currently incarcerated and ensure folks leaving the prison system have the support and resources to reintegrate into their communities and the economy.\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, alongside @RepTerriSewell and @HouseDemocrats, I co-sponsored the John Lewis Voting Rights Advancement Act. This legislation is a powerful step toward safeguarding our democracy against extremists who seek to undermine it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1704221182461907343"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voter suppression laws threaten to push people of color further to the margins of our society and democracy. To truly honor Martin Luther King Jr.âs legacy we must pass the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1483287590568660996"
+        },
+        {
+          "type": "statement",
+          "text": "\"59 years ago today, the Civil Rights Act was signed into law. Today, Iâm reminded of Congressman John Lewisâ powerful wordsâ\"A democracy cannot thrive where power remains unchecked and justice is reserved for a select few.\" We will fight until that democracy is realized.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1675543497934348288"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the first generation-z member of Congress, from day one, I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If there is a future, it is a green future. We cannot hesitate and we cannot let big-oil, big-business, and the 1% decide our fates for us. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For years, FL Dems AND Republicans have joined forces to ban offshore drilling in the Gulf. We've seen the devastating effects oil drilling can have firsthand, pollution that harms our beaches and communities. Will my colleagues across the aisle keep their word, or will they stick their heads in the oil-covered sand?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1640840153693290497"
+        },
+        {
+          "type": "statement",
+          "text": "\"If there is a future, it is a green future. We cannot hesitate and we cannot let big-oil, big-business, and the 1% decide our fates for us. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the first generation-z member of Congress, from day one, I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support a holistic approach to gun violence, developed and championed by the Gun Violence Prevention movement. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"IN CONGRESS, I WILL WORK TO nan assault weapons and high-capacity ammunition magazines and require background checks for all gun sales.\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâve led thousands of young activists in the fight against gun violence as the National Organizing Director of March for Our Lives.\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the first generation-z member of Congress, from day one, I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis. \"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If you love someone, you want them to have healthcare, to be able to care for their families. You want them never to have to decide between keeping food on the table or seeing a doctor. That's why we're leading with love & reintroducing Medicare For All. Everyone in, nobody out.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1658943017493954564"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Medicare for All bill is high key bussin bruh. All my constituents have been saying it slaps so say less.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1580914917720236032"
+        },
+        {
+          "type": "statement",
+          "text": "\"WE MUST ensure that every person in America has comprehensive healthcare, with no co-pays, deductibles, or premiums -- we must abolish the illness industry.\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" The legislation came to me after a local flight attendant and my constituent, Shannon, reached out to share his story after being forced to go on medical leave due to fume exposure. Shannon and all flight crews and passengers deserve safe work environments and clean air when they fly.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1793725103173144581"
+        },
+        {
+          "type": "statement",
+          "text": "\"If railroad work is so important that the United States Congress can vote to prevent a strike, then railroad WORKERS should be important enough to have 7 days of paid sick leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1598046358237507584"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday, we came together to celebrate Womenâs History Month by honoring some extraordinary women right here in Central FL. Their accomplishments and influence truly inspire us all. â¨From equal pay and reproductive rights to child care and paid leave, I will never stop pushing for progress for women in Central FL and beyond.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1772690640230404282"
+        },
+        {
+          "type": "statement",
+          "text": "\"The legislation came to me after a local flight attendant and my constituent, Shannon, reached out to share his story after being forced to go on medical leave due to fume exposure. Shannon and all flight crews and passengers deserve safe work environments and clean air when they fly.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1793725103173144581"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must work to prevent pharmaceutical companies from price gouging by permitting federal drug price negotiation.\"",
+          "source": "www.frostforcongress.com",
+          "url": "https://www.frostforcongress.com/issues#medicare"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/209096/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the son of a Cuban immigrant, I'll never forget the courage it took for my family to be here today. The crisis at our border demands compassion and our country has a duty to help innocent migrants fleeing instability and violence. Immigrants, by virtue of being human, deserve to be treated with dignity and respectânot as a political bargaining chip.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1735395135221911789"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigrant families in Central FL are our neighbors, parents, nurses, hospitality workers, and teachers, and they work daily to make our community the Central FL we know and love. The solution to the crisis at the border should involve bringing the stories and experiences of our immigrant families to the table, not selling them out.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1746542147875062054"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans started this hearing with hyperbole and posturing, saying President Biden created the worst border crisis in American history. Thatâs not about oversight; itâs about stoking the fears of immigrants and asylum-seekers\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1623065546244648969"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR: 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This unjust, un-American bill is not about fixing the problem; it's about a disgusting desire to deport innocent children, detain unaccompanied minors, and waste millions of YOUR taxpayer dollars on a border wall that keeps no one safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1656734931932807199"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the 9th anniversary of #DACA! Immigrant youth & allies fought to win and protect this. We have to remember that DACA is temporary. President Biden and Dems in Congress must take immediate & bold action to deliver on a pathway to citizenship for millions.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1404820023416442881"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the anniversary of DACA bringing hope & opportunity to countless Dreamers who call America home. Let's celebrate their resilience, courage, & vibrant contributions to our nation! Together, we'll continue fighting for paths to citizenship that are compassionate & just.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1669438575291555840"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/209096/maxwell-frost/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am deeply saddened to see the news coming out of Israel and I condemn this vicious attack by Hamas. I also have deep concern about violence moving forward and pray for the safety of both the Israeli and Palestinian peoples. It's always the citizens that suffer the most.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMaxwellFrost/status/1710672366580228536"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukraine aid hasnât had a vote on the house floor since Iâve been in Congress. I support aid to Ukraine. We anticipate a bill later this week.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1780049715918176671"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ukraine aid hasnât had a vote on the house floor since Iâve been in Congress. I support aid to Ukraine. We anticipate a bill later this week.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1780049715918176671"
+        },
+        {
+          "type": "statement",
+          "text": "Endorsed by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/209096/maxwell-frost"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a NO on the TikTok bill we are about to vote on. I believe the bill does set TikTok up to be banned, there are first amendment issues I see with taking away a platform that over 170 million Americanâs use, and this wonât fix the serious issues we have with data privacy.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1767906660528349218"
+        },
+        {
+          "type": "statement",
+          "text": "\"between wanting to ban tiktok and hating on Rihanna, seems like the GOP is on a mission to completely demolish the small share of the youth vote they have.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaxwellFrostFL/status/1624409741941153792"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:09:26+00:00"
+}

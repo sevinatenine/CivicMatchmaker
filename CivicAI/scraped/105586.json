@@ -1,0 +1,424 @@
+{
+  "name": "Kevin Mullin",
+  "page_title": "Kevin Mullin's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 15, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 15",
+  "candidate_id": "105586",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/105586/kevin-mullin",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Heâll defend our democracy, strive to build an economy that works for all of us, and work to enshrine the reproductive rights of every woman by codifying Roe v. Wade into federal law â just like heâs doing in California.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The fight against right-wing extremism will be a generational battle. The #SCOTUS decision to overturn Roe is part of a effort to undermine majority rule in the U.S. When Dems are divided, we open the door to right wing extremism. United, we can fight back & win.\"",
+          "source": "x.com",
+          "url": "https://x.com/kevinmullin/status/1540756315462459392?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I commend President Biden for his leadership in fending off devastating cuts and protecting Social Security, Medicare, and Medicaid. While I oppose many provisions of the bill, right now my priority and that of my Democratic colleagues is to see the big picture and avert disaster\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKevinMullin/status/1664145729391321088?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs inexcusable that some public servants receive less social security benefits despite their dedication to educating our children, fighting fires & saving lives. Iâm proud to cosponsor the bipartisan Social Security Fairness Act to ensure they get the benefits they've earned!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKevinMullin/status/1626298738099601414?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 133 \"Expands Medi-Cal Eligibility to Low-Income Adults Regardless of Immigration Status\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31615/82262/105586/expands-medi-cal-eligibility-to-low-income-adults-regardless-of-immigration-status#82262"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to address the boom-bust revenue cycles experienced in recent decades. The state budgeting process needs procedural and structural reform. I support a two-year budget cycle, performance-based budgeting, and a \"pay-as-you-go\" approach (so when taxes are cut, or spending increases, the source of funds to offset those changes is identified) to bring more transparency and restore the public trust in California's budgeting process.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1285550/issue-position-continue-to-balance-the-state-budget-in-a-fiscally-responsible-manner"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 23 \"Family and Small Business Taxpayer Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34017/90306/105586/family-and-small-business-taxpayer-protection-act#90306"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Kevin will be a fierce proponent of getting dark money out of our elections, safeguarding our voting rights, and protecting the integrity of our elections from far-right extremists across America who aim to ignore and overturn lawful elections and the will of the people.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Wrote and passed the landmark California DISCLOSE Act, one of the nationâs toughest laws to ban dark money in our statewide election.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/105586/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Kevin advocated for and delivered over $1 Billion in Transportation Infrastructure Funding to the Peninsula during 10 years in the Assembly including: $200+ million for the Highway 101 managed lanes project through co-authorship of SB1; $600 million secured and legally protected for CalTrain electrification through authorship of AB1889; and carried the authorizing legislation for Measure W in San Mateo County which will generate over $40 million annually for 30 years.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/transportationfunding"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/105586/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Assembly, Kevin authored legislation to streamline the planning process and make it easier for school districts to build educator housing, created Affordable Housing Authorities (AHA), a redevelopment-like tool for local governments to build affordable housing, and prioritized the preservation of affordable units for Housing and Community Development funding.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/affordablehousing"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 2011 \"Establishes Affordable Housing and High Road Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32698/85651/105586/establishes-affordable-housing-and-high-road-jobs-act#85651"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 3300 \"Establishes the California Access to Housing and Services Fund\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28215/73162/105586/establishes-the-california-access-to-housing-and-services-fund#73162"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today the House joined Senate Democrats in passing the Inflation Reduction Act, an unprecedented investment in our future. This bill will reduce the deficit, mitigate the worst impacts of the climate crisis, & lower prescription drug costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/kevinmullin/status/1558237953553403904?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under @POTUSâs leadership, weâve seen historic job growth, rising wages & now falling inflation numbers that outpace any other G7 nation. Itâs clear, @Democrats' investments in the middle class are rebuilding a stronger economy for all of us.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKevinMullin/status/1679208554593415169?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 376 \"Establishes Protections for Student Loan Borrowers\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/29062/75654/105586/establishes-protections-for-student-loan-borrowers#75654"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SJR 1 \"Establishes Resolution Urging Student Debt Cancellation\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32162/84014/105586/establishes-resolution-urging-student-debt-cancellation#84014"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Kevin is a vocal proponent of the John Lewis Voting Rights Act, HR 1, the For the People Act, and the Protecting Our Democracy Act along with other federal protections for free and fair elections across the country.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Kevin will build on his record of expanding access to quality and affordable health care by fighting to pass Medicare for All, lowering the costs of prescription drugs, and doubling down on his climate action plan. When elected, Kevin will fight to deliver a Green New Deal that bolsters strong workforce protections, building on his landmark climate resilience work in California.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 100 \"Increases the State Renewable Energy Target\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25211/64001/105586/increases-the-state-renewable-energy-target#64001"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1441 \"Amends Oil Drilling Laws and Regulations\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27951/72318/105586/amends-oil-drilling-laws-and-regulations#72318"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1621 \"Limits the Manufacture of Ghost Guns\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33103/87415/105586/limits-the-manufacture-of-ghost-guns#87415"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 2571 \"Prohibits Marketing in Firearms to Minors; Authorizes Lawsuits\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33086/87336/105586/prohibits-marketing-of-firearms-to-minors-authorizes-lawsuits#87336"
+        },
+        {
+          "type": "statement",
+          "text": "\"@MomsDemand named me a #GunSenseCandidate because I've delivered on gun violence prevention. This year Iâm co-authoring legislation to allow private rights of action against gun manufacturers. Iâm proud of my lifetime \"F\" rating by the NRA. In Congress, I will continue this fight\"",
+          "source": "x.com",
+          "url": "https://x.com/kevinmullin/status/1534284586968133634?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Kevin will build on his record of expanding access to quality and affordable health care by fighting to pass Medicare for All, lowering the costs of prescription drugs, and doubling down on his climate action plan. When elected, Kevin will fight to deliver a Green New Deal that bolsters strong workforce protections, building on his landmark climate resilience work in California.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 78 \"Requires Citizens Purchase Health Insurance\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26719/67856/105586/requires-citizens-purchase-health-insurance#67856"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America should lead the world in National Paid Family Leave, instead we are the only developed nation whose citizens are not federally entitled to one. Kevin will advocate for a paid family and medical leave that is on par with most major developed countries. The majority of Americans want a federal paid family leave program, and two-thirds of small business owners agree. Itâs time for the federal government to give working families what they deserve.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/childcare"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 1383 \"Expands Protections for Paid Family Leave\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28226/75634/105586/expands-protections-for-paid-family-leave#75634"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Kevin will be laser-focused on real progressive solutions to bring down the costs of prescription drugs for all Americans and allow Medicare to negotiate prices directly with drug manufacturers, while also acknowledging the important role the life sciences play in our innovation economy and job creation in CA-15 and throughout California.\"",
+          "source": "www.kevinmullinforcongress.com",
+          "url": "https://www.kevinmullinforcongress.com/lowerrxcost"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/105586/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/105586/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:30:55+00:00"
+}

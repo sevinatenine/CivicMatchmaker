@@ -1,0 +1,580 @@
+{
+  "name": "Mike Collins' Issue Positions (Political Courage Test)",
+  "page_title": "Mike Collins' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 10, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (GA) - Sr",
+  "candidate_id": "151225",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/151225/mike-collins",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago today, the Supreme Court overturned Roe v. Wade, leading to countless lives being saved and bringing us one step closer to ending abortion in America. #ChooseLife\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeCollins/status/1672627705446117378"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am unapologetically pro-life. All human beings have a right to life, including unborn children, and I am thrilled that in our first week the new House Republican majority has voted to protect the most innocent and defenseless among us. I also proudly voted to condemn the left-wing violence against crisis pregnancy centers over the past year. These centers provide crucial assistance to mothers, babies, and families in need and must be protected.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-votes-protect-children-and-condemn-violence-against-pro-life"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Entitlement programs like Social Security, Medicare and Medicaid were created as a safety net for our most vulnerable citizens. For decades, however, these programs have ballooned in size and scope, now accounting for more than 50 percent of the federal budget. As with other federal programs, the pandemic further exacerbated costs and accelerated the crisis. Congress canât kick the can down the road any longer. Now, more than ever, we must reform our entitlement programs. This should be done by allowing people choices, increasing flexibility and including private sector solutions. Returning these programs to their original intent is also critical to cut costs and ensure long-term sustainability. Americans should be allowed to make their own health care and retirement decisions, not special interest groups, politicians and unelected bureaucrats. In Congress, I will fight to enact these reforms.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to support @WaysandMeansGOPâs Tax Relief for American Families and Workers Act. This pro-growth legislation provides critical tax reform to support American families, bolsters U.S. competitiveness, and discontinues wasteful COVID-era spending programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1752825191468540414"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lowering taxes and simplifying our tax code are the keys to prosperity for all Americans. President Biden and Democrats want to overturn President Trumpâs tax cuts and hike taxes across the board, including capital gains and death taxes. Biden also plans to increase taxes on corporations, putting these major employers at a severe disadvantage against other countries. In Congress, I will work to ensure the tax cuts in the \"Tax Cuts and Jobs Act\" are made permanent. I will never support a tax increase in Congress, and I will fight to curb wasteful spending. I will take on government overreach, which is funded by taxpayer dollars, and work to cut waste, fraud and abuse.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to support @WaysandMeansGOPâs Tax Relief for American Families and Workers Act. This pro-growth legislation provides critical tax reform to support American families, bolsters U.S. competitiveness, and discontinues wasteful COVID-era spending programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1752825191468540414"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lowering taxes and simplifying our tax code are the keys to prosperity for all Americans. President Biden and Democrats want to overturn President Trumpâs tax cuts and hike taxes across the board, including capital gains and death taxes. Biden also plans to increase taxes on corporations, putting these major employers at a severe disadvantage against other countries. In Congress, I will work to ensure the tax cuts in the \"Tax Cuts and Jobs Act\" are made permanent. I will never support a tax increase in Congress, and I will fight to curb wasteful spending. I will take on government overreach, which is funded by taxpayer dollars, and work to cut waste, fraud and abuse.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/151225/mike-collins"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 40 \"Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enfo ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H J Res 42 \"Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Re ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/20/criminal-justice"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our law enforcement officers and first responders risk their lives on a daily basis, and they deserve our support and gratitude. As the Radical Left continues its efforts to \"defund the police,\" the disastrous consequences are evident everywhere. Crime is skyrocketing across the country, police officer morale is at an all-time low, and many continue to leave the force. In Atlanta alone, violent crime is at an all-time high, yet recruitment and retention of public safety officers is at an all-time low. Families, citizens and job creators fear for their public safety. Something must be done. It is time for elected officials and citizens to stand up to the Radical Left and stand up for law and order. I stand with our brave law enforcement officers and oppose any effort that undermines or seeks to defund police.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"Members of the Armed Forces and their families sacrifice so much to protect our freedoms, many of which are taken for granted. They deserve all the support promised to them, while serving overseas and once they return home. Whether itâs world class medical care, education support or assistance in starting a business when they return home, they are entitled to our gratitude and support. Before we take care of illegals and criminals, we should be rolling out the red carpet to honor those who allow us our freedoms. In Congress, I will prioritize military funding for our Armed Forces both overseas and back at home.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We owe our Veterans a debt of gratitude that we canât ever repay. We, also, owe our current members of the military all the tools that they can get in their toolbox.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-addresses-veterans-appropriations-bill"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Getting government out of the way and providing job creators the environment they need to flourish is the single-most important thing we can do to get this economy moving again.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pass the Limit, Save, Grow Act to stop Bidenâs spending spree and get us on a path to reducing the national debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1654176566962683908"
+        },
+        {
+          "type": "statement",
+          "text": "\"Passage of a Balanced Budget Amendment will help restore fiscal responsibility and sustainability to Washington, D.C. Runaway federal spending, out-of-control borrowing and kicking the can down the road are threatening both our economic and national security. Further, we are saddling future generations with trillions of debt and its dire consequences. The federal government should follow the role of 49 states with balanced budget requirements and operate within its means.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Most Americans canât afford to buy the average home because the government artificially plays with interest rates and causes inflation by printing money it doesnât have. Bidenâs policies are making Americans poor.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1715005455183818816"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our national debt is at a historic high, and spending is out-of-control. Prior to the pandemic, our national debt was $23 trillion. In the year since, weâve tallied up trillions more in the form of Covid relief packages. Under President Biden and Congressional Democrats, there is no end in sight. Our nation is at a tipping point. Americans are already seeing the effects of inflation and a stagnant economy, and something must be done. In Congress, I will work to enact a balanced budget amendment, cut federal spending, reduce the national debt and limit the size and scope of government.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Everyday hardworking Americans who either chose not to attend college or who have paid off their loans are on the hook for the financial decisions of others. You tell me, does that sound like a fair shake for the American taxpayer? It's not even clear if the President has the authority to do this. He hijacked a law meant to help veterans who had served their country following 9/11 to justify this unprecedented bailout. House Republicans are standing up to this administration's unreasonable and irresponsible policies.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-blasts-biden-student-loan-bailout-floor-speech"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS on a roll! Yesterday: strikes down racist college admissions policies. Today: says Colorado canât force Christians to create LGBTQ propaganda and declares Bidenâs student loan bailout illegal. Big couple days for the Constitution and the rule of law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1674789549363560454"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, after having the privilege to preside over the House floor, I addressed the Biden administrationâs unreasonable and irresponsible student loan forgiveness plan!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1671595864886853639"
+        },
+        {
+          "type": "statement",
+          "text": "\"We just hit $33 trillion on the National Debt equating to $99,000 per person in America. Instead of cutting spending to bring down inflation, Biden plans on firing up the money printers to forgive another $9 billion in student loans. We're. Spending. Money. We. Don't. Have.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1710347291876278500"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Safe and secure elections are the cornerstone of our democracy and must be protected at all costs. The voting irregularities in Georgia and around the country last year underscore the need for common sense reforms. Rooting out fraud and safeguarding the integrity of our system is critical, and I applaud the passage of Georgiaâs Election Integrity Act. Requiring an ID to vote, securing absentee ballots, increasing poll watchersâ access, and eliminating private funding for county elections offices will make it easier to vote and harder to cheat. But we canât stop there. The Democrats in Congress and leftwing activists like Stacey Abrams and Fair Fight are determined to enact a federal takeover of state elections. While Republicans recently blocked HR 1, which would rig future elections for the radical left, we must remain vigilant. In Congress, I will prioritize election integrity and fight any federal takeover of our election laws.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Forcing Americans to buy electric vehicles wonât satisfy left-wing green dreams. It takes fossil fuels to produce electricity and more mining to make EV batteries, both of which Biden opposes. Let the market work, and stop trying to dictate how we travel.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1626250056738430977"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 86 \"Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 987 \"Denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/29/energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden has been draining our strategic oil reserve with no plan to refill it. Thatâs a serious threat to Americaâs national security, so today, I was proud to join the House GOP to pass legislation to force the Biden administration to make a plan â to increase domestic energy production or stop selling off our nationâs vital oil reserves. Energy security is national security.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-votes-protect-american-strategic-petroleum-reserve"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Forcing Americans to buy electric vehicles wonât satisfy left-wing green dreams. It takes fossil fuels to produce electricity and more mining to make EV batteries, both of which Biden opposes. Let the market work, and stop trying to dictate how we travel.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1626250056738430977"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of cutting deals with socialist dictators for oil, we should drill our own.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1714289888785527174"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs war against U.S. energy independence is not just killing the economy but weakening our national security. We still need that oil and this administration knows it. Rather than drilling ourselves, we're empowering our adversaries as Biden turns to them for the very same resources.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1700159299375321395"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden has been draining our strategic oil reserve with no plan to refill it. Thatâs a serious threat to Americaâs national security, so today, I was proud to join the House GOP to pass legislation to force the Biden administration to make a plan â to increase domestic energy production or stop selling off our nationâs vital oil reserves. Energy security is national security.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-votes-protect-american-strategic-petroleum-reserve"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"First rule of gun safety: Never let the government take your guns.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeCollinsGA/status/1501221668169170959"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151225/mike-collins"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our right to keep and bear arms is a fundamental right that \"shall not be infringed,\" spelled out in the United States Constitution. Our Founding Fathers did not have sportsmen or hunting in mind when they wrote this. Their intent was to protect citizens from a tyrannical government. The Biden Administration and Democrats in Congress, however, are determined to destroy our Second Amendment rights. Along with deep-pocketed special interest groups, they are working to ram through gun-grabbing measures at every level of government in every corner of the United States. They must be stopped. I support Constitutional Carry and will oppose any legislation or bureaucratic effort that undermines our Constitutional right to keep and bear firearms.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/151225/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The fact that we have borders that are just porous, with record numbers of people crossing, and here we are setting them up in rooms with food. Yet, weâve got Veterans all across this country living under bridges.\"",
+          "source": "collins.house.gov",
+          "url": "https://collins.house.gov/media/press-releases/collins-addresses-veterans-appropriations-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is a crisis on our Southern border caused by Democrats and ignored by the mainstream media. Joe Biden and Kamala Harris reversed two of President Trumpâs most successful border security policies, and now illegal immigrants are flooding into our country in record numbers. In fact, since overturning Trumpâs Remain in Mexico Policy and Title 42, itâs almost impossible for Border Patrol and law enforcement officials to stop anyone crossing our border. This is not only a national security threat and a humanitarian crisis, it also harms those coming into our country legally. In order to secure our borders and uphold the rule of law, we must: Finish construction of the wall. Enforce the immigration laws already on the books. Oppose amnesty. Reinstate the Remain in Mexico policy and Title 42 authorities. End chain migration and birthright citizenship. Eliminate welfare incentives for illegal immigrants.\"",
+          "source": "mikecollinsga.com",
+          "url": "https://mikecollinsga.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 1065 \"Denouncing the Biden administration's immigration policies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5283 \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hey Veep, if you want to keep us safe, secure the border and deport the 6 million illegals youâve let into our country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1705375834016792859"
+        },
+        {
+          "type": "statement",
+          "text": "\"Really appreciate @thelauracoates from @CNN having me on to discuss the Laken Riley Actâs introduction into the Senate. This common-sense legislation: Gives ICE more tools to detain and deport illegal immigrants before they commit more serious crimes. Allows states to sue the federal government for not enforcing parole\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1770456519751909574"
+        },
+        {
+          "type": "statement",
+          "text": "\"The only DEI I'm for is Deport Every Illegal.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1752784237743194542"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 1065 \"Denouncing the Biden administration's immigration policies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rather than impose economic sanctions on Iranâthe largest state sponsor of terrorismâthe Biden administration has released billions in resources that have gone to fund attacks on U.S. facilities/assets.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1761067829531410678"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. and Israel have a strong partnership that goes back more than 75 years. I was proud to vote in support of this resolution yesterday which condemned antisemitism and reiterated our support for Israel.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeCollins/status/1681685437075660808"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7217 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36415/97653/151225/israel-security-supplemental-appropriations-act-2024#97653"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last week, I voted to restrict sending more tax dollars to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1684201822464909313"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151225/mike-collins/89/foreign-aid"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unrestrained U.S. aid for Ukraine must come to an end, and we will adamantly oppose all future aid packages unless they are linked to a clear diplomatic strategy designed to bring this war to a rapid conclusion.\"",
+          "source": "www.lee.senate.gov",
+          "url": "https://www.lee.senate.gov/2023/4/group-of-senators-and-house-members-express-concern-over-u-s-aid-to-ukraine/c26d8bf1-927f-46fe-9221-9fbf235e4839"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Banning TikTok is not a partisan issue. Iâm proud to join my colleagues on both sides of the aisle in investigating itâs harmful use and breach of Americansâ privacy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1640057655648550912"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Chinese version of TikTok amplifies content in STEM and patriotism. The U.S. version of the app promotes degenerate behavior and anti-American brain rot. @RepGallagher is spot on: TikTok is digital fentanyl made by China.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCollins/status/1720459057494937729"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/151225/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:06:23+00:00"
+}

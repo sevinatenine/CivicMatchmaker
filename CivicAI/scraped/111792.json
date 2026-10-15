@@ -1,0 +1,388 @@
+{
+  "name": "Laura Friedman",
+  "page_title": "Laura Friedman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 30, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 30",
+  "candidate_id": "111792",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/111792/laura-friedman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Coauthored SCA 10, the Constitutional Amendment to protect reproductive freedom, including the fundamental right to choose an abortion and contraceptives\"",
+          "source": "www.lauraforcongress.org",
+          "url": "https://www.lauraforcongress.org/"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support pro-choice or pro-life legislation? \"Pro-Choice\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the prohibition of public funds for organizations that perform abortions? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support raising taxes on any income or on any entity, to promote economic growth? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of campaign contributions from corporations, unions, and individuals? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This morning, my colleagues and I paid tribute to George Floyd and all the innocent black lives we have lost to police abuse in this country. Institutional racism runs deep, and we have a responsibility to abolish it in every facet of our society.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1270573426214756352?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have worked to make housing more affordable while ensuring that solutions are compatible with our neighborhoods. I have prioritized getting people off the streets and into housing with supportive services.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        },
+        {
+          "type": "statement",
+          "text": "\"Laura believes that housing affordability and homelessness is Los Angelesâ most urgent crisis. Laura has worked to increase our affordable housing stock; cut red tape that has prevented the development of housing; voted to invest billions of dollars in funds towards new housing and homelessness services; increased tenant protections; and fought hard to make sure those living on our streets have access to the care and services they need.\"",
+          "source": "www.lauraforcongress.org",
+          "url": "https://www.lauraforcongress.org/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support requiring a government-issued photo identification in order to vote at the polls? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Laura is uncompromising in her commitment to combating the climate crisis through increased utilization and development of clean energy and promoting sustainable methods of transportation for people and goods.\"",
+          "source": "www.lauraforcongress.org",
+          "url": "https://www.lauraforcongress.org/"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support state funding for the development of renewable energy (e.g. solar, wind, geo-thermal)? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        },
+        {
+          "type": "statement",
+          "text": "Should a license be required for gun ownership? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        },
+        {
+          "type": "statement",
+          "text": "Should background checks be required on gun sales between private citizens at gun shows? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support a government-run (single-payer) healthcare program such as Medicare-for All? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support expanding paid family AND/OR medical leave opportunities? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/111792/laura-friedman"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1246: \"Requires Large Group Health Plans to Cover Medically Necessary Prescription Drugs\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26963/69039/111792/requires-large-group-health-plans-to-cover-medically-necessary-prescription-drugs#69039"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our nation was built on the contribution of immigrants. Trumps policies are, in a word, UnAmerican. Also cruel, inhuman, undemocratic, untruthful, polluting, and lots of other bad things.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1024716106915663872?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have received confirmation that ICE will begin immigration sweeps throughout SoCal this weekend. To our immigrant families, neighbors, and friends â please know that we are here for you. Please share this information so everyone who could be affected knows their rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1142206061585166336?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our nation was built on the contribution of immigrants. Trumps policies are, in a word, UnAmerican. Also cruel, inhuman, undemocratic, untruthful, polluting, and lots of other bad things.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1024716106915663872?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is a major relief & a step forward to protect our immigrant friends & neighbors. Now we need to build off this momentum and continue the fight to provide a permanent pathway to citizenship for the dreamers & their families who call our nation home.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1273644605175508992?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have received confirmation that ICE will begin immigration sweeps throughout SoCal this weekend. To our immigrant families, neighbors, and friends â please know that we are here for you. Please share this information so everyone who could be affected knows their rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/LauraFriedmanCA/status/1142206061585166336?s=20"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:30:34+00:00"
+}

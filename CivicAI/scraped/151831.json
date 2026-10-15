@@ -1,0 +1,604 @@
+{
+  "name": "Jay Obernolte",
+  "page_title": "Jay Obernolte's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 23, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (CA) - District 23",
+  "candidate_id": "151831",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/151831/jay-obernolte",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by California Pro-Life Council",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 15% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/38/health-and-health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted \"yes\" on final passage of HR 1868, a bill to prevent automatic cuts to Medicare triggered by the $1.9T spending bill. The stimulus bill was dangerously oversized, but it would be wrong to allow the consequences of this irresponsible spending to fall on vulnerable seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1382459063603236866?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I am working to eliminate wasteful spending, cut the red tape holding back small businesses, and lower taxes to encourage job growth.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/jobs-economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"The pending reconciliation bill is both the largest spending package & largest tax increase in American history, while our national debt & budget deficit are already at record highs. Instead we should balance the budget and get our country back on track.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1444018274077904905?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 57% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 1253 \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I am working to eliminate wasteful spending, cut the red tape holding back small businesses, and lower taxes to encourage job growth.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/jobs-economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"The pending reconciliation bill is both the largest spending package & largest tax increase in American history, while our national debt & budget deficit are already at record highs. Instead we should balance the budget and get our country back on track.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1444018274077904905?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 1253 \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Although reforms are needed to ensure safer interactions with the police, defunding law enforcement is certainly not a viable option, and stripping them of their ability to keep us safe is a dangerous path for our nation. I support common sense reforms to our justice system, including better training, an end to the use of choke holds, and increased transparency, but we must ensure those reforms do not hinder law enforcementâs ability to act in the moments when we need them most.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1367302681816166401?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill eliminates qualified immunity which protects law enforcement personnel from frivolous lawsuits unless they violate a personâs rights or break the law. Our police need to know they can take proper & necessary actions w/o fear of being sued for simply doing their jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1367302681816166401?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Congress crafts the FY2024 National Defense Authorization Act, Iâm proud to have secured the inclusion of my provision to increase support services on remote and isolated bases like those located in our district.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1674065114201305096?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In addition to including the provisions authored by Congressman Obernolte, the FY24 NDAA authorizes $50 million in Impact Aid assistance to public schools with military dependent students and $20 million in assistance to local schools teaching children with severe disabilities.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/media/press-releases/rep-obernolte-secures-wins-high-desert-bases-communities-and-king-hammers-2024"
+        },
+        {
+          "type": "statement",
+          "text": "\"This yearâs National Defense Authorization Act provides critical direction for our nationâs military & strengthens our armed forces now & into the future. I'm proud to have secured the inclusion of multiple provisions to improve life for our military families & servicemembers and to support our base-adjacent communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1679939401378406405?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am dedicated to finding solutions that will balance the federal budget, lower government spending, and rein in our national debt.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/budget"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I opposed the $1.9 trillion stimulus package voted on in the House. Congress should be focused on reopening schools and businesses, not on passing $1.9 trillion of pork.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1369746379635974144?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2617 \"Consolidated Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2872 \"Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This article does a great job explaining why the Presidentâs new student loan forgiveness plan fails the lower and middle class. ð§µ\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1562921793442177024?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association (NEA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against SB 100 \"Increases the State Renewable Energy Target\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25211/64001/151831/increases-the-state-renewable-energy-target#64001"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against SB 350 \"Establishes Renewable Energy Production Targets\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/20173/53943/151831/establishes-renewable-energy-production-targets#53943"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/29/energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Californiaâs Green New Deal experiment has made energy both more unreliable and much more expensive. In my new op-ed with @RepJeffDuncan for the @dcexaminer, we discuss how an \"All of the Above\" energy policy can restore America's energy future.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1589828737990029312?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gas prices continue to break records this week, and the prices in our district are some of the highest in the country. The answer to this problem is expanding domestic production and returning America to energy independence\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1534269839463927810?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the face of rising gas prices, the federal govt has continued to restrict domestic energy production & encourage importation of foreign energy instead. America produces the cleanest energy in the world. Congress MUST renew American energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1512510087218311170?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/151831/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America (GOA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association (NRA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151831/jay-obernolte/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/151831/bipartisan-background-checks-act-of-2021#77848"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/151831/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A one-size-fits-all Washington approach does not work for the disparate communities like ours.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/healthcare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Single-payer healthcare came in at a whopping $400 billion, twice the amount of our budget. What's the cost to CA?\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/867099088373690368?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/151831/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against AB 3216 \"Expands Medical Leave Protections for Workers during the COVID-19 Coronavirus Pandemic\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28414/73569/151831/expands-medical-leave-protections-for-workers-during-the-covid-19-coronavirus-pandemic#73569"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against SB 1383 \"Expands Protections for Paid Family Leave\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/151831/jay-obernolte/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/151831/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against SB 852 \"Establishes the California Affordable Drug Manufacturing Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/29063/75664/151831/establishes-the-california-affordable-drug-manufacturing-act-of-2020#75664"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5283 \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36064/96417/151831/protecting-our-communities-from-failure-to-secure-the-border-act#96417"
+        },
+        {
+          "type": "statement",
+          "text": "\"ICYMI â This week President Biden announced his new immigration plan and a long called-for trip to the southern border. The plan includes an expansion of humanitarian programs, but unfortunately no additional physical border security to keep our community safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1611880110671421440?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is critical that we work to secure our southern border and stop the flow of illegal immigrants, drugs, and human trafficking into the United States.\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/immigration-border-security"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/151831/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34930/92230/151831/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/151831/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "\"However, the immigration process must be respected, and our immigration laws must be followed\"",
+          "source": "obernolte.house.gov",
+          "url": "https://obernolte.house.gov/issues/immigration-border-security"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/151831/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was honored to attend Ukrainian President Volodymyr Zelenskyyâs address to Congress today. It is critical that the U.S. continue to implement sanctions against Russia, work to deter Russia from continuing its unjust invasion of Ukraine & stand firm in defense of world peace.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1504263574553829378?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Russia's invasion violates the basic right of self-determination. Strong sanctions can help deter Russia, but Pres Biden must also permit increased domestic energy production. Otherwise these sanctions will further increase energy prices for Americans already suffering inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1496528382644862979?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35952/96006/151831/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/151831/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined @LATimes reporter @EliStokols ahead of Tuesday's #SOTU to discuss the importance of addressing inflation and the Presidentâs response to Ukraine. Although Iâm glad @POTUS mentioned inflation in this address, his response should have called for less spending, not more.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1499443063843864591?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/151831/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/151831/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a software engineer, I am skeptical it is technically possible for TikTok to do what they've proposed to separate their platform from foreign intervention and keep Americans safe.\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"At todayâs House Science Investigations & Oversight hearing, I highlighted the need for balance between transparency & user privacy in social media research, as well as the need to protect free speech while reducing the spread of misinformation.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1442983108702183433?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The advent of social media has shifted the way people communicate and connect. We cannot let free speech be marginalized as platforms attempt to moderate content. Our #CommitmentToAmerica puts people ahead of politics in protecting your freedom online.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1575215454540414977?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was granted extra time by my colleagues in @HouseCommerce yesterday to continue pressing TikTok CEO Shou Chew on whether Americansâ data can really be firewalled from Chine (what TikTok calls \"Project Texas\"). My assessment is that itâs just not technically feasible.\"",
+          "source": "x.com",
+          "url": "https://x.com/JayObernolte/status/1639402965609091072?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:23:00+00:00"
+}

@@ -1,0 +1,574 @@
+{
+  "name": "Carlos Giménez",
+  "page_title": "Carlos Giménez's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 28, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 28",
+  "candidate_id": "81366",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/81366/carlos-gim-nez",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today's #Dobbs decision is a huge win for the Constitution. I applaud the Supreme Court for siding with the Constitution and not giving in to the social and political pressures that sought to influence our Courtâs jurisprudence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1540371942980689921"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/2/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 25% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/81366/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week I signed the @taxreformerâs Taxpayer Protection Pledge to ensure taxes are not raised on hard-working Americans and small businesses. ðºð¸ I will never support increasing taxes on mom-and-pop shops and hardworking, middle-class Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1621605727138709506"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/81366/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/12/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve worked to preserve qualified immunity and getting officers the resources they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1420792117564166152"
+        },
+        {
+          "type": "statement",
+          "text": "\"In a typical Congress, Pelosi would bring Republicans and Dems together on needed police reforms. Not in this dysfunctional Congress. Instead, we got a bill stripping police officers from qualified immunity that weakens, possibly destroys, our communitiesâ police forces.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1367271744743038985"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/61/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/81366/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Member of the Armed Services Committee, I was proud to vote for this yearâs National Defense Authorization Act to FULLY fund our military, increase salaries for our soldiers, and strengthen our military bases in South Florida!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1735324981267943541"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress must reduce spending, bolster our military capabilities, and avoid shutting down the government!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1705293339287839144"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/81366/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/81366/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We can't continue down the path of wasteful, out-of-control spending!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1662114376386596865"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/81366/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/81366/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/81366/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans are experiencing the highest inflation in 40 years. Real, every day, hardworking Americans are struggling to put food on the table and meet basic necessities. Bidenâs massive, multi-trillion dollar tax-and-spend policies are to blame.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1498847251812204554"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are 2 things you donât do in a recession: 1) Spend more money when you have inflation 2) Raise taxes The Biden Administration has done BOTH with their Bill. American families are already struggling - this is not what we need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1559281711309099008"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/81366/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Failed \"Bidenomics\" is entirely responsible for the cost-of-living crisis & record inflation American families are facing. This #SuperBowl Sunday is one of the most expensive BECAUSE of Bidenâs failed tax & spend policies!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1756755694668202084"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The problem with Bidenâs student debt cancellation plan is it gives money to the top percent of Americans. Now, every day, hard-working Americans will pay higher taxes in order to bail them out. Itâs not the right thing to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1562472969724919808"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/81366/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans SUPPORT voter ID laws and ensuring our elections are safe and secure. As one of the only Members of Congress who actually has had to implement election protocols, I speak on authority when it comes to our elections â the bill was a travesty for American voters.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1407695974592565248"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pelosi wants a federal takeover of elections. Unlike her, I actually implemented election security protocols as Mayor of Miami-Dade County. I reject: â Taxpayer-funded campaigns â Weaponizing the FEC and the IRS â Ending voter ID laws â Destroying the 1st amendment\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1366826966108807173"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/81366/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Energy needs an all the above approach, and we have plenty of it here in America. Itâs too bad Biden is set on destroying our oil and gas industry while pushing for Green New Deal nonsense. Letâs invest in oil and gas, in renewables, and nuclear. Letâs invest in America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1564628810686947330"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/81366/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden needs to STOP negotiating with dictators for oil and produce more RIGHT HERE IN AMERICA - not Venezuela, not Iran, not Saudi Arabia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1501232751512412160"
+        },
+        {
+          "type": "statement",
+          "text": "\"NO MORE RUSSIAN OIL. Itâs time to produce more energy right here in America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1497668520204648450"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obama advisors recommend we import more oil from Saudi Arabia and Iran rather than producing more HERE. I donât know about you but I want to put American oil, American people, and American jobs FIRST.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1498767927440560131"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/30/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 42% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/81366/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If it were up to him, HHS Secretary Nominee Xavier Becerra would implement Bernie Sanders' Medicare-for-All. Bernie's plan eliminates private health coverage, making you 100% dependent on the government for your basic healthcare. Reminds me of Cuba.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1366521950974193669"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/81366/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/81366/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden blatantly VIOLATED the law, ignored the will of Congress, and purposely destroyed any semblance of rule of law at our Southern Border. Biden says one thing and does another. The truth is our border is more dangerous than ever before!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1797966869904912598"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 62% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/40/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Bidenâs reckless policies have created the worse border crisis in American history!President Trump will enforce our laws, secure our borders, & deport those illegal migrants committing crimes in our country!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1803503276035547404"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first thing President Biden needs to do is restore the Remain in Mexico policy and combat the reckless border crisis he created!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1766610582034055225"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/81366/carlos-gimenez/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/81366/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that President Biden is lifting oil sanctions on Nicolas Maduroâs brutal regime in #Venezuela? Socialist Venezuela is allied with the regime in Iran, which is funding Hamasâ terrorist war against #Israel. Bidenâs policy is truly pathetic.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1714276097943294052"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden has been totally INCOMPETENT on #Iran. Biden has loosened sanctions on the regime in Iran, which has allowed the Ayatollah to funnel even more money to Hamas terrorists in Gaza. America must toughen up on #Iran & fully support #Israel!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1712907833384005656"
+        },
+        {
+          "type": "statement",
+          "text": "\"The military dictatorship in #Cuba is welcoming Russian military ships to their ports and yet President Biden is rewarding the Castro regimeâs pathetic behavior with sanctions relief!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1798779358880075932"
+        },
+        {
+          "type": "statement",
+          "text": "\"The sanctions must REIMPOSED NOW & #Iran must face MAJOR consequences for targeting & murdering US troops!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1753547719333826863"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Meeting with dear friends from #Ukraineâs Parliament on US support for their defense against brutal dictator Vladimir Putinâs murderous invasion of their country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1666181927957667840"
+        },
+        {
+          "type": "statement",
+          "text": "\"We stand with the brave people of #Ukraine in their struggle for freedom against Putinâs despicable, murderous invasion.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1668263730700853251"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I disagree with the Biden Administrationâs strategy, abandoning #Ukraine right now sends an awful message that the US is not a reliable security partner â especially at a time when Communist #China is threatening so many of our allies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1708838077727211751"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/81366/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ban. TikTok. Now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1623158833257349120"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Communist regime in Beijing is harvesting data from millions of Americans through #TikTok. The Senate just passed a #TikTok ban on all government devices. This must be expanded to include all American devices â now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarlos/status/1603428027073187842"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T01:01:48+00:00"
+}

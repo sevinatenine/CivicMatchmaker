@@ -1,0 +1,610 @@
+{
+  "name": "Mike Thompson",
+  "page_title": "Mike Thompson's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 4, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 4",
+  "candidate_id": "3564",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3564/mike-thompson",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The right to an abortion has been settled law for nearly 50 years since Roe was established back in 1973,\" said Thompson. \"The draft Supreme Court decision is deeply troubling and problematic as it would allow states to criminalize abortion and ban it.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1608509/thompson-releases-statement-following-report-of-drafted-supreme-court-decision-gutting-roe-v-wade"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/3564/mike-thompson"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security is an essential program that every employed American pays into over the course of their career. 145,474 constituents in our district receive Social Security benefits every year, and we must ensure these benefits keep up with the needs of beneficiaries.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636017/thompson-releases-statement-on-social-security-benefit-increases/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Democrats are working to protect and expand Social Security, extreme MAGA Republicans have unveiled a plan to end Social Security and Medicare as we know it. This would make it even harder for Californians to prepare for retirement.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636017/thompson-releases-statement-on-social-security-benefit-increases/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/3564/mike-thompson/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your representative in Congress I will continue working to solve our fiscal crisis through a balanced approach that cuts spending, requires fairness and encourages economic growth.\"",
+          "source": "www.mikethompsonforcongress.com",
+          "url": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+        },
+        {
+          "type": "statement",
+          "text": "\"To get our fiscal house in order, we have to reform our tax structure so that everyone plays by the same rules and everyone pays their fair share.\"",
+          "source": "www.mikethompsonforcongress.com",
+          "url": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have to make sure everyone pays their fair share. There is a growing gap between the wealthiest Americans and the rest of us...This isnât sustainable. To get our fiscal house in order, we have to reform our tax structure so that everyone plays by the same rules and everyone pays their fair share.\"",
+          "source": "www.mikethompsonforcongress.com",
+          "url": "https://www.mikethompsonforcongress.com/issues/fiscal-responsibility"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/3564/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to cosponsor the Democracy for All amendment, legislation that will overturn the Citizens United decision so we can get big money out of our politics and ensure our government works for the people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1087729198398087170"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Most Americans agree that the rise of big money in politics undermines the basic guiding principle of our democracy--that every citizen enjoys equality under the law and an equal voice in our elections. While we believe that amending the Constitution should be reserved only for times when no other recourse will do, we have seen the impact of these decisions, and we are convinced that an amendment is ripe for consideration.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/943321/letter-to-bob-goodlatte-chairman-and-john-conyers-ranking-member-of-the-house-judiciary-committee-overturning-citizens-united"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Recent media reports indicate that several controversial policy riders designed to dramatically reshape federal campaign finance law are currently being considered for inclusion in the FY2018 omnibus spending package.[1] Specifically, it has been reported negotiators are considering: the elimination of coordinated spending limits on political parties, a repeal of the so-called Johnson Amendment, which bars religious institutions from explicitly endorsing or opposing political candidates, and the enactment of additional prohibitions on the authority of the Securities Exchange Commission, the Internal Revenue Service, and the Executive Branch to apply commonsense transparency measures to certain political activity. Each of these changes would have dramatic implications for our nation's campaign finance system, widening the channels of influence for wealthy and well-connected campaign donors and further exacerbating the flood of undisclosed and unaccountable \"secret money\" into our political system.[2] Yet, the 115th Congress has not held one hearing, commissioned a single study, nor investigated in any serious way the ramifications of these ill-conceived policy riders. Put simply, it is irresponsible for Congress to advance these campaign finance changes without due deliberation and public debate.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1232820/letter-to-the-hon-paul-ryan-speaker-of-the-house-the-hon-nancy-pelosi-house-minority-leader-the-hon-mitch-mcconnell-senate-majority-leader-and-the-hon-charles-schumer-senate-minority-leader-stop-controversial-spending-bill-provisions-that-would-increase-secret-money-in-politics"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/3564/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Led by the Congressional Black Caucus, I was proud to vote for and pass the Justice in Policing Act. This bill includes three areas of reform to correct the decades of structural bias, discrimination and racism in our nation's policing. That includes changes to hold police accountable through our court system, systems to better collect data that will provide transparency about misconduct, and programs to improve training that will address bias and aggressive tactics. This is a critical step forward, but it is just the start of our work. We all can and must do more.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1443179/thompson-marks-passage-of-justice-in-policing-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"Though nothing can bring back George Floyd, I hope that today's guilty verdict can bring his family and friends some peace. And I hope that this measure of accountability for his tragic death can help our nation heal. As we mark this verdict, may we also recommit to the work that must be done to fix the historic and systemic racism that led to George's death and the unwarranted deaths of many Black Americans and people of color. No one is above the law and we must work to ensure full equality for all. Together as a community, let us pray for George Floyd's family and loved ones as they continue to mourn his loss. We must continue our peaceful protests as we work toward justice and equality for all Black Americans and people of color facing racism and discrimination day in and day out. We can and must build a better nation together.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1524667/thompson-releases-statement-on-verdict-in-george-floyd-murder-trial"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/3564/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a former member of the House Permanent Select Committee on Intelligence and a Vietnam combat veteran, I'm well aware of the threats America faces. I'm committed to providing our Armed Forces and Intelligence Community everything they need to defend our nation.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/national-defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States must not back down from our commitment to democracy, and our country must continue to stand unified with Ukraine against autocracy and this blatantly illegal attack. I am proud to have Voted in favor of legislation to provide Ukraine with the resources they need to repel this invasion.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-releases-statement-one-year-putins-full-scale-illegal-invasion"
+        },
+        {
+          "type": "statement",
+          "text": "\"While it's always best to resolve our conflicts peacefully through diplomatic means, I will keep supporting necessary resources for our Armed Forces so they are ready and able to defend us.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/national-defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Chair of the Ways and Means Subcommittee on Select Revenue Measures, which has jurisdiction over tax policy, I'm committed to laying the groundwork for a fiscally responsible future. I support a balanced approach that asks everyone to pay their fair share in taxes, cuts spending and grows our economy.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/fiscal-responsibility"
+        },
+        {
+          "type": "statement",
+          "text": "\"Federal investment in workforce development has fallen markedly over time. As a result, essential workforce development services are frequently unavailable to the people who need them most. Strengthening WIOA programs is a key tool to help Americans get back to work and support businesses. As the country recovers from the pandemic, the Workforce Innovation and Opportunity Act of 2022 will provide more workers with pathways to better-paying jobs, lower costs, and strengthen our economic recovery.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1608515/thompson-votes-to-invest-in-workforce-development-programs"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2872 \"Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3746 \"Fiscal Responsibility Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A longstanding, nationwide shortage of affordable housing leaves millions of Americans at risk of homelessness and causes too many families and individuals to fall into homelessness. However, the HAG Continuum of Care (CoC) and Emergency Solutions Grants (ESG) programs are successfully used by state and local governments, as well as an extensive network of providers of shelter and housing services in hundreds of American communities, to reduce homelessness.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1526176/letter-to-the-hon-david-price-chairman-of-the-house-subcommittee-on-transportation-housing-and-urban-development-and-related-agencies-and-mario-diaz-balart-ranking-member-congresswoman-gwen-moore-leads-effort-in-calling-for-a-funding-increase-for-mckinney-vento-homeless-assistance-grant-programs"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our region is far too familiar with the devastating impact of the lack of affordable housing, a problem that has only been exacerbated by the recent fires and by the Coronavirus pandemic. We need solutions to help families afford housing now more than ever,\" said Representative Thompson. \"That's why I am proud to be a coauthor of the Affordable Housing Redevelopment Act, which reauthorizes the important Neighborhood Stabilization Program and provides $1.5 billion to turn old and vacant properties into affordable housing specifically to help those with the greatest need.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1509811/feinstein-padilla-huffman-thompson-introduce-bill-to-increase-supply-of-affordable-housing/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Rep. Mike Thompson (CA-04) joined Burbank Housing, Related California, and leaders from Sonoma County to celebrate the grand opening of Laurel at Perennial Park, a new affordable housing development built at the site of the former Journeyâs End Mobile Home Park that was tragically destroyed in the 2017 Tubbs wildfire.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-burbank-housing-related-california-and-community-leaders-celebrate"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Mike Thompson played an integral role in crafting Democrats' Inflation Reduction Act -- helping secure a cleaner, more sustainable future for families in California and across the country,\" Speaker Nancy Pelosi said.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636006/thompson-votes-to-pass-inflation-reduction-act-cutting-costs-for-families-and-investing-in-climate-action/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Rep. Mike Thompson (CA-04) celebrated the one-year anniversary of the Inflation Reduction Act, landmark legislation which continues to deliver for families in Californiaâs Fourth District. Over the last twelve months, the investments in the Inflation Reduction Act have lowered costs for while creating new jobs, combating climate change, and reducing the deficit.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-releases-statement-one-year-anniversary-inflation-reduction-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are seeing the impact of policies like the Inflation Reduction Act improving the economy for all Americans.Inflation is cooling, consumers are confident, and costs are coming down. We have more to do, but this is a positive development.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1749884711546102042"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the workforce to be equitable, the program must provide a living wage and a robust education award to offset the cost of college or paydown student loans.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1546507/letter-to-the-hon-nancy-pelosi-speaker-of-the-house-and-the-hon-chuck-schumer-senate-majority-leader-urging-creation-of-civilian-climate-corps/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The last thing students, especially Pell Grant recipients, need to worry about is how to pay for their student loans or if they can keep their grant. I am grateful this Act defers student loan payments for six months and allows students to keep their entitlements.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1412317/middle-class-health-benefits-tax-repeal-act-of-2019/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/3564/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californian constituents already pay the price for mitigating oil and gas infrastructure failures and legacy dumping hazards. Beyond cleanup costs, these preventable tragedies harm public health, impede our communitiesâ ways of life, and hinder future economic opportunities.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1641448/letter-to-kevin-sligh-director-of-the-bureau-of-safety-and-environmental-enforcement-amanda-lefton-director-of-the-bureau-of-ocean-energy-management-chair-grijalva-10-california-members-send-letter-requesting-improvements-to-decommissioning-of-offshore-oil-and-gas-equipment"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill includes my GREEN Act to cut carbon emissions to continue towards our emissions goal, lower energy costs for families, and accelerate our transition to clean energy. The climate provisions of this bill are an historic investment, and they will help our communities deal with the implications of climate-related disasters.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636006/thompson-votes-to-pass-inflation-reduction-act-cutting-costs-for-families-and-investing-in-climate-action/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill will save the average American household hundreds in energy bills and other costs, will spur 9 million jobs by investing in clean energy, energy efficiency, and clean manufacturing, and will generate enormous public health benefits.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/environment"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californian constituents already pay the price for mitigating oil and gas infrastructure failures and legacy dumping hazards. Beyond cleanup costs, these preventable tragedies harm public health, impede our communitiesâ ways of life, and hinder future economic opportunities.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1641448/letter-to-kevin-sligh-director-of-the-bureau-of-safety-and-environmental-enforcement-amanda-lefton-director-of-the-bureau-of-ocean-energy-management-chair-grijalva-10-california-members-send-letter-requesting-improvements-to-decommissioning-of-offshore-oil-and-gas-equipment"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill includes my GREEN Act to cut carbon emissions to continue towards our emissions goal, lower energy costs for families, and accelerate our transition to clean energy. The climate provisions of this bill are an historic investment, and they will help our communities deal with the implications of climate-related disasters.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636006/thompson-votes-to-pass-inflation-reduction-act-cutting-costs-for-families-and-investing-in-climate-action/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is outrageous that 90 percent of Americans support the universal background checks that would have prevented the tragic St. Louis school shooting, yet Senate Republicans continue to block this bill from being signed into law.\" said Thompson. \"The Senate needs to swiftly pass universal background checks and a federal red flag law. Enough is enough.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636079/thompson-calls-for-senate-action-on-background-checks-and-federal-red-flag-law-after-st-louis-school-shooting"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a hunter and gun owner, I believe that we should protect the Second Amendment right of law-abiding individuals to own firearms. As a dad and grandfather, I also believe that we have a responsibility to make our schools, streets and communities safe. We can do both by passing commonsense policies like comprehensive criminal background checks.\"",
+          "source": "www.mikethompsonforcongress.com",
+          "url": "https://www.mikethompsonforcongress.com/issues/gun-violence-prevention"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America (GOA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/3564/mike-thompson/37/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2022 saw an all-time low national health care uninsured rate of 8 percent! This is thanks to Demsâ efforts to expand access to care for all. I am committed to further improvements to our health care. Weâre putting #PeopleOverPolitics & providing the care that Americans deserve.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1555318962124103684"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Medicaid expansion and premium tax credit have helped millions of low-income Americans and middle-class families obtain quality, affordable coverage. And most important, insurance companies can no longer refuse coverage to or discriminate against people with pre-existing conditions.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/3564/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 6201 also includes critical relief for families already feeling the economic impacts of the virus, including an emergency paid leave program and an expansion of food assistance programs. The Senate must immediately pass this bill and the President must sign into law as soon as possible. We cannot delay our response to this public health crisis.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1412914/thompson-votes-to-pass-families-first-coronavirus-response-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 29th anniversary of the Family and Medical Leave Act. I worked with my @WaysMeansCmte to advance legislation that would provide universal paid leave, and I am committed to ensuring that no worker has to choose between their health, family, and their paycheck.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1490052802613288963?s=20&t=rW2PO4iF1h_bF6KDIl1LlA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/3564/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lower prescription drug costs. Lower health care costs. Lower energy costs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1695078618978824216"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act cuts prescription drug costs, invests in clean energy, reduces the deficit, AND is fully paid for.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1556374667786682371"
+        },
+        {
+          "type": "statement",
+          "text": "\"The high price of prescription drugs is especially hard on patients, forcing many to ration their medication or forego care altogether. This is unacceptable. Please know I support legislation to end predatory practices that artificially inflate prescription drug costs.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dems are ready to pass a meaningful & tough border security bill, but when the former president wants to campaign on border security, Republicans immediately fall in line.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1754890918014939520"
+        },
+        {
+          "type": "statement",
+          "text": "\"The border security bill being negotiated by the Senate would be the toughest border bill in decades.But now some of my GOP colleagues are saying they won't support it b/c they want to keep the crisis alive for political reasons. That's not leadership.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1753508695655264397"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety cr ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the people of Afghanistan face an unfolding tragedy, the United States must open its doors to refugees fleeing the devastating consequences of a 20-year U.S. military occupation and 40 years of U.S.-fueled war.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1556036/letter-to-joe-biden-president-of-the-united-states-pingree-60-house-members-call-on-biden-to-increase-us-refugee-admissions-programs-cap-as-continued-evacuation-is-promised"
+        },
+        {
+          "type": "statement",
+          "text": "\"That's why I'm proud to be an original cosponsor of several immigration reform bills, including:Dream and Promise Act H.R. 6, the American Dream and Promise Act of 2021, would grant Dreamers conditional permanent resident status for 10 years, provide Dreamers who earn a college degree or serve in our military a pathway to lawful permanent residence, and give Dreamers access to federal student aid as well as professional, commercial and business licenses. It would also grant TPS and DED holders lawful permanent residence.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/issues/immigration-reform"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans have decided to withhold vital aid for Israel unless Congress makes it easier for wealthy people to cheat on their taxes.Their proposal is nothing more than a cheap attempt to score political points.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1719379208818794951"
+        },
+        {
+          "type": "statement",
+          "text": "\"The chaos in the Republican Conference has paralyzed the House. We need a Speaker to move bills forward, including aid for Israel in the face of the horrendous terrorist attacks committed by Hamas. We must elect a Speaker as soon as possible to carry on the Peopleâs business.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepThompson/status/1712186346016514283"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7217 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340 \"Hamas International Financing Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35940/95972/3564/hamas-international-financing-prevention-act#95972"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States must not back down from our commitment to democracy, and our country must continue to stand unified with Ukraine against autocracy and this blatantly illegal attack. I am proud to have Voted in favor of legislation to provide Ukraine with the resources they need to repel this invasion.\"",
+          "source": "mikethompson.house.gov",
+          "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-releases-statement-one-year-putins-full-scale-illegal-invasion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2617 \"Consolidated Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34000/90241/3564/consolidated-appropriations-act-2023#90241"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/3564/mike-thompson/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:08:04+00:00"
+}

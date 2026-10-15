@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+CivicAI/scraper/cookie.txt
+CivicAI/scraper/scrape.sh

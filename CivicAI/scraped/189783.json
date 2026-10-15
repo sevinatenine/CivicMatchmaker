@@ -1,0 +1,289 @@
+{
+  "name": "John Cowan, Jr.",
+  "page_title": "John Cowan, Jr.'s Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Republican for U.S. House (GA) - District 11",
+  "candidate_id": "189783",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/189783/john-cowan-jr",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, he will promote and defend pro-life legislation, the Second Amendment, our borders, our religious freedoms, our military, our veterans and our first responders.\"",
+          "source": "cowanforcongress.com",
+          "url": "https://cowanforcongress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"PRO LIFE\"",
+          "source": "cowanforcongress.com",
+          "url": "https://cowanforcongress.com/"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: This week I spoke to the Dalton Tea Party Patriots! We discussed the importance of lowering taxes, securing our borders by finishing the wall, defending the Second Amendment!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JohnCowanGA/status/1230645669108572160"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, he will promote and defend pro-life legislation, the Second Amendment, our borders, our religious freedoms, our military, our veterans and our first responders.\"",
+          "source": "cowanforcongress.com",
+          "url": "https://cowanforcongress.com/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: This week I spoke to the Dalton Tea Party Patriots! We discussed the importance of lowering taxes, securing our borders by finishing the wall, defending the Second Amendment!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JohnCowanGA/status/1230645669108572160"
+        },
+        {
+          "type": "statement",
+          "text": "\"PRO GUN\"",
+          "source": "cowanforcongress.com",
+          "url": "https://cowanforcongress.com/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: This week I spoke to the Dalton Tea Party Patriots! We discussed the importance of lowering taxes, securing our borders by finishing the wall, defending the Second Amendment!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JohnCowanGA/status/1230645669108572160"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:55:36+00:00"
+}

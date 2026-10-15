@@ -1,0 +1,741 @@
+{
+  "name": "Darrell Issa",
+  "page_title": "Darrell Issa's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 48, Republican",
+  "candidate_id": "16553",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/16553/darrell-issa",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always stand for life. And I will always support and defend our Constitution.\" \"",
+          "source": "issa.house.gov",
+          "url": "https://issa.house.gov/media/press-releases/congressman-issa-issues-statement-supreme-court-roe-v-wade-decision"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is a time to stand up for our most vulnerable and deliver compassion. I call on my colleagues in the U.S. Senate to fearlessly choose life. H.R. 3755 must not become the law of the land.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1562962/issa-proud-to-stand-for-life-and-protect-the-unborn/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Planned Parent Hood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1578/rating/13874"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Susan B. Anthony Pro Life America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1946/rating/13750"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to announce my support of the EVEST Act to make it easier for veterans to access the Veterans Affairs health system,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1592714/issa-votes-to-improve-veterans-access-to-va-healthcare-system"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, we made good on our promise to repeal and replace Obamacare,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1186474/issa-keeps-promise-to-repeal-obamacare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When it comes to our veterans, promises made must be promises kept. The TRICARE Retiree Protection Act is common-sense reform to extend a transition period so military retirees don't lose health care coverage for themselves and their families,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1530747/congressman-issa-introduces-bill-to-protect-tricare-select-military-retiree-healthcare"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians need tax relief now more than ever, especially as the tax factory in our State Capitol continues looking for ever increasing ways to take more of our hard-earned paychecks\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1215186/rep-issa-to-vote-no-on-final-tax-bill/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Fair Taxation",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1862/rating/9720"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 6760 Protecting Family and Small Business Tax Cuts Act of 2018\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/25275/64436/16553/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 - Tax Relief for American Families and Workers Act of 2024 - National Key Vote \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36374/97564/16553/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big govt drives up the cost of doing business, then creates a grant to make business more \"affordable\" but with all the strings of big govt's preferences attached.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1674208545317765129"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'd like to Unsubscribe from Bidenomics\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1714391802969469428"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by the Taxpayers for Common Sense \"",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/430/taxpayers-for-common-sense"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 66% by the National Taxpayers Union \"",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I don't think Mother Teresa could get 217 votes as a Republican. We have to fix the system. No one should accept this job based on the idea that one person can call for your ouster and four can execute it with the help of the Democrats.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1716980762770112886"
+        },
+        {
+          "type": "statement",
+          "text": "\"There goes the latest Joe Biden excuse - Joe Biden directly benefited from the family business.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1715492600176681337"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Federation of Teachers",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/16553/darrell-issa"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 359- Aboloshing Federal Financing and Presidential Election Campaigns- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/12497/33088/16553/abolishing-federal-financing-of-presidential-election-campaigns#33088"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"His bill -- the Congressional Compliance and Enforcement Act (H.R. 4010) -- bolsters Congressional authority to enforce subpoenas issued by its Committees and Subcommittees in the course of their investigations.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1202997/house-passes-rep-issa-bill-to-require-compliance-with-congressional-subpoenas"
+        },
+        {
+          "type": "statement",
+          "text": "\"I brought together these law enforcement leaders to thank them for their fearless service, understand what they are seeing, learn what they need to do their jobs, and remind them that we have their backs,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1570372/detailed-dialogue-commits-to-renewed-support-for-police-sheriffs"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Military Officers Association of America \"",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/192/rating/4965"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by the National Association of Police Organizations",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/16553/darrell-issa/20/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As tens of thousands of our best and bravest face career-ending discharges, President Biden and House Democrats continue to side with the mandates that will destroy countless careers of honor,\" said Rep. Issa. \"Every day, more members of our military reach out to my office. They need us more than ever.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1579007/democrats-block-issa-amendment-defunding-military-vaccine-mandates"
+        },
+        {
+          "type": "statement",
+          "text": "\"Each of these bills is common sense and long overdue,\" said Congressman Darrell Issa. \"Veterans in the Orange County and San Diego County area contact my office for help with the Veterans Administration (VA) every single day. The bills we've passed today will help improve the healthcare, benefits, and services for veterans and their families. I thank and applaud my colleagues who worked on these important measures and look forward to continuing to work on further solutions for our nation's deserving vets.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1155282/3-issa-backed-veterans-bills-pass-us-house"
+        },
+        {
+          "type": "statement",
+          "text": "\"I introduced new legislation this week to speed up the Pentagonâs ongoing effort to streamline information-sharing across its military domains, with a specific focus on prioritizing enhanced capabilities across the Indo-Pacific region\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1730723905084473372"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by the Center for Security Policy \"",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/725/rating/9983"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America's dealing with runaway inflation. Unless we reduce our spending, the Fed will increase the burden on Americans by increasing the interest rates until they break the back of inflation. But by that time, we could be deep in recession.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1702738069667918052"
+        },
+        {
+          "type": "statement",
+          "text": "\"Big govt drives up the cost of doing business, then creates a grant to make business more \"affordable\" but with all the strings of big govt's preferences attached.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1674208545317765129"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'd like to Unsubscribe from Bidenomics\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1714391802969469428"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday, I joined with hundreds of my colleagues and cast a vote for fiscal common sense in an age of unprecedented irresponsible overspending by this Congress and this Administration.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1562965/congressman-issa-rejects-debt-limit-suspension-age-of-unprecedented-irresponsible-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Governor Newsom has made our communities less safe by essentially compelling communities to accept the relocation of dozens of these violent predators into our neighborhoods. Read more:\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1724980467168907312"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nowhere is that more apparent than in our broken civil forfeiture laws which have allowed law enforcement to make a habit of seizing property from innocent Americans without sufficient proof of wrongdoing\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1083625/issa-sponsored-civil-forfeiture-bill-passes-judiciary-committee"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Safe Recovery and Community Empowerment Act (H.R. 6070) would fix the Fair Housing Act in order to end the prohibition on state and local governments' ability to manage the exponential growth of sober living homes or their ability to ensure the facilities are providing the safe environment that is necessary for those in recovery to overcome addiction, as well as for those living in the surrounding communities.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1131649/congressman-darrell-issa-introduces-sober-living-homes-reform-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"While many actors contributed to the housing crisis, I have opposed efforts in Washington that seek to shift the responsibility for losses to other taxpayers. Taxpayers should not be forced to pay for those losses through government bailouts or borrowing that will be paid back by our children and grandchildren.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1067034/issue-position-housing"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 3% by RESULTS",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1744/rating/13141"
+        },
+        {
+          "type": "statement",
+          "text": "\"America's dealing with runaway inflation. Unless we reduce our spending, the Fed will increase the burden on Americans by increasing the interest rates until they break the back of inflation. But by that time, we could be deep in recession.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1702738069667918052"
+        },
+        {
+          "type": "statement",
+          "text": "\"Food prices are up 33.7% from the start of 2021, while shelter costs are up 18.7%, according to FOX Business calculations. Energy prices, meanwhile, are up 32.8%.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1745922399210549690"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Republican debt position is inherently reasonable - spend at the levels of 7 months ago and don't add massive new programs that blow the budget and fuel inflation.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1661135761662517260"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Federation of Teachers",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/873/rating/7430"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1015/rating/13786"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 1911 Smarter Solutions for Students Act\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/16854/44678/16553/smarter-solutions-for-students-act#44678"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 4628- Extending Student Loan Interest Rates - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/15124/39748/16553/extending-student-loan-interest-rates#39748"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Having broken every promise to grow the economy, shut down the virus, secure the homeland, and unite our country, this White House and Democrat majority reveal what they want most: To take over America's elections and give themselves a permanent advantage,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1592710/issa-votes-against-democrat-attempt-to-take-over-elections"
+        },
+        {
+          "type": "statement",
+          "text": "\"States made sweeping changes to election practices leading up to Election Day 2020, even circumventing state legislatures in favor of executive decrees and court-ordered variations. There is no dispute some of these changes were done in violation of state constitutions and state law.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1514787/issa-opposes-one-sided-and-partisan-election-legislation"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by U.S. Term Limits (USTL",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2155/rating/13566"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 8873- Presidential Election Reform Act- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33382/88686/16553/presidential-election-reform-act#88686"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From his first day in office, President Biden declared war on America's energy sector, resulting in dramatically less supply and the highest prices in history,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1620140/biden-owes-america-an-apology"
+        },
+        {
+          "type": "statement",
+          "text": "\"H.R. 170 would reform, after more than two decades, the H1B immigration system, which is broken. Today, more people come in under H1B who are not necessary, not qualified, and not, in fact, in short supply any more than any other nanny, housekeeper, or person just to do basic work\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1312005/nuclear-energy-innovation-and-modernization-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR- 3774 Stop Harboring Iranian Petroleum (SHIP) Act- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35952/96006/16553/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR-4394 Energy and Water Development and Related Agencies Appropriations Act, 2024\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35911/95864/16553/energy-and-water-development-and-related-agencies-appropriations-act-2024#95864"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's not the time to reopen California's shoreline to new drilling. Secretary Zinke has said that the \"states and local communities' will have a voice, but Californians have made themselves clear: they do not want new drilling off our coasts. I will work to ensure that voice is heard and that California's coastal areas are taken out of consideration.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1215192/issa-statement-on-interior-department-oil-drilling-plan"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Wilderness Coalition",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1081/rating/3542"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Parks Conservation Association",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/922/rating/13728"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 2773- Recovering America's Wildlife Act of 2021 - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32782/85957/16553/recovering-americas-wildlife-act-of-2021#85957"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Brady Campaign to Prevent Gun Violence",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/122/rating/10267"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1226/rating/13701"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 1808 - Assault Weapons Ban of 2022- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/16553/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 2377- Federal Extreme Risk Protection Order of 2021 - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32752/85845/16553/federal-extreme-risk-protection-order-act-of-2021#85845"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we do nothing about entitlements, we'll never get rid of this deficit. Some of the increased deficit is a structural deficit caused by Social Security, Medicare and a host of other entitlements that are on autopilot and do not need an appropriation.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1665791675544010753"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ruling today is proof positive that the Obama Administration is continuing in its blatant and willful disregard for the Constitution. After seven and half years of continued overreach, a decision like this really should come as a surprise to nobody.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1083593/courts-to-obama-obamacare-cost-sharing-unconstitutional"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR- 485 Protecting Healthcare for All Patients Act\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36416/97655/16553/protecting-health-care-for-all-patients-act#97655"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Family Voices",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1114/rating/2032#"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 70% by the Campaign for Working Families",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1086/rating/10308"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6918- Supporting Pregnant and Parenting Women and Families Act - National Key Vote \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36302/97353/16553/supporting-pregnant-and-parenting-women-and-families-act#97353"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR- 890 Preserving Work Requirements for Welfare Programs Act of 2013- National Key Vote \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/16349/43136/16553/preserving-work-requirements-for-welfare-programs-act-of-2013#43136"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Medical Association PAC",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1500/rating/1799"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 25% by the AIDS Drug Assistance Program Advocacy Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/16553/darrell-issa"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 5378 - Lower Costs, More Transparency Act - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36123/96624/16553/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 6199 - Restoring Access to Medication and Modernizing Health Savings Accounts Act of 2018- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24951/63602/16553/restoring-access-to-medication-and-modernizing-health-savings-accounts-act-of-2018#63602"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For more than a year, parents and students in San Diego County have waited for educators to answer one question: When will our schools reopen with in-person instruction only? And for a year, they've been told to wait. The decision to provide in-person instruction to illegal migrants is outrageous and parents have every right to be angry.\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1519143/statement-from-congressman-issa-on-sd-county-providing-teachers-for-illegal-migrants"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Americans for Immigration Control",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1382/rating/3654"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the United States Border Control",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/544/rating/3497"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 5283 - Protecting our Communities from Failure to Secure the Border Act- National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36064/96417/16553/protecting-our-communities-from-failure-to-secure-the-border-act#96417"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The chaos that is enveloping our southern border is the direct result of reckless actions and stunning indifference from the Biden Administration,\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1530817/issa-testifies-before-house-natural-resources-member-forum-on-lasting-damage-of-bidens-open-border-policies"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is a reckless decision by an Administration that from its first day opened our southern borders, demoralized our front line border patrol, and allowed in unprecedented human trafficking and fentanyl supply,\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1602881/issa-issues-statement-as-border-patrol-prepares-for-massive-surge-of-illegal-immigrants"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H Res 957- Denouncing the Biden administration's open- borders policies, condemning the national security and public safety crisis, along the Southwest Border, and urging President Biden to end his administration's open- borders policy. - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36296/97342/16553/denouncing-the-biden-administrations-open-borders-policies-condemning-the-national-security-and-public-safety-crisis-along-the-southwest-border-and-urging-president-biden-to-end-his-administrations-open-borders-policies#97342"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 5525- Cotinuing Appropriations and Border Security Enhancement Act, 2024 - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/16553/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From day one, Joe Biden steered his administration straight towards Tehran and began a campaign of concessions that led to the war now being waged on Israel. This has facilitated as much as $50 billion to Iran this year alone.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1717600187869458552"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration yielded to Chinese demands. They can maintain it doesnât matter, but make no mistake: With Biden at the helm, America is losing ground to Beijing. Pretending it doesnât matter just shows the limits of their spin after the fact.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1666502239903686656"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Nuclear Age Peace Foundation \"",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/7/rating/4423"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The more we learn about Biden family corruption, we realize that it was a global enterprise not only in Ukraine, but also China, the Middle East, and everywhere in between.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1669036124763979776"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H Res 956- Supporting the people of Ukraine - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32369/84593/16553/supporting-the-people-of-ukraine#84593"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 7108- Suspending Normal Trade Relations with Russia and Belarus Act - National Key Vote\" \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32418/84733/16553/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024 - National Key Vote \"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/16553/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big media is still playing the censorship game\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1730365463601832080"
+        },
+        {
+          "type": "statement",
+          "text": "\"I asked Register of Copyrights Perlmutter if the U.S. Copyright Office is evaluating not just disclaiming AI-produced content but also disclosing the metadata, like what the AI ingested and how it transformed that into its output. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1707495334778437790"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the Copyright Office decided that full A.I. produced content has no right to a copyright, they did us all an appropriate favor because pushing a button and letting a computer run for days, weeks, months, or years is not continuous innovation.\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DarrellIssa/status/1707484487939166307"
+        },
+        {
+          "type": "statement",
+          "text": "\"Where do you find the [national] interest in free speech of American citizens being taken down...Where do you have that authority?\" \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DailyCaller/status/1679154501339553793"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:14:36+00:00"
+}

@@ -1,0 +1,724 @@
+{
+  "name": "Salud Carbajal",
+  "page_title": "Salud Carbajal's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 24, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 24",
+  "candidate_id": "81569",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/81569/salud-carbajal",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today's SCOTUS ruling is a betrayal of our Constitution & a betrayal of millions of women who count on its protections to retain control of their own body and choices. This fight is not over. This is a call to action.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1540345571487129600?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/81569/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"83 years ago today, the first Social Security check was issued.Today, over 140,000 Central Coast residents rely on this vital program. Now, Republicans want to gut its benefits. I will continue to fight for Social Security's protection and expansion.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1620499457690460161?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want to see Medicare expanded to include dental and vision so it can give all seniors access to services they need.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15123"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we celebrate 55 years of #Medicare & #Medicaid! These programs have helped ensure that Americaâs working-class families, children with disabilities, & seniors in nursing home receive quality healthcare. It's critical we continue funding these critical programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1289018779876364290?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/81569/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since we passed legislation to crack down on tax cheats, @IRSNews has collected half a billion dollars from wealthy tax avoiders â ensuring that special interests and the top 1% are paying their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1747384463632294314?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"You can't buy a gallon of milk with #ABuckFiftyAWeek, but the top 1% gets a weekly tax cut that's 794 times more than a working familyâs. We need a tax plan that works for the middle-class, not one that overwhelmingly benefits multinational corporations & shareholders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/960948733902053376?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 23 \"Family and Small Business Taxpayer Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34017/90306/81569/family-and-small-business-taxpayer-protection-act#90306"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since we passed legislation to crack down on tax cheats, @IRSNews has collected half a billion dollars from wealthy tax avoiders â ensuring that special interests and the top 1% are paying their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1747384463632294314?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"You can't buy a gallon of milk with #ABuckFiftyAWeek, but the top 1% gets a weekly tax cut that's 794 times more than a working familyâs. We need a tax plan that works for the middle-class, not one that overwhelmingly benefits multinational corporations & shareholders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/960948733902053376?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"10 years ago, SCOTUS put our democracy for sale when it ruled in favor of #CitizensUnited. Since, outside groups have spent $1 billion influencing our elections without any disclosure. @HouseDemocrats are fighting to #GetMoneyOut and restore the integrity of our elections.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1219706898452119552?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday, Congress held a long overdue hearing on reforming our campaign finance system & how the #ForThePeople Act helps tilt the balance of power away from special interests & back to the American people. Read how I'm working to shine a light on dark money in our elections:\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1093619264593018891?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/81569/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today marks 1 year since George Floydâs death. Itâs time to pass the George Floyd #JusticeInPolicing Act to improve accountability & enhance public safety. I've met with local law enforcement & social justice leaders to discuss how we can protect every member of our community.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1397354798555426816?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted to pass the George Floyd #JusticeinPolicing Act, the first-ever comprehensive approach to reform police practices so police officers can more effectively protect and serve all members of the community. Today, we took action to usher in long overdue change.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1367303052001239042?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/81569/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/81569/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The 2022 #NDAA will: ðExtend the lifesaving @DeptofDefense FireGuard program to fight wildfires ðªGive troops a pay raise ð²Act on climate change âï¸Institute reforms to to prevent & prosecute sexual assault in the military This is a major win for our country & community.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1472232939605921799?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There's still plenty I support in this bill â from a record pay raise for our troops to language I sought to improve military housing transparency & combat fentanyl trafficking. I'm confident our conference process will retain these & restore the bipartisan spirit of the NDAA.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1679868355656785922?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday the House passed the #NDAA, a bipartisan defense spending bill to meet our security needs. #ClimateChange is a threat to our national security, which is why I'm glad my measure to advance offshore wind in Morro Bay has passed as part of the package!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1336882827212808192?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/81569/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over a week into this irresponsible government shutdown, Republican leadership has not called Congress back to negotiate and pass a spending deal. This leaves thousands of federal employees, including some servicemembers, wondering when they will receive their next paycheck.\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted to pass the #AmericanRescuePlan & send it to @POTUS's desk. This is the relief we've needed for months & I'm proud to say we got it done. It includes $259.5 million for #CA24 local govts, $1400 stimulus checks, & funding for schools, small businesses, & vaccines.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1369736436442890246?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Moving Forward Act\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2617 \"Consolidated Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34000/90241/81569/consolidated-appropriations-act-2023#90241"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"34,000 Central Coast children. That's who benefits in just the first year of the expanded Child Tax Credit provided by bipartisan tax bill I helped pass the House today. We're also indexing the CTC to inflation, supporting more affordable housing, & providing disaster relief.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1752878818182811918?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"ðï¸When it comes to bringing more affordable housing options to CA, I know it's easy to feel like all you hear is talk and no action. But I'm proud of the work I'm doing to lower housing costs on the Central Coast.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1704954116680687786?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/81569/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/81569/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In August 2022 we also passed the Inflation Reduction Act, which includes tax incentives that will promote the expansion of clean energy production on the Central Coast and across California\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15120"
+        },
+        {
+          "type": "statement",
+          "text": "\"In June 2023, annual inflation decreased to 3%, the lowest figure in 2+ years! As a @NewDemCoalition Vice Chair, I'm proud to be working w/@POTUS to fight inflation & lower everyday costs for ALL Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1684595430246555648?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is lowering costs for families through tax credits and rebatesâhelping you lower your energy bills & reduce your climate impact!\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15120"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/81569/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As someone who relied on Pell Grants to pay for my college degree, I know firsthand how stressful it can be to grapple with the financial burden of college. Today's ruling to strike down student loan debt forgiveness is disappointing and devastating.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1674839093581053957?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last week, I met with @BetsyDeVosED to advocate for improvements to the Public Student Loan Forgiveness program and ask how the Department of Education plans to help mitigate the debt-crisis facing students today.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1025455891544297472?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"That is why I have introduced the Degrees Not Debt Act. This legislation would double the Pell Grant and index it to inflation so it does not lose value over time. I authored this bill to help students gain access to higher education â whether at college or trade school â to help them to join the workforce without the burden of student debt.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15121"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/81569/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is why I support bills that will protect our voting rights such as the For The People Act, which protects voting rights and bans partisan gerrymandering; and the John R. Lewis Voting Rights Advancement Act, which penalizes voter suppression tactics.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15127"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/81569/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/81569/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change poses an immense threat & we must invest in renewable energy to protect our planet. The Bipartisan Infrastructure Law will fund 500k EV charging stations across the country to reduce emissions. I stopped by Buellton City Hall to check out its EV charging station!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1479911390416715778?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With this significant challenge also comes an opportunity to designate the Central Coast a renewable energy hub, by attracting new businesses that provide good-paying jobs in our community. I have introduced the Energy Opportunity Zones Act to extend tax credits as well as introduce a new tax credit to encourage renewable energy business development in San Luis Obispo County.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1479911390416715778?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/81569/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/81569/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"51 years ago, #CA24 was devastated by the Santa Barbara oil spill. It coated 35 miles of coast, killed thousands of birds and marine wildlife, and hit our economy. It was a turning point. In Congress, I'm fighting to defend our coast from drilling. We can't afford another spill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1222275362845007884?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There's a resurgent movement in Congress to put California's coastlines back on Big Oil's shopping list. That's why I reintroduced the California Clean Coast Act, which will ban all future offshore drilling in California.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1639795300998021123?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/81569/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27350/69893/81569/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must also pass universal background checks, a policy supported by nearly 90 percent of the American people, including the vast majority of gun owners. We must also reinstate the Assault Weapons Ban, which Congress shamefully allowed to expire in 2004. As an original cosponsor of the Assault Weapon Ban Act of 2021, I was proud to join a majority of my colleagues to pass this bill.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15129"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed into law the most significant gun safety legislation in 30 years: the Bipartisan Safer Communities Act. This law included my red flag measure, protections for domestic abuse victims, and enhanced background checks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1673012840175742978?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/81569/salud-carbajal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910 \"Protecting Our Kids Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32751/85843/81569/protecting-our-kids-act#85843"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe that everyone has a right to accessible and affordable healthcare. I am committed to protecting the health of all citizens regardless of age, socioeconomic status, health history, or gender. Since the Affordable Care Act (ACA) passed in 2010, I have seen firsthand the direct impact of this legislation locally over the past seven years to communities and families across the Central Coast.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15123"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks 13 years since the Affordable Care Act became law, & millions of Americans were able to get quality health care coverage! I'm proud to have fought for measures that build on this landmark law, & will keep pushing for more affordable health care for the Central Coast.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1593311981490012163?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"ð¨Last night, President Trump's Justice Department backed a Texas judgeâs ruling to dismantle the entire Affordable Care Act â eliminating protections for people with pre-existing conditions & repealing health care for millions of Americans.ð¨#ProtectOurCare\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1110676433683316737?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/81569/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@HouseDemocrats' Take Responsibility for Workers and Families Act: â¡ï¸Puts people over corporations â¡ï¸Further funds hospitals and health centers â¡ï¸Enhances frontline worker safety â¡ï¸Directly provides Americans with $ â¡ï¸Expands SNAP â¡ï¸Increases paid sick and medical leave\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1242576925299822592?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"At some point, every worker will need to take time away from a job to care for their health, a child or a family member â but millions still lack access to paid family & medical leave. The #HEROES Act extends paid leave benefits, which we need now more than ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1290064956424159232?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Frontline and essential workers show up for us and our communities every day. Itâs time we protect them in return. #PaidLeave should be accessible to every worker, especially during a nationwide pandemic. Letâs pass the #FAMILYAct and show up for workers like they show up for us.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1357749427042217990?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/81569/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833\"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/81569/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"America's economy is beating expectations and leading the world. We've added a record 14.3 million jobs under @POTUS and with the Inflation Reduction Act we're bringing down the price of health care & prescription drugs â while making big corporations pay what they owe in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1745828492640391198?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While the ACA has provided health insurance to cover the 23 million Americans, it still is not perfect and health care and prescription drug costs remain too high. I am supportive of legislation to create a public option under the ACA and provide much-needed competition with private industry to bring down insurance costs.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15123"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/81569/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As @NewDemCoalition Immigration & Border Security Task Force Co-Chair, I appreciate @ChrisMurphyCT's work finding a bipartisan pathway to restoring order and humanity at the border. As Republicans tank their own demand for action on border security, New Dems aren't giving up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1755601270982009184?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will continue fighting alongside my @NewDemCoalition colleagues to deliver both comprehensive fixes to our broken immigration system & reforms that enhance border security and reduce backlogs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1755601274610020706?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/81569/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted agianst HR 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/81569/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Right now, DACA recipients are protected through an executive order, which could be overturned. As an immigrant, I've been able to build a life I'm proud of in this country without fear of deportation. We must find a path to citizenship for Dreamers so they can do the same.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1537125768551182337?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Deferred Action for Childhood Arrivals (DACA) program has given nearly 800,000 young people a shot at the American Dream, allowing them to come forward, live, work, and learn in the United States legally and without fear of deportation. This includes the over 9,000 students, entrepreneurs, and military members eligible for the program on the Central Coast. I am proud to co-sponsor and vote in support of the DREAM and Promise Act, to permanently codify DACA.\"",
+          "source": "carbajal.house.gov",
+          "url": "https://carbajal.house.gov/issues/issue/?IssueID=15126"
+        },
+        {
+          "type": "statement",
+          "text": "\"When my family arrived here, we weren't separated or threatened - we were welcomed & hopeful of building a better life, & that's exactly what #DACA recipients are seeking. #DACADay\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1404859219027836932?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/81569/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to stand with my House colleagues to affirm unwavering support for the people of Ukraine.ðºð¦ Our thoughts are with those who are suffering at the hands of an unjustified aggressor, and we pledge to continue implementing sanctions and addtl aid to will help Ukraine prevail.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1498824839020302338?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/81569/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "statement",
+          "text": "\"I applaud @POTUS' decision to issue an Executive Order to authorize new sanctions on perpetrators of the humanitarian & human rights crisis in Ethiopia. I urge all parties to de-escalate the situation to achieve a sustainable ceasefire & a peaceful resolution of the conflict.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1440392670447235077?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/81569/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, Russia launched its unprovoked and illegal invasion of Ukraine. Today, Ukraine still stands. I remain steadfast in my commitment to #StandwithUkraine, and will continue to support providing the aid necessary to enable Ukrainians defend their freedom and democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1629175251069198346?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to stand with my House colleagues to affirm unwavering support for the people of Ukraine.ðºð¦ Our thoughts are with those who are suffering at the hands of an unjustified aggressor, and we pledge to continue implementing sanctions and addtl aid to will help Ukraine prevail.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1498824839020302338?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"U.S. aid to Ukraine has been instrumental in enabling them to continue their fight for freedom; we must continue our support so the war can end quickly, and on Ukraine's terms.Recently, the House Armed Services Committee held a hearing on military support for Ukraine â¬ï¸\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCarbajal/status/1638010288497917952?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/81569/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:21:48+00:00"
+}

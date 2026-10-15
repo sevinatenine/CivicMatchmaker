@@ -1,0 +1,724 @@
+{
+  "name": "Darren Soto",
+  "page_title": "Darren Soto's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 9, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (FL) - District 9",
+  "candidate_id": "67618",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/67618/darren-soto",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today the US Supreme Court eliminated a fundamental right for the 1st time in history. Sadly they have empowered state governments to control womenâs reproductive decisions. This sets women back 50 years & relegates them to 2nd class citizens in America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1540348797720481792"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women have a right to control their own bodies. Reproductive health care decisions should be between a woman and her doctor â and nobody else. In Congress, I always stand up for the right of women to make their own health and family planning decisions â and I will continue to fight tooth-and-nail against any effort to further take away comprehensive womenâs health services.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/reproductiverights"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/67618/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Many seniors in #FL9 rely on Social Security to make ends meet. As Members of Congress, our priority must be to enhance their benefits, not cut them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1681290147973693440"
+        },
+        {
+          "type": "statement",
+          "text": "\"On its 88th birthday, let's remember that #SocialSecurity is more than a program â it's a promise to our seniors. We must continue to honor it by strengthening the safety net it provides for hard-working Americans. Let's enhance + protect Social Security for generations to come!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1691151858306347008"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: Tax Cuts and Jobs Act\" (2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/67618/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"GOP tax plan puts #BillionairesFirst, gives rich corporations a big payday. Make the One Percent Great Again?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/926483011729809408"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760: \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/67618/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#BuildBackBetter LOWERS INFLATION by reducing costs: Prescription drugs for seniors, ACA coverage to nearly 1M more Floridians, childcare for families, college for students, and housing. Our plan is paid for by wealthy & major corps paying fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1462417724064292868"
+        },
+        {
+          "type": "statement",
+          "text": "\"@POTUS is focused on putting #PeopleOverPolitics. His budget plan addresses the current Medicare funding crisis and protects the program for future generations. It benefits 99% of Central Floridians by ensuring the top 1% â those making over $400K/ year â pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1633858327653543936"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am fighting for long overdue investments to modernize our roads, bridges, schools, water systems, and clean energy capacity. These investments in our country are what created the middle class, and renewed investment would help local business and provide employment and purpose to Floridians currently out of work.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/jobs-and-economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no time to waste. With the @HouseDemocratsâ funding bill, we are supporting families in #FL9 with critical education, health, housing, and public safety programs. We will never stop working to rebuild our economy and create a better future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1440390600465940480"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #FreedomToVote Act will create a democracy that works for all Americans. It is crucial for the Senate to pass this legislation quickly for Florida to protect the right to vote, end the dominance of dark money in politics, and prohibit partisan gerrymandering.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1450447165545910275"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thrilled to fight for meaningful campaign finance reform and be endorsed by End Citizens United.\"",
+          "source": "x.com",
+          "url": "https://x.com/DarrenSoto/status/1221445730788937728"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/67618/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No family should ever have to go through the pain that #GeorgeFloydâs family experienced. Yet, in America, too many lives have been taken due to unlawful police violence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1384630537856430088"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago today, we saw George Floydâs life taken at the hands of police. Since then, weâve passed the #JusticeInPolicing Act to ensure transparency and hold police brutality accountable. With our justice advisory committee, we are also working to be part of the solution.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1397206255744266253"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/67618/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to support this year's defense budget to give our troops a raise, protect the homeland, and invest in what makes America strong: our service membersâ readiness, diversity, tech innovation, equipment, and alliances.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1468414157003403266"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today and every day, I will support a strong national defense that honors our values, protects our citizens, and strengthens our leadership in the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1547671010266079233"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/67618/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/67618/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Central Floridians need #COVID19 relief NOW. I'm in Washington, D.C. today to continue to push for a compromise stimulus package that will help get working families, small businesses and communities across America through the holidays. Let's get to work!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1334200647042953216"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am fighting for long overdue investments to modernize our roads, bridges, schools, water systems, and clean energy capacity. These investments in our country are what created the middle class, and renewed investment would help local business and provide employment and purpose to Floridians currently out of work.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/jobs-and-economy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/67618/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684: \"Infrastructure Investment and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/67618/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #COVID19 pandemic has left many Americans on the brink of eviction, foreclosure & homelessness. The #HousingIsInfrastructure Act of 2021 will promote equitable recovery by providing $600B+ for critical investments in public housing, building upgrades & more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1416105388857040902"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5735: \"THRIVE Act\" (2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24715/63190/67618/thrive-act#63190"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/67618/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/67618/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am fighting for long overdue investments to modernize our roads, bridges, schools, water systems, and clean energy capacity. These investments in our country are what created the middle class, and renewed investment would help local business and provide employment and purpose to Floridians currently out of work.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/jobs-and-economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation rates are dropping, but there is still work that needs to be done. American consumers are a driving force. Our Infrastructure Law, CHIPS Act, and Inflation Reduction Act are also lowering costs, improving supply chains, and boosting production.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1801265942955233735"
+        },
+        {
+          "type": "statement",
+          "text": "\"We see groceries, clothing, vehicles and other goods finally starting to drop with inflation near 3%. Our efforts to improve supply chains and consumer preferences are driving these lower costs. We still have more work to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1804871167141970207"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/67618/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"GREAT NEWS! The Biden Administration has canceled another $7.7 BILLION in student loans, providing relief to 160,500 borrowers. This relief includes many teachers, nurses, police, and other public servants, as well as SAVE Program enrollees.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1793365426958909555"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks @POTUS for keeping your promise to reduce student loan debt by $10K-$20K for millions of Americans. Iâve heard from so many young people in Central Florida whoâve waited for years for this moment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1562481671815180290"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/67618/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This has always been about discouraging communities of color from voting. Election security has always been a mere pretense.\"",
+          "source": "x.com",
+          "url": "https://x.com/DarrenSoto/status/1665737780561862658"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/67618/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/67618/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America should be at the forefront of the effort to reduce fossil fuel emissions and confront the threat of climate change. That's why I'm fighting in Congress to invest in renewable energy, protect our environment, and reduce the financial burden on students who graduate with degrees in science and technology. We have the opportunity to build a clean energy economy and drastically reduce our fossil fuel emissions; we can't afford to lose the progress we've made.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/climate-change"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâm pushing for investments in renewable energy sources and education for a new generation of scientists to conquer the challenges ahead. Weâve made tremendous progress, but we canât afford to go backward. Corporate polluters and their political allies are fighting tooth and nail to do away with critical regulations that protect our land, water, air, and people from pollution and climate change. Florida is blessed with a unique and beautiful environment, from Americaâs Everglades to endless miles of pristine beaches. Our economy and quality of life depend on keeping Florida clean â and thatâs not worth sacrificing for the short-term gain of corporate polluters.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/environmental-protections"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/67618/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America should be at the forefront of the effort to reduce fossil fuel emissions and confront the threat of climate change. That's why I'm fighting in Congress to invest in renewable energy, protect our environment, and reduce the financial burden on students who graduate with degrees in science and technology. We have the opportunity to build a clean energy economy and drastically reduce our fossil fuel emissions; we can't afford to lose the progress we've made.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/climate-change"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâm pushing for investments in renewable energy sources and education for a new generation of scientists to conquer the challenges ahead. Weâve made tremendous progress, but we canât afford to go backward. Corporate polluters and their political allies are fighting tooth and nail to do away with critical regulations that protect our land, water, air, and people from pollution and climate change. Florida is blessed with a unique and beautiful environment, from Americaâs Everglades to endless miles of pristine beaches. Our economy and quality of life depend on keeping Florida clean â and thatâs not worth sacrificing for the short-term gain of corporate polluters.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/environmental-protections"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our coastal communities rely on clean water and healthy beaches for tourism and fishing, but President Trump wants to open our Florida coasts to oil and gas drilling. That's why I voted to pass two bills to #ProtectOurCoast & protect our Florida way of life!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1318570910048190464"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/30/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, guns are the leading cause of death for children and young people. More than cancer. More than car crashes. Itâs time for Congress to come together and #EndGunViolence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1639370261270020099"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/67618/darren-soto/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910: \"Protecting Our Kids Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32751/85843/67618/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "statement",
+          "text": "\"Following the shocking massacre at Orlandoâs Pulse nightclub in 2016, I called for a special session of the Florida Legislature to reform our gun laws. In Congress, after the tragic shooting at Marjory Stoneman Douglas High School, I proposed a five-point gun safety plan: Universal background checks for all gun purchases, keeping guns away from those who are a danger to themselves or others, banning assault weapons, high capacity magazines, and bump stocks, creating a \"red-flag\" system to issue gun restraining orders, and No Fly, No Buy â ban guns for those on FBI terror watch list (with judicial review). My call for reform immediately put me in the crosshairs of the Florida NRA.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/gunsafetyreform"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"12 years ago, the Affordable Care Act was signed into law â monumental legislation that helped over 31 million Americans gain access to affordable health care. #ThxACA for helping nearly three million Floridians gain access to health care. #ACAHereToStay\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1506710836580077575"
+        },
+        {
+          "type": "statement",
+          "text": "\"Florida has the largest federal healthcare exchange in the nation. If President Trump really cared about protecting Floridians with pre-existing conditions and our health coverage, heâd drop his lawsuit to repeal the Affordable Care Act and abandon his war on healthcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1224885948439244800"
+        },
+        {
+          "type": "statement",
+          "text": "\"When someone is sick or injured, we have a responsibility to ensure they get the care they needâwithout going bankrupt. President Obamaâs Affordable Care Act expanded access to quality health care and brought the number of uninsured to a historic low. With your support, Iâll do everything I can in Congress to stop the Republicans from repealing it. In all, over 2.7 million Floridians now have quality health insurance thanks to the Affordable Care Act, and itâs making a real difference in the lives of those who went years without seeing a doctor. All Floridians should have access to health coverage. In Congress, Iâll continue the fight to defend and improve on the Affordable Care Act.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/healthcare"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/67618/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Family and Medical Leave Act was signed 25 years ago - providing workers with unpaid leave to care for family. To this day, 63% of Florida families don't have this option. That's why I support #PaidLeave that promotes gender equality and strengthens our economy!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/960988450609655809"
+        },
+        {
+          "type": "statement",
+          "text": "\"Workers impacted by #Coronavirus need paid leave! Our #FamiliesFirst #Coronavirus Response Act provides two weeks of paid sick leave and up to three months of paid family and medical leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1239961949674164224"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/67618/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans deserve #ABetterDeal on the cost of prescription drugs for our seniors â one that allows Medicare to negotiate lower prices, transparency on excessive drug price increases, and tough enforcement of price gouging.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/994275013514711040"
+        },
+        {
+          "type": "statement",
+          "text": "\"In just 4 years, the cost of insulin DOUBLED. The medicine you need to stay alive shouldn't cost an arm and a leg. Dems are serious about tackling the skyrocketing cost of prescription drugs. That's why we passed our bill, the #LowerDrugCosts Now Act!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1321921052906323970"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must lower prescription drugs costs & ensure affordable, accessible cures for all! Today we hosted major hearing w/ drug supply chain executives on removing barriers to generics & lowering prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1126536237781852162"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/67618/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A border wall is a $25 billion symbol of hate and fear. #NoBanNoWall\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/824331107160178688"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I have fought alongside my fellow members of the Congressional Hispanic Caucus to fight for a clean DREAM Act. I joined them to literally shut down the government in order to force Trump and the GOP to provide a permanent solution for our DREAMers. In addition, I pushed for an extension of TPS and a pathway to citizenship for our immigrant communities. Passing comprehensive immigration reform â with a pathway to citizenship â must be at the top of our agenda. Our laws need to catch up with our values and with reality. We arenât going to deport 11 million undocumented people, the vast majority of whom are working hard, paying taxes, playing by the rules, and contributing to our economy and our community. In the Florida Legislature, I worked across the aisle to get progressive priorities signed into law in a contentious political environment â including bills to allow DREAMers to pay in-state tuition at our public universities and to be admitted to the Florida Bar.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/immigration-reform"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres Trump is fleecing construction dollars from Floridaâs Tyndal AFB and Marine Corps Base Camp LeJeune to fund his ineffective, medieval border wall, hurting national security and our troops.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1169622405762945024"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/67618/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I have fought alongside my fellow members of the Congressional Hispanic Caucus to fight for a clean DREAM Act. I joined them to literally shut down the government in order to force Trump and the GOP to provide a permanent solution for our DREAMers. In addition, I pushed for an extension of TPS and a pathway to citizenship for our immigrant communities. Passing comprehensive immigration reform â with a pathway to citizenship â must be at the top of our agenda. Our laws need to catch up with our values and with reality. We arenât going to deport 11 million undocumented people, the vast majority of whom are working hard, paying taxes, playing by the rules, and contributing to our economy and our community. In the Florida Legislature, I worked across the aisle to get progressive priorities signed into law in a contentious political environment â including bills to allow DREAMers to pay in-state tuition at our public universities and to be admitted to the Florida Bar.\"",
+          "source": "www.darrensoto.com",
+          "url": "https://www.darrensoto.com/immigration-reform"
+        },
+        {
+          "type": "statement",
+          "text": "\"Through budget reconciliation, Congress has the opportunity to grant Dreamers, TPS holders, farmworkers, & essential workers a pathway to citizenship. Doing so will advance our economic recovery from the pandemic, raise wages, create 400k+ new jobs, & more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1436019582976802828"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/67618/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/67618/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We condemn Russiaâs unilateral, unjustifiable & disgraceful attack on Ukraine. This is the greatest threat to peace in Europe since WWII. I stand with @POTUS Biden in levying all possible Russian sanctions and defend our NATO allies in the region.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1496850125842493443"
+        },
+        {
+          "type": "statement",
+          "text": "\"We support the Biden Administrationâs decision to reimpose sanctions. Dictator Maduro is deliberately blocking political opponents from participating in free and fair elections. We will continue to fight for a #VenezuelaLibre\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1781024059460812943"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/67618/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/67618/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"First Lady Olena Zelenska's sobering address to Congress today serves as a reminder that we must continue supporting Ukraine's defense against the tyranny of Vladimir Putin. Ukraine's fight for freedom and democracy is our fight.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1549899684981968896"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States stands with the people of Ukraine and against Vladimir Putinâs violent aggression. This is the first invasion of Europe since WWII. It is critical for us to work across the aisle to protect our fellow democracy, not abandon them in their time of need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1765927513371414662"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/67618/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/67618/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ensuring social media transparency and accountability is one of our biggest responsibilities as members of @EnergyCommerce. I look forward to hearing from our witnesses today to learn how we can implement policies that keep our children safe and uphold civil rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1468993710788595715"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lies about the vaccines, lies about the 2020 election, lies about the January 6 insurrection all proliferate on social media to this day. In @EnergyCommerce, I stood up for our democracy and to hold social media companies accountable in English and espaÃ±ol.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1466505440758575112"
+        },
+        {
+          "type": "statement",
+          "text": "\"With over 150M Americans on TikTok, we can promote creativity while ensuring privacy, civil rights, and protections for children. In @EnergyCommerce, I applauded inspiring artists, voiced constituentsâ concerns, and called upon the committee to pass internet privacy rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDarrenSoto/status/1639263604535881730"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/67618/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:14:10+00:00"
+}

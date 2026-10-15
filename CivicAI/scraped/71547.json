@@ -1,0 +1,436 @@
+{
+  "name": "John Hickenlooper",
+  "page_title": "John Hickenlooper's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (CO) - Jr, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (CO) - Jr",
+  "candidate_id": "71547",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/71547/john-hickenlooper",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Governor Hickenlooper is committed to ensuring that every woman has access to the full range of contraceptive options, so she can choose the method that best fits her needs and preferences, and that providers are educated and trained to provide the full range of options in a way that respects decision- making and autonomy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360289/issue-position-access-to-reproductive-healthcare#.XrFzsqhKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am, and have always been, a staunch supporter of reproductive health and justice.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/reproductive-rights/"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress should not pass on almost $1.5 trillion in additional debt to future generations, and hand out tax breaks to the wealthiest Americans who don't need them--and in many cases, don't even want them--at the expense of the middle class and the poor.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1212276/gov-hickenloopers-statement-on-federal-tax-plans"
+        },
+        {
+          "type": "statement",
+          "text": "\"The impact of cuts to Medicaid, Social Security and other programs - for the purpose of funding massive tax breaks for the wealthy - is out of step with Colorado's values. It threatens our hard-earned progress, pushes costs back to the state, and transfers additional burden to those who can least afford it. It really is Robin Hood in reverse - stealing from the poor (and the middle class) to give to the rich.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1166449/gov-hickenloopers-statement-on-the-presidents-budget-proposal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress should not pass on almost $1.5 trillion in additional debt to future generations, and hand out tax breaks to the wealthiest Americans who don't need them--and in many cases, don't even want them--at the expense of the middle class and the poor.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1212276/gov-hickenloopers-statement-on-federal-tax-plans#.X2tdqdNKhN0"
+        },
+        {
+          "type": "statement",
+          "text": "\"If elected to the U.S. Senate, I will prioritize putting money back in the pockets of working families. I support expanding and strengthening the Earned Income Tax Credit (EITC) and Child Tax Credit (CTC), which have effectively tackled poverty and boosted incomes for countless Coloradans.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/economy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The impact of cuts to Medicaid, Social Security and other programs - for the purpose of funding massive tax breaks for the wealthy - is out of step with Colorado's values. It threatens our hard-earned progress, pushes costs back to the state, and transfers additional burden to those who can least afford it. It really is Robin Hood in reverse - stealing from the poor (and the middle class) to give to the rich.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1166449/gov-hickenloopers-statement-on-the-presidents-budget-proposal#.X2td1NNKhN0"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As President, Hickenlooper will protect and expand Social Security, to ensure dignity for all Americans. He will raise the tax cap so high wage earners are paying their fair share. And he won't raise the age limit on Social Security because it hurts the people who need those benefits the most.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360156/issue-position-social-security#.XrFzZqhKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can do this by protecting Social Security and Medicare, as well as by proactively bolstering these programs so that they remain solvent for years to come.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/seniors/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"10 years ago today, the Citizens United decision opened the door for corporations and special interests to undermine our democracy. We can't let dark money groups and corporate PACs buy Colorado's senate seat. It's time to give power back to the people.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/JohnHickenlooper/posts/10156670973596437"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's about time we get Washington working for the people, not the big corporations. That's why I'm not taking a penny of corporate PAC money and will keep fighting to get big money out of politics. I'm thrilled to have the support of End Citizens United!\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/JohnHickenlooper/posts/10156961822731437"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Elijah McClain should be alive today. My heart is heavy for him and his family. His case must be reopened. He and his family deserve justice. And we've got to work to increase accountability and oversight to end systemic racism in our criminal justice system. #BlackLivesMatter\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1275934016328232960?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jacob Blake's three sons were in the car when he was shot by police â in the back, seven times. We must demand accountability and root out racism in policing and our justice system. Black Lives Matter. My thoughts are with Jacob Blake as we all pray he survives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1297956986265329664?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are tangible steps Congress can and must take to stop the violence, including requiring body cameras for all police officers, swiftly disciplining officers who use excessive force, increasing transparency in policing data, and funding programs to heal the trauma of communities living in fear. As senator, I am committed to working with communities of color to address the fear and mistrust of law enforcement, to fiercely advocate for proper police training, and to increase accountability and oversight.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/equity-for-all/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is not a moment for impulsiveness or mixed signals. It is a moment for steadily pursuing all possible diplomatic efforts to defuse the current tension. Let's work with our allies and friends to ensure Iran does not develop nuclear weapons or provoke aggression in the region.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1142113250357628929?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has failed to stabilize funding for the Highway Trust Fund leading to record unmet infrastructure repairs. America has an estimated 47,000 structurally deficient bridges, countless miles of highway in need of repair, and thousands of buses and trains that will soon reach the end of their lifespans. Hickenlooper's plan will stabilize the trust fund with an additional $200 billion in funding over the next ten years.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360273/issue-position-rebuilding-americas-infrastructure#.XrFy_6hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today's economy requires reliable broadband access. Too many rural communities are falling behind because their residents do not have access to the internet. In Colorado, Hickenlooper passed a plan to get reliable broadband access to all of Colorado's 64 counties. As President, he will fund $20 billion for that purpose resulting in near universal access to rural broadband within the continental United States. This will help communities connect into today's economy and help keep our rural counties open for business.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360273/issue-position-rebuilding-americas-infrastructure#.XrFy_6hKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Corporate tax breaks? C'mon folks. Families and small businesses need certainty now. Let's work together to expand unemployment benefits and paid sick leave & make sure people have cash to put food on the table.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1240825667316400129"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Senate is working on negotiations for a COVID-19 relief package. You know what absolutely needs to be in it? Grants for small businesses that are contingent on keeping workers on payroll. We have to look out for our workers and small businesses.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1241856579281899521"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to move away from limited curriculums that are focused on memorization and rote regurgitation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360147/issue-position-k-12-education#.XrFy1ahKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"Early childhood education is one of the best investments we can make as a nation to help ensure that every child is prepared for kindergarten and beyond. In addition, we know that parents cannot work without access to high-quality, affordable child care. That is why, as mayor of Denver, I helped create the Denver Preschool Program, which established free, high-quality early childhood education for more than 55,000 Denver students. As senator, I would support Senator Patty Murrayâs Child Care for Working Families Act, which would provide universal access to preschool for 3- and 4-year olds and help ensure that child care is affordable for all Colorado families.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/education/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Colorado, English learners make up a high percentage of students in our K-12 public schools. Students learning English need targeted supports to help them excel in the classroom. However, federal resources have not kept pace with the increased percentage of English learners in our country. Congress should prioritize investments in Title III of the Elementary and Secondary Education Act to provide resources to school districts and schools serving high populations of English learners.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/education/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the Senate, I will fight to ensure we are investing in our childrenâs education, particularly through Title I. Those much-needed dollars can help reduce class sizes, increase enrichment opportunities such as after-school and summer literacy programs, and expand free and reduced lunch programs and Breakfast After the Bell. In doing so, we will work to ensure that every child in America is receiving a world-class education, which prepares them to compete in an increasingly global and competitive market.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/education/"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hickenlooper's infrastructure plan will include targeted spending on clean energy and climate change-related projects, including adaptation and mitigation. This includes $200 billion for investments to revolutionize America's transportation system, invest in renewable energy sources, and reduce greenhouse gas emissions, plus $150 billion to make America's electric grid more reliable, secure, efficient and resilient.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360103/issue-position-climate-change#.XrFwI6hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"Make large-scale investment in government-funded climate technology research, development, and demonstration (RD&D) to accelerate innovation, including investing in carbon capture, utilization, and storage technology; continued improvements in the development of renewable energy sources such as wind and solar; and in energy-storage technologies.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/climate/"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Governor, Hickenlooper was active in international climate change efforts. He knows this is a global challenge -- the US accounts for 15% of worldwide greenhouse gas emissions -- and therefore the only way to combat climate change is with international cooperation and ambitious American leadership. His plan is unique in that it calls for going further than the Paris Climate Agreement goals and proposes creating new linkages between global climate change goals and a range of America's foreign and trade policies. On Hickenlooper's first day as President, he will begin the process of rejoining the Paris Climate Agreement.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360103/issue-position-climate-change#.XrFwI6hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hickenlooper will implement a carbon tax, which experts agree will create the necessary market incentives to quickly and cost-effectively lower carbon emissions, while also promoting US economic growth.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360103/issue-position-climate-change#.XrFwI6hKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After the Parkland shooting in February 2018, Governor Hickenlooper called for additional gun safety laws, including a ban on \"bump stocks\" and a \"red flag\" bill that would be proposed during the 2018 Colorado legislative session. During national television interviews, he urged the nation to use the Colorado model in taking on the NRA in enacting common sense proposals such as universal background checks.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360296/issue-position-gun-violence#.XrFyRqhKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"During his re-election campaign in 2014, a challenging year for Democrats, Governor Hickenlooper faced strong criticism from Republicans and gun rights advocates. Throughout the campaign, Governor Hickenlooper reaffirmed his support for gun safety legislation and said he would sign the limit on high-capacity magazines again.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360296/issue-position-gun-violence#.XrFyRqhKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must build on the success of the ACA by creating a public option that will lower health care costs and boost competition. Too many Americans remain uninsured or underinsured, all because insurance coverage is simply too expensive.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans are still supporting a lawsuit to repeal the ACAâand strip away health care in the middle of a pandemic. We can't let them succeed.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1257409230790782976"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to expand paid family leave. Staying home when ill, or to care for a sick relative, is our best tool to stop the spread of COVID-19.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1240389066027347969"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Building a border wall is costly, stupid and will do nothing to improve border security.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1155187648329342977"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As President, Hickenlooper will lead efforts to protect the Dreamers and enact comprehensive immigration reform. These reforms will create a pathway to legalization for unauthorized immigrants while also ensuring border security.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360122/issue-position-immigration#.XrFw3ahKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the long term, our country will be more secure if we enact common-sense immigration reform that achieves the dual objective of creating a pathway to citizenship while ensuring border security and protecting American workers.\"",
+          "source": "hickenlooper.com",
+          "url": "https://hickenlooper.com/issues/immigration/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hickenlooper will work with our allies in East Asia to defuse tensions China has provoked over islands and navigation, and to ensure we have a full, coordinated strategy to stop North Korea's ballistic nuclear program -- not based on flattery, but on strong deterrence, verifiable agreements, and robust inspections.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360110/issue-position-strong-alliances#.XrFziKhKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"@realDonaldTrump âs reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1148007703647645696"
+        },
+        {
+          "type": "statement",
+          "text": "\"@realDonaldTrumpâs reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1148007703647645696?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hickenlooper will work with our allies in East Asia to defuse tensions China has provoked over islands and navigation, and to ensure we have a full, coordinated strategy to stop North Korea's ballistic nuclear program -- not based on flattery, but on strong deterrence, verifiable agreements, and robust inspections.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360110/issue-position-strong-alliances#.X2tw8dNKhN1"
+        },
+        {
+          "type": "statement",
+          "text": "\"his is not a moment for impulsiveness or mixed signals. It is a moment for steadily pursuing all possible diplomatic efforts to defuse the current tension. Let's work with our allies and friends to ensure Iran does not develop nuclear weapons or provoke aggression in the region.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1142113250357628929?s=20"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By contrast, Hickenlooper's trade plan-in conjunction with his broad economic strategy-will ensure more growth, opportunity, and fairness for the American people. Hickenlooper understands that being absent from economic opportunity anywhere in our interconnected world is not an option. He believes open and fair trade is achievable, and essential to the prosperity and security of the American people.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360284/issue-position-open-and-fair-trade-policy#.XrFxcahKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"One of Donald Trump's most harmful and short-sighted actions has been to launch tariff wars and walk away from trade agreements that held the promise of growing our economy, creating good jobs, and deepening security ties with friends and allies around the world. Rather than cooperatively working with foreign friends and allies to improve the terms of trade, he has unilaterally attacked the global trading system, with dire consequences for our country:\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1360284/issue-position-open-and-fair-trade-policy#.XrFxcahKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have to ensure that trade is fair to our workers, our entrepreneurs and our environment. But we canât do that with walls and tariffs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Hickenlooper/status/1159889997660676097"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:35:43+00:00"
+}

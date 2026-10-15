@@ -1,0 +1,730 @@
+{
+  "name": "Hank Johnson, Jr.",
+  "page_title": "Hank Johnson, Jr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 4, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (GA) - District 4",
+  "candidate_id": "68070",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/68070/hank-johnson-jr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yesterday the Court attacked your right to remain silent, and put more guns on our streets. Today, theyâve taken away womenâs constitutional rights by overturning Roe. We must #ExpandTheCourt and pass H.R. 2584 now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1540380932644999170"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/68070/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/68070/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"84 years ago, the first #SocialSecurity check was sent. Today, Republicans want to gut this critical program and slash 70 million Americansâ hard-earned benefits. We need to protect and enhance Social Security, not cut it!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1752785587805827442"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should be working to #ExpandSocialSecurity, not implementing rules that could kick people off their #SocialSecurity disability insurance for no reason! I sent a letter to the #TrumpAdministration urging them to withdraw their harmful SSDI rule! #NoSocialSecurityCuts\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1222962413986816000"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #GOPTaxScam was not written for middle-class workers. In GA, the top 5% of earners get more than 66% of tax breaks under the GOP plan. Nationwide, the richest Americans get a $33,000 tax break under the #GOPTaxScam. The poorest get just $40.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/986262866109128705"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/68070/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. President, why even make promises to working families if youâre never going to keep them? Case in point: These so-called \"tax cuts\" for the middle class are just an extension of the #GOPTaxScam, which overwhelmingly benefited the wealthy & large corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1227295859567661058"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #GOPTaxScam was not written for middle-class workers. In GA, the top 5% of earners get more than 66% of tax breaks under the GOP plan. Nationwide, the richest Americans get a $33,000 tax break under the #GOPTaxScam. The poorest get just $40.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/986262866109128705"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/68070/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. President, why even make promises to working families if youâre never going to keep them? Case in point: These so-called \"tax cuts\" for the middle class are just an extension of the #GOPTaxScam, which overwhelmingly benefited the wealthy & large corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1227295859567661058"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the last decade $1 billion was spent by outside groups who donât have to disclose their funders. Itâs time to #GetMoneyOut of our elections. I support the #DemocracyForAll amendment to overturn #CitizensUnited & put voters back in charge of Washington!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1219680937186877440"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/68070/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@senatemajldr itâs been 3 weeks since the House passed the #JusticeInPolicing Act that would ban chokeholds â like the one used in the murder of #GeorgeFloyd but still, no action from the Senate. Silence is complicity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1283822641615376384"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hold police accountable\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1276577989724176390"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Dems passed the George Floyd #JusticeInPolicing Act. Itâs time for the Senate to take it up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1283039943812579329"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/68070/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/68070/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/68070/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/68070/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/68070/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed the #InflationReductionAct into law. Democrats passed legislation to lower health care costs, cap prescription costs, and create clean energy jobs. The #InflationReductionAct has already provided significant investments in Georgia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1691842483016056901"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/68070/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/68070/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/68070/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Build more affordable housing\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1634312533841530881"
+        },
+        {
+          "type": "statement",
+          "text": "\"For too long, our country & state have failed to invest in fair and affordable housing. This has led to more families experiencing homelessness and housing instability. Itâs time to #ShowHousingLove and build an #EconomyforEveryone\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1625595464065200128"
+        },
+        {
+          "type": "statement",
+          "text": "\"How does #BBB deliver for Georgians? Delivers more affordable housing\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1456677115730989060"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter framework will expand rental assistance for Georgia renters, while also increasing the supply of high-quality housing through the construction and rehabilitation of over 1 million affordable housing units nationwide.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1467952443266768899"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed the #InflationReductionAct into law. Democrats passed legislation to lower health care costs, cap prescription costs, and create clean energy jobs. The #InflationReductionAct has already provided significant investments in Georgia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1691842483016056901"
+        },
+        {
+          "type": "statement",
+          "text": "\"THIS JUST IN: 126 leading economists have analyzed the Inflation Reduction Act and found that it \"will fight inflation and lower costs for American families.\" I'm putting #PeopleOverPolitics and supporting the Inflation Reduction Act to lower costs for hardworking people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1554541468701827072"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/68070/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/68070/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Millions of Americans are burdened by the skyrocketing costs of college. The Courtâs decision to reject @POTUS student loan forgiveness program is the worst hypocrisy. While certain justices are keeping Americans in debt, they take handouts from their billionaire friends.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1674795077535924229"
+        },
+        {
+          "type": "statement",
+          "text": "\"The MAGA SCOTUS majority halted @POTUS' original student debt relief plan. We didnât give up. Thanks to new options for borrowers, @WhiteHouse has announced $144 billion in student debt cancellation for 4 million borrowers - with 35,810 Georgians being approved for through PSLF.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1770843339895521604"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Voters should not have to jump through hoops or traverse a cynically complicated obstacle course just to vote. The right to vote is not a privilege, voting is a fundamental right. Are you making it easier to vote or harder? #VotingRights\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1385303994902401027"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/68070/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/68070/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed the #InflationReductionAct into law. Democrats passed legislation to lower health care costs, cap prescription costs, and create clean energy jobs. The #InflationReductionAct has already provided significant investments in Georgia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1691842483016056901"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/68070/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/68070/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/68070/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/68070/coastal-and-marine-economies-protection-act#68921"
+        },
+        {
+          "type": "statement",
+          "text": "\"I promise to fight for the health of communities across the U.S. and ensure no fossil fuels â coal, oil, and gas â are included in any Clean Energy Standard.\"Clean\" does not mean dirty and polluting fossil fuels. #NoGas\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1437470300107640836"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/68070/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/68070/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/68070/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On the #ACA's 13th birthday, I'm proud to have helped pass the landmark legislation & reflect on the pen @SpeakerPelosi gave me that she used to sign the law. 40M more Americans covered. Now GA, we need to #Expand Medicaid and cover 500k more!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1639023619656282113"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, we celebrate the #AffordableCareActâs 14th anniversary & support the Biden-Harris Administrationâs promise to protect and build on the #ACA. Every American deserves the peace of mind that health insurance brings!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1771713522281459840"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/68070/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"March is #NationalKidneyMonth. Donating a kidney is one of the most altruistic actions a person can take & being a living donor is much easier when you have guaranteed paid leave from work & protection from insurance discrimination.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1641927827137200128"
+        },
+        {
+          "type": "statement",
+          "text": "\"Millions of Americans MUST work during the #COVID19 pandemic to feed their families. The #FamiliesFirst Coronavirus Response Act protects hard-working Americans AND their families. See if you qualify for paid sick and family leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1318549401330192389"
+        },
+        {
+          "type": "statement",
+          "text": "\"Working to pass @POTUS Bidenâs entire #BuildBackBetter agenda includes not only improving roads and bridges, but also aggressive climate action, universal child care, paid leave and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1437466219398012928"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/68070/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed the #InflationReductionAct into law. Democrats passed legislation to lower health care costs, cap prescription costs, and create clean energy jobs. The #InflationReductionAct has already provided significant investments in Georgia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1691842483016056901"
+        },
+        {
+          "type": "statement",
+          "text": "\"Together, we can stop outrageous increases in prescription drug prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/922551233923178496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/68070/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/68070/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"MAGA Republicans want you to believe there is an invasion at our southern border. But, in reality, the greatest terror threat facing our homeland is the white nationalist ideology that lies beneath such rhetoric.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1684240512016953346"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/68070/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/68070/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/68070/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/68070/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/68070/hank-johnson-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/68070/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/68070/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/68070/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/68070/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/68070/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/68070/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/68070/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/68070/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/68070/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm pleased to be working with you to hold Big Tech accountable, level the playing field for small businesses and app developers and increase competition and innovation in the digital ecosystem, all while offering consumers more choice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1428746490156044299"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nearly 70% of Americans, including in GA, support my Open App Markets Act. For too long, Google & Apple have enjoyed a near monopolistic grip on the mobile app market â stifling competition & strangling consumer choice. Time to hold Big Tech accountable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepHankJohnson/status/1542198748129935364"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/68070/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T01:03:47+00:00"
+}

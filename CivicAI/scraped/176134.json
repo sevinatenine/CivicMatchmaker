@@ -1,0 +1,406 @@
+{
+  "name": "Jon Ossoff",
+  "page_title": "Jon Ossoff's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (GA) - Sr, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (GA) - Sr",
+  "candidate_id": "176134",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/176134/jon-ossoff",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"DEFEND Roe v. Wade\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1211677548905664512"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yet Georgia GOP’s has insisted on passing this extreme, unconstitutional abortion ban. Roe v. Wade is and will remain the law of the land!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1179125889558339588"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We borrow trillions to cut taxes for the wealthy and powerful. Then Trump, McConnell, & Perdue tell us there’s no money to save the planet and revolutionize our infrastructure. This is Georgia, standing with people all over the world, demanding an end to the destruction of our planet and the corruption that enables it. #ClimateStrike\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/watch/?v=341249696625478"
+        },
+        {
+          "type": "statement",
+          "text": "\"We’ve squandered trillions on needless war, bank bailouts, & tax cuts for the wealthiest Americans — then we’re told there’s no money for health care, Social Security, or infrastructure. That’s corruption. Together we’ll clean up our democracy & deliver for the people.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/jonossoff/posts/2943477769043507"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Medicare and Social Security are vital programs that reflect our values and our commitment to honor and support seniors. Seniors paid for these benefits throughout their lives. Many of those from the Greatest Generation, who fought through the Depression and won World War II, still count on these critical programs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1157957/issue-position-honoring-defending-seniors#.XnKHRJNKifU"
+        },
+        {
+          "type": "statement",
+          "text": "Endorsed by Demand Universal Healthcare",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/176134/jon-ossoff"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâve squandered trillions on needless war, bank bailouts, & tax cuts for the wealthiest Americans â then weâre told thereâs no money for health care, Social Security, or infrastructure. Thatâs corruption. Together weâll clean up our democracy & deliver for the people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1222229362759675904"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jon will introduce legislation to reform campaign finance laws and reduce the toxic and corrupt impact of money in politics. He is opposed to the Citizens United decision allowing unchecked, anonymous money in politics.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1157961/issue-position-anti-corruption#.XnKHSJNKifU"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the agenda: repealing the disastrous Citizens United decision, Georgia’s maternal mortality crisis, the astronomical cost of prescription drugs, climate change, and how we can (and must) revolutionize America’s infrastructure\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1197264634568466434"
+        },
+        {
+          "type": "statement",
+          "text": "\"REPEAL Citizens United\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1211677548905664512"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jacob Blake was shot in the back. Seven times. In front of his kids. This looks like yet another unjustified use of deadly force by law enforcement, and yet again the victim is black. Congress must pass national standards for use of force now.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1297986309395550212?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of fanning the flames of unrest and division, a strong President would call upon the Senate to immediately pass the George Floyd Justice in Policing Act, then get to work on a new Civil Rights Act.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/jonossoff/posts/3494518497272762"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Senate I’ll deliver massive federal investment in clean energy, grid infrastructure, R&D. Not bank bailouts, wars of choice, & tax cuts for the rich. Georgia will create 1000s of jobs & cut emissions by building the region’s strongest solar industry.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1193259968281169926"
+        },
+        {
+          "type": "statement",
+          "text": "\"INVEST in clean energy & infrastructure\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1211677548905664512"
+        },
+        {
+          "type": "statement",
+          "text": "\"We all benefit when we ensure every American has health care. We all benefit when we end price gouging for prescription drugs. We all benefit when we invest in infrastructure & clean energy. We all benefit when we rid politics of dark money & corruption.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1221143126166904832"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre ready to register voters & GOTV in Morgan Co.! Weâll unite Georgians & WIN to ensure every American has health care, invest in infrastructure & our environment, & attack political corruption. Thank you Dutton Morehouse, Jeanne Dufort, & Morgan Co. Dems for your hard work!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1218213148597149696"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâll support policies that help Georgiaâs families make and save more money: fast and generous direct emergency relief during economic crises, lower taxes for all but the wealthiest Americans, debt-free public college, free vocational training, and health care guaranteed at an affordable price.\"",
+          "source": "electjon.com",
+          "url": "https://electjon.com/policy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tens of millions are out of work. Businesses are shuttered. Banks and landlords are threatening foreclosure and eviction. Working families and small businesses need more support NOW from leaders in Washington immediately.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/jonossoff/posts/3372117769512836"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Senate I’ll deliver massive federal investment in clean energy, grid infrastructure, R&D. Not bank bailouts, wars of choice, & tax cuts for the rich. Georgia will create 1000s of jobs & cut emissions by building the region’s strongest solar industry.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1193259968281169926"
+        },
+        {
+          "type": "statement",
+          "text": "\"INVEST in clean energy & infrastructure\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1211677548905664512"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we walk away from our #ParisAgreement commitments to reduce carbon emissions & help fight climate change, history will condemn us for it.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/869953704874692608"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the Senate I’ll deliver massive federal investment in clean energy, grid infrastructure, R&D. Not bank bailouts, wars of choice, & tax cuts for the rich. Georgia will create 1000s of jobs & cut emissions by building the region’s strongest solar industry.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1193259968281169926"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to receive the Gun Sense Candidate designation from @MomsDemand. In the Senate, Iâll fight the corrupt influence of the NRA.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1255581471848480768"
+        },
+        {
+          "type": "statement",
+          "text": "\"The constant gun violence in America is intolerable â and preventable. On Sunday, 8-year-old Secoriea Turner was shot to death in Atlanta. Georgia unites in grief and support for her family. We need peace. We need sensible gun laws. Nonviolence is the way.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1280522234759655427"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today Iâm endorsing Lucy McBath (@LucyWins2018), an inspiring Democratic candidate for GAâs 37th State House District. After losing her son to a senseless act of gun violence, Lucy became a relentless fighter for reforms to make our communities safer.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/968911809582419969"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If not for the ACA's protection of those with pre-existing conditions, John Armwood might not be alive today\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/861992117194895361"
+        },
+        {
+          "type": "statement",
+          "text": "\"It’s no surprise Sen. Perdue says he “of course” supports this lawsuit to strip health insurance protections for pre-existing conditions. He’s voted repeatedly to gut the ACA & kick millions of Georgians off health insurance while cozying up to insurance & pharma lobbyists.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1208053462530973697"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Doctors & nurses prepare for risky round-the-clock work treating COVID-19. The House expedites free testing & sick leave to slow the spread. Trumpâs incompetence has hamstrung preparations, and time is of the essence.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1238289436187779074"
+        },
+        {
+          "type": "statement",
+          "text": "\"My opponent wants to rip health care away from Georgians during a pandemic and gut protections for women, young people, and those with pre-existing conditions. I have a better idea: letâs protect and strengthen the ACA and ensure every Georgian has health care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1280216555515772929"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are the only major country that does not guarantee paid sick leave.When we win the Senate, weâll ensure American workers are afforded the flexibility, dignity, and respect to stay home when theyâre sick without losing their pay or their jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1273761242415587328"
+        },
+        {
+          "type": "statement",
+          "text": "\"McConnell says free virus tests, paid sick leave, and unemployment insurance will \"kill jobs.\" Where does Sen. Perdue stand? This governmentâs continued incompetence and denialism wonât just kill jobs, theyâll kill people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1238121174921547776"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We stand together to build bridges, not walls.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/871851938735939587"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The spread of nuclear weapons threatens our national security & human survival. The treaties established to prevent proliferation & weapons development are disintegrating. We need imagination & courage to build a world free from the threat of nuclear annihilation.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/jonossoff/posts/3025149080876375"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today America honors the warriors who lost their lives serving in our armed forces. Our gratitude is limitless. They will never be forgotten or dishonored. Our government must commit to a policy that orders service members into combat only when necessary in our defense.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/ossoff/status/1264963651880005632"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:46:10+00:00"
+}

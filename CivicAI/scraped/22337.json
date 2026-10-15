@@ -1,0 +1,730 @@
+{
+  "name": "Mark Takano",
+  "page_title": "Mark Takano's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 39, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 39",
+  "candidate_id": "22337",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/22337/mark-takano",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/22337/ensuring-access-to-abortion-act-of-2022#86813"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS' decision to strike down Roe v. Wade is the culmination of Republicansâ decades-long radical plan to take away womenâs fundamental, constitutional freedoms. This is the grim reality of what our country would look like if the decision stands.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1524784595576582144?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/22337/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security has offered millions of Americans economic security for the past 85 years. Now, Donald Trump is trying to defund it in the middle of a global pandemic. As we mark #SocSec85, we must fight to #ExpandSocialSecurity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1294341280453992449?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security just turned 88 years old! Our Social Security system is vital for #CA39 where nearly 100,000 residents receive benefits. Expanding Social Security benefits us all. #SocSec88\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1691137489820332034?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As GOP prepares a tax cut for the top 1%, let's review the other cuts they'll make so that it only adds $1,500,000,000,000 to the deficit.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/925785542301769729?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As I told my Republican colleagues on the House Veterans Committee, today's vote on the tax bill will mean tougher choices tomorrow. When we're struggling to fund veterans' health care, this $1.5 trillion tax cut for the wealthiest Americans will look even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/943557451479240704?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/22337/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As I told my Republican colleagues on the House Veterans Committee, today's vote on the tax bill will mean tougher choices tomorrow. When we're struggling to fund veterans' health care, this $1.5 trillion tax cut for the wealthiest Americans will look even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/943557451479240704?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Congress approved $1.8 trillion in tax cuts for the wealthiest corporations and wealthiest people in our country. And we can't find $4 billion for [veterans'] caregivers? There's no morality in that, and we must correct that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/968914566758445062?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/22337/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"10 years ago, #CitizensUnited delivered a devastating blow to our democracy by giving the ultra-rich and corporations the power to pour unlimited money into our elections. We must get big money out of politics and restore the people's voice in our democracy. #EndCitizensUnited\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1219700416100913154?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/22337/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "statement",
+          "text": "\"Corporate special interests should not drown out the voices of everyday Americans. Iâm proud to receive an \"A\" rating from End Citizens United. We must get dark money out of politics and enact comprehensive campaign finance reform. #ForThePeople\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1218226495086309376?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A police officer held his knee to George Floydâs neck for 8 minutes and 46 seconds, leading to his death. This atrocious act has finally forced us to confront the racism deeply rooted in our institutions. I will vote yes on the George Floyd Justice in Policing Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1276265916452540421?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our legal system shields police from accountability when they violate peopleâs rights. By ending qualified immunity, we can ensure that police face legal consequences when they engage in excessive use of force or egregious misconduct. I support the Ending Qualified Immunity Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1270460433229590529?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Derek Chauvin was held accountable for murdering George Floyd. But nothing will bring George Floyd back â he should still be alive today. We can't stop fighting for justice for Black lives and for greater police accountability. I pray for peace for George Floyd's family.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1384623997506174976?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/22337/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/22337/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31775/82892/22337/national-defense-authorization-act-for-fiscal-year-2022#82892"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/22337/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/22337/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I agree. We need robust infrastructure investments to rebuild our schools and communities, create jobs, and revamp our green economy. Spending $70 billion to improve our schools and communities > spending $70 billion to build a wall. #SOTU\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1092979828201058305?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/22337/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/22337/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/22337/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A significant number of people suffering from homelessness are veterans. We passed the Veteran HOUSE Act to make more veterans suffering from housing insecurity eligible for HUD-VASH housing vouchers. Programs like this work. Let's invest in them and make them more accessible.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1216916335378214912?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Homeowners and tenants are feeling the burdens of the housing crisis, especially in Riverside County. That's why Iâm so glad that the Fair Housing Council of Riverside County Inc. was awarded a grant to assist those who need it most and help fight this crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1484203055306264580?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Homeownership is out of reach for millions of Americans. The lack of affordable housing is burdensome to our communities. We must assist aspiring homeowners and renters to combat this housing crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1156963624705024000?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The housing crisis has gotten worse during this pandemic. We need to ensure that we assist families that are experiencing or at risk of homelessness. Iâm glad that Moreno Valley has received additional CARES Act funding to support this important effort.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1291164265559330819?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats took action to protect families by passing the #BuildBackBetterAct. This bill alleviates the potential financial burdens of inflation by lowering health care costs, prescription costs, child care costs, and cuts taxes for families with children.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1481346584680046599?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #CHIPSandScienceAct was signed one year ago today & communities across the country are already feeling the impacts of the Investing in America agenda through good paying jobs, inflation easing, and research and innovation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1689332527519973382?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act will lower prescription drug and energy costs, extend health coverage, act on climate, and create jobs. It includes pieces of the Build Back Better Act and allows Democrats to keep our promise to improve the lives of families across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1556639344965869568?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/22337/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am thrilled that the Department of Education announced $415 million in new student loan forgiveness for the nearly 16,000 students who were defrauded by predatory, for-profit institutions.This is a welcome relief for students thanks to the Biden-Harris Administration.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1494726839813787662?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Students who were defrauded by predatory colleges are legally entitled to FULL student loan debt forgiveness. But @BetsyDeVosED is denying debt relief for roughly 240,000 student borrowers, causing them financial harm. I'll be asking her why @EdLaborCmte\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1205136789499006976?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We know that without the ability to go to work, many borrowers will be crushed by their student loans. That's why @HouseDemocratsâ new coronavirus response bill provides every borrower at least $10,000 in federal student debt relief.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1242499099808731154?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"56 years ago, John Lewis and so many others shed blood on the Edmund Pettus Bridge for the right to vote. Today, the House passed the John R. Lewis Voting Rights Advancement Act to protect this fundamental right and ensure our democratic process works for all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1430309787112116227?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/22337/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/22337/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans are looking for real action in Congress to address #climatechange. I introduced a package of bills to help move our country away from dependence on fossil fuels and unsustainable energy sources by investing in battery energy storage for #renewables.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1106213110577315840?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/22337/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/22337/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our oceans and beaches should be free from harmful pollution. I just Voted in favor of two bills to #ProtectOurCoasts from offshore drilling and stop President Trump's harmful giveaway to Big Oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1171901029471924224?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/22337/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/22337/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/22337/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/22337/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "\"My message to my GOP colleagues is simple: #DoSomething. @SenateMajLdr has blocked House-passed bills for 175 days, while horrific mass shootings continue. Congress has a duty to protect our communities from gun violence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1163888568617639936?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support Medicare for All because the only thing that people in need of medical attention should worry about is healing, not bills. Itâs time for #MedicareForAll\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1375183147718033425?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Life-saving medical care should not cost a fortune. We need #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1387582806616805376?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States is the richest country on Earth, but millions of Americans still canât afford health care. That's wrong. #MedicareForAll will change that. Itâs time for bold change in America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1372249774259384321?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/22337/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support comprehensive and inclusive #paidleave that provides equal paid family leave for new parents regardless of gender. All working families in America deserve access to equitable paid leave policies. #WhatMomsNeed\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1126947970182725632?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lack of access to paid sick days disproportionately affects Black, Latinx, and low-wage workers. Data shows that access to paid sick days is critical to protecting the health & financial security of workers and their families. We must establish a federal paid sick leave policy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1238504872087113728?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Build Back Better Act will strengthen our economy by investing in paid family leave, lowering childcare costs, and expanding access to universal pre-school so parents can reenter the workforce with peace of mind. We will pass this legislation #ForThePeople.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1459206521917784067?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/22337/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats took action to protect families by passing the #BuildBackBetterAct. This bill alleviates the potential financial burdens of inflation by lowering health care costs, prescription costs, child care costs, and cuts taxes for families with children.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1481346584680046599?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The cost that the average American pays for life-saving drugs is absurd. Medicines like insulin and antibiotics have become increasingly expensive. That is why @HouseDemocrats and I fight to lower drug prices so that theyâre affordable for all. #ForThePeople\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1159888145367863297?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/22337/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/22337/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Trump continues to be more focused on his fantasy border crisis and less on the #ForThePeople priorities Americans really care about. If he's hoping that what he tweeted this morning will lower our already low expectations for his #SOTU address, itâs working.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1092830998033772544?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vulnerable families shouldnât be forced to live in tent camps at our border for months under #RemainInMexico. This abhorrent policy has resulted in pain and suffering. I will keep holding @DHSgov accountable until asylum seekers can safely enter the US.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1222600743447932935?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "statement",
+          "text": "\"The \"border crisis\" is a fantasy of President Trumpâs own creation. Instead of relying on facts, he continues to use anti-immigrant tactics to push his xenophobic, unpopular agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1092974450146983936?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House just passed #HR6, the Dream and Promise Act, and I voted yes. Because #Dreamers like Gabriela from Riverside â who is working every day to make our country better â deserve a pathway to citizenship. She shared her story with us. #ProtectTheDream\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1136047035197644800?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Republicans try to stoke fear into the hearts and minds of the American people at the border, Democrats are working on pragmatic and compassionate solutions to achieve comprehensive immigration reform.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1371622098083356675?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/22337/mark-takano"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/22337/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm voting YES on the Suspending Energy Imports from Russia Act. This bill will ban the import of Russian oil and energy products into the U.S. and further isolate Russia from the global economy. This is how we hold Putin accountable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarkTakano/status/1501631314193231883?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/22337/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/22337/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/22337/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/22337/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/22337/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/22337/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/22337/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:29:28+00:00"
+}

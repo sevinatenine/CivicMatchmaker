@@ -1,0 +1,670 @@
+{
+  "name": "Andrew Clyde",
+  "page_title": "Andrew Clyde's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 9, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (GA) - District 9",
+  "candidate_id": "189770",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/189770/andrew-clyde",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"While the Dobbs decision dismantled Roe v. Wade, we cannot forget the millions of innocent lives lost to the evils of abortion.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1749526548372193594"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support pro-choice or pro-life legislation? \"Pro-Life\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3755 \"Women's Health Protection Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31780/82919/189770/womens-health-protection-act-of-2021#82919"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hallelujah! Praise God! I applaud the Supreme Court for rightfully repealing Roe v. Wade, destroying the nearly five decades-long unconstitutional ruling of the federal court that justified the murder of millions of innocent babies. Todayâs decision marks a major victory in the fight to protect the first and most fundamental unalienable right â the right to life. I look forward to pro-life states, including my home state of Georgia, valuing life at all stages and enacting legislation to defend the unborn.\"",
+          "source": "clyde.house.gov",
+          "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=271"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden is WRONG. Republicans want to cut wasteful spendingânot Social Security and Medicare benefits.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1623151637962317825?lang=en"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare? \"No\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde/38/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a nation, we are overtaxed. If Americans are to truly be free, we must drastically decrease taxes and the size of the government those taxes fund. Andrew's tax plan would be simple: 1. Eliminate graduated taxes and implement a FairTax system [H.R.25] 2. Stop taxation on the production of goods [pass H.R. 25] 3. Dismantle the IRS [pass H.R. 25]\"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Fair Tax Act simplifies the tax codeâeliminating the need for the IRS and establishing a fair system for all Americans. Proud to support @RepBuddyCarter's commonsense legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1614012767018815488"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 86% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a nation, we are overtaxed. If Americans are to truly be free, we must drastically decrease taxes and the size of the government those taxes fund. Andrew's tax plan would be simple: 1. Eliminate graduated taxes and implement a FairTax system [H.R.25] 2. Stop taxation on the production of goods [pass H.R. 25] 3. Dismantle the IRS [pass H.R. 25]\"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Speaker Pelosi included $200 MILLION worth of pork for Presidio Trust, a park in her California district, in the #DemsSpookySpending spree. Unbelievable! Democrats want to raise Americansâ taxes to pay for Speaker Pelosiâs wasteful pet projects.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1452379375966457856"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I commend our Georgia lawmakers for strengthening the integrity of our Georgia elections and I'm proud to support those efforts by voting NO to the federal takeover of elections, NO to HR 1, and I ask all my colleagues to do the same.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1367206891940683778?s=20&t=Mi2dQCwg-Qz8qaHX8CqAZA"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of indirect campaign contributions from corporations and unions? \"No\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/189770/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 40 \"Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enfo ...\"",
+          "source": "clyde.house.gov",
+          "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=791"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H J Res 42 \"Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Re ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/20/criminal-justice"
+        },
+        {
+          "type": "statement",
+          "text": "\"For the second time this Congress, the House has effectively exercised its exclusive legislative authority, outlined in Article 1, Section 8, Clause 17 of the Constitution, to block another severely misguided bill from the D.C. Council, which puts criminals first and police officers last,\" said Clyde. \"After losing almost 1,200 officers over the last two years due to the Councilâs legislation, the Metropolitan Police Department continues to operate in an officer deficit amidst the Districtâs chaotic crime crisis. By passing my resolution, this body has firmly rejected the Council's anti-police law, reaffirmed our support of heroic law enforcement officers, and underscored the importance of protecting Americansâ safety in Washington. I thank my colleagues for passing my commonsense resolution with bipartisan support, and I now urge both the Senate and the White House to choose people over politics by joining our effort to improve public safety in our nationâs capital city.\"",
+          "source": "clyde.house.gov",
+          "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=791"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support increasing defense spending? \"Yes\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a 28-year Navy veteran who served three combat tours in Kuwait and Iraq, I strongly believe funding, equipping, and supporting our military is paramount to the security of our great nation. With threats increasing from adversaries across the globe, this yearâs NDAA bolsters our capabilities to properly counter threats posed by China, Russia, Iran, and radical terrorist organizations.\"",
+          "source": "clyde.house.gov",
+          "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=63"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"CUT spending and SECURE the border.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1776303098052424051"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American people cannot afford Washingtonâs spending addiction.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1765783778243297543"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support federal spending as a means of promoting economic growth? \"No\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/189770/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats' severely misguided priorities are a disgrace, but maybe they are actually intended to be a distraction because tackling inflation head-on would require Democrats and President Biden to face the undeniable reality that their Big Government, socialist agenda caused this mess in the first place.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1609112/inflation-and-our-economy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is costing the average Georgia household $1,021 per month. Joe Bidenâs reckless policies and runaway spending continue to crush hardworking families.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1767952216025899522"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/189770/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nearly 60% of Americans are concerned that canceling student loan debt will make inflation WORSE. Yet Joe Biden is planning a pricey student loan bailout anywayâexacerbating 40-year high inflation that continues to burden all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1562096699107119104"
+        },
+        {
+          "type": "statement",
+          "text": "\"Surrendered: Defunding Joe Bidenâs student loan \"forgiveness\" schemes.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1770846574278557701"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden isnât \"forgiving\" or \"canceling\" another $1.2 billion in student loan debt. Heâs simply forcing American taxpayers to foot the bill.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1760414163677979041"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no such thing as student loan debt \"forgiveness\" or \"cancelation.\" Joe Bidenâs misguided policy simply transfers the burden to repay the loan from the borrower to the American taxpayer. This is legally and morally wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1630623965122052121"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/189770/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"Just tell that to TSA the next time you try to get on an airplane, or to your local gun dealer when you try to buy a gun. In fact, if we are going to eliminate a valid government-issued photo ID for constitutional voting rights, then let's eliminate the need for photo ID to exercise your Second Amendment too. The hypocrisy by the liberal left to eliminate voter ID is stunning. Trust starts by States taking steps to verify that all votes are legal and cast by eligible voters. That is why we must verify citizenship and require picture identification.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1506658/requiring-voter-id-strengthens-election-integrity/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let me get this straightâ¦Democrats believe voter ID laws are racistâbut vaccine ID mandates are righteous. ABSURD!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1481672614213046277"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since Joe Biden took office, gas prices have more than DOUBLED. Americans are suffering at the pump while the Biden Administration continues to beg Saudi Arabia and Venezuela for oil, deplete our Strategic Petroleum Reserve, and put an end to American energy independence.\"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/bidensamerica"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)? \"No\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 86 \"Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 987 \"Denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We donât need foreign oilâwe need AMERICAN oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1578420695822139393"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/189770/andrew-clyde"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/189770/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/189770/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will NOT give an inch on the Second Amendment, and I will be the point of the spear in taking back what we have lost and help to ensure we never lose it again.\"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/secondamendment"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/37/guns"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Constitutional Gun Rights of American citizens, enshrined in the 2nd Amendment, have been losing ground since the Revenue Act of 1918 imposed a 10 percent tax on the sale of firearms. In 1934, the National Firearms Act imposed a flat $200 tax on the transfer of new categories of firearms like short-barreled rifles, short-barreled shotguns, machine guns, and silencers/sound suppressors. In 1937, the Federal Aid in Wildlife Restoration Act (often called the Pittman-Robertson Act) increased the tax on ammunition and rifles to 11%. Now, some cities like Seattle, WA have implemented a $25 tax on every firearm sold and up to a 5-cent tax on every round of ammunition sold. Territories like the Northern Mariana Islands implemented a $1,000 tax on the sale of every handgun in 2016 when their outright ban was struck down by the courts. So the question needs to be asked, \"How can a Constitutional right be taxed?\" If it can be taxed then it is no longer an inalienable right but only a privilege to be enjoyed only by those who can afford to pay the tax. In 1819, the Chief Justice of the Supreme Court stated that the \"power to tax includes the power to destroy.\" So, If the Second Amendment can be legally taxed, then it can be taxed out of existence by raising the tax so high that no average citizen can afford it. This would effectively eliminate the right to keep and bear arms.\"imposed a flat $200 tax on the transfer of new categories of firearms like short-barreled rifles, short-barreled shotguns, machine guns, and silencers/sound suppressors. In 1937, the Federal Aid in Wildlife Restoration Act (often called the Pittman-Robertson Act) increased the tax on ammunition and rifles to 11%. Now, some cities like Seattle, WA have implemented a $25 tax on every firearm sold and up to a 5-cent tax on every round of ammunition sold. Territories like the Northern Mariana Islands implemented a $1,000 tax on the sale of every handgun in 2016 when their outright ban was struck down by the courts. So the question needs to be asked, \"How can a Constitutional right be taxed?\" If it can be taxed then it is no longer an inalienable right but only a privilege to be enjoyed only by those who can afford to pay the tax. In 1819, the Chief Justice of the Supreme Court stated that the \"power to tax includes the power to destroy.\" So, If the Second Amendment can be legally taxed, then it can be taxed out of existence by raising the tax so high that no average citizen can afford it. This would effectively eliminate the right to keep and bear arms.\"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/secondamendment"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/189770/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/189770/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"CUT spending and SECURE the border.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1776303098052424051"
+        },
+        {
+          "type": "statement",
+          "text": "\"The radical open-border policies of the Biden Administration and the House Democrats have led to a crisis at our southern border. They ended the construction of the border wall, supported mass releases of immigrants into the United States, and stopped President Trump's successful \"Remain in Mexico\" policy. Now, the border patrol is experiencing record numbers of encounters at the border, confiscating record amounts of illegal drugs including Fentanyl, and human trafficking has become a 13 BILLION dollar industry for the cartel. \"",
+          "source": "www.clyde4congress.com",
+          "url": "https://www.clyde4congress.com/bidensamerica"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 1065 \"Denouncing the Biden administration's immigration policies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5283 \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden is reportedly considering a plan to provide amnesty to illegal aliens who have been in the U.S. for 10+ years. Democratsâ radical immigration agenda is designed to import new voters. We must stop this insanity from destroying our country.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1773390489913307312"
+        },
+        {
+          "type": "statement",
+          "text": "\"Migrant Protection Protocols like Remain in Mexico\" were created to keep asylum seekers in Mexico prior to their immigration court dates. .@POTUS wants to gut this process - doing so will increase the number of illegals flooding into our country!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1443997699490160644?s=20&t=Mi2dQCwg-Qz8qaHX8CqAZA"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's raging border crisis and the harm it inflicts on our great country, the dangerous catastrophes that I simply cannot ignore. We are talking about over 2 million illegal crossings in a single year, thousands of pounds of fentanyl seized, as we just talked about, and an unknown number of illegal migrants, some with criminal records, some on the terrorist watch list, released into hundreds of communities across the Nation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1583166/securing-the-southern-border"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"Yes\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/political-courage-test/189770/andrew-clyde"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must pass my legislation to redesignate the Iran-backed Houthis as a foreign terrorist organization and reinstate sanctions on the group.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1745920402092650965"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Nord Stream 2 pipeline is a significant threat to US interests and NATO. This pipeline will expand Russian influence throughout Europe, damage our national security interests, and reduce our energy exports. @POTUS must stand with our allies & reimpose sanctions now!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1402332097214246912"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7217 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"Given Hamasâ barbaric terrorist attack on October 7th and ongoing assault against our greatest Middle Eastern ally, Israel, this legislation is not only timely but imperative,\" said Clyde. \"We must ensure Israel has the resources needed to successfully defeat evil Iran-backed Hamas terrorists so it can protect its citizens. In addition to bolstering Israelâs defense capabilities, House Republicansâ supplemental aid package strengthens our own national security by replenishing our domestic defense stockpiles. Thankfully, under Speaker Johnsonâs leadership, this legislation is also fully offset by rescissions from bloated IRS funding in President Bidenâs severely misguided Inflation âExpansionâ Act â providing a commonsense solution to support our ally in its time of need without placing an additional financial burden on American taxpayers. I proudly Voted in favor of this necessary and fiscally responsible supplemental aid bill, and I remain committed to fortifying both the U.S. and Israelâs national security amidst increasing threats from our adversaries across the globe.\"",
+          "source": "clyde.house.gov",
+          "url": "https://clyde.house.gov/news/documentsingle.aspx?DocumentID=1100"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"22 Senate Republicans Voted in favor of the foreign aid bill that sends $60 billion to Ukraineâwhich is more than the entire budget of the U.S. Marine Corps. With Republicans like these, who needs Democrats?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1757434603999047968"
+        },
+        {
+          "type": "statement",
+          "text": "\"Earlier this morning while most of America was sleeping, the Senate passed a $95 billion foreign aid package. It funnels $60 billion to Ukraineâyet does nothing to secure OUR borders. Total betrayal of the American people. Iâm glad this nonsense is DOA in the House.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1757413141309280266"
+        },
+        {
+          "type": "statement",
+          "text": "\"I canât believe I have to say thisâ¦But NO member of Congress should support sending another $60 billion to Ukraineâwhich is more than the entire budget of the U.S. Marine Corps. That is the definition of America LAST.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1755350600596836399"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/189770/andrew-clyde/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech censored the truth. Legacy media denied the truth. Government officials hid the truth. Americans deserve accountability.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1629968896236171264"
+        },
+        {
+          "type": "statement",
+          "text": "\"The First Amendment is alive and well. Yet the federal government is circumventing the Constitution by using Big Tech to carry out its bidding of censoring Americansâ speech. My Free Speech Defense Act ends this government-by-proxy censorship.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1600633347247587329"
+        },
+        {
+          "type": "statement",
+          "text": "\"There should be ZERO collusion between the federal government and Big Tech to censor Americansâ First Amendment freedoms, period. My Free Speech Defense Act will end this government-by-proxy censorship once and for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Clyde/status/1600849076010061830"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/189770/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:33:15+00:00"
+}
