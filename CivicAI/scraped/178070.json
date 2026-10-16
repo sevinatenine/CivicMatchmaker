@@ -1,0 +1,298 @@
+{
+  "name": "Luz Rivas' Issue Positions (Political Courage Test)",
+  "page_title": "Luz Rivas' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 29, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 29",
+  "candidate_id": "178070",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178070/luz-rivas",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As anti-abortion extremists across the country attack our fundamental freedoms, Californiaâs leadership on reproductive freedom continues to be more important than ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1748099424407138491?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now more than ever we need to fight for abortion access, reproductive health and the right to control our own bodies. #BansOffOurBodies\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1535124960452042753?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1253 - \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28792/74552/178070/increases-income-taxes-for-people-who-earn-more-than-1-million#74552"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1593 - \"Authorizes Certain Tax Breaks for Undocumented Families\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28790/74549/178070/authorizes-certain-tax-breaks-for-undocumented-families#74549"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1253 - \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28792/74552/178070/increases-income-taxes-for-people-who-earn-more-than-1-million#74552"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A year ago, #CALeg passed one of the strictest policies in the nation on the use of deadly force by police - #AB392 by @AsmShirleyWeber. After the murder of George Floyd, we know there is still more work to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1268941275111100422?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm leading this #CALeg budget ask because we need to invest in LA Countyâs children and families. #investinLADCFS\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1519084691600515073?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 531 - \"Appropriates $6.4 Billion in Bonds to Build Infrastructure for 10,000 New Behavioral Health Treatment Slots\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36268/97222/178070/appropriates-64-billion-in-bonds-to-build-infrastructure-for-10000-new-behavioral-health-treatment-slots#97222"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Established the California Interagency Council on Homelessness. Authored legislation to identify homeless youth and provide services to homeless K-12 children. Worked with advocates across the state to secure $3 billion of 2023-2024 housing and homelessness-related expenditures\"",
+          "source": "www.luzforcongress.com",
+          "url": "https://www.luzforcongress.com/new-page"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need more student loan debt relief. It will be a lifeline for so many Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1759727305650561229?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 860 - \"Authorizes Vote By Mail Absentee Ballots\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28150/73693/178070/authorizes-vote-by-mail-absentee-ballots#73693"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 29 - \"Authorizes the Continuation of Mail-In Ballots\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/29953/78115/178070/authorizes-the-continuation-of-mail-in-ballots#78115"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1373 - \"Appropriates Funding for Various State Clean Energy Programs\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35685/95197/178070/appropriates-funding-for-various-state-clean-energy-programs#95197"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 100 - \"Increases the State Renewable Energy Target\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/25211/64001/178070/increases-the-state-renewable-energy-target#64001"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians overwhelmingly back oil drilling restrictions and setbacks!! Thatâs why we need to keep the law authored by @SenGonzalez_33 and that we Voted in favor of in the state legislature!\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1753119887978115579?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today I met with #AD39 HS students that support @PhilTing's AB2888 - a bill that would expand Gun Violence Restraining Orders from only being used by family to adding teachers, co-workers & other professionals. They gave me lots of postcards written by students\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/989657358346285056?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SJR 7 - \"Establishes Various State Gun Control Measures\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36311/97383/178070/establishes-various-state-gun-control-measures#97383"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 1383 - \"Expands Protections for Paid Family Leave\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28226/75634/178070/expands-protections-for-paid-family-leave#75634"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1246 - \"Requires Large Group Health Plans to Cover Medically Necessary Prescription Drugs\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26963/69039/178070/requires-large-group-health-plans-to-cover-medically-necessary-prescription-drugs#69039"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is criminal that our country under Trump can't find the parents of 545 children separated at the border!\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1319460316565041153?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to have joined my colleagues in demanding that the Trump Administration stop separating families at the border. We must account for all children at detention facilities and reunite them with their families! #FamiliesBelongTogther\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1010924956622848001?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to have joined my colleagues in demanding that the Trump Administration stop separating families at the border. We must account for all children at detention facilities and reunite them with their families! #FamiliesBelongTogther\"",
+          "source": "x.com",
+          "url": "https://x.com/luzrivas/status/1010924956622848001?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1593 - \"Authorizes Certain Tax Breaks for Undocumented Families\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28790/74549/178070/authorizes-certain-tax-breaks-for-undocumented-families#74549"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:33:20+00:00"
+}

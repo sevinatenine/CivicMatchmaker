@@ -1,0 +1,724 @@
+{
+  "name": "Kat Cammack",
+  "page_title": "Kat Cammack's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 3",
+  "candidate_id": "191306",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191306/kat-cammack",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Born-Alive Abortion Survivors Protection Act does exactly what it says it does. Shocking, right? Babies born alive following an abortion should be entitled to the same legal protections that any child receives following birth. Take a listen to my floor speech below\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1613285353108180998"
+        },
+        {
+          "type": "statement",
+          "text": "\"oday is the anniversary of Roe v. Wade, and in the 49 years since, weâve lost over 60 million children to abortion in the U.S. Deprived of life, we will continue fighting for the most vulnerable among us.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1484925940148887552"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/191306/kat-cammack/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/191306/kat-cammack/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"FALSE. FALSE. FALSE. FALSE. Republicans DO NOT want to cut Medicare and Social Security. This is absolute nonsense; ask any Republican.",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% the by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S. 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An ardent budget hawk, she believes taxes should be low and that we must keep government spending minimal and efficient. \"",
+          "source": "katforcongress.com",
+          "url": "https://katforcongress.com/meet-kat/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 77% by the National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We do not have a revenue problem in this country, we have a spending problem. It is imperative for us to balance our budgets and address our out-of-control debt and deficit, but in order to do so, we must cut spending. In order to protect the programs that people have paid into their whole lives, we must first work to make the programs solvent. Eliminating the waste, fraud and abuse is the first and most important step. Increasing taxes is not a part of that solution for me.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As decided by the Supreme Court, financial contributions is classified as free speech. Infringing on that is an infringement on our first Amendment and as a Constitutional conservative, I am committed to protecting our Constitutional rights.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted Against H.R. 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Assocation of Poilice Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "statement",
+          "text": "\" If you didnât catch it, it was about H.R. 1280, the \"George Floyd Justice In Policing Act,\" a bill that passed the House largely along party lines with a final vote of 220 in favor and 212 opposed. This bill â which faces a steep uphill climb in the Senate â would criminalize chokeholds, ban no-knock warrants and overrule \"qualified immunity,\" among other provisions.\"",
+          "source": "cammack.house.gov",
+          "url": "https://cammack.house.gov/media/in-the-news/defunding-police-defrauding-our-communities"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/191306/kat-cammack/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over several the last several decades, our military has seen a decrease in readiness and ability to meet the increasing security challenges of our time due to partisan fights on Capitol Hill. There are tremendous opportunities to streamline and cut waste from the DOD before increasing defense spending but regardless, the number one charge of the federal government remains the same - national defense. We must continue to make smart investments in our military readiness and national defense.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191306/kat-cammack"
+        },
+        {
+          "type": "statement",
+          "text": "\"With continued threats from the Chinese Communist Party, it's more important now than ever to make sure our military is prepared to strengthen our national security. Our Armed Forces must have the necessary resources to keep our nation safe, and I'm glad this NDAA takes the proper steps to put our readiness first.\"",
+          "source": "cammack.house.gov",
+          "url": "https://cammack.house.gov/media/press-releases/rep-cammack-votes-support-fy-2024-national-defense-authorization-act-ndaa"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for S. 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In addition to zero interest loans, the government should look to provide regulatory relief immediately to these businesses which are often exceptionally costly to business. Issuing a payroll tax extension and general tax relief would also bring much needed stability to this situation.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191306/kat-cammack"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm glad the court system has paused Bidenâs failed bailout. The Left wants blue-collar Americans to bail out white-collar Americans. Itâs just another way for Democrats to play favorites and pay favors to their base.\"",
+          "source": "x.com",
+          "url": "https://x.com/Kat_Cammack/status/1591133618453504000"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An ardent budget hawk, she believes taxes should be low and that we must keep government spending minimal and efficient. \"",
+          "source": "katforcongress.com",
+          "url": "https://katforcongress.com/meet-kat/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration isnât fixing inflation, theyâre contributing to it. As of October, Americans owed more than $16B in outstanding utility bills, unable to pay for the necessities of daily life. Weâre working hard to return to accountability in the 118th.\"",
+          "source": "x.com",
+          "url": "https://x.com/Kat_Cammack/status/1602780161140727809"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84296"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A welder in Ocala will pay off the debt of a software engineer. A plumber in Keystone Heights will pay off the debt of a surgeon. A single parent working three jobs in Palatka will pay off the debt of a tenured college professor. This is plain wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1562895206005239809"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. economy is in a recession, the inflation rate is at a 40-year-high, and Democrats want to forgive student loan debtâeffectively the most egregious regressive tax. 58 percent of Americans on the hook for $1.7T+ in debt solely benefiting those with degrees. Bad policy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1552711231559049221"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was a busy week last week in Washington, from the Democrats' continued refusal to address the border, to a committee hearing about renewable energy when our farmers are hurting, and beyond. Watch!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1513255246038028289"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to join my colleague @RepDonaldsPress in co-sponsoring this resolution. American energy independence is needed now more than ever, and nuclear is one of the cleanest, renewable energy sources available.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1554850191617966081"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden is in Colorado today to discuss clean energy. He'll blame Republicans for not supporting his clean energy agenda, but his policies increase dependence on China and push the U.S. away from domestic sources. We've already passed several bills to fight back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1729943811995136070"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "statement",
+          "text": "\"After stopping the Keystone XL Pipeline and forcing burdensome regulations on our energy industry, @POTUS is now pressuring OPEC to boost oil production? To boost supply for a sector he singlehandedly destroyed? This administration is a disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1425865667379703815"
+        },
+        {
+          "type": "statement",
+          "text": "\"If we don't push to bring the Keystone Pipeline back online, the U.S. will be in a weaker position in defeating Russia. U.S. energy production is powerful and we have the workforce and infrastructure in place to make it happen.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1498694048764157957"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Independent Petroleum Association of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sheâs adamant about securing the southern border, will always advocate for our small businesses, and has never wavered in her support for the Second Amendment. \"",
+          "source": "katforcongress.com",
+          "url": "https://katforcongress.com/meet-kat/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the National Rifle Assocation",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Kat will work to repeal standardized federal programs that impede free markets like Obamacare and champion the values that the voters of CD3 hold close.\"",
+          "source": "x.com",
+          "url": "https://x.com/Kat_Cammack/status/1308861439810113539"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obamacare was a disaster. Simple as that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1765933382540644599"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let's set the record straight on insulin prices. By mandating a cap on copays, we create higher premiums for all seniorsâand eventuallyâfor all Americans. We must work across the aisle to make insulin more affordable without risking innovation and competition.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1623149643524718596"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sheâs adamant about securing the southern border, will always advocate for our small businesses, and has never wavered in her support for the Second Amendment. \"",
+          "source": "katforcongress.com",
+          "url": "https://katforcongress.com/meet-kat/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is not border security. This is a way to parole people into the United States faster. You are not securing the border in this package. We would do well not to lie to the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1754556739398050216"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's visit to the border was not about securing the border, it was about securing votes. That's all that visit was,\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1763665742573011334"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191306/kat-cammack"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/191306/kat-cammack/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 - \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/191306/kat-cammack/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is critical that we stand by our allies and partner nations and ensure that the IRGC is not given the benefit of removal of sanctions by delisting them as a FTO. This would reward them with greater freedom to increase their malign activities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1507031737863491592"
+        },
+        {
+          "type": "statement",
+          "text": "\"My @RepublicanStudy colleagues and I joined Former Sec. Pompeo to introduce the Maximum Pressure ActThis bill empowers Congress to stop the Biden admin from re-entering the Iran Deal, codifies max pressure, and expands Iran sanctions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1384908693133840388"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enough is enough. This morning, my amendment to the Ukraine aid bill is on the House Floor. My amendment would cut $10.5B by eliminating all non-military funding in this bill, stopping the use of your hardworking taxpayer dollars to support Ukraineâs economy. Refugee assistance, diplomatic programs at the State Department, operating expenses at USAID, and a handful of other programs in this bill do not merit the urgency that would send this total straight to our national debt. We donât need to add another $10.5B to our already growing $34.7T debt. Full stop.\"",
+          "source": "x.com",
+          "url": "https://x.com/Kat_Cammack/status/1781711369164754947"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. debt already stands at $34.7T. We don't need to send more hardworking taxpayer dollars to these overseas programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1781716656047132897"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 - \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024:",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 - \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023 - National Key Vote\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84891"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" Itâs clear no oneâs buying that TikTok has 'no connection' to the CCP. Republicans and Democrats are united on this issue, and weâre taking action to stop China from collecting our citizensâ private data\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1639379606439358469"
+        },
+        {
+          "type": "statement",
+          "text": "\"The CEO of TikTok is before @HouseCommerce tomorrow during a primetime hearing. We know TikTok presents a significant national security threat to the U.S. and our privacy. Tomorrow we're getting working to show the American people what's really on this app.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1638682565568606208"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterdayâs hearing with the CEO of TikTok confirmed what my colleagues and I already knewâthat the CCPâs ties to the platform pose a severe national security threat. Under no circumstances should China be able to surveil over 150 million American citizens.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKatCammack/status/1639288520408801282"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:15:02+00:00"
+}

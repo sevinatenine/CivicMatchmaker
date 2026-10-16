@@ -1,0 +1,657 @@
+{
+  "name": "Buddy Carter",
+  "page_title": "Buddy Carter's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 1, Republican",
+  "candidate_id": "32085",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/32085/buddy-carter",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Overturning Roe v. Wade was the beginning, not the end. The pro-life community stands committed to supporting women and families.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1541775042094239746"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/32085/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NARAL Pro-Choice America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1016/rating/13796"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protections Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34026/90338/32085/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/32085/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Let's call a spade a spade - President Biden is not telling the truth about @HouseGOPs commitment to SAVING and SECURING Social Security and Medicare. We need action, not attacks.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/search?q=%40RepBuddyCarter%20social%20security%20&src=typed_query&f=top"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/959/rating/13947"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The national debt is the single biggest threat to our national security and, unchecked, threatens to leave future generations to a life indebted to other countries. I believe it is time for Washington to finally take a cue from hard working families, small businesses, and states, counties, and municipalities by living within its means and learning to balance a budget.Congress owes Georgians a responsible, balanced budget that preserves the economic opportunities, personal freedoms, and individual liberties of our children and grandchildren. I will continue to fight to end Washingtonâs out of control spending addiction.As a Member of Congress, I have voted to cut more than $5 trillion in waste from the federal budget which reaches balance and begins paying off the national debt within ten years without raising taxes.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/issues/issue/?IssueID=14893"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by Freedom Works",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13938"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/23/rating/10947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/32085/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 79% by Freedom Works",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13938"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1734/rating/13943"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/32085/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2568/rating/12358"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/32085/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to be an original cosponsor of the historic #JusticeAct. This legislation proposes the most significant police reforms in 25 years through real solutions to increase transparency, accountability, and performance in American law enforcement.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBuddyCarter/status/1273713768330072065?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2407/rating/13906"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/32085/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/725/rating/9983"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/32085/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/32085/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, Congressman Earl L. \"Buddy\" Carter (R-Ga.) voted in support of a two-year budget agreement which is critical for our military and national security, as well as the First District and conservative priorities. The budget agreement fully funds our military and ends the dangerous cycle of funding our national defense with short-term, stop-gap spending bills. It responsibly increases defense spending while unwinding the sequestration cuts which have crippled our armed forces.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=2864"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Earl L. \"Buddy\" Carter (R-Ga.) released the following statement after President Joe Biden announced the Administration's plan related to infrastructure:\"America needs a strong, bipartisan infrastructure bill. Unfortunately, the Biden plan is certainly not it. Any infrastructure plan should be focused on our nation's ports, expanding rural broadband and actually improving infrastructure in this country. Just 5 percent of the Biden plan will go to repairing roads and bridges, just one percent will go to airports and less than one percent will go to our waterways and ports. This is not an infrastructure plan. This is a disguise for the Green New Deal, tax increases, and other liberal policies. Infrastructure can and should be a bipartisan issue, but it looks like President Biden isn't interested.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=7933"
+        },
+        {
+          "type": "statement",
+          "text": "\"Federal spending is out of control. Despite the Liberal media's negative spin, House Republicans are working to cut spending and do right by the American people! We will get this done!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Buddy_Carter/status/1706666179841196052"
+        },
+        {
+          "type": "statement",
+          "text": "\"The best government is closest to the people. I will always work to cut federal spending and reduce the role of big government in our lives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Buddy_Carter/status/1398663673187606531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/32085/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/32085/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24715/63190/32085/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We can't spend our way out of inflation!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1557767531569586177?s=20&t=1gDug6ZpqBjqrCu89c73AA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4521 \"America Competes Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32244/84296/32085/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Prive Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/32085/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Student loans aren't forgiven - they're transferred from people with a degree to those without one.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1564675801475420163?s=20&t=1gDug6ZpqBjqrCu89c73AA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1015/rating/13952"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30777/79462/32085/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats in DC have radical ideas: taxpayer funding for their campaigns, abolishing the Supreme Court and eliminating voter ID requirements - just to name a few. We must stop them to secure our elections.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Buddy_Carter/status/1551235802771906560"
+        },
+        {
+          "type": "statement",
+          "text": "\"Retweet if you're part of the ð³ð´% of Americans who support voter ID laws\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1483808968233283586?s=20&t=1gDug6ZpqBjqrCu89c73AA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/32085/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change is real and the need to protect our environment is real. We must deliver real action - not unrealistic, expensive solutions that would be a disaster for our economy like H.R. 9 and the Green New Deal. #gopHEAT\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1123688302996086784"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support an all-of-the-above energy approach. This begins with increasing domestic production of all forms of American energy. We must also promote new, clean and reliable sources of energy and cut bureaucratic red tape on American-made fuel and energy. By doing this, we will create jobs, reduce energy prices, grow our economy and reduce our dependence on foreign sources of energy from often hostile nations. As gas and home energy prices continue to be unpredictable causing uncertainty for Georgiaâs families, we must change our focus to ensure energy independence while creating jobs in the process.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/issues/issue/?IssueID=14898"
+        },
+        {
+          "type": "statement",
+          "text": "\"Washington Democrats SAY they want to invest in electric vehicles but their ACTIONS tell a different story. This Green New Deal 2.0 bill is threatening jobs and investment in Georgia. We need innovation, NOT regulation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1558138318700830720"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Manufacturers",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/504/rating/12612"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support an all-of-the-above energy approach. This begins with increasing domestic production of all forms of American energy. We must also promote new, clean and reliable sources of energy and cut bureaucratic red tape on American-made fuel and energy. By doing this, we will create jobs, reduce energy prices, grow our economy and reduce our dependence on foreign sources of energy from often hostile nations.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/issues/issue/?IssueID=14898"
+        },
+        {
+          "type": "statement",
+          "text": "\"RT if you agree â¡ï¸ energy independence is CRUCIAL to our national security\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1497309781744238592"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/32085/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our founding fathers believed so strongly in the right to bear arms that they ensured it in the Bill of Rights. I wonât back down when it comes to supporting the Second Amendment.Efforts to expand gun control and restrict access to legal gun use have proven ineffective in reducing crime. In fact, they leave guns in the hand of criminals while leaving ordinary, honest, law-abiding citizens defenseless. We can reduce crime by holding criminals accountable for their actions, not by adding unnecessary layers of gun control.I will do everything in my power to protect and defend our Second Amendment rights and turn back efforts that threaten them on them at any level.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/issues/issue/?IssueID=14888"
+        },
+        {
+          "type": "statement",
+          "text": "\"The NDAA is not a perfect bill but it does reaffirm our commitment to our servicemen and women. We will be working through the bill and combatting the Red Flag laws in order to refine and make sure our 2nd Amendment rights are protected.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1443649065212862465"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owner of America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1226/rating/13701"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1034/rating/13506"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats' âMedicare for Allâ ends employer & union sponsored health care, forcing Americans into a one-size-fits-all government-run plan. As a pharmacist, this is deeply disturbing to me.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1141087435058819072?s=20&t=1gDug6ZpqBjqrCu89c73AA"
+        },
+        {
+          "type": "statement",
+          "text": "\"Forcing Americans to buy coverage they do not want or cannot afford is not the way to reduce health care costs. We need to return to a system where insurers and providers compete for patients and restore choice. Government bureaucrats and pencil pushers do not belong in the doctor-patient relationship.\"",
+          "source": "buddycarterforcongress.com",
+          "url": "https://buddycarterforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28212/73153/32085/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/32085/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In @HouseCommerce this week, we passed the PATIENT Act, which included my Drug Price Transparency in Medicaid Act & PBM Accountability Act. These bills will make prescription drugs more affordable by adding transparency for #PBMs & banning predatory pricing tactics in Medicaid.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBuddyCarter/status/1662170398513938432?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/32085/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/32085/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This border security 'deal' is no deal at all,\" said Carter. \"This bill simply does not include enough funding to secure our border. Congress is again punting border security down the road while putting American safety at risk. I have been to the border and I have seen the threats we face firsthand. To properly secure the border we must listen to the boots on the ground who see these threats each day, the Department of Homeland Security, and deliver what is needed to keep Americans safe. Providing for the common defense is the number one responsibility of the federal government and it's unacceptable that Congress has failed to deliver tonight.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=3816"
+        },
+        {
+          "type": "statement",
+          "text": "\"We also must secure our borders. As a former member of the House Homeland Security Committee, I had the opportunity to see the dire situation at the Southwest border firsthand and got a real sense of the threats coming through the border.\"",
+          "source": "buddycarter.house.gov",
+          "url": "https://buddycarter.house.gov/issues/issue/?IssueID=14895"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13915"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/32085/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/32085/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/32085/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted against the immigration bill today. Granting amnesty while failing to implement necessary reforms to end chain migration, mandate the use of E-Verify, or improve the H-2A system for our farmers is unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBuddyCarter/status/1012096411331190784?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13915"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/32085/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36415/97653/32085/israel-security-supplemental-appropriations-act-2024#97653"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/32085/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/32085/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If Russia invades Ukraine, the US should be sending military aid â not environmental regulators. What a weak, pathetic stance from @POTUS that will do NOTHING to protect our Ukrainian allies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBuddyCarter/status/1468249416230449161?s=20&t=1gDug6ZpqBjqrCu89c73AA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/32085/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/32085/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/32085/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We cannot trust the Chinese Communist Party to protect American children's health and safety on #TikTok\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBuddyCarter/status/1639000318548627459?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36703/98368/32085/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:51:29+00:00"
+}

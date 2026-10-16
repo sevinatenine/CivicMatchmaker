@@ -1,0 +1,490 @@
+{
+  "name": "James Risch",
+  "page_title": "James Risch's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (ID) - Jr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (ID) - Jr",
+  "candidate_id": "2919",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/2919/james-risch",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch#.XbxUNkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The most basic right we humans have is the right to life. I am strongly pro-life and always have been. I will, therefore, only support legislation that protects and promotes human life, including the unborn.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439188/issue-position-family-values#.XbxXVUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 3967 - Senator Rand Paul's Amendment to HR 6157.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/63962#.XbxS9kE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My record of fighting tax increases is solid. The national Taxpayer Union has honored me with the Taxpayer's Friend award for consistently voting to promote economic growth and to reduce the tax burden of the American tax payer.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/885446/#.XnOC2ZNKg_U"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch#.XbxUNkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The best way to strengthen families, grow businesses and boost our national economy is to let taxpayers keep more of their money. Our current tax system is too complicated and our taxes too high.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439209/issue-position-taxes#.XbxYtEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XbxTG0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/53#.XbxVF0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Second, the approach must be bipartisan and wide-ranging. A comprehensive deficit-reduction package needs to include not only discretionary spending cuts, but also entitlement and tax reform. We must also cut the waste and bloat that has crept into our defense spending.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/599646/#.XnODD5NKg_U"
+        },
+        {
+          "type": "statement",
+          "text": "\"To make these programs sound for future generations, we must begin reforming these entitlements now, while we are still able to make gradual changes and avoid lower benefits or massive tax increases that will severely impact beneficiaries in years to come\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439207/issue-position-social-security#.XbxZHUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/12#.XbxVNkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a United States Senator, I am committed to maintaining a well-trained, fully-equipped military.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439177/issue-position-defense#.XbxZ3EE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/22#.XbxVTEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Second, the approach must be bipartisan and wide-ranging. A comprehensive deficit-reduction package needs to include not only discretionary spending cuts, but also entitlement and tax reform. We must also cut the waste and bloat that has crept into our defense spending.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/599646/#.XnODD5NKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Going forward, I will continue to advocate for a gov't that allows more freedom, fewer regulations, and less spending.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenatorRisch/status/293544922475278336"
+        },
+        {
+          "type": "statement",
+          "text": "\"I opposed the last two continuing resolutions (CR) to keep government operating for two and three weeks respectively and have also opposed virtually all government spending.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/599646/#.XnODD5NKg_U"
+        },
+        {
+          "type": "statement",
+          "text": "\"Transportation literally drives the American economy. I support pro-growth policies that connect our cities and towns. Mass transit is an important element of this infrastructure, but should not overshadow the surface transportation needs of our rural areas.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439211/issue-position-transportation#.Xbxbo0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Make American job creators more competitive by reducing our corporate tax rate, which is currently the highest tax rate in the industrialized world;\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1212940/crapo-risch-laud-senate-passage-of-tax-reform-measure"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch#.XbxUNkE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XbxTG0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XoyJU8hKg2x"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have worked to secure meaningful relief for Idahoâs small businesses, workers and families to help businesses keep their doors open and keep employees on the payroll. \"",
+          "source": "www.risch.senate.gov",
+          "url": "https://www.risch.senate.gov/public/index.cfm/editorials?ID=D1C2C2C0-4BDC-4491-817E-070E991FA1E8"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have long believed that the responsibility of educating our youth lies first with parents and also with teachers and local school officials chosen by parents. Parents and local school boards know our children best and they should decide what should be taught and how our education dollars should be spent, not the federal government.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439179/issue-position-education#.XbxbzUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/27#.XbxVeUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From our earliest days as a state, Idaho has proudly been powered by clean, renewable energy--not because an overreaching federal government told us to do so, but because our local and state governments along with free market forces were and are perfectly capable of managing our communities. I would encourage my friends across the aisle to seek solutions that give deference to our local entities instead of attempting a shift of all power to Washington D.C.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1343458/risch-rejects-socialism-votes-against-green-new-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\" I also support expanding other clean sources of baseload power such as hydropower, geothermal, biomass, natural gas and clean coal; as well as further development into technologies that are not yet able to produce reliable and substantial quantities of clean power, such as solar and wind.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439182/issue-position-energy#.XbxcIUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/29#.XbxVlUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/30#.XbxVsUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bipartisan bill will promote public-private partnerships and help accelerate innovation that will enable advanced nuclear energy to play an important role as we transition to a carbon-free energy future.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1051688/clean-nuclear-energy-research-advanced-in-bipartisan-senate-bill"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Rifle Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/37#.XbxV2kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Second Amendment is an individual right that must be maintained. Like our Founding Fathers, I oppose any abridgement of the right to keep and bear arms. I frequently exercise my Second Amendment right in shooting for sport and recreation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439193/issue-position-gun-rights#.Xbxcv0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every day we see more and more problems associated with Obamacare. The White House's latest announcement regarding substantial and unacceptable premium increases is further, irrefutable evidence that this one-size-fits-all approach to health care is unworkable and unaffordable. As I have said since the beginning, we must replace this abomination before it inflicts even greater pain on Idahoans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1140770/risch-obamacare-is-unworkable-and-unaffordable#.XbxdCkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Public Health Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/38#.XbxWBUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 667 - Health Care Freedom Act of 2017.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/60869#.XbxUBEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XodpgpNKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/40#.XbxWJ0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We will keep working until the entire border wall is funded,\" said Senator James E. Risch.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1324540/idaho-delegation-votes-to-avoid-government-shutdown"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need significantly more than 55 miles of wall to fully protect our southern border, but this bill makes a down-payment on the wall while future funding is negotiated. Plus, I absolutely did not want to see another government shutdown. Shutdowns are bad for our economy and bad for the American people. We will keep working until the entire border wall is funded.\"",
+          "source": "www.risch.senate.gov",
+          "url": "https://www.risch.senate.gov/public/index.cfm/pressreleases?ID=F3AF3406-8ADE-40BC-93C6-929385A629FC"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finally, there should be no amnesty. No one should be rewarded for breaking the law.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/439197/issue-position-homeland-security-and-immigration"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/40#.XbxWJ0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of stopping Iran's nuclear program, the Iran Deal simply gave the regime a direct path to obtaining a nuclear weapon but at a slower pace. That was not acceptable. I support President Trump's decision to withdraw from the Iran Deal. I believe that action will result in a safer world and a safer America. From the start, President Obama and Secretary Kerry told Congress there would be clear red lines for any deal with Iran. The Iran Deal violated every red line that was drawn, from complete access to Iran's facilities and scientists to a robust inspection and verification regime.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1254655/risch-statement-on-the-iran-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iranian leaders must feel sufficient pressure to cease deeply destabilizing activities, from sponsoring terrorist groups to continued testing of ballistic missiles. Full enforcement of existing sanctions and the imposition of additional sanctions on Iran for its ballistic missile program are necessary. Moreover, we are hopeful that the international community can unite around the common cause of countering Iran's troubling actions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1149197/letter-to-the-hon-donald-trump-regarding-iranian-weapons"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Obama's so-called \"strategic patience' has failed to take the threat of nuclear North Korea seriously,\" said Risch \"North Korea remains one of the biggest nuclear threats to the United States and our allies around the world. It is time for the United States to increase pressure on North Korea and require them to end their nuclear program, stop the cyber-attacks against us, and respect the human rights of their own citizens. This legislation will finally begin to sanction the people that help North Korea threaten peace and security. Anyone who facilitates North Korea's weapons program, abuses human rights, or launders money and goods on behalf of the regime will have their assets frozen and be denied access to the U.S. financial system. This type of sanctions regime brought Iran to the negotiating table and it is time the United States apply similar sanctions on North Korea.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1051701/risch-supports-north-korea-sanctions-bill#.XbxeckE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/22#.XbxVTEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America cannot be the policeman to the world. It is, however, important that we recognize matters in which America has a national interest and engage appropriately, exercising great restraint whenever military action is considered.\"",
+          "source": "www.risch.senate.gov",
+          "url": "https://www.risch.senate.gov/public/index.cfm?p=ForeignAffairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"I don't think that that -- they know that there is very little appetite on the U.S. part to put boots on the ground there, but airpower is incredibly important in that part of the world.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1111954/cnn-the-situation-room-transcript-middle-east-conflict-and-iran-nuclear-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"I think we have spent a couple of trillion dollars in Afghanistan. As Senator Paul pointed out, there are things going on there that are very difficult and no better than when we got there 17 years ago. Indeed, in some places, it is probably worse than when we got there 17 years ago. It is appropriate to have that debate as to whether we should continue nation building and whether we should continue to try to stand up and train fighting units in Afghanistan or, for that matter, in other places.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1319883/strengthening-americas-security-in-the-middle-east-act-of"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/22#.XbxVTEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Going forward, I will continue to advocate for a gov't that allows more freedom, fewer regulations, and less spending.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenatorRisch/status/293544922475278336"
+        },
+        {
+          "type": "statement",
+          "text": "\"Idahoans deserve a free and fair trade deal that builds on the incredible successes we've achieved and charts a path to prosperity for future generations.\" ttps://votesmart.org/public-statement/1402948",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/2919/james-risch/63#.XbxWT0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We applaud the Administration's ongoing efforts to update NAFTA and offer any support or assistance needed to reach an agreement that strengthens the American economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1247255/letter-to-the-hon-robert-e-lighthizer-ustr-against-take-or-leave-strategy#.XcniZUFTkfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:07:41+00:00"
+}

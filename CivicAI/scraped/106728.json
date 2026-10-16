@@ -1,0 +1,532 @@
+{
+  "name": "Juan Ciscomani",
+  "page_title": "Juan Ciscomani's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AZ) - District 6, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (AZ) - District 6",
+  "candidate_id": "106728",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/106728/juan-ciscomani",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm pro-life, I reject the extremes, and I trust women. Iâm against a federal ban on abortion. Iâm for timetables and exceptions, including for rape, incest and the life of the mother. In Congress, I support policies that respect women and protect new life. Part of that means increased investments in womenâs health research. Currently, only 11 percent of federal health research dollars are invested in women. Thatâs a national disgrace, and one that must be addressed.\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/106728/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'll always work to protect the Social Security and Medicare benefits our seniors have worked hard to earn.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1653218321494409219"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'll always be a strong voice for our men & women in blue. #6thDistrictCircuit\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1699155223246262537"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm committed to supporting our law enforcement and partnering together to keep every neighborhood safe. Thank you for your service! #BackTheBlue\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1654265696677777408"
+        },
+        {
+          "type": "statement",
+          "text": "\"In honor of #NationalPoliceWeek, I met with officers from the @Tucson_Police in D.C. to discuss issues facing our law enforcement community. Your hard work and dedication to #AZ06 does not go unnoticed & as your Congressman, I will always #BackTheBlue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1791129303322636537"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"With rising tensions in China, Russia, and Iran, it is critical we passed this year's NDAA now more than ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1735367764485829084"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/106728/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/106728/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/106728/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has a responsibility to fund our federal government. But for decades, Republicans & Democrats have overspent, putting our countryâs fiscal stability at risk. I am committed to finding common sense solutions that pay our obligations, protect our future & rein in spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1662549326130819075"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/106728/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation continues to crush many Arizona families and seniors, with little relief in sight. As parents of six, this is something Laura and I understand first-hand. Joe Biden keeps making the problem worse â opposed common sense reforms to rein in out-of-control spending and efforts to grow our economy.\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As one of the fastest growing states in the nation, Arizona needs housing solutions that support and strengthen our communities. Great to meet with @AZHousing and @AZMultiHousing this week to discuss expanding affordable housing for all Arizonans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1641876921230188579"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation continues to crush many Arizona families and seniors, with little relief in sight. As parents of six, this is something Laura and I understand first-hand. Joe Biden keeps making the problem worse â opposed common sense reforms to rein in out-of-control spending and efforts to grow our economy.\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/106728/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"Laura & I feel the pain of inflation on Arizonaâs families every day, whether itâs at the gas station or grocery store. I cosponsored the bipartisan Lower Grocery Prices Act to examine ways we can rein in the price of groceries & cost of living crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1812215420364972050"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a first-gen college student, I benefited from a Pell Grant, worked my way through school, and repaid loans to fund my education. Giving future generations an equal shot at the American Dream means promoting affordability, not unfairly saddling them with more national debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1648807155548471297"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Fiscal Responsibility Act: â Ends the COVID-19 student loan repayment pause and requires borrowers to pay off their debts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1663940716815437824"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 25% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37788/101819/106728/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91330/106728/lower-energy-costs-act#91330"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined @SecGranholm in Cochise County for a visit to the Southline Transmission Project. Southline is a 175-mile transmission line from Arizona to New Mexico that will help unlock renewable energy resources across the region. Proud to have this vital energy infrastructure in #AZ06!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1719080501024043348"
+        },
+        {
+          "type": "statement",
+          "text": "\"Southern Arizona is on its way to becoming a clean energy tech hub and these tax credits are a key step towards economic growth for the #AZ06 region.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1821303710502547870"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, my team and I toured the Lactalis U.S. yogurt plant in Casa Grande, getting an inside look at yogurt production in #AZ06. We also discussed the importance of the farm bill and renewable energy tax credits. Thanks for having me!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1826737468659597389"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91330/106728/lower-energy-costs-act#91330"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani/30/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/106728/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/106728/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/106728/juan-ciscomani"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/106728/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support an all-of-the-above approach to securing the border â boots on the ground, deploying new technology, and yes â finishing the wall.\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will continue to prioritize border security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1783485009073938927"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2023, Pima County saw 500+ overdose deaths, a devastating all-time high. With fentanyl coming across the border in record amounts, itâs no surprise that this alone is responsible for most of these tragedies. Securing the border will save American lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1788289234496860370"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/106728/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End catch and release\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reinstate Remain in Mexico\"",
+          "source": "juanciscomani.com",
+          "url": "https://juanciscomani.com/priorities"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/106728/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week I signed on to the bipartisan letter led by @RepJoshG, @RepDonBacon, @RepMoskowitz, and @RepTenney to @POTUS supporting aid and assistance for our ally, Israel. We must enforce all U.S. sanctions and work with our allies to ensure Hamas is defeated.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1714364439397282176"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday the House PASSED an effort to impose sanctions on Iranâs missile and drone program, a bill I was proud to cosponsor. Glad to see my colleagues recognize the importance and necessity to thwart Iranian aggression.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1701966573844500530"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/106728/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8369: \"Israel Security Assistance Support Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37360/100451/106728/israel-security-assistance-support-act#100451"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/106728/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/106728/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cartels are recruiting Arizonans â in this case as young as 11 â to help with illegal activity using Snapchat & TikTok. Iâm leading an effort to give social media outlets the tools to combat this. We need to send a clear message to cartels & end their exploitation of Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCiscomani/status/1680628241076301826"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/106728/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/106728/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:06:44+00:00"
+}

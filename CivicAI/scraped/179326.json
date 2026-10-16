@@ -1,0 +1,580 @@
+{
+  "name": "Josh Harder",
+  "page_title": "Josh Harder's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 9, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 9",
+  "candidate_id": "179326",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/179326/josh-harder",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Women must have the right to control her own body. This week Iâll be voting YES on two bills: the first to codify Roe v. Wade into law and the second to make sure women can freely travel between states to receive the care they need.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJoshHarder/status/1546977788871294976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just got out of a meeting about the Republican plan to cut Social Security and Medicare. Scary stuff â Iâm ready to fight this tooth and nail.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJoshHarder/status/1620523622593880072"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, on a national stage, I made sure the Central Valleyâs voice was heard â we need better health care and we need Medicare for All.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJoshHarder/status/1101926621995585545"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here's a wild idea: Instead of giving billionaires tax breaks and making working families foot the bill, let's make Jeff Bezos and his pals pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1425144633462607874?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The richest Americans dodge $160 billion in taxes each year. It's time they pay their fair share (and cut middle class taxes while we're at it!).\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1438983026512441344?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 23 \"Family and Small Business Taxpayer Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Billionaires need to pay their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1441467765001527301?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Here's a wild idea: Instead of giving billionaires tax breaks and making working families foot the bill, let's make Jeff Bezos and his pals pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1425144633462607874?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The richest Americans dodge $160 billion in taxes each year. It's time they pay their fair share (and cut middle class taxes while we're at it!).\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1438983026512441344?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a candidate endorsed by 10 local unions, this Supreme Court ruling ranks among one of the worse of our time, right along side Citizens United.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/998757669170135040?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"He is fighting to stop pay raises and special privileges for politicians. And he is a leader on reforming campaign finance so elected officials put families, not corporations, first.\"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Justice for George Floyd. Justice for Breonna Taylor. Justice for Amaud Arbery. Justice for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1270860797724377088?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to invest in projects that actually make our economy stronger. The water projects in this infrastructure bill are a clear win-win!\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1438620786479226880?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2872 \"Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Valley used to be an affordable place to live - but that's quickly disappearing. We need better paying jobs right here in the Valley and we need housing that's actually affordable\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1210276722593214469?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The cost of living is SKYROCKETING. We need more affordable housing so folks can provide for their families.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1215766517402492928?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/82/economy-and-fiscal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/179326/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A woman with a $40 million yacht will never understand what a burden student debt can be for average people. We need to be actively looking at ways to make ALL higher education more affordable and accessible.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1334256028922372098?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Class of 2020 is a resilient group of soon-to-be college grads, but they need our help. I'm calling for a 3 year moratorium on federal student loan payments\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1248302152746819586?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Josh believes climate change is an existential threat to our way of life. Catastrophic wildfires. Historic droughts. Polluted air and water. Thatâs why Josh introduced the FARM Act, a landmark climate change bill that supports Valley farmers in the fight against climate change. The bill is one of the only bills in Congress backed by both the leading environmental and agricultural groups. \"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor HR 9 \"Climate Action Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/179326/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/179326/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910 \"Protecting Our Kids Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support Medicare for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1051575911198281728?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's been 13 years since the ACA became law. Millions of people, including my brother, still have healthcare because of it. We should celebrate that any chance we get.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1638978884912795662?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, on a national stage, I made sure the Central Valleyâs voice was heard â we need better health care and we need Medicare for All.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJoshHarder/status/1101926621995585545"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 485 \"Protecting Health Care for all Patients Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If youâre sick you shouldnât be forced to go to work. Iâm working to make sure weâre helping employers provide paid sick leave without putting more burden on small businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1238532621765955585?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" At the same time, Insurance executives are getting rich while our families have to choose between prescriptions and putting gas in the tank. Josh supports measures to get costs down including a $35 per month cap on insulin\"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every week, for my entire life, my dad has seen patients who have gone blind because they couldnât afford their insulin. Itâs that common and that expensive. We need to cap the price of insulin for EVERYONE.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJoshHarder/status/1631758523833937922"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He believes both border security and immigration reform are important pieces to our countryâs success.\"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Josh knows our country draws its strength from our diversity. Here in the Valley over 10,000 Dreamers are stuck in the shadows. Josh is a proud co-sponsor of the DREAM Act and believes they must have a pathway to citizenship. He also believes we canât just stop there â Josh is a vocal advocate for real, comprehensive immigration reform to give immigrants and their families the protections they need to participate fully in our community.\"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Josh is a proud co-sponsor of the DREAM Act and believes they must have a pathway to citizenship. He also believes we canât just stop there â Josh is a vocal advocate for real, comprehensive immigration reform to give immigrants and their families the protections they need to participate fully in our community.\"",
+          "source": "harderforcongress.com",
+          "url": "https://harderforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have to continue supporting the people of Ukraine as they defend their democracy. Putin's attacks are heinous and completely unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1504148927599235081?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \" Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/179326/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/179326/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have to continue supporting the people of Ukraine as they defend their democracy. Putin's attacks are heinous and completely unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoshHarder/status/1504148927599235081?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \" Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/179326/josh-harder/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/179326/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/179326/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:08:15+00:00"
+}

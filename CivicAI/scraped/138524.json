@@ -1,0 +1,724 @@
+{
+  "name": "Jimmy Gomez",
+  "page_title": "Jimmy Gomez's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 34, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 34",
+  "candidate_id": "138524",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/138524/jimmy-gomez",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy cosponsored and voted to pass the Womenâs Health Protection Act of 2021 to codify Roe v. Wade in federal statutes, thus ensuring a right to an abortion before fetal viability.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/138524/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/138524/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is fighting to provide a robust social safety net for working families. But he understands that to accomplish this goal we must ensure that billionaires pay their fair share in taxes.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy sponsored the For the 99.8% Act (H.R. 4857), with Senator Bernie Sanders. This bill will close a Trump tax loophole for billionaires while raising the trillions of dollars needed for essential services, including healthcare, education, housing and more. Senator Bernie Sanders is the sponsor of the companion bill in the Senate\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Gomez believes that government should work for the people and not the large corporations or special interests. As a former labor organizer, Jimmy continues the fight against income inequality and is committed to raising the minimum wage and securing worker protections under attack.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy sponsored the For the 99.8% Act (H.R. 4857), with Senator Bernie Sanders. This bill will close a Trump tax loophole for billionaires while raising the trillions of dollars needed for essential services, including healthcare, education, housing and more. Senator Bernie Sanders is the sponsor of the companion bill in the Senate\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/138524/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is fighting to provide a robust social safety net for working families. But he understands that to accomplish this goal we must ensure that billionaires pay their fair share in taxes.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/138524/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy will protect Medicare and Social Security from GOP \"restructuring\" and oppose cuts to safety net programs like Meals on Wheels and heating assistance. He supports Windfall Elimination Provision reform and expanding Social Security to strengthen the program in the long term. He opposes any effort to undermine the short and long-term solvency of Social Security.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/138524/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Gomez has been a champion of campaign finance reform in the Assembly and Congress. Jimmy was the principal author of the California DISCLOSE Act, which expanded campaign reform and disclosures in California. He supports the overturn of Citizenâs United with the goal of public financing of elections. Jimmy helped pass H.R. 1, the For the People Act, which is the most comprehensive anti-corruption and democracy reform bill to pass the House since Watergate. This legislation will limit the influence of big money in politics, strengthen ethics rules for public servants\" and create a small-donor public financing matching system.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Jimmy Gomez believes ending police brutality and criminal justice reform must be a top priority for Congress. Jimmy is a cosponsor of the George Floyd Justice in Policing Act (H.R. 7120). This bill will hold police officers and departments accountable, increase transparency, make structural changes to our justice system, ban chokeholds and eliminate qualified immunity.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a Cosponsor of the George Floyd Justice in Policing Act. Congressman Gomez believes ending police brutality must be a top priority for Congress. This bill led by Congresswoman Karen Bass would hold police officers and departments accountable and increase transparency, make structural changes to our justice system, ban chokeholds and eliminate qualified immunity as we know it.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a cosponsor of a Resolution to Condemn All Acts of Police Brutality with Rep. Ayanna Pressley. This resolution condemns all acts of police brutality, racial profiling, and the use of excessive and militarized force throughout the country.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/138524/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we cut the Pentagon budget by just 10%, weâd still be spending more on defense than the next 10 nations COMBINED. That money could be better spent improving our social safety net as we dig out of this economic crisis. Weâre asking @POTUS to prioritize people > defense profits.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1371977482870620166?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/138524/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/138524/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/138524/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have a once-in-a-lifetime opportunity to create millions of new jobs, tackle the climate crisis, invest in affordable housing, and provide low-cost childcare. Thereâs no room for failure. We must pass the bipartisan infrastructure bill and the #BuildBackBetter Act together.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1441136246911234053?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/138524/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/138524/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/138524/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressmember Jimmy Gomez is a leader in the fight to build more affordable housing, keep people housed and help people experiencing homelessness get the services they need. In January 2020, Jimmy led a letter with 64 members of congress to call on President-elect Biden and Vice President-elect Kamala Harris to prioritize the housing and homelessness crisis, sign an executive order to halt evictions and work with Congress to pass rental relief.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Housing is a human right and Jimmy has a long history and voting record to back up his conviction and support for ensuring that everyone has access to affordable housing.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If Congress is serious about addressing the affordable housing crisis, it must use every tool available in government to build millions of new affordable housing units. As a member of the Ways and Means Committee, Jimmy and his colleagues put forth a proposal that invests in affordable housing through a historic expansion of the Low-Income Housing Tax Credit (LIHTC). This proposal, which was included in the Build Back Better Act, would increase the number of affordable housing units by over 800,000 in the next decade.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The COVID-19 pandemic has exacerbated our nationâs housing and homelessness crisis. Working families across the U.S. were paying far too much of their income in rent before this crisis and now are facing increasing rents. We cannot afford to, nor should we, turn a blind eye to this problem. Thatâs why Jimmy has made fighting for more affordable housing, keeping people housed and off the streets a top priority.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At the White House today to celebrate the passage of the historic Inflation Reduction Act! From tackling the climate crisis to slashing health care & energy costs to lowering inflation, this law is for every American.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1569799211822075908?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Corporation after corporation are reporting record profits as they raise prices on consumer. Why? Because they are using inflation as an excuse. We canât fight inflation without taking on corporate price gouging. Pass it on.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1490430400115744782?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation has fallen to its lowest point in over two years! In the face of a global pandemic and Russiaâs war on Ukraine that upended supply chains, @housedemocrats and @POTUS moved fast to help Americans feeling the crunch.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1679522976344031233?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/138524/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a cosponsor of the College for All Act, H.R. 2730, which eliminates tuition and fees at four-year public colleges and universities for working families and significantly reduces student debt, and makes community college tuition free for all.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a cosponsor of the Debt Free College Act to provide students the opportunity to attain a higher education without debt.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy supports canceling student loan debt and is a cosponsor of Rep. Ayanna Pressleyâs resolution, H.Res.100, calling on President Biden to use executive authority to cancel student loan debt.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmyâs bill H.R. 1564, the Student Loan Tax Relief Act, which was passed and signed into law as part of the American Rescue Plan Act of 2021, would make any student loan debt forgiveness tax-free and paves the way for student loan debt to be canceled by executive order.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@GOP efforts at local, state, and federal levels to disenfranchise your vote wonât end with this election. We need to end gerrymandering, ban restrictive voter ID laws, make #ElectionDay a national holiday, and more. We need to enact the John Lewis #VotingRights Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1324410822769152000?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/138524/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/138524/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Gomez believes that climate change poses an existential threat to humanity and that bold legislative actions are required to reverse the environmental, health and economic damage caused by global warming to communities across the globe before itâs too late. Jimmy is a cosponsor of the Green New Deal with Representative Alexandria Ocasio-Cortez. Additionally, in Congress, Jimmy helped secure over $300 million to clean up a polluted river in California and sponsored the Climate Solutions Act of 2019 to reduce green gas emissions and transition to a 100 percent renewable energy future by 2035.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is an original cosponsor of the GREEN NEW DEAL by Alexandria Ocasio-Cortez. Jimmy knows that climate change poses an existential threat to our planet and everyone on it. Bold legislative actions are required to reverse the environmental, health and economic damage caused by global warming to communities across the globe before itâs too late, which is what the Green New Deal would provide.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 98% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/138524/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy cosponsored the California Clean Coast Act to permanently protect our coast from oil drilling and gas leasing.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a lead cosponsor of the Climate Solutions Act of 2019 which requires that 100% of electricity sold in the United States be generated by renewable sources by 2035. Energy consumption accounts for 73 percent of all greenhouse gas emissions worldwide. Congressman Ted W. Lieu and Congressman Gomez introduced one of the boldest climate bills in Congress.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/138524/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been 440 days since @HouseDemocrats passed a bill to strengthen background checks. 202 House Republicans voted against it, and Senate Republicans have been blocking it from being signed into law. We need to abolish the filibuster and pass gun safety legislation, NOW.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1529486791132254208?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/138524/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87290/138524/assault-weapons-ban-of-2022#87290"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Jimmy Gomez has been a cosponsor of the Medicare for All Act since he was first elected in 2017, and he is a founding member of the Medicare for All Caucus. Jimmy grew up without health insurance and knows first-hand the burden a family experiences when they donât have access to quality affordable healthcare. He doesnât want anyone to go through what his family went through. Thatâs why Jimmy, Senator Bernie Sanders and the Progressive Caucus are fighting to make Medicare for All a reality.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a founding member of the Medicare for All Congressional Caucus in the U.S. House of Representatives. The primary purpose of the Medicare for All Caucus is to build a political voting bloc that will fight for and pass legislation to implement Medicare for All.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/138524/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From championing paid family leave to affordable child care, we are prioritizing our little ones!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1671593386422456325?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of focusing on the trans community, the GOP should talk about the real issues facing working parents.Things like affordable child care, the expanded #ChildTaxCredit and paid family leave. Thatâs what Iâm fighting for as the founder of @DadsCaucus\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1634276939375562764?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a national champion on Paid Family Leave. He authored and passed landmark legislation, Assembly Bill 908 in California, the nationâs most progressive expansion of Paid Family Leave that President Obama hailed as a model for Congress. Now, Jimmy is fighting to pass the Family Act, with Representative Rosa DeLauro, to implement a national paid family leave program.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/138524/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is an original cosponsor of The Lower Drug Costs Now Act which will lower drug costs by giving Medicare the power to negotiate directly with drug companies, makes lower drug prices negotiated by Medicare available to all Americans, stops drug companies from ripping off Americans while charging other countries less for the same drug, and limits the out-of-pocket costs for prescription drug for Medicare beneficiaries.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/138524/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/138524/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#FamiliesBelongTogether No child should know the heartbreak and trauma of being forcibly taken from their parents, but thatâs exactly whatâs happening on a daily basis due to @realDonaldTrumpâs #FamilySeparationPolicy. This isnât border security. This is cruel.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1083084964864741376?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Introduced legislation (H.R. 6055) to prohibit the federal government from prosecuting local and state officials for implementing Sanctuary City laws.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy Gomez, as a son of immigrants, knows that immigration and diversity contributes to the fabric of this country and makes us better. Thatâs why Jimmy fought against Trumpâs anti-immigrant agenda, including efforts to ban immigrants based on religion, splitting up families to deport parents of U.S. citizens and separating families at the border.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is a cosponsor of the Dream & American Promise Act. Congressman Gomez cosponsored and voted to pass the Dreamers bill because it will protect immigrant youth who are DACA recipients and immigrants who have temporary protective status (TPS) from deportation, and provide them with a path to citizenship.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy will always stand up and fight for all of us by protecting immigrants through the passage of the Dream and Promise Act, implementing comprehensive immigration reform that keeps families together, and bringing undocumented persons out of the shadows with a path to citizenship.\"",
+          "source": "jimmygomezforcongress.com",
+          "url": "https://jimmygomezforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138524/jimmy-gomez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/138524/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@StateDeptâs repeated attempts at a ceasefire between #Azerbaijan and #Armenia are falling short while gross human rights abuses continue. My colleagues and I are calling on the Trump administration to impose Magnitsky sanctions on #Azerbaijan immediately.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1321122326499495936?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/138524/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/138524/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/138524/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/138524/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/138524/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/138524/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/138524/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Anti-vaxxers used Facebook to disrupt the largest #COVID19 vaccination site in LA just as the virus is killing a neighbor of ours every 6min. Misinformation on Facebook puts the lives of our constituents at risk. @repmarkpocan & I want answers & accountability from Zuckerberg\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1356783384941506561?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Momentum behind regulating law enforcementâs use of #FacialRecognition tech is growing fast. In Congress, Iâve been warning those like Amazon for years about the threat this tech poses to the to #CivilRights of #PeopleOfColor. And it looks like #BigTech is finally listening.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1272586789409026048?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to ban books, drag shows, Black history, TikTok â all in the name of \"protecting children.\" But they wonât ban assault weapons or even pass legislation to require universal background checks, when gun violence is the #1 killer of children\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyGomez/status/1640776227697852417?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:25:53+00:00"
+}

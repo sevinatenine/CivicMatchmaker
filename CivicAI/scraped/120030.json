@@ -1,0 +1,628 @@
+{
+  "name": "Ami Bera",
+  "page_title": "Ami Bera's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 3",
+  "candidate_id": "120030",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/120030/ami-bera",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He also previously Voted in favor of the Womenâs Health Protection Act (HR 3755), which would take a critical step in codifying the constitutional protections under Roe v. Wade. Making sure women have the right and access to make their own reproductive health decisions is imperative to womenâs equality.\"",
+          "source": "beraforcongress.com",
+          "url": "https://beraforcongress.com/issues/womens-equality/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are gravely concerned about servicemembers' reproductive privacy and health care rights, especially given the unique challenges that servicemembers face, including for those who are stationed in states that are poised to ban or restrict abortion and potentially other reproductive care if the Court dismantles Roe v. Wade.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1623830/letter-to-lloyd-austin-us-secretary-of-defense-and-alejandro-mayorkas-us-secretary-of-homeland-security-reps-crow-speier-press-to-expand-abortion-access-support-for-us-servicemembers"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dr. Bera believes that Medicare and Social Security are guaranteed promises and the key to a dignified retirement. As a doctor known for making house calls, he knows firsthand how critical protecting Medicare is for seniors.\"",
+          "source": "beraforcongress.com",
+          "url": "https://beraforcongress.com/issues/medicare-and-social-security/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120030/ami-bera/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120030/ami-bera"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/120030/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Middle class families deserve tax reform that helps them get ahead. This bill would eliminate critical deductions that help Americans save for the future, saddle the next generation with mountains of debt, and make it harder for families to recover when unexpected tragedy hits. That's not good policy. Sacramento County families pay their fair share of taxes and are counting on us to put politics aside and work in their best interests - this bill falls short. Californians deserve better from Washington.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1210326/rep-ami-beras-statement-on-the-republican-tax-bill"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36374/97564/120030/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Close corporate loopholes. For years, our federal tax policy has been laden with loopholes that allow the rich to get richer, while siphoning off billions of dollars that could be helping middle class American families and small businesses.\"",
+          "source": "beraforcongress.com",
+          "url": "https://beraforcongress.com/issues/jobs-and-the-economy/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120030/ami-bera"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/120030/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to vote for #HR1, the For the People Act. This one-in-a-generation legislative package ends the dominance of big money in politics and ensures clean and fair elections. #ForThePeople\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1219689557945462784?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to be endorsed by End Citizens United, and will continue to fight for true campaign finance reform that gets the dark money out of Washington, and puts the will of the people first!\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/BeraForCongress/posts/10156636953489068"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by Common Cause.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120030/ami-bera"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/120030/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans across the country are crying out for real change. It's past time for the Senate to pass the George Floyd #JusticeInPolicingAct.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1384959657362472961?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Like Americans across the country, I was horrified by the murder of George Floyd. His death -- and the deaths of others at the hands of police brutality - should never have happened,\" said Rep. Bera. \"Thousands of Americans of different ages and races have marched across the country and in our hometown of Sacramento to demand justice for Mr. Floyd's death and for structural change to a criminal justice system that disproportionately impacts Black Americans. We have a long way to go to reach full justice and racial equality, but today's vote is an important first step.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1443220/rep-bera-votes-for-george-floyd-justice-in-policing-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/120030/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our nationâs first responders go above and beyond the call of duty to keep our communities safe and protected. We need to better equip them with the necessary resources and staffing to keep our communities safe while also investing in commonsense solutions to prevent violent crime.\"",
+          "source": "bera.house.gov",
+          "url": "https://bera.house.gov/news/documentsingle.aspx?DocumentID=400012"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a senior member of the House Foreign Affairs Committee, I strongly urge the Biden Administration to use all feasible diplomatic and military tools to ensure the safe evacuation of Americans and our Afghan partners.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1558615/representative-bera-statement-on-afghanistan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Bera believes the United States should continue to invest in future infrastructure, and that means funding Sacramento's long term success.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1181276/rep-ami-bera-announces-374-million-dollar-grant-for-sacramento-mather-airport#.XZ4MQOdKhYg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2872 \"Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/120030/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/120030/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As part of the American Rescue Plan, we approved over $21 billion in rental assistance funding, $5 billion in homeless services funding, and $5 billion in new Emergency Housing Vouchers to tackle homelessness, building on the investments made in the CARES Act and other subsequent stimulus packages. We are committed to additional efforts with our partners in Congress and the White House to secure billions more for affordable housing through federal infrastructure legislation, and to secure more funding for housing vouchers.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1542071/letter-to-hon-gavin-newsom-governor-of-california-rep-lieu-and-senator-padilla-lead-california-delegation-in-supporting-governor-newsoms-effort-to-address-homelessness-crisis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thankfully, President Biden and House Democrats have already taken key actions to lower prices and reduce inflation over the long-term.\"",
+          "source": "newdemocratcoalition.house.gov",
+          "url": "https://newdemocratcoalition.house.gov/imo/media/doc/220607%20Letter%20to%20House%20Leadership%20re%20Action%20Plan%20to%20Fight%20Inflation.pdf"
+        },
+        {
+          "type": "statement",
+          "text": "\"We now have the opportunity to build on the progress we have made by setting a strong legislative agenda for the balance of the year focused squarely on lowering prices and reducing inflation over the long-term.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1613834/letter-to-nancy-pelosi-speaker-of-the-house-and-steny-hoyer-house-majority-leader-advancing-an-affordability-agenda-to-combat-inflation"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Far too many students and graduates are already struggling to pay for the high cost of higher education in America...Increasing access to affordable education is core to rebuilding our middle class.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1377960/senator-baldwin-and-representative-bera-lead-effort-to-support-working-students"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nearly 44 million Americans have outstanding student loans. According to data from the Federal Reserve, student loan debt totals more than $1.6 trillion across the country. The rising debt load makes it more difficult for young professionals to purchase homes, automobiles, and other goods, creating a huge drag on the overall economy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1377960/senator-baldwin-and-representative-bera-lead-effort-to-support-working-students"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/120030/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thinking today of my dear friend John Lewis as I voted to help pass H.R. 4 â the John Lewis Voting Rights Advancement Act. Thereâs nothing more sacred in our democracy than the right to vote. We must always fight to protect it. #GoodTrouble\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBera/status/1430329437929750530?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voting Rights Act became law 52 yrs ago today. Letâs continue struggle to protect and strengthen voting rights for every American.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBera/status/894376288374452224?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/120030/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The path to a new clean energy economy requires notable increases in energy efficiency and greater access to renewable energy sources. To achieve this we will need to invest in multiple sectors of our economy.\"",
+          "source": "beraforcongress.com",
+          "url": "https://beraforcongress.com/issues/energy-and-the-environment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are concerned over reports that the administration is continuing to pursue plans to expand new oil and gas leasing off the Pacific coast of the United States. As Members of Congress from the California Delegation, we write in strong opposition to any new oil and gas leasing off the Pacific coast.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1445798/letter-to-david-bernhardt-secretary-of-the-interior-congressman-gomez-california-house-delegation-express-opposition-to-new-oilgas-leases-off-california-coast"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against J Res 38 \" A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to \"Waiver of Buy America Requirements for Electric Vehicle Chargers\"'",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35978/97182/120030/a-joint-resolution-providing-for-congressional-disapproval-under-chapter-8-of-title-5-united-states-code-of-the-rule-submitted-by-the-federal-highway-administration-relating-to-waiver-of-buy-america-requirements-for-electric-vehicle-chargers#97182"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Attacks on Californiaâs environment & our local economy must stop. Our public lands are a national treasure. SacBee: The Trump administration just took a first step toward opening 1.6 million acres of California public land to fracking & oil drilling\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBera/status/1027311969290919936?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm honored to earn a 100% rating from the League of Conservation Voters for my work to protect our environment. We need conservation and clean energy solutions to create jobs â not dangerous oil drilling off our coast as President Trump proposes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBera/status/969041339655573504?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump released plans to allow new oil and gas drilling off California's coast. Iâm deeply concerned about this backwards decision â we donât need a BP style oil spill in our backyard.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBera/status/951652652131209216?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/37/guns"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America (GOA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/120030/ami-bera/37/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I salute the bipartisanship of Members of Congress who've worked beyond party lines, and I look forward to President Biden signing this lifesaving bill into law. This bipartisan legislation takes historic leaps forward to create enhanced background checks, support red flag laws, and provide funding for school safety and mental health.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1617165/rep-bera-votes-for-historic-bipartisan-gun-violence-prevention-legislation"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"That's why I'm working with my colleagues to prioritize patient care, lower health care costs, and protect Medicare for our seniors.\"",
+          "source": "bera.house.gov",
+          "url": "https://bera.house.gov/issues/health-care/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31998/83742/120030/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/120030/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The best way to celebrate #LaborDay is to push solutions that help workers get higher wages: rebuild our infrastructure, invest in education, and paid family leave. The last thing workers need are huge tax giveaways to billionaires and special interests at their expense.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1036681065333698560?s=20&t=nz11T9PSp9Nk4w-w6vwz_w"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/120030/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a doctor, I know far too many Americans are burdened with skyrocketing insulin costs. That's why I voted today to cap out-of-pocket costs for insulin at $35 per month. No family should have to choose between paying rent and lifesaving medication.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1509680725095862278?s=20&t=nz11T9PSp9Nk4w-w6vwz_w"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a doctor, Iâve cared for patients who have struggled to pay for the high costs of prescription drugs. Todayâs vote is an important step towards #LowerDrugCosts for Americans across the country. No one should have to forgo medication because they canât afford it. #HR3\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1205205804992872448?s=20&t=nz11T9PSp9Nk4w-w6vwz_w"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36123/96624/120030/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/120030/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Keep Families Together Act is consistent with our American values. The American people deserve a full debate on comprehensive immigration reform, but that conversation cannot take place while children are being mistreated along our border.\"",
+          "source": "bera.house.gov",
+          "url": "https://bera.house.gov/news/documentsingle.aspx?DocumentID=399772"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety cr ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This decision by the Trump administration goes against our American values, plain and simple. Children brought to the United States -- through no fault of their own -- deserve our compassion. These children have passed background checks and are already contributing to our economy as productive residents. Detaining and deporting children is not only morally wrong, it doesn't make economic sense. I urge the administration to reverse this decision immediately.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1193141/rep-ami-bera-denounces-trump-administrations-decision-to-end-daca"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I join many of my colleagues to introduce the Keep Families Together Act, a bill that would stop the Trump administration from separating undocumented children from their families. The administration's new policy is unnecessarily cruel and does not align with the values we hold as a country. This bill would prevent the Department of Homeland Security from separating undocumented children from their parents, except under extraordinary circumstances. It would also require Homeland Security to develop a plan that allows separated parents and children to locate each other and reunite.\"",
+          "source": "bera.house.gov",
+          "url": "https://bera.house.gov/news/documentsingle.aspx?DocumentID=399772"
+        },
+        {
+          "type": "statement",
+          "text": "Co-sponsor of HR 5168 \"WELCOMED Act of 2021\"",
+          "source": "www.congress.gov",
+          "url": "https://www.congress.gov/bill/117th-congress/house-bill/5168?s=1&r=10"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/120030/american-dream-and-promise-act-of-2021#77980"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must deliver critical security assistance to our partners and humanitarian aid to civilians in Gaza.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/120030/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly condemn the former president's dangerous and reckless comments. We must stand firm with our NATO allies and help Ukraine defeat Vladimir Putinâ not surrender to him.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBera/status/1756746887200195067"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/120030/ami-bera/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:25:09+00:00"
+}

@@ -1,0 +1,640 @@
+{
+  "name": "Debbie Wasserman Schultz",
+  "page_title": "Debbie Wasserman Schultz's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 25, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (FL) - District 20",
+  "candidate_id": "24301",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/24301/debbie-wasserman-schultz",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An extreme right-wing #SCOTUS majority that overturns Roe, will inflict deep economic pain: women denied an abortion were nearly 4X more likely to fall below the federal poverty line than women who received one.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1538275270733533185"
+        },
+        {
+          "type": "statement",
+          "text": "\"The fall of Roe v. Wade led to unreasonable and horrifying restrictions on women's bodies.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1701712130976669828"
+        },
+        {
+          "type": "statement",
+          "text": "\"This man brags about overturning Roe. Americans overwhelming support abortion rights. Democrats fight for our freedoms every day.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1759580281785237833"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the 50th anniversary of #RoeVWade, the landmark ruling that gave Americans the constitutional right to abortion. Roe is gone now, but I remain committed to building a future that allows all people to control their own bodies, lives, and futures.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1617180903062790144"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@JoeBiden: Strengthen and protect Social Security, Medicare and Medicaid.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1772026062043516972"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Trump and MAGA extremists come for Medicare and Social Security, @âJoeBiden and Democrats will stop them. Always.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1783961936201195948"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medciare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/24301/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#DemocratsDeliver today on lower prescription costs, millions of jobs, a middle-class tax cut and lower child & health care costs, and make the wealthy pay their fair share to pay for it. Yet not one Republican voted for the #BuildBackBetterAct.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1461723794368876549"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/24301/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"#DemocratsDeliver today on lower prescription costs, millions of jobs, a middle-class tax cut and lower child & health care costs, and make the wealthy pay their fair share to pay for it. Yet not one Republican Voted in favor of the #BuildBackBetterAct.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1461723794368876549"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats want the super-wealthy pay their fair share. @GovRickScott and Republicans wand to tax workers + seniors, sunset Medicare + Social Security. Remember those facts at the polls this fall.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1509908468727173132"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"While Trump fights for billionaire tax breaks, Biden makes sure they pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1781069668326813833"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats want the super-wealthy pay their fair share. @GovRickScott and Republicans wand to tax workers + seniors, sunset Medicare + Social Security. Remember those facts at the polls this fall.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1509908468727173132"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/12/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/24301/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/24301/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/24301/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"No presidential immunity for crimes in office.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDWStweets/status/1818733526641955327"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/24301/department-of-defense-appropriations-act-2025#101337"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/24301/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We did it! Democrats were elected to create jobs, repair our roads & bridges and tackle climate change. Billions in funds & thousands of jobs will now flow to Florida to modernize the infrastructure our residents, visitors + businesses rely upon.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1456829840204648450"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/24301/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need more affordable housing options here in South FLA. And @joebiden is fighting for it. He puts everyday Americans first.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1776298822718603645"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/24301/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/24301/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Bidenomics is taming inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1679197166709899280"
+        },
+        {
+          "type": "statement",
+          "text": "\"Across America @JoeBiden is taming inflation, but in Florida, MAGA extremists ignore high insurance and rent costs while waging non-stop culture wars and taking away women's rights. Florida deserves better.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1680913759932432384"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats and @JoeBiden work OT to tame inflation and build on our 13M+ created jobs, while Republicans want to decimate and close down services we count on and wage culture war chaos.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1707773165181542502"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/24301/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@TheDemocrats deliver for families with lower Rx and health costs, student loan debt relief, climate mitigation and good-paying union jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1576574531166035971"
+        },
+        {
+          "type": "statement",
+          "text": "\"When he ran, @POTUS promised targeted student debt relief. He delivered, canceling up to $20K in student loan debt for those making under $125K.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1562824416815304704"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/24301/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/24301/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/24301/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS is bringing $407M in 2023 to the Everglades to preserve biodiversity, ease climate change & bring clean drinking water to millions of Floridians. Thatâs on top of $1.1B in Infrastructure Law funds. Iâll keep working w/ this White House to protect our economy & ecosystems.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1609942597048352769"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats deliver on sustainable solutions to combat climate change. Investing in electric vehicle charging stations + a resilient clean energy grid also keeps America globally competitive.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1458152849725136906"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/24301/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BPâs #DeepwaterHorizon disaster unleashed catastrophic impacts 12 yrs ago today. Our #FLA beaches were hit. Today millions struggle w/ gas prices, yet Big Oil rakes in billions of profits. We must #ProtectOurCoast, adopt clean energy alternatives & end our fossil fuel dependence.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1516796323537645568"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obama protected Bears Ears & Grand Staircase, land with cultural history for the Hopi Tribe, Navajo Nation, & more. Trump plans to drill & mine there even amid ongoing litigation. We can't put profits over Earth & trust responsibilities.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1225548064548630529"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146 \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26930/68923/24301/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/24301/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/24301/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "\"So proud to recieve @GIFFORDS_orgâs endorsement! Iâll always fight for a safer future for our next generation and advocate for common sense gun safety laws in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1773497549774622749"
+        },
+        {
+          "type": "statement",
+          "text": "\"All extremist groups eventually fade away. This oneâs demise canât happen soon enough. Nearly all Americans reject their radical agenda and want common-sense, life-saving gun laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1725996642204070215"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A @JoeBiden Presidency means an administration working to make sure women have ð° Improved economic security âï¸ Expanded health care access ð©âð©âð§ Increased paid family leave\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1287841391524093952"
+        },
+        {
+          "type": "statement",
+          "text": "\"Outside Congress, paid leave is broadly popular and highly bipartisan. Call your GOP representatives today and ask them why they haven't gotten the memo.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1401943174113804303"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/24301/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats deliver lower Rx prices. Don't let Republicans get in the way\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1614670748622196739"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House passed #HR3 to (among other things) give Medicare the power to negotiate Rx costs with drug companies. But they won't be able to do it until the Senate passes it too. Call 202-224-3121 and tell you Senators to demand a vote ASAP!\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1229553633886375936"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/24301/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/24301/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/24301/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/24301/police-act-of-2023#92230"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24301/debbie-wasserman-schultz/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/24301/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yes! @JoeBiden: This is the kind of leadership we need to bring freedom to Cuba: Sanctions, internet access, and real accountability for human rights abuses. This is what a POTUS who takes on dictators, not coddles them, looks like.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1418233027054948354"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukrainians deserve our support and Democrats are doing that. Biden installed crushing Kremlin sanctions, Congress sent $13.6B in aid to Ukraine and the House revoked Russia's favored trade status. Democrats are making Putin pay.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1510303416073043968"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/24301/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Donald Trump and @FoxNews fawn over Putin, #Russia wages an unprovoked war on #Ukraine and innocent people are dying. We need leaders of both parties to stand against Putinâs dangerous, deadly invasion and defend democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1496878569930252290"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukrainians deserve our support and Democrats are doing that. Biden installed crushing Kremlin sanctions, Congress sent $13.6B in aid to Ukraine and the House revoked Russia's favored trade status. Democrats are making Putin pay.\"",
+          "source": "x.com",
+          "url": "https://x.com/DWStweets/status/1510303416073043968"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/24301/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's past time to pass sane gun safety laws, but we also need to revisit Section 230 to remove social media company immunity if they amplify radicalizing content and conspiracy theories that promote violence like we saw in Buffalo.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDWStweets/status/1525948999957618689"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/24301/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/24301/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:09:42+00:00"
+}

@@ -1,0 +1,406 @@
+{
+  "name": "Tom Cotton",
+  "page_title": "Tom Cotton's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (AR) - Jr, Republican Majority Conference Chair",
+  "on_the_ballot": "Running, Republican for U.S. Senate (AR) - Jr",
+  "candidate_id": "135651",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/135651/tom-cotton",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Like many of you, I believe life begins at conception, and we must do everything in our power to protect the unborn.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1018358/the-jonesboro-sun-we-must-do-more-to-protect-the-unborn#.XYk8BUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"All in all, this legislation is a major achievement. It will give working families the tax relief they deserve and help us build an economy that supports the American worker.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1217369/cotton-statement-on-senate-approval-of-tax-bill"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton#.XcM7fEFTkfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XYoV8kE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/53#.XYlAN0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/12#.XYlAVUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Having a nuclear arsenal that's second to none has been the best guarantee of our national security in the modern age, and if we lose our edge, it'll be disastrous for the world. That's why it's vital we modernize our arsenal with all deliberate speed.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1224222/cotton-statement-on-nuclear-posture-review#.XYk8zEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/22#.XYk-xEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The world is growing ever more dangerous and our defense spending is wholly inadequate to confront the danger.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/967914/americas-military-strength"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Investments in our infrastructure support the long-term growth and development of Arkansas communities. These funds will improve safety while helping foster economic progress,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1257809/more-than-20-million-in-dot-grant-approved-for-arkansas-airports#.XYoYaUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Local airports are a critical part of Arkansas's infrastructure system and I applaud the Department of Transportation's selection of these 11 deserving Arkansas airports,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/978519/members-of-the-arkansas-congressional-delegation-announce-over-65-million-for-airport-improvements#.XYoY8UE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cotton said that he would work to reform U.S. tax code to make it \"simpler, fairer and flatter,\" and also to reduce the 35-percent corporate tax rate.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/915110/log-cabin-democrat-sen-candidate-cotton-speaks-to-lions-club"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XYoV8kE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 266 - Paycheck Protection Program and Health Care Enhancement Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/72176"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has said the states should hold schools accountable for their performance--without Washington bureaucrats looking over their shoulder. And by passing this resolution, we will continue to put power back in the hands of parents and teachers, where it belongs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1149502/10-senators-introduce-resolution-to-rescind-obama-administration-education-regulation#.XYk9qkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/27#.XYk_90E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It also rightly requires the EPA to recognize the important differences between our many energy sources, ensuring Arkansas's lignite coal and our coal-fired power plants aren't unfairly penalized. I will continue to work with my colleagues to fight back against President Obama's EPA and to ensure Arkansans continue to have access to affordable, low-cost energy sources,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/986103/boozman-cotton-join-bipartisan-effort-to-roll-back-clean-power-plan#.XcM9GEFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our objection to Clean Line's application should not be viewed as a fight against renewable energy; we each understand the importance of having a reliable electricity grid and are strong advocates of a diverse energy portfolio, including wind, solar, hydropower, renewable biomass, and nuclear energy. Likewise, we do not take issue with the building of national infrastructure; robust infrastructure investments, including the enhancement of the electrical grid, are often productive undertakings.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1154924/letter-to-the-hon-rick-perry-regarding-clean-line-project"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/29#.XYk_00E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 2% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/30#.XYk_r0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Disarming law-abiding citizens and trampling on their Second Amendment rights to defend themselves is the exact wrong response to terrorist attacks and violent criminals.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1103026/cotton-statement-on-the-senates-votes-on-gun-control-legislation#.XcM-JEFTkfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/37#.XYk_WkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by Gun Owners of America.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/37#.XYk_WkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The largest and most pressing threat against Americans is not guns, it's terrorists who use guns. Disarming law-abiding citizens and trampling on their Second Amendment rights to defend themselves is the exact wrong response to terrorist attacks and violent criminals. Instead, President Obama and Senate Democrats should develop a real national security strategy to fight and defeat ISIS overseas and to protect Arkansans and Americans from the barbaric ideology of radical Islamic extremists.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1103026/cotton-statement-on-the-senates-votes-on-gun-control-legislation"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of lowering costs, Obamacare has made things worse: insurance companies across the country are fleeing the exchange market at an alarming rate, premiums have skyrocketed, and networks have become more narrow. Obamacare is in a death spiral. What's worse, Obamacare will impose a fine on countless individuals who no longer have affordable insurance options in their county,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1126663/cotton-mccain-sasse-flake-johnson-barrasso-introduce-bill-to-protect-americans-from-collapse-of-obamacare#.XcM-dUFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Obama needs an ObamaCare reality check. This law has been a disaster. Our worst fears about this unworkable law have come true-and even some we didn't predict.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1142586/fox-news-opinion-cotton-in-fox-news-opinion-our-president-desperately-needs-an-obamacare-reality-check"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71516"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Indeed, the Border Patrol can't concentrate the resources it has because it is spread out across 2,000 miles of open desert and mountains, fighting illegal immigration without the help of a border wall.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1321251/cotton-addresses-the-national-narcotics-officers-associations-coalition"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 88% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton#.XYuiHPxKhYg"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For 30 years, Americans have rejected repeated attempts to grant amnesty to illegal immigrants because they know what will follow: pressure on working-class wages, pressure on public schools, and pressure on welfare dollars.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1195887/cotton-statement-on-daca-and-the-raise-act"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 81% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/40#.XYk_A0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the meantime, I don't think any kind of conversation with the ayatollahs would be productive. They've really been waging a low- grade war against us for 40 years. So until they significantly change their behavior, I don't think we should sit down with them. I don't think it would be a productive use of time.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1352008/cnn-the-situation-room-transcript-interview-with-sen-tom-cotton"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/22#.XYk-xEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"With new leadership and new resolve, effective diplomacy and a credible military threat, we can defeat Iran's drive for supremacy in the Middle East.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1202538/cotton-calls-for-decertifying-the-iran-deal"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States stands with our Saudi partners in confronting Iran's campaign of terror across the Middle East. The ayatollahs' desperate efforts to cripple global energy markets will only renew our commitment to maximum pressure. The Iranian regime and its proxies ought to face consequences for these attacks.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1371549/cotton-statement-on-attacks-on-saudi-oil-facilities"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135651/tom-cotton/63#.XYk-lEE3kfJ"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Contrary to the promises of NAFTA, Canada has continued to impose stringent, protectionist trade policies that limit sales for American poultry exporters. As a result, the Administration's commitment to improving the terms of NAFTA presents American poultry exporters with a unique opportunity to eliminate Canadian trade barriers, which have hampered growth for more than 20 years. We strongly urge you to focus on this issue during your talks with Canadian trade representatives, and we expect that progress will be made.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1171002/letter-to-the-hon-robert-lighthizer-united-states-trade-representative-senators-push-for-market-access-for-american-poultry"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tariffs are an effective way to apply pressure to China and other nations in trade negotiations, but there's no reason that tariff revenue can't help working Americans in the process,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1375943/cotton-introduces-tariff-rebate-act#.XcNAEkFTkfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:27:54+00:00"
+}

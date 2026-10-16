@@ -1,0 +1,628 @@
+{
+  "name": "Jimmy Panetta",
+  "page_title": "Jimmy Panetta's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 19, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 19",
+  "candidate_id": "169078",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/169078/jimmy-panetta",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"News of a draft SCOTUS opinion on Roe v. Wade makes it clear that we must act now to protect a woman's right to choose. Congress must send the Womenâs Health Protection Act to President Bidenâs desk as soon as possible.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1521318094446153728?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the 45 anniv of #RoevWade, the #SCOTUS decision that affirmed women have the constitutional right to make their own health care decisions. As a member of the Pro-Choice Caucus, I am committed to defending a womanâs right to choose and to protecting access to health care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/955504863596736513?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/169078/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Coronavirus Aid, Relief, and Economic Security (CARES) Act significantly extended unemployment insurance (UI) by 13 weeks and included a four-month, $600 increase in benefits known as Federal Pandemic Unemployment Compensation (FPUC). Despite these expanded benefits, there are still gaps in coverage for those who are willing and able to work, but who are unable to maintain employment due to the global public health crisis.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1430986/congressman-panetta-co-introduces-legislation-to-expand-unemployment-insurance-benefits/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ultimately, we need a long-term solution to this issue by ensuring that Medicare reimbursement is keeping up with inflation and that the system is streamlined so physicians can continue to care for their patients. We can't underestimate how Medicare plays an essential role in the health of senior citizens. That is why Congress must ensure that in order for it to continue to be that cornerstone of healthcare, we must provide our providers with the proper reimbursement so that our seniors can get proper healthcare.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1668765/assessing-impact-of-medicare-cuts/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/169078/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted against this tax bill because it would have a negative impact on too many families on the central coast of California and our nation. The bill lowers taxes for the wealthy, while raising taxes on many working and middle-class families. The bill would leave millions without health insurance or with increased premiums. It sets the stage for massive cuts to critical services and entitlements to my constituents and support for our communities. It will add $1.5 trillion to the national debt. Most disconcerting, the bill caps the state and local tax deduction at $10,000, far below the average $23,000 deduction claimed by over 177,000 households in California's 20th Congressional District each year. The plan also reduces the limit on the mortgage interest deduction, which will have a detrimental impact on high-cost housing markets in our district.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214567/congressman-panetta-statement-on-the-passage-of-the-tax-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm leading a bipartisan, bicameral coalition pushing for the legislation that would establish the first-ever middle-income housing tax credit to spur the development of hundreds of thousands of affordable homes, so critical to strengthening our community.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1743731663752835482?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/169078/restoring-tax-fairness-for-states-and-localities-act#70555"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36374/97564/169078/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/169078/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted against this tax bill because it would have a negative impact on too many families on the central coast of California and our nation. The bill lowers taxes for the wealthy, while raising taxes on many working and middle-class families. The bill would leave millions without health insurance or with increased premiums. It sets the stage for massive cuts to critical services and entitlements to my constituents and support for our communities. It will add $1.5 trillion to the national debt. Most disconcerting, the bill caps the state and local tax deduction at $10,000, far below the average $23,000 deduction claimed by over 177,000 households in California's 20th Congressional District each year. The plan also reduces the limit on the mortgage interest deduction, which will have a detrimental impact on high-cost housing markets in our district.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214567/congressman-panetta-statement-on-the-passage-of-the-tax-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"Of course it's not liked. Who can support a plan that takes healthcare away from 24 million people to pay for tax breaks for billionaires?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/842025453535801345?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The new House Majority is dedicated to passing pro-democracy, anti-corruption reforms to support the American people. Empowerment, transparency, and accountability are bedrocks of democracy. Unfortunately, these foundational principles have been eroded. The For the People Act will restore our democracy, strengthen the electorate, and expose fraud and deceit,\" said Congressman Panetta.",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1315223/congressman-panetta-co-sponsors-hr-1-the-for-the-people-act-of-2019/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout the 2020 election, American voters faced a torrent of big, dark, special-interest money advertisements and attempts to suppress access to voting,\" said Congressman Panetta. \"I'm proud to cosponsor and vote for the For The People Act, which would strengthen our democracy by protecting voter rights and access to the ballot box, ensure greater transparency and accountability of big, dark, special-interest money in the political arena, enhance ethics rules, and end gerrymandering by preventing discrimination in congressional redistricting that dilutes minority voting power. Such legislation, ultimately, would help ensure that every vote is counted and that every American's voice is heard.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1508023/congressman-panetta-votes-to-expand-voting-rights-and-end-big-dark-special-interest-money-in-politics/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/169078/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Justice in Policing Act of 2020 will: Hold police accountable by: Reforming qualified immunity so that individuals are not entirely barred from recovering damages when police violate their constitutional rights.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1431138/congressman-panetta-is-an-original-cosponsor-of-the-justice-in-policing-act-of-2020/#.XyB1k55Kg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"While there is no one piece of legislation that will automatically correct past abuses and racial inequality, today's passage of the George Floyd Justice in Policing Act is a major step forward for the necessary reforms in our system of policing,\" said Congressman Panetta. \"As someone who fought for justice for nearly 20 years in our criminal courts system, I was honored to work with Congresswoman Bass and become an original cosponsor of the legislation. As people continue to peacefully take to the streets to call for change, the United States Congress will continue to live up to our obligation to ensure that law enforcement lives up to its role to sustain and support all of our communities.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1508018/congressman-panetta-votes-to-pass-the-george-floyd-justice-in-policing-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/169078/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to serve on the House Armed Services Committee, to promote and protect the over a dozen military installations in #CA20 and to ensure Congressional oversight of smart defense spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1001856445535674368?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Just voted for the #FY20NDAA. I am proud to have successfully incorporated numerous provisions to the #NDAA that strengthen programs & priorities for Central Coast defense installations & entities, address military housing issues, and keep the US in #NATO.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepJimmyPanetta/status/1149799487604482048"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/169078/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/169078/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For far too long we have underinvested in our working families and our working infrastructure. Fortunately, the Build Back Better Act makes much needed investments in childcare, eldercare, healthcare, education, clean energy, and affordable housing that will help working parents to get back into the workforce,\" said Congressman Panetta. \"I'm proud that several of my bills to reduce our carbon output and improve our agriculture potency were included in this legislation, and that we responsibly raise the necessary revenue to fund our priorities. This legislation, along with the bipartisan infrastructure bill that was signed into law this week by the President, will help us in our fight to expand our supply chain capacity, increase our productivity, provide working families with dignity, and ensure the prosperity of the United States in the 21st Century.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1574952/rep-panetta-votes-for-passage-of-build-back-better-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"For far too long we've underinvested in our nation's infrastructure. Despite reaching this inflection point about the direction of our country, Congress came together tonight and passed the bipartisan Infrastructure Investment and Jobs Act,\" said Congressman Panetta. \"This legislation will make significant investments in our infrastructure that will improve our supply chains, bolster our economy, increase jobs, help prevent wildfires, enhance rural broadband, broaden our water resources, and fight the effects of climate change. I'm proud to have worked on and supported such a transformational and bipartisan bill that clearly will strengthen the foundation upon which our democracy can go forward and lead in the 21st Century.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1574956/rep-panetta-votes-to-pass-the-bipartisan-infrastructure-investment-and-jobs-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/169078/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/169078/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Due to outdated limitations on home sale gain exclusions, homeowners who are looking to downsize are discouraged from selling their homes, which can stifle our real estate market and contribute to a lack of housing supply,\" said Rep. Jimmy Panetta. \"Increasing this exclusion through the bipartisan More Homes on the Market Act will make it easier for homeowners to earn more from their investment, which will incentivize them to sell and increase the amount of homes on the market. Although the affordable housing problem in the Bay Area and Central Coast is complicated, this legislation can help by providing a straightforward solution of amending the tax code to meet modern inflationary pressures.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636812/rep-panetta-introduces-the-bipartisan-more-homes-on-the-market-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Rent Relief Act will assist those working families by providing a federal tax credit to help cover the difference between their income levels and rental market prices. Thanks to the leadership of Rep. Danny Davis for working with me on this legislation so that we can help keep working parents in our economy and working families in our community.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1625255/reps-gomez-davis-peters-panetta-introduce-legislation-to-help-millions-of-struggling-renters"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/169078/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/169078/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Certain practices by foreign and international shipping companies have contributed to the high cost of food for Americans,\" said Rep. Panetta. \"The bipartisan Ocean Shipping Reform Act will help lower prices for families in our communities and remove excessive shipping fees faced by farmers all across our country. I'm proud to have helped push this bill over the finish line, and look forward to continuing to work with my colleagues and the President to tackle inflation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610634/rep-panetta-joins-president-biden-for-signing-of-bipartisan-shipping-reform-bill/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, he is working to lower the prices at grocery stores and gas stations with federal investment in our roads, rail, research, manufacturing, broadband, and water systems. He is committed to ensuring access to affordable Pre-K and higher education. He also is working to strengthen our local economy and support working families by expanding child care, achieving equal pay for women, protecting workersâ wages, rights, and safety, and helping small businesses invest and grow.\"",
+          "source": "www.jimmypanetta.com",
+          "url": "https://www.jimmypanetta.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/169078/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Americans weather this bruising pandemic, I applaud the Biden Administrationâs action to extend limits on evictions, foreclosures, and student loan repayments. No one should have to choose between basic necessities or a roof over their head.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1352321632388444165?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Many of our hardworking public servants are blocked from accessing student loan relief due to outdated, bureaucratic processes. Itâs time we reform the Public Service Loan Forgiveness program and provide our public servants with the relief theyâve earned.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1421500907183820804?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Importantly, extending the PSLF waiver will also allow more military service members and federal employees to make progress towards loan forgiveness through PSLF. Though the Department has announced that it is currently working to ensure that all federal agencies and departments automatically provide credit for PSLF for members of the military and federal employees, this program is not yet in place. Military and federal data matches are critical to ensuring that the Department can identify which borrowers are eligible for PSLF and provide them automatic relief.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1632539/letter-to-miguel-cardona-secretary-of-education-feinstein-padilla-colleagues-urge-biden-administration-to-extend-public-service-loan-forgiveness-waiver/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protect and expand voting rights\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1367325775192539138?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This past election, Americans witnessed voter suppression, partisan gerrymandering, and a torrent of special interest dark money. I'm voting YES on #HR1 to ensure the most powerful voice in our democracy is right where it belongs, with the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1367286128903139329?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must pass H.R 1 and the John Lewis Voting Rights Act to maintain the health of our democracy and ensure the fundamental right to vote is protected.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJimmyPanetta/status/1427011706027450372?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/169078/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Highly efficient and clean burning linear generators can help us reduce our emissions and fight climate change. Unfortunately, our tax code does not incentivize the development and deployment of that type of innovative technology,\" said Congressman Panetta. \"My bipartisan Clean Energy Production Parity Act would provide the production of next-generation linear generators with the same tax benefits as similar technologies. It's this type of tax incentive that could quickly lead to low-carbon grid and low-emission resilience, and encourage future linear generation innovation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1541774/congressman-panetta-reintroduces-bipartisan-and-bicameral-clean-energy-production-parity-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This offshore wind agreement is a significant step in our efforts to address the climate crisis and meet our clean energy goals at the local, state, and national levels,\" said Congressman Panetta. \"I commend the Offshore Wind Working Group and its collaboration and coordination with local and federal partners to reach this agreement. I will continue to ensure that everybody is at the table during this process so that we can continue to make these types of significant investments in clean energy without sacrificing or threatening our local beauty, economy, and wildlife. I look forward to our continued work together so that we can advance these words to deeds in order fulfill our renewable energy goals and protect what we have here on the Central Coast.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1531624/congressman-panetta-statement-on-agreement-on-offshore-wind-project-in-morro-bay/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/169078/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let's be clear. Our families, my families that I represent on the central coast of California, we don't need drilling; we don't want oil drilling; and we will continue to do everything we can to prevent oil drilling off our coastline. Our beauty and the bounty received through our multibillion-dollar tourism and hospitality industry is worth so much more. The future. That is why I will always be against any oil and gas drilling off the central coast of California, and why I will always be a part of the longstanding tradition of fighting to protect our environment and the future of the place that I, my family, and my constituents call home.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1642984/strategic-production-response-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Off-shore drilling on the Pacific coastline isn't worth the environmental and economic costs, as potential spills pose too much of a threat to our local wildlife and industries,\" said Rep. Panetta. \"I commend the Biden Administration for proposing this pause on new California coast drilling leases for the next five years and will do whatever I can to help finalize this much needed policy. But we also need to pass legislation like my Central Coast Conservation Act, which would permanently prevent new leases from being granted by future administrations that could threaten our home on the Central Coast.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1617567/rep-panetta-commends-biden-administrations-proposal-to-stop-issuing-california-off-shore-drilling-leases/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/169078/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the nation continues to endure rampant gun violence, the House of Representatives has continued to act accordingly by passing bipartisan legislation that could help slow the slew of people being slain by guns,\" said Rep. Jimmy Panetta. \"The Senate must now do its job by coming together and passing legislation based on the bills that we have sent them. It shouldn't take a massacre of a fourth-grade class for the Senate to act on this type of legislation. Nevertheless, the Senate must now do something, anything to stem gun violence and help save lives.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610632/rep-panetta-votes-for-gun-violence-prevention-bills"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/169078/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/169078/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He supports Medicare for all and is committed to saving and shoring up the Affordable Care Act (ACA), which has brought so much benefit to people on the Central Coast.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1436270/issue-position-healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/169078/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jimmy is also supports policies that foster an economic environment that encourages business development and ensures employees have the benefits and protections they need to prosper. That is why he supports a living wage for all workers, paid leave, and ensuring that your earned benefits -- such as Social Security -- are available for generations to come.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249494/issue-position-jobs-and-the-economy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bipartisan Families First Coronavirus Response Act provides solutions to some of our community members' most pressing challenges as the coronavirus crisis continues to grow and evolve,\" said Congressman Panetta. \"This package provides emergency paid leave, the stabilization of our unemployment insurance system, and free coronavirus testing, even for the uninsured. Other important measures increase federal funds for Medicaid, strengthen food security programs, and improve protections for health workers at the frontlines of the emergency. I urge the Senate to pass this critical legislation without delay so that the President can quickly sign it into law.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1409882/congressman-panetta-votes-for-the-bipartisan-families-first-coronavirus-response-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/169078/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Annual spending on prescription drugs alone is nearly half a trillion dollars and threatens to continue to grow. No one should be forced to choose between necessary medication and other life expenses such as housing or education. That is why, as a member of the House Ways and Means Committee, he worked on, and Voted in favor of the passage of the Elijah E. Cummings Lower Drug Costs Now Act.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1436270/issue-position-healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/169078/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/169078/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He is working in Congress to pass comprehensive immigration reform that supports our diverse communities, strengthens border security, provides effective worker programs, and improves educational opportunities for the children of immigrants.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249499/issue-position-immigration-reform/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/169078/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6136 \"Border Security and Immigratin Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/169078/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He is working in Congress to pass comprehensive immigration reform that supports our diverse communities, strengthens border security, provides effective worker programs, and improves educational opportunities for the children of immigrants.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249499/issue-position-immigration-reform/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jimmy believes that the noncitizen children of immigrants who came to this country through no choice of their own-- the so called \"Dreamers\" -- should have the chance to earn their way to citizenship in this country. In Congress, Jimmy has supported numerous pieces of legislation to ensure that these Dreamers can continue to contribute to our communities, economy, and country. As a chair of the bipartisan Problem Solvers Caucus' Immigration Task Force, he is working across the aisle to develop a long-term solution for the Dreamers on the Central Coast.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249499/issue-position-immigration-reform/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/169078/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the war in Ukraine drags on, it is quickly becoming a war of attrition,\" said Rep. Panetta. \"That is why the United States must continue to lead by severing as many possible economic ties with Russia in order to constrain its economy. This bipartisan legislation would help bleed Russian of its resources it is using to wage its unjust and unprovoked war on the nation and people of Ukraine.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610635/rep-panetta-authored-and-introduced-expanding-trade-sanctions-on-russia-act-to-squeeze-russian-economy-and-stop-its-war-on-ukraine/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill, H.R. 6968, also punches Putin right in the gut by banning imports of Russian oil, by taking steps to remove Russia from the WTO, and by holding Putin accountable for his violating of rights with tougher sanctions. The last thing we want is war with Russia. However, in order to stop Putin's paranoid adventurism, we need to bolster our commitment to NATO, and we must bleed him of his resources to wage war by crumpling his ruble and collapsing his economy. This will affect us, and it will force all of us to play our part.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1589740/suspending-energy-imports-from-russia-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/169078/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/169078/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Ukrainians are righteously repelling the Russian military in its unjust invasion. However, they are also rapidly running out of the ammunition and armaments needed to continue defending their nation,\" said Rep. Jimmy Panetta. \"That's why I Voted in favor of this legislation that will provide President Biden with authority to get weapons and ammo into Ukrainian hands as quickly and efficiently as possible so that they can continue to defend their democracy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610362/rep-panetta-votes-for-ukraine-democracy-defense-lend-lease-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This past week, our bipartisan Congressional delegation reinforced the rock-solid commitment of the United States to the NATO alliance and the Ukrainian people in the face of the ongoing Russian aggression and atrocities,\" said Rep. Jimmy Panetta. \"After meeting with European leaders, Ukrainian refugees, and U.S. military members, I firmly believe that the United States must continue to lead and partner with our NATO allies to support the Ukrainians with humanitarian assistance and military armaments and maintain sanctions on Russia as it wages its unprovoked and unjustified war. I look forward to continuing our work and leadership in Congress so that the United States and our NATO partners can help support the fight and will of the Ukrainian people.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610360/us-rep-panetta-visits-nato-allies-and-ukrainian-border-and-reinforces-us-commitment-to-ukrainian-people/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/169078/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:10:49+00:00"
+}

@@ -1,0 +1,724 @@
+{
+  "name": "Joe Courtney",
+  "page_title": "Joe Courtney's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CT) - District 2, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CT) - District 2",
+  "candidate_id": "30333",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/30333/joe-courtney",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The SCOTUS decision to overturn Roe v. Wade is a stunning step backward for the privacy rights of women, families, and all Americans. Weâre going to keep working furiously to codify Roe v. Wade nationally â just as we did statewide in the CT General Assembly in the 1990s.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1540391092591497218"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/30333/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/30333/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The American people pay into Social Security over the course of their working lives. Itâs an insurance program, not an entitlement. I urged my colleagues to bring @RepLarsonâs bill, Social Security 2100, up for a vote. Itâs the solution the program needs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1747410403901227287"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over 100,000 people in CT-02 depend on Social Security, and my office hears every day from people worried about benefits being dragged into a battle over not raising the debt ceiling. Iâm committed to protecting and strengthening the program, not using it as a cash cow.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1622756024225796096"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/30333/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #GOPTaxBill due for a vote this week is a deeply flawed piece of legislation that widens wealth inequality, adds over $1 trillion to the deficit, and threatens the future of social security, Medicaid and Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/942924946291822592"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House just voted to pass a bipartisan tax relief bill that will address real problems for families & workers. I spoke on the House floor to highlight Plainfield manufacturer Westminster Tool â a shining example of why the pro-growth measures in this bill are so important.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1752870043862393238"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/30333/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"The proof is in the pudding. Buybacks & corporate dividends following the #GOPTaxLaw are up 28% from 2017. This $1.5 trillion tax cut was sold to the American people as an opportunity for the working class. Instead, itâs lining the pockets of the 1%.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1062502875153227778"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under the Inflation Reduction Act, huge corporations will pay their fair share in taxes, and working families and seniors will pay less for health care and prescription drugs. Itâs about time.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1585029512265228288"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/30333/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our American democracy has been buffeted for too long by big money, special interests, and by actors who are knowingly, malignantly seeking to undermine the faith and integrity of our electoral system,\" said Congressman Courtney. \"If a 2020 election season bloated with unaccounted for big money and rife with disinformation wasn't the tipping point, then the gut-wrenching attack on our nation's Capitol that sprang from it should have been--Americans deserve to have faith in their democracy, and it's long past time to push back. The For the People Act would shine a light on dark money in politics and ban donations from foreign nationals and companies, tighten standards and accountability for elected officials, would finally mandate paper ballots nationwide, and would bring our election system into the 21st century with online registration and bolstered security. Voting to advance this legislation was a vote for the American people and for the future of our democracy\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1508019/congressman-courtney-votes-to-pass-comprehensive-bill-to-protect-american-democracy-hr-1-the-for-the-people-act"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now is not the time to be timid in our response to racial injustice. This week, the House voted and passed the George Floyd #JusticeInPolicing Act, marking an important step towards a more just and equitable police presence across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1277379052777725952"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/30333/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/30333/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/30333/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/30333/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "statement",
+          "text": "\"For more than 100 years, our region has been known as the \"submarine capital of the world,\" and with good reason. As home to the âfirst and finest\" submarine base and the shipyard that produced the first nuclear-powered submarine, eastern Connecticut is proud of its legacy of supporting our Navy and building the most advanced submarines in the world. Today, our regionâs submarine industry â from the shipyard in Groton to manufacturers and suppliers in Enfield, Putnam, Bozrah, and across the district â is thriving with new growth and new opportunities. It wasnât always that way â Joe has worked hard from day one, and every day since, to make this a reality.\"",
+          "source": "joecourtney.com",
+          "url": "https://joecourtney.com/defense/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/30333/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/30333/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/30333/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Infrastructure Law is allowing towns in every corner of eastern CT to make critical projects a reality. Today marks two years since the bill became law, and itâs delivered $3.7 billion in federal funding to support projects in the Second District.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1724914925473280115"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Access to affordable housing goes hand-in-hand with access to a good job. Now, thanks to a new state program made possible by the American Rescue Place, qualified jobseekers in the CareerConneCT program will have access to stipends to cover housing costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1665873633892237313"
+        },
+        {
+          "type": "statement",
+          "text": "\"Federal funding helped launch the Wellington housing development in Madison â 27 new units, with 24 affordable units. Our towns are in dire need of more housing, and the House-passed Low-Income Housing Tax Credit expansion will encourage more development. The Senate must act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1764746133174444330"
+        },
+        {
+          "type": "statement",
+          "text": "\"From improved childcare services, to new affordable housing, to infrastructure upgrades that will prepare our region for growth, the 2023 budget includes funding for important projects that wouldnât be possible otherwise.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1610659693919182851"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to an $800k federal Infrastructure Law grant, Killingly will be able to assess and clean up the Ballouville Mill for future development into an affordable housing complex. Thereâs lots of work ahead, but this funding will go a long way to create economic opportunity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1696288482598035582"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security is the #1 program to help seniors with the costs of living. In Tolland, I reaffirmed my support for @RepJohnLarsonâs bill, Social Security 2100. The bill would improve the Cost of Living Adjustment so it reflects the inflation actually experienced by seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1790515851994566898"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act of 2022 is empowering Medicare to negotiate with drugmakers for lower prices. This historic action will not just lower costs for patients â it is strengthening the Medicare programâs finances so that future generations will benefit too!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1791162642519707944"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/30333/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/30333/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Farmers grow our food, steward our land, and support rural communities â true public service. Today, I introduced the Young Farmer Success Act, which would make full-time farmers eligible for student debt forgiveness through the Public Service Loan Forgiveness program.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1552767399077740544"
+        },
+        {
+          "type": "statement",
+          "text": "\"GOOD NEWS: Under a limited-time waiver, public servants like nurses, firefighters, and teachers could be able to get additional student debt relief through the Public Service Loan Forgiveness program.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1494789789186510849"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thousands of hardworking Americans have had their student loans forgiven under the limited #PSLF waiver. Today, Iâm introducing the Simplifying and Strengthening PSLF Act to make the waiver permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1546946665243971585"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtneyo"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "statement",
+          "text": "\"Dr. King's words and letters serve as a road map for how we can serve our communities: working for racial equality and social justice, advocating for peace, and protecting voting rights. Today, we recommit to this work.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1747025682826158309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/30333/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/30333/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"CT solar energy has grown 53% each year since 2010, making our state one of the fastest-growing small states for solar power. Our stateâs renewable tax credits for solar have played an important role in this growth. Great for CT and itâs residents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1020722459341975553"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/30333/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/30333/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/30333/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/30333/alaskas-right-to-produce-act-of-2023#100086"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/30333/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/30333/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/30333/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/30333/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/30333/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Before President Obama signed the #ACA into law, it was routine to deny coverage from folks w/#PreExistingConditions like #cancer, #COPD & addiction. If the ruling from the Texas #ACA lawsuit stands it will take a wrecking ball to this protection,& millions will lose #healthcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1093306890698801152"
+        },
+        {
+          "type": "statement",
+          "text": "\"Following last weekâs attempt by the Trump Admin to dismantle the #ACA in its entirety, from which millions of Americans receive coverage, today the House passed the H.R. 1425, to further strengthen the ACA to benefit more individuals & families\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1277761713417465858"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâve helped pass multiple bills in the House to protect the #ACA & push back against the Adminâs attacks, including bills to strengthen Congressâs hand to intervene in the Trump Admin's lawsuit against the ACA; to retain protections for Americans w/#PreExistingConditions; & more\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1148760906807070723"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/30333/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress needs to focus on working across the aisle to strengthen America's workforce, and today I was glad we came together to pass the bipartisan Pregnant Workers Fairness Act,\" said Congressman Courtney. \"According to the most recent data, nearly ninety percent of first-time mothers in the U.S. worked during their last trimester, and over sixty percent of workers say they've witnessed pregnancy discrimination on the job. Protecting working moms and growing families isn't a partisan issue--people shouldn't have to choose between their family's financial security and a healthy pregnancy, especially not while we're working so hard to get our economy and our lives back on track. Our bipartisan bill would finally establish the right to reasonable accommodations for pregnant workers, and would do so in a way that's flexible and reasonable for employers. The new Senate majority has a chance to help us get the job done this year, and they should take our bipartisan bill up for a vote immediately.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1527898/courtney-helps-pass-bipartisan-pregnant-workers-fairness-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since Friday, there have been thousands of new applications for unemployment assistance in Connecticut each day,\" said Congressman Courtney. \"There is a clear and urgent need for these funds to make their way into our communities as fast as possible, and it should have never taken this long to pass a bill that the House passed on a bipartisan basis last week. The Families First bill would provide free COVID-19 testing for all Americans who need it, and it goes straight to the heart of some of the most pressing concerns that folks have right now. The bill will provide resources to help ensure that Americans are provided with paid sick leave, as well as paid family leave. It will also extend unemployment benefits to laid off workers while we continue to see economic contraction, expand food assistance programs, significantly increase Medicaid funding, and more.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1411102/courtney-statement-on-senate-approval-of-house-passed-covid-19-response-package/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ripple effects made by COVID-19 may be felt for months, and we need to help eastern Connecticut families, schools, businesses, and others to brace for any economic and social impacts made as we take precautions to help folks stay healthy and safe,\" said Rep. Courtney. \"The $8.3 billion funding package the House passed last week was a good start, and tonight's latest emergency funding bill will help Americans to weather the storm by extending critical resources to our most vulnerable communities, and by ensuring that American workers have the financial support they need. We've got to keep working together, across the aisle to manage this outbreak, and to protect our communities.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1411081/rep-courtney-votes-for-coronavirus-economic-relief-package/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/30333/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I agree with @SecBecerra: Every American should reap the rewards of the lower Rx costs made possible by the Inflation Reduction Act, like the $35/month cap on insulin. Let's pass the Lowering Drug Costs for American Families Act and expand lower drug costs for everyone.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1791114929958699250"
+        },
+        {
+          "type": "statement",
+          "text": "\"While over a quarter of Americans worry they can't afford their medicine, big drug companies continue to up-charge U.S. patients. Passage of #HR3 marks a vital step towards addressing the exorbitant cost of prescription drugs in the U.S, and securing a better deal for Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1205258737084178435"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/30333/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/30333/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last week, I went to the southern border in El Paso to meet with CBP & Border Patrol officers. There is a dire need for orderly controls at the border, to stop the flow of fentanyl, and to reform our immigration system. These are critical priorities for all of us in eastern CT.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeCourtney/status/1755321538998415620"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 12% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/30333/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/30333/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 12% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/30333/joe-courtney"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/30333/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/30333/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/30333/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/30333/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/30333/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/30333/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/30333/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/30333/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/30333/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/30333/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/30333/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/30333/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/30333/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:31:42+00:00"
+}

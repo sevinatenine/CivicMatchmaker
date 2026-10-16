@@ -1,0 +1,694 @@
+{
+  "name": "Pete Aguilar",
+  "page_title": "Pete Aguilar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 33, Democratic Minority Caucus Chair",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 33",
+  "candidate_id": "70114",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/70114/pete-aguilar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Extreme MAGA Republicans are attacking womenâs reproductive freedom and criminalizing abortion nationwide. A womanâs health care decisions are her own. Thatâs why I am fighting for legislation that will once again make Roe v. Wade the law of the land.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1613292076086579219?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to support the Women's Health Protection Act to codify the protections afforded by Roe v. Wade. I'll always stand for the right to access safe and legal abortion services in the United States. #WHPA\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1441463693582032902?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/70114/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/70114/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans are threatening the livelihoods of Americans and the full faith and credit of the United States. @HouseDemocrats will always protect Medicare and Social Security and the people who rely on them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1617921703438618625?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I responded to Margaretâs letter to assure her that Iâll always fight to protect her hard-earned Social Security & Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/880139293150380032?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicansâ priorities are clear: their first bill in Congress is designed to protect the wealthy and well-connected who want to cheat on their taxes. House Democrats want to protect Social Security and Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1612637318413979648?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of providing tax relief to middle-class families and small businesses like the ones here in the Inland Empire, this bill is specifically designed to give massive tax breaks to the wealthiest corporations and individuals in our country. In addition to adding a trillion dollars to the deficit, this bill will drive up health care costs and raise taxes for millions of working Americans. Tax reform should be about creating a level playing field where every American has a chance to find success, not lining the pockets of wealthy corporations on the backs of working people.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214756/aguilar-reacts-to-passage-of-gop-tax-bill"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/70114/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats are fighting for lower costs, more good-paying jobs and a stronger economy. House Republicans want to cut crucial government programs and help billionaires cheat on their taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1732156610720469045?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #GOPTaxBill sells out students to pay for tax cuts for millionaires and billionaires. This is not the bipartisan #TaxReform we need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/927601231236870144?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/70114/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to have earned an \"A\" on the End Citizens United Action Fund's Congressional Scorecard for fighting the influence of dark money and working to increase transparency in our elections. My priority will always be standing up for Inland Empire residents, not special interests.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1219689070034595840?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/70114/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since the founding of our country, Black Americans have faced oppression and unequal treatment at the hands of our government and law enforcement agencies. The public outcry after the deaths of George Floyd, Breonna Taylor, Rashard Brooks and so many others at the hands of law enforcement has made clear that this moment calls for long overdue action. There is still work to be done at every level of government to reform policing practices and end police brutality, but today's vote signifies an important step toward justice and toward making our country safer for Black Americans. I look forward to working with my colleagues in Congress and with leaders in the Inland Empire community to continue our fight against systemic racism and our efforts to make our country and our community a better place for all residents to call home.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1441114/aguilar-issues-statement-on-passage-of-the-george-floyd-justice-in-policing-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The George Floyd #JusticeInPolicingAct delivers real police reform that will help address racial profiling and violence against Black Americans. While there is still work to be done, this is an important step in the right direction.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepPeteAguilar/status/1276210095500689409?s=20&t=mPiRlm6ux5puzQQtacGULA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/70114/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "In addition to providing our troops with the largest pay raise since 2010, this year's #NDAA includes my amendments to expand benefits for military spouses, help service members transition to civilian life, and keep white supremacists out of our military.",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepPeteAguilar/status/1149789403352653824?s=20&t=mPiRlm6ux5puzQQtacGULA"
+        },
+        {
+          "type": "statement",
+          "text": "This year's NDAA ensures our national security while reflecting our nation's values. By making sure military families have access to the resources they need to succeed, helping our veterans transition into civilian life, protecting immigrants who risk their lives to serve our country, and providing a well-deserved pay raise to our troops, this bill will improve quality of life for our brave service members and their families. I'm grateful that my colleagues in both the House and Senate approved my amendments, and I look forward to seeing their effects now that they've become law,",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1396679/aguilars-key-defense-provisions-head-to-presidents-desk"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/70114/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/70114/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From housing for veterans to increasing healthcare access, I fought for funding for projects that will raise the quality of life for Inland Empire families and create good-paying jobs for our residents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1506308274005717000?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, @NormaJTorres and I joined @SecretaryPete to highlight $15 million in funding from the Bipartisan Infrastructure Law, to help connect the Inland Empire, rebuild two major roadways and create good-paying jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1567957938886819840?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31006/83464/70114/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/70114/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing and homelessness are two of the biggest issues facing the Inland Empire, and we need an all-hands-on-deck approach. By investing in local nonprofits like Maryâs Mercy Center, we can empower members of our community to find housing, job training and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1435325817001807877?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"From housing for veterans to increasing healthcare access, I fought for funding for projects that will raise the quality of life for Inland Empire families and create good-paying jobs for our residents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1506308274005717000?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today was the ribbon cutting for 98 affordable housing units in â¦@CityofRedlands. I secured $24 million in #AmericanRescuePlan funding for this project to reduce homelessness and promote economic opportunity in the Inland Empire.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1603840728173535234?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/70114/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, the Biden-Harris Administration is making the largest investment in domestic solar manufacturing in US history, creating thousands of jobs. And this is just the beginning.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1613210317441601537?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is expected to add more than 140,000 jobs in California alone. We're getting Americans back to work and strengthening our economy, while reducing emissions and fighting climate change. House Democrats get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1685332885220253697?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Senate passed the Inflation Reduction Act to lower costs & prescription drug prices for families and combat climate change. I look forward to getting this done in the House!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1556373398418325505?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Borrowers shouldn't be weighed down by student loan debt after they've been defrauded by for-profit colleges. Today, the House voted to reverse Secretary DeVos' latest attempt to put for-profit institutions ahead of students.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1217907110836604928?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"From increasing funding for special education programs to helping eliminate student loan debt, our @AppropsDems bill provides the investment our students need to succeed. Proud of the work weâre doing \"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1138856787808051201?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you @POTUS for providing hard-working families a break and some breathing room with their student loans. I got through school with the help of Pell Grants and I know how much this targeted action will help Inland Empire families!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1562526853122097153?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUSâ actions, more people are now eligible for student loan forgiveness!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1745931768392290335?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The right to vote is at the foundation of our democracy, and it's been under attack for too long. Today, the House passed #HR4, the Voting Rights Advancement Act, to protect this essential right from harmful voter suppression tactics. #RestoreTheVote\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1203017263835754498?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/70114/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/70114/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans just passed the job-killing #PollutersOverPeople Act, a reckless giveaway to the fossil fuel industry that will cut clean energy jobs while putting your right to clean air and safe drinking water at risk. Iâm proud to have voted NO.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1641468921768280064?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, the Biden-Harris Administration is making the largest investment in domestic solar manufacturing in US history, creating thousands of jobs. And this is just the beginning.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1613210317441601537?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While House Republicans are busy causing chaos and dysfunction, @HouseDemocrats are creating 815,000 manufacturing jobs, investing more than half a trillion dollars in manufacturing and clean energy, and strengthening the middle class\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1710431824344690877?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/70114/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans just passed the job-killing #PollutersOverPeople Act, a reckless giveaway to the fossil fuel industry that will cut clean energy jobs while putting your right to clean air and safe drinking water at risk. Iâm proud to have voted NO.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1641468921768280064?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/70114/pete-aguilar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/70114/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The leading cause of death for kids in the U.S. is gun violence. But rather than working on real solutions, extremists in Congress are forcing a vote on a bill that targets young girls who want to play sports with their friends. House Republicans are focused on the wrong issues.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1649059398361202688?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is National Gun Violence Awareness Day. Proud to #WearOrange with @Everytown and @MomsDemand to demand an end to this epidemic which has devastated too many communities, including my own\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1137021713915502592?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/70114/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/70114/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Because of the #ACA, 129 million Americans with pre-existing conditions can no longer be denied healthcare. #ProtectOurCare\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/816737434159501315?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inland Empire residents who are insured through the Affordable Care Act are eligible to save $1,000+ this year thanks to the American Rescue Plan and Inflation Reduction Act. Proud to have helped pass these laws that lowers costs and makes healthcare more accessible for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1683929738291687424?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This attempt to destroy the #ACA could rip health care away from millions of Americans, and devastate families in my community. We should be working to expand access to affordable health care, not take it away. #ProtectOurCare\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1110577826963562496?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From guaranteeing paid sick leave to strengthening unemployment programs, the #FamiliesFirst Coronavirus Response Act helps working families access the resources they need to meet the challenges posed by the spread of #COVID19.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1240751154000269312?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"From providing free testing to guaranteeing paid sick leave, this was an important step toward making sure American families have the resources they need to overcome this crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1238693806767321089?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Supporting working families means ensuring parents have the resources they deserve. I joined @MomsRising and @HouseDemocrats to discuss the urgent need for more high-quality, affordable child care and paid family leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1714300349375263002?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/70114/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Senate passed the Inflation Reduction Act to lower costs & prescription drug prices for families and combat climate change. I look forward to getting this done in the House!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1556373398418325505?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week I was joined by @AARPCA, @SEIU2015 and @CARASeniors to highlight the passage of the Inflation Reform Act, which will lower the price of prescription drugs and cap out-of-pocket costs for Medicare recipients.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1560650385966055425?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/70114/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/70114/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By utilizing technology at our southern border, we'll be addressing a modern problem with modern solutions. I look forward to working with my colleagues on both sides of the aisle to produce a compromise that enhances border security in smart, effective ways.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1090752137649373184?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Moving forward, it is my hope that my colleagues on both sides of the aisle will work together to reach an agreement to enhance border security through evidence-based solutions. I look forward to being a part of those efforts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1088916714354544641?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #USAact is a bipartisan compromise with over 50 cosponsors that pairs border security measures with a legislative solution for #Dreamers. Dems are at the table working for a solution, @realDonaldTrump\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/959109305420132353?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats are ready to deliver real immigration reform and invest in a secure border. House Republicans are once again recycling failed extreme policies that do not work. Team Normal vs. Team Extreme.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1656721679240790020?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"For over a decade, Dreamers have contributed the U.S. through their hard work & patriotism. They deserve to stay in the only country they've called home. We must pass the American Dream and Promise Act & create a pathway to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1702379132858823123?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"My colleague @RepJeffDenham and I agree that this omnibus was an incomplete deal without a solution to #ProtectDreamers. Providing a pathway to citizenship for these young people is a bipartisan priority, and itâs time for House leadership to give us a vote\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/976938938211426305?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/70114/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Russia's invasion of Ukraine is shocking and despicable. Putin must be held accountable for his aggression and I support the Biden-Harris administrationâs efforts to rally the international community around escalating sanctions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteAguilar/status/1496943238133198849?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/70114/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/70114/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/70114/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/70114/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/70114/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/70114/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/70114/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:07:26+00:00"
+}

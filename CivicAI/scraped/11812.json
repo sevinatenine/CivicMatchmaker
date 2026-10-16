@@ -1,0 +1,628 @@
+{
+  "name": "Austin Scott",
+  "page_title": "Austin Scott's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (GA) - District 8, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (GA) - District 8",
+  "candidate_id": "11812",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/11812/austin-scott",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/2/abortion"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no disputing that life begins at conception, and today the Supreme Court protected the sanctity of life for future generations by overturning Roe v. Wade.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/2022/6/rep-austin-scott-responds-to-scotus-decision"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we continue to work to halt Washington's spending spree, both parties should forge meaningful, bipartisan reform for the Social Security system that protects the promise of Social Security for the American people for generations to come.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1054310/issue-position-social-security#.XcBCHUFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Millions of retired Americans depend on Social Security for their retirement. We must take steps to preserve, protect and strengthen the system for current retirees as well as future generations. Years of reckless spending in Washington have put Social Security in jeopardy and the first step to solving Social Security's problems is to get spending under control and the economy back on track. As we continue to work to halt Washington's spending spree, both parties should forge meaningful, bipartisan reform for the Social Security system that protects the promise of Social Security for the American people for generations to come. We have an obligation to protect Social Security for those Americans at or near retirement who have paid into the system for decades while also preserving the system for our children and grandchildren. I believe that we can find solutions that do both and look forward to working with my colleagues from both parties address the challenges facing Social Security.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/social-security"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under the Republican plan, Americans who are 55 years or older will see no changes in their Medicare coverage. In the future, beneficiaries will receive a premium subsidy from the government to purchase a Medicare-approved health plan of their choice.Medicare spending will continue to grow every year. However, the rate of growth will slow in order to preserve this important program for future generations. The House Republican plan for saving and strengthening Medicare is based on the same plan that Members of Congress currently have. This plan will encourage competition and help keep health care costs in check.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/healthcare"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For families across Georgia, today's legislation means more jobs, more take-home pay, and more money in their own pockets,\" said Rep. Scott. \"While I am very happy with the first major overhaul of our tax code in over thirty years, there is still a lot of work to be done getting our economy back on track, and I look forward to continuing to work with the Trump Administration and my colleagues in Congress to expand our economy, grow wages, and ease burdensome federal regulations.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214080/rep-austin-scott-statement-on-tax-reform-vote"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hardworking families deserve to keep more of the money they earn in their pocket,\" said Rep. Scott. \"As a small business owner for over twenty years, I have spent countless hours and thousands of dollars a year seeking to comply with our complicated tax code. No American should have to go through the time and expense that our current tax code requires. I look forward to continuing to ease the burden for our families, farmers and ranchers, and small business owners and enabling them to achieve the American dream.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1208019/rep-austin-scott-votes-to-bring-tax-reform-to-millions-of-americans"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/11812/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For families across Georgia, today's legislation means more jobs, more take-home pay, and more money in their own pockets,\" said Rep. Scott. \"While I am very happy with the first major overhaul of our tax code in over thirty years, there is still a lot of work to be done getting our economy back on track, and I look forward to continuing to work with the Trump Administration and my colleagues in Congress to expand our economy, grow wages, and ease burdensome federal regulations.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214080/rep-austin-scott-statement-on-tax-reform-vote"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hardworking families deserve to keep more of the money they earn in their pocket,\" said Rep. Scott. \"As a small business owner for over twenty years, I have spent countless hours and thousands of dollars a year seeking to comply with our complicated tax code. No American should have to go through the time and expense that our current tax code requires. I look forward to continuing to ease the burden for our families, farmers and ranchers, and small business owners and enabling them to achieve the American dream.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1208019/rep-austin-scott-votes-to-bring-tax-reform-to-millions-of-americans"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/11812/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/11812/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm very disappointed to see so many of my Democratic colleagues vote to pass H.R. 1, which will mandate sweeping changes to state-run elections and erode states' rights in administering elections. There are changes that need to be made to our election system, but they should be done by state legislatures, not by Washington bureaucrats,\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1509432/rep-austin-scott-hr-1-erodes-states-rights-in-administering-elections"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/11812/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 40 \"Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enfo ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H J Res 42 \"Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Re ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the House Armed Services Committee, I understand how important it is to have the best equipped and trained military in the world. Article I, Section 8 of the Constitution makes clear that one the major duty of Congress is to provide for the common defense. The 8th District is home to Robins and Moody Air Force Bases, two bases that are vital to America's security. I am extremely proud of our installations and the thousands of veterans, military families, and Department of Defense civilian employees that I represent.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/defense-national-security"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"Late last night, the House Armed Services Committee passed the bipartisan FY24 NDAA. This legislation recognizes the global impact that Georgiaâs bases have on our nationâs defense and supports our warfighters around the globe,\" Scott said. \"As our adversaries display increasingly aggressive behavior, I am proud to have amendments included to counter the influence of dangerous countries like Russia and Communist China.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/2023/6/rep-austin-scott-on-house-passage-of-fy2024-ndaa"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Georgians deserve better than the wrecked economy the left's policies and out-of-control spending gave us. When Republicans take back the House, we will work to restore energy independence and our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1592174467085930498"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/97/infrastructure"
+        },
+        {
+          "type": "statement",
+          "text": "\"The so-called \"Build Back Better Act\" is nothing more than a tax & spending spree to fund liberal policies. We are days away from a potential gov shutdown & debt limit default, & all Dems care about is passing another piece of their socialist agenda. Itâs baffling & disgraceful.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1461486396913369104"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the cover of darkness last night, the House passed a Trojan horse âinfrastructure' bill. It is $1.2 trillion in total spending, but only a sliver of that is dedicated to traditional infrastructure projects, like roads and bridges,\" said Rep. Scott. \"Thirteen Republicans provided the deciding votes for Speaker Pelosi and helped pass a key piece of President Bidenâs socialist agenda. Make no mistake about it. The Republicans who Voted in favor of this yesterday helped pave the way for the Reconciliation package to be brought up in the coming weeks, which will lead to higher taxes and more federal control of our lives. The opinion of the public should matter, and the public spoke on Tuesday, where the Democratsâ massive federal encroachment agenda was rejected. Yet, Democrats have again rammed through unpopular liberal policies. They are completely out-of-touch with Americans, or they simply donât care what they think.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/2021/11/rep-austin-scott-comments-passage-infrastructure-legislation"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The so-called \"Build Back Better Act' is nothing more than a tax and spending spree to fund liberal policies. At a time when many American families are feeling a financial pinch, this bill would dramatically exacerbate inflation, raise taxes on families and small businesses, and expand the size and power of the federal government,\" said Rep. Scott. \"We are just days away from a potential government shutdown and debt limit default, and all Democrats care about is passing another piece of their socialist agenda. It's baffling and disgraceful just how out-of-touch President Biden and Congressional Democrats are with issues impacting American families.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1575530/rep-austin-scott-votes-against-bidens-social-spending-spree/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/11812/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/82/economy-and-fiscal"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation \"Reduction\" Act is full of empty promises that harm some of Georgiaâs largest employers.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1559906235767455749"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The US shouldn't be granting blanket loan payoffs, especially solely on the basis of race or ethnicity. This program is unconstitutional, against our American ideals, & sets a dangerous precedent that could extend to other federal loans like student loans, home loans\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1408159776362668032"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Speaker Pelosi: \"We write to you concerned with the massive executive overreach by President Joseph R. Biden to illegally cancel federal student loan debt. On Wednesday, August 24, President Biden announced that he would cancel $10,000 in federal student debt for individual Americans earning $125,000 or less per year or married couples making less than $250,000 a year. In addition, those who receive federal Pell Grants and make less than $125,000 a year would be eligible for total forgiveness of $20,000. Unfortunately, this policy will cost us over $300 billion and establishes a terrible precedent that will drive up the cost of higher education, exacerbating the very problem President Biden pretends to address.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1626418/letter-to-nancy-pelosi-speaker-of-the-house-webster-calls-on-pelosi-to-hold-biden-accountable-for-overreach/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"GAâs election reforms create MORE opportunities to vote while helping to secure our elections by requiring identification for mail-in ballots, just as ID is required to vote in person. This is nothing more than a liberal agenda to remove all voter ID laws in our country.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1408495394888298496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/11812/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is crucial that we reduce our dependence on foreign oil. Our national security and economy both depend on a new national energy policy that does not include sending billions of dollars a year to foreign countries. We must develop an energy supply that is reliable, protected, and affordable. To achieve this we must explore all of our options. There is not a single solution to our nation's energy requirements. That is why I believe in an energy policy that includes increased domestic oil exploration, increased refining capacity within the United States and increased production of domestic oil, natural gas and clean coal. We must also free private industry to research and develop promising new energy resources and technologies.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 86 \"Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 987 \"Denouncing the harmful, anti-American energy policies of the Biden administration, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's ban on Russian oil is better late than never, but the solution isn't buying oil from other authoritarian regimes. The only energy we can trust is domestic. Why does Biden trust countries like Venezuela instead of America?\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1501234915995799557"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/11812/austin-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/11812/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/11812/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Founding Fathers valued the right to bear arms so much that it was included as the Second Amendment to the Constitution. I believe that our right to keep and bear arms is as important today as it was then. I also believe that it is unwise to blame lawful gun ownership for criminal acts. Congress cannot remove evil from this world through legislative action. We can fight crime by holding criminals accountable for their actions, not by disregarding the Second Amendment of the U.S. Constitution and adding layers of gun control that would do little to nothing to protect our citizens. I will continue to support and protect our rights afforded under the Second amendment which allows us to secure the safety of our homes and families.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/second-amendment"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I got a little heated this week when my Democratic colleagues suggested that the Affordable Care Act (ACA) is good as-is and doesn't need any major changes to better help the American people. That couldn't be further from the truth, and they know it.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1114290160429084674"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/11812/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/11812/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/11812/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/11812/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Like most Americans, I am deeply concerned about illegal immigration and I recognize the danger it poses to our society and our economy. Our country is a nation of immigrants and I believe that we should welcome immigrants that seek to come to this country through lawful channels to live, work or study. However, illegal immigration is an issue that must be addressed. We must first secure our borders, remove the illegal immigrants currently in our country and enforce our existing immigration laws before we attempt to implement any type of immigration reform. Illegal immigrants living in our country today are placing an unacceptable burden on the American taxpayer. Illegal immigrants place great strain on our prison system, healthcare system, and educational system. It is because of this reason that this is one of the most important domestic issues facing our nation today. Should legislation concerning immigration reform come to the House floor for a vote, I will consider it with your thoughts in mind.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"The numbers don't lie: President Biden continues to show failed leadership at the border. This is a problem he helped to create by endorsing open border policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1382785374800510977"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 1065 \"Denouncing the Biden administration's immigration policies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5283 \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Migrant Protection Protocols like Remain in Mexico\" were created to keep asylum seekers in Mexico prior to their immigration court dates. .@POTUS wants to gut this process - doing so will increase the number of illegals flooding into our country!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Rep_Clyde/status/1443997699490160644?s=20&t=Mi2dQCwg-Qz8qaHX8CqAZA"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's raging border crisis and the harm it inflicts on our great country, the dangerous catastrophes that I simply cannot ignore. We are talking about over 2 million illegal crossings in a single year, thousands of pounds of fentanyl seized, as we just talked about, and an unknown number of illegal migrants, some with criminal records, some on the terrorist watch list, released into hundreds of communities across the Nation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1583166/securing-the-southern-border"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/11812/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am fully committed to working with President Trump to bring a solution to the immigration problems plaguing our country while protecting the integrity of our borders and our immigration system,\" said Rep. Scott. \"It would be helpful if Democrats would work with us instead of simply voting âno.â\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/2018/6/rep-scott-statement-immigration-reform-house"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your Representative of Congress, a top priority of mine will always be ensuring the safety and security of our great nation. Central to this belief is the recognition that the national security of the United States is directly tied to the strength and security of the State of Israel. My commitment to the security of Israel has been unwavering. In recent months, we have witnessed a succession of mass protests and turmoil in many Middle East nations. This regional upheaval clearly underscores the importance of Israel as the preeminent, stable democracy in the Middle East and America's strongest democratic ally in the region. Therefore, I believe that ensuring Israel's continued qualitative military edge in the region and completing the U.S.-Israel 10-year Memorandum of Understanding for military assistance remains a key American national security priority. Israel currently faces threats from escalating instability in Egypt, Hezbollah rockets in Lebanon, Hamas terrorists in Gaza and the existential danger posed by Iran's nuclear program. U.S. security assistance to Israel, including supporting Israel's acquisition of the Iron Dome rocket defense system, has never been more important for our own national security interests.\"",
+          "source": "austinscott.house.gov",
+          "url": "https://austinscott.house.gov/foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration needs to explain why they havenât enforced existing sanctions on Russia. This has allowed Russia to rebuild their economy and their military-industrial complex.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1760691933851058524"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under no circumstances should Iran be allowed to have nuclear weapons. My colleagues and I sent a letter to Secretary Blinken, urging him to withdraw from the Vienna talks and enforce strong sanctions against Iran. It's time this administration stops caving into Iranâs demands.\"",
+          "source": "x.com",
+          "url": "https://x.com/AustinScottGA08/status/1481375194216374277"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7217 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans want Ukraine to win and Putin to lose.I told @SecDef that in order to help Ukraine win the war against Russia, Biden has to enforce the sanctions against them.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/AustinScottGA08/status/1763255731837444500"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/11812/austin-scott/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/189770/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/11812/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/11812/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:26:44+00:00"
+}

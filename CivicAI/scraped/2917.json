@@ -1,0 +1,688 @@
+{
+  "name": "Mike Simpson",
+  "page_title": "Mike Simpson's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (ID) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (ID) - District 2",
+  "candidate_id": "2917",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/2917/mike-simpson",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am endorsed by National Right to Life for my 100% pro-life voting record. My record of fighting for the unborn has also earned me an A+ rating with the pro-life group The Susan B. Anthony List. I will continue fighting for pro-life policies in Congress 100% of the time.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/protecting-life/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you to the National Right to Life for the endorsement in my reelection! I am honored to have your support. This endorsement reflects my strong pro-life record and commitment to building a culture of life throughout Idaho and our nation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeSimpson4ID/status/1521903593774673921"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/2917/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans have spent their working lifetimes paying into these mandatory programs, and growth like this is unsustainable. The fundamentals are simply not working anymore, as only 2.9 workers pay into Social Security for every one beneficiary (as opposed to 159 workers per beneficiary when the program was set up in 1940). Social Security trustees have recently said that the Social Security trust fund will be insolvent by 2034. Every proposal that I have ever supported to update or reform these programs would preserve these benefits for current beneficiaries, and save it for future generations that are currently at risk of not receiving these benefits.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If there is one common theme I hear from Idahoans as I travel the state, it is their concern with the size of the federal budget and the impact our nationÂs debt will have on future generations. I couldnÂt agree more, and believe getting our fiscal house in order must be the first priority of a Congress. That is one of the reasons why I am an original cosponsor of H.J. Res. 22, which would amend the U.S. Constitution to require a balanced budget. I also support reinstituting true pay-as-you-go (PAYGO) budget practices in Congress so that any spending increase in one area must be paid for with a spending decrease in another area. These are the kinds of budgetary practices American families and businesses have to live with every single day and there is no reason why Congress shouldnÂt live by them as well. Addressing the growth of mandatory programs is the final challenge that Congress will need to tackle to address our fiscal health. It is the main driver of our debt and deficits, and it is also the most difficult to take on. Cutting or even eliminating all discretionary spending only has a small impact on the growth of government, since mandatory entitlement programs take up two-thirds of the federal budget. In FY16, mandatory spending was 69% of our total spending while all other spending that Congress controls (including the Departments of Defense, Agriculture, Justice, Health and Human Services, Energy, Interior, Transportation, State, and others) totaled 31%. If left unchecked, by 2040, those numbers will grow to 81% mandatory and 19% discretionary. To put that in historical context, in 1965 and those numbers were 34% mandatory and 66% discretionary.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/53/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/2917/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has successfully tackled one of those three challengesâreforming our tax code. Congress has also cut more than a trillion dollars in discretionary spending in the last several years. Many of these decisions were made by me and my colleagues on the House Appropriations Committee. But those two things alone will never solve our national debt crisis.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/2917/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"For years, I have advocated that Congress pursue a \"go big\" approach to deficit reduction that would find at least $4 trillion in savings by putting all options on the table. This would include deep cuts to yearly discretionary spending, serious proposals to reform our tax system, and most importantly, lasting reforms to our mandatory spending programs.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/2917/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"For years, I have advocated that Congress pursue a \"go big\" approach to deficit reduction that would find at least $4 trillion in savings by putting all options on the table. This would include deep cuts to yearly discretionary spending, serious proposals to reform our tax system, and most importantly, lasting reforms to our mandatory spending programs.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26112/66405/2917/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/2917/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Idaho is blessed with some of the best police officers in the nation. As we kick off #NationalPoliceWeek, letâs remember that these brave men and women put everything on the line to keep us safe. More than ever, they need our support. That is why I will always #BackTheBlue.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongMikeSimpson/status/1524499532574183424"
+        },
+        {
+          "type": "statement",
+          "text": "Post Register \"However, there is a big difference between peaceful protests and violence and vitriol. We cannot accept riots or the terrorizing of our communities, nor can we accept painting police with the broad brush of prejudice. The fact is, most police officers are selfless public servants who risk their lives each and every day to protect our communities. They are the individuals who rush into schools to stop shootings and save children, who administer CPR, and who pull drivers from burning cars. Police officers are not apart from us, they are our neighbors and friends who simply want to make their own communities a better place.\"",
+          "source": "www.postregister.com",
+          "url": "https://www.postregister.com/opinion/guest_column/defunding-the-police-is-not-the-answer/article_c8611b04-0e02-5ee2-ada3-3ed16665317c.html"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/2917/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28148/73007/2917/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to support this legislation that provides a pay raise to our troops, upgrades military family housing, and bolsters national security,\" said Simpson. \"Congress must act every year to reauthorize the defense programs that keep us safe and protect our way of life, and I am grateful that Members of Congress from both sides of the aisle could come together and pass this bill.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1581128/simpson-voted-for-national-defense-authorization-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"I strongly believe in the importance of supporting our troops, the men and women of the United States military who volunteer to serve their country and protect our way of life. For many Americans, that means thanking the servicemembers in their lives, sending a letter to troops abroad, or flying an American flag outside their home. Congress has a unique opportunity--and responsibility--to support our troops through defense authorization legislation. Through the NDAA, we make sure that the citizen-soldiers and -airmen of the National Guard have safe equipment and aircraft to protect them abroad. We fund counter-terrorism operations to protect the homeland and prevent the next 9/11. We also conduct oversight over the Department of Defense to cut spending on old platforms that have little strategic value. Above all, we provide pay increases--this year, by 2.7 percent--to our troops in uniform, and look out for their families by building childcare facilities and quality housing. We must pass the NDAA every single year to make sure our troops have the resources they need to overcome every obstacle our adversaries put in front of them.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1563256/how-congress-funds-defense-and-our-servicemembers"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/2917/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/2917/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 93% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/2917/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/2917/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "\"If there is one common theme I hear from Idahoans as I travel the state, it is their concern with the size of the federal budget and the impact our nationâs debt will have on future generations. I couldnât agree more, and believe getting our fiscal house in order must be the first priority of a Congress. That is one of the reasons why I am an original cosponsor of H.J. Res. 22, which would amend the U.S. Constitution to require a balanced budget. I also support reinstituting true pay-as-you-go (PAYGO) budget practices in Congress so that any spending increase in one area must be paid for with a spending decrease in another area. These are the kinds of budgetary practices American families and businesses have to live with every single day and there is no reason why Congress shouldnât live by them as well. For years, I have advocated that Congress pursue a \"go big\" approach to deficit reduction that would find at least $4 trillion in savings by putting all options on the table. This would include deep cuts to yearly discretionary spending, serious proposals to reform our tax system, and most importantly, lasting reforms to our mandatory spending programs.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/budget-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/2917/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/2917/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24715/63190/2917/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Irresponsible federal spending is one of the drivers of #Bidenflation. The Democrats bill shows that the Administration just wants to continue the same failed policies that are hurting American families.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongMikeSimpson/status/1527700810645131265?s=20&t=L8OMl88jhzLoSZRQHZOwQQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/2917/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/2917/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "statement",
+          "text": "\"The\"Inflation Reduction Act\" has done everything but that.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeSimpson4ID/status/1594740046673969154"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs student loan \"forgiveness\" plan is an affront to the millions of Americans who have worked hard to pay off their own debt. Using their tax dollars, and yours, to support this bailout is unfair and reckless.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongMikeSimpson/status/1562830196520103941"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs latest attempt to cancel student loans will stick Idahoans, who worked hard to pay off their own debt, with the check.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeSimpson4ID/status/1699469197376626761"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the case of Bidenâs student loan forgiveness plan, the Supreme Court made the right decision. The President does not have the constitutional authority to forgive student loans. And now, the 87% of Americans with out student loans will not need to bail out voluntary borrowers.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongMikeSimpson/status/1674831628068360192"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/2917/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Election integrity is one of the most critical issues we face as a Party and as a country. We must ensure all Americans have confidence in our elections.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeSimpson4ID/status/1407392703348838400"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/2917/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/2917/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"I also voted against H.R. 4, the John R. Lewis Voting Rights Advancement Act. Despite bearing the name of a stalwart champion of the Civil Rights movement, H.R. 4 amounted to nothing more than an unprecedented rollback of state authority to govern their own elections with a massive overreach by the federal bureaucracy. Specifically, the bill would strip each state of the ability to determine their own electoral districts, polling place locations, voter ID and registration requirements, and instead empower anonymous, liberal bureaucrats at the Department of Justice (DOJ) to dictate those regulations for them without any accountability whatsoever to the voters those new rules would impact.\"",
+          "source": "simpson.house.gov",
+          "url": "https://simpson.house.gov/news/documentsingle.aspx?DocumentID=399497"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/2917/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/2917/climate-action-now-act#67056"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I share the concerns of many Americans about climate change, I am also concerned about the overreaching and ambiguous nature of the Green New Deal. For example, I was very concerned to hear the lead sponsor of the legislation, Representative Alexandria Ocasio-Cortez (D-NY) say that the plan would transition off nuclear and all fossil fuels as soon as possible. Iâve said for years that I donât believe you can seriously talk about addressing climate change without talking about nuclear energy. Nuclear energy is 100% carbon-free and currently supplies more than half of our nationâs carbon-free energy. I am also concerned about the cost of the Green New Deal and the potential impacts on our economy if we shift away from affordable energy sources before new energy sources are ready to come online. Most economists agree that the plan lacks details to assign it a specific cost, but the price tag could be as much as 93 trillion dollars according to one source. At $93 trillion, the Green New Deal would cost more than the entire recorded spending of the US since the Constitution went into effect in 1789. Compare that to a more contemporary number, the World Bank estimates the global gross domestic product at $81 trillion. On top of that, this debt is built on a premise that insults hard-working Americans by guaranteeing a living wage even if you are \"unwilling\" to work. If someone is getting a deal here, it is not the taxpayers.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/green-new-deal-our-energy-future/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here are a few major steps we can take today to make our nation more secure: Approve the Keystone XL Pipeline. Approve domestic oil & gas leases. Begin responsibly mining critical minerals.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeSimpson4ID/status/1500873882244317184"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2917/mike-simpson/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/2917/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34063/90422/2917/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/2917/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/2917/bipartisan-safer-communities-act#86332"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Second Amendment to the Constitution reads: \"A well-regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.\" I firmly believe this provision prohibits the federal government from denying citizens this right.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/guns/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Therefore, I will not support bans on the ownership of firearms, or legislation that promotes or requires the rationing or taxation of firearms or ammunition. Contrary to the claims of gun control advocates, gun ownership is not the sole source of our gun-related crime problem. Illegal firearms trafficking and our \"revolving door\" justice system, and deficiencies in mental healthcare are significant contributing factors. I will continue to support legislation to reform our justice system to impose stiff sentences on criminals who use a gun while committing a crime. Individuals must understand that criminal behavior will not be tolerated, and will be met with grave penalties.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/guns/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Government-run healthcare also creates significant challenges for doctors who typically depend on private insurance market reimbursements to stay in business because often Medicare bills at a lower rate for certain services. The last thing we should be doing is creating fewer incentives for doctors to practice medicine at a time when the Association for American Medical Colleges predicts a physician shortage of more than 100,000 by 2030.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/obamacare-and-medicare-for-all/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I also have concerns with the costs surrounding government-run health care proposals. One estimate shows that Senator Bernie Sandersâ (I-VT) plan would cost $32.6 trillion over 10 years. With a national debt exceeding $21 trillion and the Medicare trust fund having the potential to be depleted by 2026, the prospect of expanding Medicare to every individual in the country could likely result in financial ruin for our country and ultimately no one having access to health coverage.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/obamacare-and-medicare-for-all/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28212/73153/2917/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "statement",
+          "text": "\"That is why I have considerable concerns with recent suggestions to move to a completely government-run healthcare model some have called \"Medicare for all.\" While some people say this is a good idea, I have deep concerns given the governmentâs recent history with the Veteransâ Health Administration (VHA) as a model of a single-payer system. The revelations of 6 month wait periods for veterans to receive care is not only a grave misdeed to our service members we are forever indebted, but it is a warning sign of the pitfalls associated with a single-payer system. In fact, a bipartisan solution to fixing the VHA has been to offer more choices to veterans to seek care.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/obamacare-and-medicare-for-all/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/2917/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/2917/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/2917/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue working to find the best ways to enforce our borders and set new guidelines for immigration procedures. I have cosponsored legislation to give law enforcement officers the power to detain criminals who are also illegal immigrants, prohibit states from issuing driverâs licenses to illegal immigrants, expedite and fund the construction of a fence along our southern border, and prohibit access to Social Security by illegal immigrants. I have also worked closely with our farmers and ranchers who depend on guestworker labor to explore options for reforming this program. Idahoâs economy depends on agricultural labor, and without a legal means to solve this outdated system, we are doing our farmers a great disservice.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/immigration/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Until President Biden secures our nationâs southern border, it will be nearly impossible for Congress to pass comprehensive immigration reform. Illegal entry into our nation is perceived as commonplace, and it is conducted with little fear of consequences. That must change, both for the security of our nation and to help restore the dignity and importance of legal immigration in the eyes of all Americans. This crisis is fixable. President Biden must reverse his misguided policies so Congress can work to resolve our broken immigration system.\"",
+          "source": "www.idahostatejournal.com",
+          "url": "https://www.idahostatejournal.com/opinion/columns/opinion-an-undeniable-crisis-at-the-southern-border/article_8729c250-d779-11ee-989e-731b0020fcb7.html"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/2917/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "Idaho State Journal \"Congress has the ability to enact needed immigration policy, but any meaningful immigration reform must follow a successful effort to secure the border. House Republicans passed H.R.2, the Secure the Border Act â the most comprehensive border security package in history â almost 300 days ago. If this bill were to pass the Senate and be signed into law, it would reinstate Trump-era policies like resuming construction of the wall, ending \"catch and release,\" and hiring additional border patrol agents to secure our border.\"",
+          "source": "www.idahostatejournal.com",
+          "url": "https://www.idahostatejournal.com/opinion/columns/opinion-an-undeniable-crisis-at-the-southern-border/article_8729c250-d779-11ee-989e-731b0020fcb7.html"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Congress considers comprehensive reform of our nationâs immigration system, I am deeply concerned over proposals that would grant amnesty to illegal immigrants in the United States. Giving amnesty to those who have broken our nationâs immigration laws would undermine the policies that were established to regulate our borders and provide an orderly process of evaluating applications for citizenship. Such action would send a terrible message to all those who have complied with immigration laws and are still waiting for approval. In addition, by rewarding those who violate United States law, we jeopardize the security and safety of our nation and greatly diminish our ability to protect our own borders.\"",
+          "source": "simpsonforcongress.com",
+          "url": "https://simpsonforcongress.com/issue/immigration/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30330/77979/2917/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/2917/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/2917/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This bill not only strengthens the American economy and promotes our national security, but it also shuts down one of Putin's major income streams. It is unthinkable that we would not take these commonsense actions as part of the United States' effort to stop Putin and his egregious war on Ukraine.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593037/simpson-cosponsors-bill-to-boost-american-energy-independence-and-cut-off-russia/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/2917/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/2917/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32588/85238/2917/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Zelenskiy gave a moving speech today before Congress. The Administration should seriously consider his requests and continue to provide Ukraine with the lethal aid necessary to defend itself against Putinâs evil attack on their country. Slava Ukraini!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongMikeSimpson/status/1504258430306979842?s=20&t=L8OMl88jhzLoSZRQHZOwQQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/2917/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32637/85398/2917/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32588/85238/2917/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:26:55+00:00"
+}

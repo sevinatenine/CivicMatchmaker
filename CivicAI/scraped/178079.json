@@ -1,0 +1,646 @@
+{
+  "name": "Sydney Kamlager-Dove",
+  "page_title": "Sydney Kamlager-Dove's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 37, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 37",
+  "candidate_id": "178079",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178079/sydney-kamlager-dove",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we approach one year since the Court overturned Roe v. Wade, women across the country face continued attacks on their bodily autonomy and restricted access to abortion care. It must end now. We must pass the Womenâs Health Protection Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1671942256750739458?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Worked to remove cost as a barrier to abortion and is committed to securing access to abortion care and birth control.\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"You should be very afraid and not just because Halloween is next week. Speaker Johnson is an anti-abortion extremist who built the framework of the Dobbs decision that overturned Roe v. Wade, and under his gavel, your rights are under attack.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1717305187277091065?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue to advance legislation that protects Social Security to ensure our seniors can retire with dignity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1712604184195781043?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"#CA37 is home to 97,542 Social Security recipients, receiving a total of $153 million in benefits each month. I will always fight alongside @HouseDemocrats to ensure our seniors can retire with dignity while Republicans work to cut this vital benefit for millions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1691191325339594752?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was disappointed to see changes to SNAP and TANF benefits in the debt limit bill. These programs help keep vulnerable populations alive. I will always defend these benefits for #CA37 in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1664369324876873731?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicansâ attacks on SNAP are attacks on our children and senior citizens because SNAP is critical to ensuring that hard working Americans can put food on the table. This safety net is critical for families in #CA37, and I will always defend it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1666449720032522240?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1253: \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28792/74552/178079/increases-income-taxes-for-people-who-earn-more-than-1-million#74552"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans \"Fair Tax Plan\" includes a 30% sales tax. So much for fighting inflation and lowering costs. Guess itâs just their rich golf buddies that need tax cuts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1616114494366781446?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1253: \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28792/74552/178079/increases-income-taxes-for-people-who-earn-more-than-1-million#74552"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans \"Fair Tax Plan\" includes a 30% sales tax. So much for fighting inflation and lowering costs. Guess itâs just their rich golf buddies that need tax cuts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1616114494366781446?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm a firm believer that our democracy works best when everyone has a voice - not just the wealthy few. Fourteen years ago, the Citizens United ruling tipped the scales, enabling dark money to infiltrate politics with outsized influence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1750273193518989498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thatâs why Iâm proud to co-sponsor the Freedom to Vote Act. We must reform campaign finance to serve the interests of the people - not special interests. #DemocracyIsNotForSale\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1750273200175374575?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Amended the California State Penal Code (AB 127) to hold police accountable and eliminate barriers in prosecuting acts of crime by members of law enforcement.\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the third anniversary of George Floydâs death, our nation continues to reckon with police brutality. We owe it to George Floydâs memory to enact meaningful police accountability reform that will save lives and promote safer communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1661823047106715648?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We've lost too many of our children to police violence. It is time for George Floyd Justice in Policing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1623155844794707968?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/178079/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "statement",
+          "text": "\"I announced over $1.6M in grants from @DeptofDefense to fund research at @USC. These grants strengthen our national security, support domestic researchers, and foster the next generation of our defense, security, and technology workforce.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1737237916534108227?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/178079/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The @EPAâs $7B Solar for All grant competition, created by the IRAâs Greenhouse Gas Reduction Fund, will connect historically disadvantaged communities with the funds to power clean energy, create jobs, and advance environmental justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1677330846724808704?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am proud to be a cosponsor of the Clean Electricity and Transmission Acceleration Act to maintain America's clean energy leadership. This bill will create green jobs, advance equity, lower costs for families, and ensure a healthier future for our children.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1735013709930443036?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, @POTUS signed the CHIPS and Science Act into law to shore up domestic manufacturing, create thousands of good-paying jobs, and invest in the technologies of the future. It put us on a course to strengthen our supply chains and look toward progress and innovation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1689370856101683200?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Passed AB 987 to bring 30,000 quality jobs to our area\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Glad to be part of the #RentersCaucus with @RepJimmyGomez. We must ensure all Americans can afford safe and secure housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1681040081186848768?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"WHAT SYDNEY IS FOCUSED ON: Innovative investment in housing\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Worked to establish an emergency shelter and transitional housing project in Culver City.\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Effective today, July 1, out-of-pocket costs for insulin for Medicare Part B beneficiaries are capped at $35 a month. This is an incredible step toward health equity and lowers costs for over 1 million Americans thanks to the Inflation Reduction Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1675157313072828417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to historic investments in the Democrat-led Inflation Reduction Act, Americans are saving on their health care. #CA37 residents can expect to save an average of $960/year on their premiums, with many plans starting at $10 a month. Enroll today!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1737198483742851554?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks a year since the Inflation Reduction Act became law, making historic investments in climate infrastructure and health care, lowering health care and energy costs, and creating good-paying jobs across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1691955835054821699?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While inflation is coming down, we're still seeing corporations raking in record profits and taking advantage of the American people. It's time to ban price gouging.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1623145376067866624?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Oct. 1 student loan payments will resume for over 40 million Americans as education costs continue to rise, preventing many from attaining higher education. It is time to #CancelStudentDebt to promote educational equity for millions of Americans across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1707458104328061205?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS has again set millions of Americans back by denying the Presidentâs authority to cancel federal student loans. This decision has put into jeopardy millions of financial futures, particularly harming low-income borrowers & borrowers of color.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1674893962748755975?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The GOP's plan to block student loan relief hurts 43 million Americans eligible for student debt forgiveness, including more than 20.6 million of their own constituents. 90,500 people in #CA37 alone would suffer. Republicans are standing in the way of educational equity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1661482390043373568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The majority of Americans are in favor of student debt relief. Republicans are obstructing the will of the people with their student loan bill and need to get out of the way.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1661475926360879105?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House passed the John R. Lewis Voting Rights Advancement Act two years ago to end racial discrimination at the ballot box and ensure free and fair elections for all. We need voting reform now more than ever to safeguard the sanctity of the vote.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1694864185706832153?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Voting Rights Act secured the right to vote for millions of Black Americans. Yet six decades later, GOP tactics to subvert voting freedoms by disenfranchising Black voters are still rampant across the nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1688198738743787520?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"WHAT SYDNEY IS FOCUSED ON: Expanding Voting Rights\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must honor John Lewisâ legacy by passing the John Lewis VRAA to #RestoreTheVote. I am proud to join @RepTerriSewell & @HouseDemocrats in introducing this legislation to reinstate key protections from the Voting Rights Act to protect this sacred right for all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1704215764851458208?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to be a cosponsor of the Clean Electricity and Transmission Acceleration Act to maintain America's clean energy leadership. This bill will create green jobs, advance equity, lower costs for families, and ensure a healthier future for our children.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1735013709930443036?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The @EPAâs $7B Solar for All grant competition, created by the IRAâs Greenhouse Gas Reduction Fund, will connect historically disadvantaged communities with the funds to power clean energy, create jobs, and advance environmental justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1677330846724808704?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"WHAT SYDNEY IS FOCUSED ON: A Green New Deal and immediate climate action\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Sierra Club California",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Oil and the petrochemical industry are harming Louisianans while lining the pockets of shareholders and worsening the climate crisis. We must push back against this #PollutersOverPeople agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1715038691091992727?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fought for legislation to remove carbon from the atmosphere and to ensure clean air and water for communities across California (Sydney was one of only eight California legislatorsâout of 120âto receive 100% on the Sierra Club 2020 scorecard).\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I oppose H.R. 1, Republicansâ #PollutersOverPeople legislation. It endangers the health of our environment and the most vulnerable, all while lining the pockets of Big Oil & Gas. After Democrats passed the #IRA to get us closer to our energy goals, this legislation sets us back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1641088268325253120?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Sierra Club California",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"June is National Gun Violence Awareness Month, but the GOP wants to talk about everything except gun violence. The GOP has failed to act time & time again to make our communities safer. They must have the courage to come to the table & save lives. We owe the American people more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1666523476516130816?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, the Bipartisan Safer Communities Act was signed into law, saving lives and protecting communities. During #GunViolenceAwarenessMonth, we must continue to come together on commonsense reform to fight the gun violence epidemic.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1673005632209711107?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yet another mass shooting, this time in Allen, Texas. Republicans need to get the courage to stand up for our communities instead of their guns and stop our communities from becoming war zones.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1655027613780398082?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Coauthored AB 1400 â Guaranteed Health Care for All: Provide quality, affordable, single-payer health care to every Californian.\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"WHAT SYDNEY IS FOCUSED ON: Health care for all\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"You heard me! I 100% support and endorse #MedicareForAll because no one should be without health care. Iâm proud to join a recording-breaking number of colleagues in this effort to promote health equity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1659275680188624898?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined @MomsRising to call attention to the need for child care for families across our nation. We must support our families through the expansion of the Child Tax Credit, increasing access to affordable child care, and enacting paid parental leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1714380057970450821?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 1383: \"Expands Protections for Paid Family Leave\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28226/75634/178079/expands-protections-for-paid-family-leave#75634"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Authored the Affordable Prescription Drug Act to bypass Big Pharma and procure low-cost medicine from Canadian suppliers.\"",
+          "source": "sydneykamlager.com",
+          "url": "https://sydneykamlager.com/accomplishments/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Effective today, July 1, out-of-pocket costs for insulin for Medicare Part B beneficiaries are capped at $35 a month. This is an incredible step toward health equity and lowers costs for over 1 million Americans thanks to the Inflation Reduction Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1675157313072828417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one in this country should be rationing their insulin. I'm with President Biden. We're capping the price of insulin not just for a seniors, but for ALL Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1623148362613592064?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Reinstating policy that detains families at the border would be a huge step backward for compassionate immigration reform. I urge the Biden Admin. to consider a more humanitarian approach that gives our immigrant population the opportunity to pursue citizenship, not detainment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1633991745188028417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The people at our southern border are fleeing violence, political repression, and food insecurity. An out-of-sight, out-of-mind policy is not the humane immigration reform we need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1651710452081065985?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have a humanitarian crisis at our border, and the GOPâs Child Deportation Act is a disastrous replacement for actual immigration reform. It would only worsen the burden on our southern border and put lives at risk. This cannot stand.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1656756681366204416?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5283: \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36064/96417/178079/protecting-our-communities-from-failure-to-secure-the-border-act#96417"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our immigration system is broken, but the Child Deportation Act is not the answer. The GOP plan is a cruel & inhumane approach to immigration reform. It neglects the real issue at hand & demonizes immigrants. We need real solutions to immigration, not more chaos at our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1656766631547215878?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reinstating policy that detains families at the border would be a huge step backward for compassionate immigration reform. I urge the Biden Admin. to consider a more humanitarian approach that gives our immigrant population the opportunity to pursue citizenship, not detainment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1633991745188028417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have a humanitarian crisis at our border, and the GOPâs Child Deportation Act is a disastrous replacement for actual immigration reform. It would only worsen the burden on our southern border and put lives at risk. This cannot stand.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1656756681366204416?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178079/sydney-kamlager-dove"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined my colleagues in asking the Administration to clarify next steps toward charting a constructive path forward in Venezuela. Where possible, reengagement on democracy, humanitarian aid, human rights, and diplomatic relations is critical.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1671955500626313247?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to cosponsor H.Res.108 condemning Azerbaijan's blockade of Artsakh, which has left 120,000 Armenians without access to food, fuel, & medicine for 2 months. I urge my colleagues to join me in holding Azerbaijan to account & ensuring vital aid reaches those in need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1626038657604890626?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/178079/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined @AliciaOnMSNBC yesterday to discuss the critical need to deliver aid to Ukraine. We cannot continue to allow Republicans to endanger our national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepKamlagerDove/status/1734334015795032230?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/178079/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:26:27+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "name": "Heidi Hall",
+  "page_title": "Heidi Hall's Issue Positions (Political Courage Test)",
+  "office": "Supervisor (Nevada County, CA) - District 1",
+  "candidate_id": "145978",
+  "test_year": "2014",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/145978/heidi-hall",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This campaign is about... protecting our civil liberties, getting government out of womens health decisions...\"",
+          "source": "heidihallforcongress.com",
+          "url": "http://heidihallforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There's nothing fair about a tax system that rewards the wealthiest corporations and CEOs while forcing middle class families to pay for it. Right now, some of America's largest companies pay nothing in income tax, even while raking in record profits. Many even have negative tax rates, actually getting huge subsidies from the government while working families struggle.Meanwhile, the federal government continues to run massive deficits and rack up debts that our children will have to pay down. We have to fix this.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849151"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We all recognize that, when government gets too big, it can smother instead of assist. Heidi will fight for programs that really help our local businesses succeed, but she'll never hesitate to cut those that only exist to pad corporate accounts with our tax dollars.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849151/"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to implement education reforms in order to be eligible for competitive federal grants?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy",
+      "question": "Do you support building the Keystone XL pipeline?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Heidi will support market-based solutions to reduce greenhouse emissions, tax benefits for companies that work to limit their emissions, and investing in a clean energy infrastructure, including new funding for alternative fuels and renewable power generation.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849153"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you support restrictions on the purchase and possession of guns?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Heidi Hall was rated 0% by National Rifle Association (Candidate Positions on Gun Rights",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/candidate/145978/heidi-hall?categoryId=37&type=V,S,R,E,F,P,E,E"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There is a large difference between doing something and doing the right thing. Obamacare works towards a goal that Heidi supports, but there are aspects of it that were very troubling. For example, the bill included a tax on medical devices that puts a new burden on the elderly and disabled. Heidi will proudly join the bipartisan effort to repeal that tax, and continue looking for ways to make the law work better for American families.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849156/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring illegal immigrants to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Heidi will work to enact a comprehensive program of immigration reform that includes a path to citizenship. Millions of undocumented residents have built lives, raised families, and fully integrated themselves into our society. But we have erected more barriers to block them from achieving the dream of citizenship than at any time in over a century. We need to allow these Americans-to-be to come forward, begin a fair process that will lead to eventual citizenship, and take the last steps to becoming full members of the American family.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849146"
+        }
+      ]
+    },
+    {
+      "category": "Marriage",
+      "question": "Do you support same-sex marriage?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our rights must be protected, and expanded where they are not in place in meaningful ways. These include the following: Equal Treatment Regardless of Sexual Orientation...\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/919080/issue-position-overview#.VCnM9qC0SXU"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support targeting suspected terrorists outside of official theaters of conflict?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Social Security",
+      "question": "Do you support allowing individuals to divert a portion of their Social Security taxes into personal retirement accounts?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Heidi will vote to eliminate the cap on payroll taxes for incomes of over $500,000, to ensure that these programs remain solvent and that working families can be confident in the knowledge that Social Security and Medicare will still be around for decades to come.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/849156/"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T01:01:53+00:00"
+}

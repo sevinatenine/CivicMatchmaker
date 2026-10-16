@@ -1,0 +1,646 @@
+{
+  "name": "Tom McClintock",
+  "page_title": "Tom McClintock's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (CA) - District 5",
+  "candidate_id": "9715",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/9715/tom-mcclintock",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "DCCC \"In July, Tom McClintock signed an amicus brief urging the Supreme Court to overturn Roe v. Wade, despite the fact that the longstanding decision is supported by 77% of the American people.\"",
+          "source": "dccc.org",
+          "url": "https://dccc.org/vulnerable-rep-tom-mcclintock-is-complicit-in-continued-threat-to-abortion-rights/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by California Pro-Life Council",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "statement",
+          "text": "SBAProlife \"Rep. McClintock has stood up against the ever-growing pro-abortion agenda of the Biden-Harris administration and the radical bureaucrats who are actively working to expand abortion access, resources, and funding. Rep. McClintock has voted consistently to defend the lives of the unborn and infants.\"",
+          "source": "sbaprolife.org",
+          "url": "https://sbaprolife.org/representative/tom-mcclintock"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As paygo works, the first installment payment for this Biden binge is $345 billion of spending cuts every year for the next 5 years, and that includes $52 billion in paygo and BCA cuts to Medicare, which is expected to go broke in 2024 as it is.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1512365/preventing-paygo-sequestration/"
+        },
+        {
+          "type": "statement",
+          "text": "DCCC \"Rep. Tom McClintock, as a member of the Budget Committee, voted last night to advance an extremely harsh, partisan budget that slashes Social Security, Medicare, infrastructure investments, and many other popular programs.\"",
+          "source": "dccc.org",
+          "url": "https://dccc.org/key-vote-alert-mcclintock-votes-slash-medicare-social-security-pay-deficits-tax-scam-created/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In my California district, the average family is paying $1,900 less Federal income tax this coming year. That means 1,900 more dollars that they can spend to meet their own needs...But the real importance of tax reform is expanding our overall economy. That is the rising tide that lifts all boats.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1235649/tax-reform-truth-tellers"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36374/97564/9715/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/9715/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now, the left says this is just tax relief for the rich. Obviously, they don't understand that this is precisely what produces higher pay, better jobs, greater opportunities, and stronger financial security for every American.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1235649/tax-reform-truth-tellers"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/9715/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Madam Speaker, democracies die when one party seizes control of the elections process, eliminates the safeguards that have protected the integrity of the ballot, places restrictions on free speech, and seizes the earnings of others to promote candidates they may abhor. That is the bill before us today. The most dangerous provision nationalizes the mass mailing of ballots to voter rolls that contain untold numbers of people who have moved or died. It allows ballot harvesters to knock on doors and collect these ballots. There is no chain of custody from the time the ballot is mailed until the time it is returned.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1506274/for-the-people-act-of-2021"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Citizens United case protects the First Amendment right of any group of Americans to pool its resources to participate in the public policy debate.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1136605/blog-i-stand-with-trump"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/9715/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finally, lest we forget, when faithful, dedicated and honest police officers â the overwhelming majority of those who serve -- are attacked, degraded, disrespected, demoralized, hamstrung and withdrawn, those most at risk are the poor and defenseless.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/press-releases/remarks-on-police-reform"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/9715/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 4003 \"Law Enforcement De-Escalation Training Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H J Res 42 \"Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34764/91718/9715/disapproving-the-action-of-the-district-of-columbia-council-in-approving-the-comprehensive-policing-and-justice-reform-amendment-act-of-2022#91718"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our total defense spending this year is roughly $675 billion. Every 1 percent increase in interest rates adds roughly $200 billion to our annual interest costs. If capital markets believe we have no plan and no inclination to control our spending, they could soon begin demanding higher rates to compensate their added risk.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1239927/path-to-debt-crisis"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reagan rightly said that defense is not a budget issue -- we spend what we must to defend our nation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1250414/issue-position-national-defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "Pramila Jaypal '\"The Streamline Pentagon Budgeting Act, introduced by Rep. Pramila Jayapal (D-WA) and Rep. Tom McClintock (R-CA), is a commonsense measure that will help restore sound budget practices within the Department of Defense (DoD). This bill would repeal statutory unfunded priorities list requirements, reduce wasteful reporting burdens for branches and commands that do not have unfunded priorities in a given year, and make it easier for civilian leadership at DoD to curb the wish list practice within the Pentagon.\"",
+          "source": "jayapal.house.gov",
+          "url": "https://jayapal.house.gov/2023/07/19/jayapal-mcclintock-davidson-garamendi-moulton-introduce-bipartisan-solution-to-cut-wasteful-pentagon-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe that we need to restore our highway taxes for our highways, and undertake the long-overdue modernization of our once vaunted highway system.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1250438/issue-position-transportation#.W6uQdnWPAfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have fought the High Speed Rail since its inception. The cost figures for this project were absurd from the start -- currently $68 billion (more than $5,000 for every family in California) for a train that goes from Los Angeles to San Francisco in two hours longer than it takes to fly. Energy consumption for the HSR is estimated at 16,000 kilowatts of electricity per trip at a time of sky-rocketing electricity prices and when we can't guarantee enough electricity to keep your refrigerator running this summer. The sad fact is that we could add about ten times the passenger mile capacity of our transportation system simply by investing the same money into expansion of California's chronically congested highway system. I opposed this project in the legislature and, 17 years later, oppose the squandering of any federal funds on it in Congress.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1250466/issue-position-high-speed-rail#.W6uQvXWPAfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/9715/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/9715/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just as you can't drink yourself sober, you cannot spend your way out of inflation or tax yourself out of recession or borrow your way out of debt.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/speeches/you-cannot-spend-your-way-out-of-inflation-or-tax-yourself-out-of-recession-or"
+        },
+        {
+          "type": "statement",
+          "text": "\"The sad and sober reality is that government cannot put a single dollar into the economy that it has not first taken out of the same economy. When government spends a dollar for you it has already decided to take a dollar from you â and it can only be taken back in three ways: from your current earnings through higher taxes, from your future earnings through borrowing and from your savings, retirement income and purchasing power through inflation. There is no other way to pay for every dollar government spends.Inflation is the most insidious of these taxes because it silently hollows out everything that a family labors to achieve.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/columns/the-inflation-tax"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If the Supreme Court rules against the Presidentâs arbitrary student loan forgiveness, as anticipated, it prevents the President from circumventing it by pausing repayments indefinitely. Thatâs nearly a trillion dollars in taxpayer savings right there.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/columns/why-i-support-fiscal-responsibility-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/9715/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4531 \"Support for Patients and Communities Reauthorization Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36173/96828/9715/support-for-patients-and-communities-reauthorization-act#96828"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every fraudulent vote disenfranchises a legitimate voter. THAT is the ultimate in voter suppression. H.R. 4 effectively makes it impossible for states to restore integrity measures like in-person election day voting or voter ID.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMcClintock/status/1430294098121052170?s=20&t=6bKp7M7MiFJNQ1_7VCd4NQ"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill effectively makes it impossible for States to restore integrity measures like in-person election day voting or voter ID. It ensures that the chaos and turmoil of recent elections is magnified and institutionalized. In every election, somebody wins and somebody loses. Democracy depends on both sides having the confidence that an election was fair and accurately reflects the will of the majority. How can anyone have that confidence under such a system as the left would impose? The answer is we can't.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1555411/john-r-lewis-voting-rights-advancement-act-of-2021/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/9715/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we are serious about an all-of-the-above energy policy, we have to stop using taxpayer money to pick winners and losers in the energy industry and require every energy technology and every energy company to compete on its own merits.\"",
+          "source": "mcclintock.house.gov",
+          "url": "http://mcclintock.house.gov/newsroom/speeches/ending-energy-subsidies"
+        },
+        {
+          "type": "statement",
+          "text": "\"We don't know how much all of these mandates waste because, as the GAO reports, ``There is currently no comprehensive inventory of which Federal agencies are implementing renewable energy related initiatives and the types of initiatives they are implementing.'' But outside estimates are as much as $10 billion for the Department of Defense last year, a figure that continues to grow. We are told this program is necessary to maintain flexibility. Well, shouldn't flexibility free us to get cheaper and more plentiful fuels rather than more expensive and more exotic ones?\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1095285/department-of-defense-appropriations-act-2017"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/9715/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1146 \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26930/68923/9715/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4394 \"Energy and Water Development and Related Agencies Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The DOJ's efforts to force its administration's agenda onto ATF are particularly disturbing. Local ATF field agents have shared they feel pressured to take actions against individual businesses that they do not feel are appropriate or in the interest of public policy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1617182/letter-to-gary-restaino-acting-director-of-the-bureau-of-alcohol-tobacco-firearms-and-explosives-demanding-answers-regarding-unprecedented-increase-in-federal-firearm-license-revocations"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America (GOA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3091 \"Federal Law Enforcement Officer Service Weapon Purchase Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If seniors are unable to access care because their provider no longer participates in the Medicare program, this rule will undermine its stated goal.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1575346/letter-to-hon-chiquita-brooks-lasure-administrator-centers-for-medicare-medicaid-services-opposing-cms-vaccine-mandate"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/9715/tom-mcclintock/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/91/health-insurance"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Once the public health crisis is passed, the House bill threatens to postpone the economic recovery by guaranteeing employees up to three months of paid leave under the Family Medical Leave Act. In theory, the purpose is to self-quarantine, recuperate or care for family members who are idled or afflicted, but in reality, it opens the door for anyone who wants to game the system. The costs -- which could run into hundreds of billions of dollars -- are to be fronted by businesses and ultimately borne by taxpayers, leaving a massive debt to repay. The more employees who claim extended leaves, the more productivity losses the business will suffer, potentially leaving some employees no jobs to return to.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1412901/congressman-tom-mcclintock-released-the-following-statement-concerning-the-midnight-passage-of-hr-6201/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2694 \"Pregnant Workers Fairness Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/68/women"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/9715/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The answer to the drug crisis is not more governmental interference, but less, which is why I support the alternative proposed by the Republican Study Committee.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/vote-notes/hr-3-pharmaceutical-price-controls-no"
+        },
+        {
+          "type": "statement",
+          "text": "\"The problem is that price controls â which date back to Hammurabi's Code â consistently and unerringly produce a shortage of whatever commodity they're trying to control -- in this case, life-saving drugs.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/vote-notes/hr-3-pharmaceutical-price-controls-no"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NO, we canât afford to support the five million illegal aliens the Democrats have allowed to enter our country.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/repmcclintock?lang=en"
+        },
+        {
+          "type": "statement",
+          "text": "\"On President Biden's first day in office, he began repealing the successful border control security policies that were implemented...to signal to his radical, far-left, open borders supporters that he would do their will.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1624710/letter-to-the-honorable-alejandro-mayorkas-secretary-of-homeland-security-congressman-biggs-calls-for-briefing-on-dhs-move-to-discipline-innocent-border-patrol-agents"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety cr ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No effort is made to safely return them to their homes. Every effort is made to place them in the United States, often with family or friends who are themselves here illegally.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1528040/our-borderless-country"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thirty-eight percent are being released into our country. In April, ICE deportations fell to their lowest number in history. Felons that the law requires to be deported are instead deliberately being released into our neighborhoods.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1528040/our-borderless-country"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have expressed concerns, many times and in various ways, with how the Biden Administration has handled their self-inflicted crisis at the border. Specifically, when an illegal alien is apprehended by border officials, there are several options if the alien is not detained...Over half of those given a 60-day NTR have failed to report to ICE and begin their deportation proceedings.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1588075/letter-to-hon-tae-d-johnson-acting-director-us-immigration-and-customs-enforcement-bergman-colleagues-demand-accountability-on-bidens-failed-catch-and-release-program"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This bill appropriates $40 billion to support Ukraine to repel the Russian invasion. I have serious concerns that it includes appropriations beyond military support, including support for the civil operations of the government and addressing global food shortages. I am also concerned that there is insufficient oversight of these funds and that it makes no effort to cut domestic spending to pay for it. Finally, while appropriating such a staggering sum to defend Ukraine's borders, the Democratic majority continues to ignore the security of our own.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1608388/vote-note-hr-7691-ukraine-supplemental-appropriation-yes/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7217 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/9715/tom-mcclintock/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/9715/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have said all along that the Russian invasion is primarily a European security issue and must not become an American security issue by engaging directly with Russia or by expanding NATO. This appropriation could be a game-changer in stabilizing the region before the conflict spreads to a point that directly threatens American security or triggers American treaty obligations.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1608388/vote-note-hr-7691-ukraine-supplemental-appropriation-yes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill appropriates $40 billion to support Ukraine to repel the Russian invasion. I have serious concerns that it includes appropriations beyond military support, including support for the civil operations of the government and addressing global food shortages. I am also concerned that there is insufficient oversight of these funds and that it makes no effort to cut domestic spending to pay for it. Finally, while appropriating such a staggering sum to defend Ukraine's borders, the Democratic majority continues to ignore the security of our own.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1608388/vote-note-hr-7691-ukraine-supplemental-appropriation-yes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"What can the United States do? Most immediately, all forces resisting Russian aggression should have the lethal aid they need to fight in every manner they can.\"",
+          "source": "mcclintock.house.gov",
+          "url": "https://mcclintock.house.gov/newsroom/press-releases/statement-on-the-invasion-of-ukraine"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:28:49+00:00"
+}

@@ -1,0 +1,741 @@
+{
+  "name": "Neal Dunn",
+  "page_title": "Neal Dunn's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 2, Republican",
+  "candidate_id": "166297",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/166297/neal-dunn",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am 100% pro-life and will continue to fight for the rights of the unborn.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Campaign for Working Families",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"The U.S. Supreme Court made the right decision today in protecting the right to life. Every life is precious, and the lives of the most vulnerable must be protected.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/2022/6/congressman-dunn-applauds-the-supreme-court-s-decision-to-hand-abortion-decisions-back-to-the-states"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/166297/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/166297/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This deal is not perfect; however, it does include spending cuts & permitting reforms, makes efforts to protect defense & VA spending, & adds work requirement reforms to our safety net programs. This compromise is a first step toward reining in the Demsâ wasteful spending. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1664086628522967041"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S. 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 85% by the National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "statement",
+          "text": "\"Cutting taxes will give businesses of all sizes a boost, allowing many to expand and increase wages.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/947965922765148160"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 72% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 1 - \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 72% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Natinal Assocation of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe a strong, well-funded military is essential to ensuring the safety of all Americans and promoting freedom throughout the world. We must ensure our brave troopers have all resources they need to execute their missions. I am dedicated to working with my colleagues in Congress to ensure that we develop a comprehensive military strategy that can defeat ISIS and Islamic terrorism abroad and at home.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/national-defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"This deal is not perfect; however, it does include spending cuts & permitting reforms, makes efforts to protect defense & VA spending, & adds work requirement reforms to our safety net programs. This compromise is a first step toward reining in the Demsâ wasteful spending. \"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1664086628522967041"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73685"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73685"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a small business owner, I know firsthand how unnecessary government regulation can harm job creators across Florida and the country. Thatâs why I will be working every day to create jobs and support our small businesses, so every hardworking American has the opportunity to succeed. Key to this will be dialing back government overregulation and reforming our tax system so American workers can better compete in a global economy. Itâs time to put the brakes on government borrowing and overspending, because the tax and spend policies of Washington are hurting families across the country. We have already passed the REINS Act, critical legislation that requires Congressional approval for major new regulations. \"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, @WMBBTV gave me the opportunity to explain why stimulus checks aren't the fix we need to boost the economy. The American people need help, but the best way to boost this economy is to get people safely back to work.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1359945084649803778"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As someone who's been a small business owner, I know firsthand how difficult it is to wade through excessive government regulation. And as your Congressman, I know how tough it's been for people to navigate the last few years of economic uncertainty. I will continue to oppose efforts by Democrats to increase your taxes and will always support policies that will cut the red tape and make it easier for good-paying jobs to be created.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation has skyrocketed because of reckless overspending by Biden and Democrats in Washington. The cost of essential items like groceries, gas, rent, mortgages, and health care are far too high. It's nearly impossible for middle-class Americans to buy their first home or take out a small business loan. This is unacceptable, and it's why I have opposed Biden's ongoing spending spree. I will continue fighting against Democratic efforts to put trillions of dollars in unpaid bills on the backs of you and future generations.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If you paid off your student loans, helped your kids pay theirs off, never had student loans in the first place, served our country in order to get the G.I. Bill... Congratulations, Joe Biden & Dems are putting you on the hook for other people's debt. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1562472782604419072"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last year, the Department of Education issued a rule to cancel certain federal student loans. We cannot put hardworking Americans on the hook for someone elseâs debt. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/CANuhandleDACE/status/1362076496484052997"
+        },
+        {
+          "type": "statement",
+          "text": "\"The radical Left is determined to indoctrinate young Americans. We need to stop the Federal Government's takeover of our education system and let parents decide what's best for their children. I was proud to join other conservatives in voting for the Parents Bill of Rights, which would empower parents and give them a greater voice in their kidsâ education.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/90422"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Shutting down the Keystone XL project was a huge mistake. Iâm grateful that @AGAshleyMoody is joining the Keystone XL lawsuit to preserve Floridaâs wide array of opportunities and fight back against the Biden Administrationâs job killing-policies. #FL02 #KeystoneXL\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1400157071434190854"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need American energy independence now!\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1498726136112582656"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Independent Petroleum Association of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by EnerVest",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will fight to ensure that our Second Amendment rights are not infringed upon by bureaucrats in Washington. I believe that every law-abiding American has the Constitutional right to keep and bear arms. The first bill I cosponsored in Congress is legislation to ensure your Florida concealed carry permit is honored in every other state that issues concealed carry permits. Your Second Amendment rights donât end when you cross state borders.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/second-amendment"
+        },
+        {
+          "type": "statement",
+          "text": "\"Legally buying and owning a firearm is a fundamental right guaranteed by the Second Amendment to the Constitution. Instead of strengthening and enforcing existing laws, Speaker Pelosi's Democrats are instead seeking to make criminals out of law-abiding gun owners.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1509044/congressman-dunn-i-support-gun-safety-not-government-overreach"
+        },
+        {
+          "type": "statement",
+          "text": "\"The âRight to Bear Armsâ is one of the most fundamental and important rights in the Constitution and needs to be protected. As a lifetime member of the NRA and a Veteran, I cherish this right and will continue to fight to protect and uphold the 2nd Amendment.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Obamacare has been a record of broken promises & bad results. Itâs time to repeal & replace with something better. \"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/828986960203100160"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS's decision to let #Obamacare stand is disappointing. Over the last several years, we have seen how detrimental Obamacare has been on this country. Americans deserve better treatments, lower costs, and increased transparency. (1/2) #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1405540143868440580"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thatâs why I continue to support full repeal of the Affordable Care Act. Bureaucrats in Washington shouldnât be making important decisions about your health care, you should.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/health"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want all Americans, especially seniors, to rest their heads tonight knowing that they'll have relief from the financial stresses they could potentially face from the costs involved w/ testing. And above all, I want every child to have guaranteed meals & proper care. (2/4) #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1238836802926055426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"Americans deserve ample access to safe, generic medications. Branded drugs currently account for 82% of the total drug spend in the U.S., and Americans deserve options. With many households struggling with inflation, the more money we can help patients save, the better.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/2023/6/congressman-dunn-introduces-bill-to-increase-access-to-lower-cost-treatments"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden isnât just neglecting the southern border. He is using our tax dollars to encourage illegals to come to our country. No one is buying his 11th hour push to fix the border crisis. Too little too late.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1800263957187559570"
+        },
+        {
+          "type": "statement",
+          "text": "\"The southern border is a disaster and it's a direct result of policy decisions made by Joe Biden. Biden and Democrats have literally encouraged illegal immigration to our country and even have demonized innocent border security officers on the front lines.\"",
+          "source": "www.nealdunn.com",
+          "url": "https://www.nealdunn.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 78% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He also made it clear that Florida will never be a sanctuary state and promised that his administration would crack down on sanctuary cities. Itâs great to hear that the safety of our citizens is a top priority.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1103029885692456962"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 78% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/166297/neal-dunn"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress allocates money to CBP to secure our border and protect American lives, not to provide housing for illegal immigrants. The Biden administration has used every dirty trick in the book to keep our border open and encourage more illegal immigration. We must close this crucial loophole to prevent the Administration from using this money to provide more taxpayer-funded services for illegal immigrants. Iâd like to thank Congresswoman Malliotakis for joining me in introducing this amendment, and I look forward to it being included in the full bill.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/2024/6/congressman-dunn-introduces-amendment-to-stop-border-security-funds-from-sheltering-illegal-immigrants"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Islamic Republic of Iran continuously proves it is untrustworthy & dangerous. Today, I voted in favor of H.Res. 559, which declares that a nuclear Iran is unacceptable. We must not tolerate Iranâs terrorism. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1719858157919293576"
+        },
+        {
+          "type": "statement",
+          "text": "\"There will be consequences if you choose to support the heinous actions of Hamas & other terrorist organizations. This week, I proudly supported HR 3774 & HR 340 which impose sanctions on Iran & any others helping Hamas. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1720514635831402984"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/69881"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If sanctions against me are the price to pay for standing up against Russiaâs violence and atrocities, then so be it. Iâll wear this as a badge of honor.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1514598722470035457"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vladimir Putin is viciously attacking civilians throughout Ukraine, including maternity hospitals and schools where hundreds of women and children have been killed. He calls this âliberation,â but itâs genocide, plain and simple. The United States must help the Ukrainian people. Our country fought for its own freedom and sovereignty many years ago, itâs time for the U.S. to answer President Zelenskyyâs pleas and provide resources that are critical to defending Ukraine against Russiaâs invasion.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/press-releases?ContentRecord_id=FB0D1D80-4FE9-4382-8DCD-D26C385A9758"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for H.R. 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166297/neal-dunn/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social media giants have gotten away with too much! Between not protecting our kids & letting adversaries spy on us, itâs high time for common sense solutions to rein in #bigtech.\"",
+          "source": "x.com",
+          "url": "https://x.com/DunnCampaign/status/1753195229685952959"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok is dangerous as long as itâs controlled by Communist China. We must protect our national security & our children. #FL02\"",
+          "source": "x.com",
+          "url": "https://x.com/DrNealDunnFL2/status/1768021671452053903"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        },
+        {
+          "type": "statement",
+          "text": "\"I even asked the TikTok CEO point blank if ByteDance has spied on Americans on behalf of the CCP, and his response was âI donât think spying is the right way to describe it.â This is outrageous. I took an oath to protect the American people and Iâm proud to join this effort to ban applications that can be utilized and abused by our adversaries.\"",
+          "source": "dunn.house.gov",
+          "url": "https://dunn.house.gov/press-releases?id=766A7AC0-CB2C-4C20-8E7A-991CFE4CFCA1"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:30:29+00:00"
+}

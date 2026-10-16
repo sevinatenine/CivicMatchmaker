@@ -1,0 +1,603 @@
+{
+  "name": "Nancy Pelosi",
+  "page_title": "Nancy Pelosi's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 11, Democratic",
+  "candidate_id": "26732",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/26732/nancy-pelosi",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A woman's fundamental health decisions are her own to make, in consultation with her doctor and her loved ones -- not to be dictated by far-right politicians. While Republicans seek to punish and control women, Democrats will keep fighting ferociously to enshrine Roe v. Wade into law.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1611611/pelosi-statement-on-supreme-court-overturning-roe-v-wade"
+        },
+        {
+          "type": "statement",
+          "text": "\"With Roe now out of their way, extreme MAGA Republicans are gleefully charging ahead with their deadly crusade to punish and control women's health decisions. In sharp contrast, Democrats are fighting to put People Over Politics -- and we will never relent until we restore the rights of Roe as the law of the land.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1627919/pelosi-statement-on-latest-maga-republicans-national-abortion-ban-proposal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/26732/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans continue to show us their plans to cut Medicare and Social Security, take away a woman's right to choose and repeal lower prescription drug costs. Meanwhile, @HouseDemocrats have passed legislation to lower costs for families and take bold action on climate change.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1633515/tweet-republicans-continue-to-show-us-their-plans-to-cut-medicare-and-social-security-take-away-a-womans-right-to-choose-and-repeal-lower-prescription-drug-costs-meanwhile-housedemocrats-have-passed-legislation-to-lower-costs-for-families-and-take-bold-action-on-climate-change/"
+        },
+        {
+          "type": "statement",
+          "text": "\"So, our goal is affordable, affordable health care for all Americans. Affordable, quality health care for all Americans. Expanding Medicaid is essential to that.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1513915/pelosi-remarks-at-virtual-press-event-with-protect-our-care-to-mark-the-11th-anniversary-of-the-affordable-care-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are reinvesting the more than half a trillion dollars the federal government alone saves from lower drug prices to expand Medicare to cover vision, dental and hearing for the first time. We add billions to the search for breakthrough cures and treatments, confronting the opioid epidemic, strengthening our community health centers, and more.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1388938/letter-to-democratic-colleague-dear-colleague-on-hr-3-the-elijah-e-cummings-lower-drug-costs-now-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/26732/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families who saw money in their pockets from the relief that Republicans said no to will automatically get monthly #ChildTaxCredit payments of $250 - $300 for each child starting July 15th. A tax return on file â even a tax return showing $0 in income â is all thatâs needed.\"",
+          "source": "x.com",
+          "url": "https://x.com/TeamPelosi/status/1407020495757885440?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Second, we will craft a bill that is paid for, including by increasing taxes on the wealthiest Americans and largest corporations, some of whom currently pay little to no federal income taxes. The House is exploring ways to advance tax fairness and enforcement in this bill that are widely popular, including 72 percent support for crackdowns on tax evasion by corporations and the wealthy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1554750/letter-to-democratic-colleague-dear-colleague-on-advancing-the-build-back-better-plan-for-the-children/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36374/97564/26732/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do not want the Bush tax -- excuse me -- I don't want the Trump tax cuts perpetuated. So, I don't want anybody to think that if we don't address those right now, that that's, they're off the table. No, we will use them for something at some point, because you can't use the wealth tax and tax the billionaires, which is what we should be doing, and let corporate America off the hook. But corporate America will be paying because of the overseas tax. And some of the other provisions are very technical to go into right now.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1566405/transcript-of-pelosi-interview-on-cnns-state-of-the-union-with-jake-tapper/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Second, we will craft a bill that is paid for, including by increasing taxes on the wealthiest Americans and largest corporations, some of whom currently pay little to no federal income taxes. The House is exploring ways to advance tax fairness and enforcement in this bill that are widely popular, including 72 percent support for crackdowns on tax evasion by corporations and the wealthy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1554750/letter-to-democratic-colleague-dear-colleague-on-advancing-the-build-back-better-plan-for-the-children/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last decade, House Democrats have been working tirelessly to overturn Citizens United and break the grip of the special interests. That is why our new Majority has fought to advance progress For The People by passing H.R. 1, the For The People Act to end the dominance of big dark special interest money in politics and empowering small donors. Yet, for more than 300 days, Senate Majority Leader Mitch McConnell has refused to hold a vote on this vital bill.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1395658/pelosi-statement-on-ten-years-since-citizens-united/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/26732/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The George Floyd Justice in Policing Act fundamentally transforms the culture of policing with strong, unprecedented reforms, including: banning chokeholds; stopping no-knock warrants; ending the court- created qualified immunity doctrine; combating racial profiling; and establishing strong new standards and protections to prevent and combat police misconduct.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1506733/george-floyd-justice-in-policing-act-of-2021/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The George Floyd Justice in Policing Act will address systemic racism, curb police brutality and save lives. This legislation includes bold reforms, which ban chokeholds, stop no-knock warrants, end the court-created qualified immunity doctrine, combat racial profiling, and establish strong new standards and protections to prevent and combat police misconduct.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1507206/pelosi-statement-on-re-introduction-of-george-floyd-justice-in-policing-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/26732/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats push to increase domestic spending to meet the needs of the American people, including support for our veterans â which is part of national security and a consequence of war but not in the defense budget\"",
+          "source": "x.com",
+          "url": "https://x.com/TeamPelosi/status/1605986534515101696?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/26732/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authoization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/26732/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a proud representative for San Francisco, it was my privilege to secure more than $116 million for the @SFMTA_Muni Van Ness Buss Rapid Transit System to provide easier commutes, reduce congestion, improve safety and help combat the climate crisis.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1595150/tweet-as-a-proud-representative-for-san-francisco-it-was-my-privilege-to-secure-more-than-116-million-for-the-sfmta_muni-van-ness-buss-rapid-transit-system-to-provide-easier-commutes-reduce-congestion-improve-safety-and-help-combat-the-climate-crisis-httpssfmayororgarticlecity-announces-opening-van-ness-bus-rapid-transit-system"
+        },
+        {
+          "type": "statement",
+          "text": "\"With $17 billion for ports & waterways in the Bipartisan Infrastructure Law, @HouseDemocrats & @POTUS are ensuring goods are delivered quicker & cheaper to families. And with the #AmericaCOMPETES Act, we will supercharge innovation & make more critical goods here in America.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1597629/tweet-with-17-billion-for-ports-waterways-in-the-bipartisan-infrastructure-law-housedemocrats-potus-are-ensuring-goods-are-delivered-quicker-cheaper-to-families-and-with-the-americacompetes-act-we-will-supercharge-innovation-make-more-critical-goods-here-in-america"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/26732/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/26732/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ensuring every American has a roof overhead is a value that unites the Democratic Party. That's why I led a relentless campaign to extend the CDC eviction moratorium. In an act of pure cruelty, Republicans blocked this measure -- leaving children and families out on the streets.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1549058/tweet-ensuring-every-american-has-a-roof-overhead-is-a-value-that-unites-the-democratic-party-thats-why-i-led-a-relentless-campaign-to-extend-the-cdc-eviction-moratorium-in-an-act-of-pure-cruelty-republicans-blocked-this-measure-leaving-children-and-families-out-on-the-streets/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I like to say Building Back Better With Women, because many of these initiatives enable women to be more strongly in the workplace. And I only named a few of the things: workforce development initiatives, investments in education, major investments in housing, affordable housing. Those needs were there before, as we all know, before COVID, but nonetheless, we see in this emergency situation adjust allocations for hundreds of millions -- excuse me, did I say millions? Hundreds of billions of dollars for affordable housing. So, the list goes on.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1553636/transcript-of-speaker-pelosis-remarks-at-press-event-on-emergency-rental-assistance/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/26732/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/26732/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families around the world -- including here at home -- are feeling the sting of global inflation. Democrats are fighting to lower Americans' cost of living: slashing health care costs, easing energy bills & creating good-paying jobs. Republicans are fighting for their own power.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636292/tweet-families-around-the-world-including-here-at-home-are-feeling-the-sting-of-global-inflation-democrats-are-fighting-to-lower-americans-cost-of-living-slashing-health-care-costs-easing-energy-bills-creating-good-paying-jobs-republicans-are-fighting-for-their-own-power/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our American Rescue Plan and Bipartisan Infrastructure Law have helped power historic job gains -- and now @HouseDemocrats are working to lower costs. Our agenda brings down prices at the pump & at the grocery store while making more in America & strengthening supply chains.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1619973/tweet-our-american-rescue-plan-and-bipartisan-infrastructure-law-have-helped-power-historic-job-gains-and-now-housedemocrats-are-working-to-lower-costs-our-agenda-brings-down-prices-at-the-pump-at-the-grocery-store-while-making-more-in-america-strengthening-supply-chains"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/26732/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Millions of Americans can breathe easier as @JoeBiden delivers historic student debt relief. With Democratsâ $40B investment in higher ed, including bigger Pell Grants, and POTUSâ actions, help is here â thanks to activists who make progress possible.\"",
+          "source": "x.com",
+          "url": "https://x.com/TeamPelosi/status/1562484883456499712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's bold action is a strong step in Democrats' fight to expand access to higher education and empower every American to reach fulfillment. By delivering historic targeted student debt relief to millions of borrowers, more working families will be able to meet their kitchen table needs as they continue to recover from the challenges of the pandemic. Importantly, this action will help those most in need, easing a financial burden disproportionately harming women and people of color.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1625726/pelosi-statement-on-president-bidens-historic-student-debt-relief/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fifty-four years ago, our nation addressed generations of systemic injustice and blatant discrimination when President Johnson signed the landmark Voting Rights Act into law. Yet, despite this historic progress, voter suppression remains a shameful, shocking reality in America today, undermining the sacred right of all Americans to be heard at the ballot box.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1364197/pelosi-statement-on-the-54th-anniversary-of-the-voting-rights-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"To stop that anti-democratic tide, it is essential that we pass H.R. 1. This legislation was developed before the 2018 election, when candidates called for the For The People Act to be our first order of business. Congressman John Lewis wrote the first 300 pages of this bill to fight voter suppression. These provisions are even more urgent in light of the recent Republican bills intensifying that voter suppression. As of May 14, nearly 400 voter restriction bills have been introduced across 48 states.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1535409/dear-colleague-on-urgent-need-for-hr-1-to-stop-ongoing-gop-assault-on-democracy/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/26732/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was House Democrats who won smart, strategic investments in our clean energy and industries of the future, supporting renewable energy, combating the climate crisis, and developing cutting-edge technologies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1621795/legislative-branch-appropriations-act-2022/"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden and Democrats delivered 14 million jobs and made infrastructure investments across America â and we're just getting started! We brought home billions in new funding to California high speed rail that will create jobs and bring us into a clean energy future.\"",
+          "source": "x.com",
+          "url": "https://x.com/TeamPelosi/status/1733886843530223978?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/26732/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Trump Administration's latest assault on environmental protections will throw open the floodgates to pollution, devastate small businesses which rely on the oceans, hamstring the military, and destroy good-paying jobs in America's tourism industry.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214604/pelosi-statement-on-trump-administrations-decision-to-roll-back-off-shore-drilling-ban/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump Admin announcement that they want to drastically expand offshore drilling just 3 miles off East & West coasts makes this article from last week even more worrying. #ProtectOurCoast\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214614/tweet-trump-admin-announcement-that-they-want-to-drastically-expand-offshore-drilling-just-3-miles-off-east-west-coasts-makes-this-article-from-last-week-even-more-worrying-protectourcoast/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/26732/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\". @HouseDemocrats are committed to taking effective action to ensure that no one endures the heartbreak & horror of gun violence in their lives again by today passing two bills to #EndGunViolence & close the Charleston Loophole.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1510225/tweet-housedemocrats-are-committed-to-taking-effective-action-to-ensure-that-no-one-endures-the-heartbreak-horror-of-gun-violence-in-their-lives-again-by-today-passing-two-bills-to-endgunviolence-close-the-charleston-loophole"
+        },
+        {
+          "type": "statement",
+          "text": "\"Communities across the country will benefit from House Democrats' proposals included in this package, which will help keep deadly weapons out of dangerous hands by encouraging states to establish extreme risk protection order laws and by putting an end to straw purchases. This legislation will also move to close the \"boyfriend loophole,' which marks strong progress to prevent known abusers from acquiring a firearm.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610989/pelosi-statement-on-senate-bipartisan-gun-violence-prevention-legislation"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/26732/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Comunities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/26732/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe in health care for all Americans. I believe the route that we are in expanding -- please, I listened to you -- expanding the Affordable Care Act. Now, we do have in our reconciliation package that we're hoping to pay for with prescription drug money. But nonetheless we have in our -- expanding Medicare benefits: hearing, visual and dental. So, that that is a better benefit. But frankly, the Affordable Care Act benefit is a better benefit. And that we share one view, and that is we want health care for all Americans.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1554715/pelosi-remarks-at-san-francisco-press-event-on-lower-health-costs-for-the-people/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support health care for all, and I have a proprietary interest in the Affordable Care Act, being one of the people who wrote it. And I believe it is a better benefit for all, if you look at what the benefits are of the Affordable Care Act. I do believe in expanding the benefits of Medicare, and that's part of what we are doing in this new bill, for hearing, for vision, for dental, for our seniors. But I do think that the better plan is for people to be able to have their own insurance come through their workplace, something they're used to, and the rest. And that -- our goal, I think, is a common one: health care for all.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1554296/transcript-of-speaker-pelosis-interview-with-kpix-5-cbs-bay-area/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/26732/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For The Children, Democrats' #BuildBackBetter Act will give millions of middle class families one of the biggest tax cuts in history while dramatically lowering everyday costs with investments in child care, paid leave, home-based care, universal pre-K and more.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1561333/tweet-for-the-children-democrats-buildbackbetter-act-will-give-millions-of-middle-class-families-one-of-the-biggest-tax-cuts-in-history-while-dramatically-lowering-everyday-costs-with-investments-in-child-care-paid-leave-home-based-care-universal-pre-k-and-more/"
+        },
+        {
+          "type": "statement",
+          "text": "\"To put families first, our legislation secures paid leave with two weeks of paid sick leave and family and medical leave for those affected by the virus.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1409672/pelosi-remarks-on-the-families-first-coronavirus-response-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/26732/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"All together, the Lower Drug Costs Now Act will deliver life-changing savings for patients, employers and taxpayers. Medicare will have the power to negotiate lower drug prices and make those prices available to people with private insurance. No longer will Americans have to pay more for their prescriptions than what Big Pharma charges in other countries for the same medicines.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1388938/letter-to-democratic-colleague-dear-colleague-on-hr-3-the-elijah-e-cummings-lower-drug-costs-now-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Following up on a promise made last year during the election, For the People, we will lower the cost of healthcare in America by lowering the cost of prescription drugs. H.R. 3 does just that, named for our great and departed--may he rest in peace--Elijah E. Cummings Lower Drug Costs Now Drug Act.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1389259/lower-drug-costs-now-act-of-2019/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct addresses kitchen table issues & counters the impact of special interests. By reducing the cost of prescription drugs and health care, while taking bold action on climate, @HouseDemocrats passing this bill today puts #PeopleOverPolitics.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1625733/tweet-the-inflationreductionact-addresses-kitchen-table-issues-counters-the-impact-of-special-interests-by-reducing-the-cost-of-prescription-drugs-and-health-care-while-taking-bold-action-on-climate-housedemocrats-passing-this-bill-today-puts-peopleoverpolitics/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Some Democrats have and no one has said, if there is a place along the way where there might be some material fencing that that might not be acceptable, but that does not mean building a wall. A wall is not effective. It is very expensive. It is nothing more than a campaign applause line for the President in one of his speeches. It has no merit in terms of effectiveness, cost-effectiveness and does not support the values of our country by building walls between countries rather than smart border security where there needs to be more roads, more infrastructure and the rest -- put it there, but don't build a wall.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1323795/pelosi-remarks-at-press-conference-with-congressman-cuellar-and-laredo-mayor-pete-saenz-on-border-security-and-commerce/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/26732/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/26732/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More must be done to offer the permanent stability and security that millions of Dreamers and their families deserves. That's why House Democrats have twice passed the Dream and Promise Act: to finally offer Dreamers a permanent pathway to citizenship, while fixing our broken immigration system through comprehensive reform. And that's why I stood and spoke on the Floor for eight hours in support of our Dreamers in 2018.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1632010/pelosi-statement-on-appellate-court-ruling-on-daca"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, our nation celebrates 9 years of the DACA initiative, which empowers hundreds of thousands of young immigrants to pursue their American Dream. This week, we also mark one year since SCOTUS affirmed DACA & rejected the Trump Admin's illegal, immoral assault on our Dreamers.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1535419/tweet-today-our-nation-celebrates-9-years-of-the-daca-initiative-which-empowers-hundreds-of-thousands-of-young-immigrants-to-pursue-their-american-dream-this-week-we-also-mark-one-year-since-scotus-affirmed-daca-rejected-the-trump-admins-illegal-immoral-assault-on-our-dreamers"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/26732/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The legislation we pass today builds on swift, devastating sanctions already being imposed on Russia by America and our allies. We take this step with extraordinary unity not only within Congress on a bipartisan, bicameral basis, but also between the Congress and the administration.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1591425/suspending-normal-trade-relations-with-russia-and-belarus-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The response of America and our allies will be severe, ongoing and devastating for Russia, economically, diplomatically, and strategically. President Biden has made clear throughout Russia's escalation that we will continue to impose costs on Russia that will leave it weakened in every way. These include the further steps announced today of sweeping and catastrophic sanctions on financial institutions, companies and individuals critical to the Russian economy and of further military support to bolster NATO. As always, we will continue to fully support the people of Ukraine with humanitarian assistance and weapons to defend their country.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1587037/pelosi-statement-on-russias-invasion-of-ukraine"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/26732/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For that purpose, the Biden Administration has requested $10 billion in humanitarian, military and economic support for Ukraine. The Congress intends to enact this emergency funding this week as part of our omnibus government funding legislation. And an urgent request from President Zelensky is to help ensure air support for the Ukrainian armed forces. As President Biden has made crystal clear, American troops will not go to war in Ukraine -- but our nation can provide military equipment and support our allies who are supplying airplanes to Ukraine.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1588664/dear-colleague-on-support-for-ukraine"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/26732/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/26732/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:12:02+00:00"
+}

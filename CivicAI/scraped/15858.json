@@ -1,0 +1,525 @@
+{
+  "name": "Mary Peltola",
+  "page_title": "Mary Peltola's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (AK) - Jr",
+  "candidate_id": "15858",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/15858/mary-peltola",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enshrining protections for reproductive health in federal law.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/choice/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mary cosponsored the Womenâs Health Protection Act of 2023 to prohibit governmental restrictions on the provision of, and access to, abortion services.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/choice/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that high earners only pay social security tax on the first $168,600 they make in a year? If millionaires paid into Social Security at the same rate as the rest of us, we could afford to protect and expand benefits for everyone. Itâs time to #ScrapTheCap\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1763292085547938026"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mary cosponsored the Social Security Expansion Act to increase the benefits of many Alaskans and put more money in their pockets.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/social-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Preventing the erosion of Social Security benefits for Alaskans.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/family/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security and Medicare should never be on the chopping block when we talk about \"balancing the budget\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1627390045001854980"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 36% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that high earners only pay social security tax on the first $168,600 they make in a year? If millionaires paid into Social Security at the same rate as the rest of us, we could afford to protect and expand benefits for everyone. Itâs time to #ScrapTheCap\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1763292085547938026"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/15858/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/15858/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2023 was a big year for Alaska. Iâve worked together with our Senators to bring home historic amounts of funding, jobs, and infrastructure projects â Iâm excited to see what we can do in 2024!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1749577657006637143"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mary has been working with the rest of the congressional delegation and the state government to implement a bipartisan infrastructure bill and bring over $2 billion in investments to our state.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/infrastructure-and-development/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two years ago, today, the Bipartisan Infrastructure bill became law. Don Young helped get it passed in the House. Now, Iâm working with our Senators to get that funding into Alaskan pockets. Only a tag-team effort could make this generational impact on Alaskaâs infrastructure.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1724865625888067995"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Alaskaâs villages are facing a crisis in housing. I spoke on the House floor yesterday advocating for reauthorizing the Native American Housing and Self Determination Act\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1722356155056296206"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fighting for affordable, accessible housing statewide.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/family/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Visiting MyHouse Mat-Su was an inspiring experience--this center is an excellent example of how to support homeless youth, and the importance of wrap-around services. We must address Alaska's long-term housing shortage, but also support those who have nowhere to go right now.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1645909655430864896"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a born and raised rural Alaskan, I understand how hard inflation hits our communities. Costs of things like fruit & coffee were already too high. Thatâs why I'm going to Congress. Iâm going to do everything I can to lower prices and bring our costs back down.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MaryPeltola/status/1569763543347519489?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fighting inflation and doing everything we can to make the goods we buy affordable and accessible.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/family/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I firmly believe that any and all efforts to reduce inflation and drive down our national deficit are good efforts, given that doing so betters the lives of regular Alaskans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MaryPeltola/status/1570895657736572928?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yes! I absolutely support student loan reform. College should be affordable for people seeking higher education. Allowing people to be crushed by the weight of insurmountable debt is not how we set our future generations up for success.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MaryPeltola/status/1526797423946780672?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Alaskans are resilient â why should our energy grid be any different? Robust transmission and storage will make more renewable energy possible and bring cheaper, more reliable electricity to Alaskans. The $206M grant announced in October will make that future possible.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1734357077814866178"
+        },
+        {
+          "type": "statement",
+          "text": "\"Friendly reminder that the Federal government is investing more in Alaskan renewable energy capabilities than ever before, but we need the state to match those funds to secure all the affordable and renewable energy we can get. Governing is all about partnerships!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1755392296655237130"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Alaskaâs standards for environmental impact are world-leading. Itâs essential to complete the process of getting good projects greenlighted. Willow passed that process multiple times, and Iâm ready to see boots on the ground and oil in our pipeline.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1735449864878563367"
+        },
+        {
+          "type": "statement",
+          "text": "\"It looks like jobs, revenue, and economic investment are under the tree for Alaska this year! I'm grateful for the hard work we Alaskans put in all year to get Willow across the finish line--we're seeing the benefits already.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1738652001326494103"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, I stood on this stage at Alaska Oil and Gas Association as a candidate and promised to work to get Willow approved. I kept that promise, and weâre just getting started. Alaska must be a leader in energy production again, and Iâm excited for what we will do next.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1697440260123177237"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/15858/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Anchorage Daily News: \"Guns are a part of Alaskaâs culture and a core tool of a subsistence lifestyle. I grew up hunting, my husband is a big game hunting advocate and I will continue to own guns and support the right of Alaskans to own guns. But itâs past time our nationâs leaders put forth more than just words to address the grief we all share. We can take common sense action, and we must. Provisions like secure storage laws, reasonable waiting periods and universal background checks can make all of us safer while still preserving the rights guaranteed by the Second Amendment.\"",
+          "source": "www.adn.com",
+          "url": "https://www.adn.com/politics/2022/05/03/qa-with-alaska-us-house-candidate-mary-peltola/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 17% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Healthcare shouldnât be something anyone has to declare bankruptcy over.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1598142339914121217"
+        },
+        {
+          "type": "statement",
+          "text": "\"Making sure healthcare is accessible regardless of how much money is in our bank accounts will not only make the lives of millions in our country better but also likely save lives in the process.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1730346544690266174"
+        },
+        {
+          "type": "statement",
+          "text": "\"We shouldnât have to max out our credit cards or wipe out our savings for healthcare â including dental, vision, and hearing.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1771997635546619912"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security and Medicare should never be on the chopping block when we talk about \"balancing the budget\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1627390045001854980"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A reminder that rail workers across the country have been working the past few months with 0 days of paid sick leave for their work. The backbone of our economy, working without even a single guaranteed paid sick day. Think about that.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1621931883390029827"
+        },
+        {
+          "type": "statement",
+          "text": "\"Making sure rail workers have paid sick leave and can be a healthier, safer workforce is critical to our economic security. I donât want an entire sector of workers to have to show up to work sick, especially workers so critical to our supply chain. They need paid sick leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1597793923174658048"
+        },
+        {
+          "type": "statement",
+          "text": "\"Making sure workers, especially workers in critical sectors, are healthy with paid sick leave and not showing up to work sick to avoid penalties is one part of that\"",
+          "source": "x.com",
+          "url": "https://x.com/MaryPeltola/status/1598450965908279309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bringing down the price of the prescription drugs Alaskans rely on to stay healthy.\"",
+          "source": "marypeltola.com",
+          "url": "https://marypeltola.com/healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/15858/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border security must be a top national security priority for President Biden. We have to restore control of our Southern border and stop drug cartels from trafficking fentanyl into Alaskan communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1798112886167945700"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you #FoxNewsLive & @GriffJenkins for having me on to talk about why additional border security isnât just needed in the south but in the west as well. Ensuring that the U.S. invests in additional military & infrastructure projects in the Arctic is one of my top priorities!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Peltola/status/1583901404317749248"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 9% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 9% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/15858/mary-peltola"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/15858/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/15858/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/15858/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/15858/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/15858/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/15858/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/15858/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/15858/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:46:18+00:00"
+}

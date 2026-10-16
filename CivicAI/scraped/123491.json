@@ -1,0 +1,658 @@
+{
+  "name": "Paul Gosar",
+  "page_title": "Paul Gosar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AZ) - District 9, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (AZ) - District 9",
+  "candidate_id": "123491",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/123491/paul-gosar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over 63 million Americans have been murdered through abortion since Roe. It's long past time to end this barbaric practice. Less than 1% of women obtain an abortion because they became pregnant through rape, and less than 0.5% do so because of incest. End abortion now.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1521347918124531712"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pray that Roe v Wade, an egregiously immoral and unconstitutional decision, is overturned. Pray for the unborn.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1521332808144281600"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a Catholic, I take Godâs creation of life seriously. Since 1973 and the disaster of the Roe v. Wade decision, when the Supreme Court created a fake \"right to privacy,\" 62 million babies have been murdered.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1471657018213601280"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Don't let the left lie to you: I oppose cuts to Social Security. I've previously introduced legislation to remove all taxes on Social Security and plan to reintroduce this year.\"",
+          "source": "x.com",
+          "url": "https://x.com/search?q=social%20security%20(from%3ARepGosar)&src=typed_query&f=top"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was not sent to DC to increase taxes and have consistently voted against any legislation that includes a tax increase.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15191"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/123491/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will not vote to increase taxes.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15192"
+        },
+        {
+          "type": "statement",
+          "text": "\"Next week Democrats will try to ram their massive spending bill through Congress. This is money we DONâT have. It would be the largest tax increase and expansion since the 'Great Society.'\"",
+          "source": "x.com",
+          "url": "https://x.com/search?q=tax%20(from%3ARepGosar)&src=typed_query&f=top"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/123491/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/123491/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Furthermore, I reject the idea that people in the top tax brackets should be required to pay even more than they already do under the notion that they are \"paying their fair share.\" They are already paying more than their fair share.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15192"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was not sent to DC to increase taxes and have consistently voted against any legislation that includes a tax increase.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15191"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will not vote to increase taxes.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15192"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/123491/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/123491/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 80% by the National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/123491/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"Back the blue. Now. Phoenix supports our law enforcement\"",
+          "source": "x.com",
+          "url": "https://x.com/DrPaulGosar/status/1324192230635003904"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In order to fully protect this nation, we must have strong active duty service branches; a well-organized law enforcement system at the federal, state, and local levels; and well-trained guardsmen and reservists. To meet these objectives, I have supported national security policy bills, defense appropriations bills, the National Defense Authorization Act and many other homeland security related initiatives.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15176"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/123491/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/93292/123491/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/123491/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was not sent to DC to increase taxes and have consistently voted against any legislation that includes a tax increase.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15191"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/123491/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/123491/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/123491/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/123491/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden Administration: \"Inflation has 'peaked' at 6.8%\" in December 2021! Just announced: Inflation is 9.1% and likely to rise. Biden's Solution: Spend more money!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1547253559741251586"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am a NO on the \"Inflation Acceleration Act\" and I am a NO on more money to Ukraine. The powers that be are looting and killing our country, everyone seems to be winning big except the American People.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1556751759275483137"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/123491/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/123491/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "statement",
+          "text": "\"So @katiehobbs fully supports Bidenâs illegal use of taxpayer money to pay off student loans\"",
+          "source": "x.com",
+          "url": "https://x.com/DrPaulGosar/status/1566434887619469318"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm sorry but there is no world in which vaccine passports are ok and voter ID is not.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1420482207622250503"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voter ID Laws are only 'discriminatory' against criminals & illegals who shouldn't be allowed to vote anyway. Biden's DOJ suing the State of Arizona shows their hand - they don't want election integrity, they want the millions of aliens they imported to help keep them in power.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1544424392549171206"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/123491/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Developing our nationâs energy sources and increasing access to public lands creates jobs, stimulates our economy and reduces Americaâs dependence on volatile foreign markets. I support an all-of-the-above energy approach that utilizes all domestic energy sources including copper, coal, oil and natural gas, as well as renewables.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15208"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/123491/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/123491/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"The large wind turbines, in addition to being unreliable and visual pollution, often fail catastrophically. There are 3,800 incidents of blade failure each year and 1,200 gear box failures. I am always \"all of the above\" energy but wind energy can only supplement our grid.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1619099561850703872"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Developing our nationâs energy sources and increasing access to public lands creates jobs, stimulates our economy and reduces Americaâs dependence on volatile foreign markets. I support an all-of-the-above energy approach that utilizes all domestic energy sources including copper, coal, oil and natural gas, as well as renewables.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15208"
+        },
+        {
+          "type": "statement",
+          "text": "\"Open the Keystone Pipeline. Produce our energy in our own country. Build a border wall. Deport illegals.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1580291581722050560"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our country will be dependent on oil and natural gas for many years to come so we must ensure a safe but reliable domestic energy industry within our borders.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15208"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration has blocked over 4,600 permits to drill for oil. Remember that next time you pump for gas.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1502066028716732423"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #2A protects all of the other amendments. I oppose the unconstitutional gun control measures at stake in the upcoming Supreme Court case NY State Rifle & Pistol Association (NYSRPA) v. Corlett. I was proud to join 168 of my colleagues & @RepTenney to defend your #2A rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1417647717803864064"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/123491/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Second Amendment is one of the most important rights guaranteed by the Bill of Rights. The operative text states that \"the right of the people to keep and bear armsâ¦shall not be infringed.\" In spite of the clarity of this amendment, we have seen repeated, consistent, and sustained attacks on this right and efforts across the spectrum to \"infringe\" on this individual right.\"",
+          "source": "gosar.house.gov",
+          "url": "https://gosar.house.gov/issues/issue/?IssueID=15197"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A true healthcare roundtable today. We are discussing the threat of single-payer healthcare system to your health and pocketbook. An additional $30 trillion over 10 years for worse care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1133941580266708992"
+        },
+        {
+          "type": "statement",
+          "text": "\"Remember comradâitâs for the children. I mean the roads. I mean healthcare system. I mean the whales. And the forest. Just give us your money and no one will get hurt. You werenât really using all of it anyway.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrPaulGosar/status/1103016887125004288"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 986: \"Protecting Americans with Preexisting Conditions Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26377/67128/123491/protecting-americans-with-preexisting-conditions-act-of-2019#67128"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/123491/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lowering the cost of prescription drugs, passing the Born Alive Abortion Survivors Act, confronting Big Tech censorship, securing the border, protecting the 2nd Amendment, responsible energy development, and draining the swamp to name a few.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1171517387729862657"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"States have a right to repel the invasion at our southern border. We don't need to be driving illegals further into the country on buses. We need to build the wall, deport them all, and protect our borders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1656362907880288261"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123491/paul-gosar/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/123491/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"DACA is simply a Trojan horse resulting in amnesty for illegal aliens.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1194229552857399296"
+        },
+        {
+          "type": "statement",
+          "text": "\"Illegal aliens, whose very first act in our country is to violate our laws, are criminals who do not deserve citizenship. I'll always be a NO vote on amnesty.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1596624018144395264"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is an invasion. Finish Trump's border wall. Militarize the border. Mass deportations. No amnesty.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1635325193265766402"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/123491/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27343/69881/123491/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/123491/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rep. Paul Gosar, the popular Republican from Arizona, has called for a 10 year moratorium on foreign aid even as billions are to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/DrPaulGosar/status/1557529780580503552"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/123491/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will vote NO to any additional funding to Ukraine. Enough is enough, I will not stand for this corrupt money laundering operation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1592616136570728448"
+        },
+        {
+          "type": "statement",
+          "text": "\"My country has been at war in some fashion or another most of my life. At some point, we have to say enough is enough. Enough funding death and destruction between Ukraine and Russia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1664756587343298566"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should not send another dime to Ukraine, and we should audit the money already sent there.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1678836768798285826"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/123491/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech should have the same rights and liabilities as everyone else, not special immunity for the removal of anything and anyone they donât like.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1288479960387276800"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social media IS harmful to children. It's good to see more in Congress begin to evolve on this issue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGosar/status/1625953166301794323"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:35:09+00:00"
+}

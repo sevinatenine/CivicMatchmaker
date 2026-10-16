@@ -1,0 +1,460 @@
+{
+  "name": "Jared Moskowitz",
+  "page_title": "Jared Moskowitz's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 23, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (FL) - District 25",
+  "candidate_id": "138155",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/138155/jared-moskowitz",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2 years ago, the Supreme Court reversed Roe v. Wade, stripping Americansâ freedom to make their own health care decisions. These choices should be left to women and their doctors, not politicians. Itâs time for Congress to codify Roe v. Wade into federal law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1805241018087866549"
+        },
+        {
+          "type": "statement",
+          "text": "\"Never forget that Supreme Court judges lied to the U.S. Senate and the American people when they said Roe was settled law. 1 year after Dobbs, we must remember this egregious betrayal and act to ensure reproductive rights are protected across our nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1672615928796704768"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, on the 51st anniversary of Roe v. Wade, let us be loud and clear that women in this country should have the legal right to make their own healthcare decisions without government dictating these highly personal matters.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1749446812707049584"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great to be back at Wynmoor in Coconut Creek to discuss my time in Congress and my support for Israel, Social Security, and our veterans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1775269213638393982"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 55% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 55% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz/12/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 50% by National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the @HouseForeign Affairs Committee, I will work to strengthen our deep relationship with Israel, combat antisemitism, support Ukraine in their war against Russia, and stand up to Chinaâs military rise, competitiveness, and currency manipulation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1618978229246898178"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 42% by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BIG NEWS: The @EPA has just announced Florida will receive over $87 million to access clean drinking water, thanks to the Bipartisan Infrastructure Law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1625956091291992067"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you @POTUS for signing the Bipartisan Infrastructure Law and getting Broward County the resources it needs to create safe streets and roads for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1626713973784731649"
+        },
+        {
+          "type": "statement",
+          "text": "\"We canât add 19 Trillion dollars to the debt. We are going to have to address revenue and spending. But first we have to raise the debt ceiling so we donât default.\"",
+          "source": "x.com",
+          "url": "https://x.com/JaredEMoskowitz/status/1626228060352815105"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must find a bipartisan way to reduce our national debt. Spending trillions more then we take in is not sustainable\"",
+          "source": "x.com",
+          "url": "https://x.com/JaredEMoskowitz/status/1709028402785628272"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For those impacted by disaster, early relief funding for things like temporary housing and debris removal is critical. Congress CANNOT let the Disaster Relief Fund run out in just a few weeks. I introduced a bill to replenish it, because simply too much is at stake.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1680636528274358273"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, I sent a letter to the Congressional Homelessness Caucus requesting a roundtable with stakeholders to discuss steps the federal government can take to address housing shortages and homelessness facing communities across America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1648710698262822913"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Sunshine State is leading the way in solar, thanks in part to the Inflation Reduction Act! Iâm proud of this achievement, and I will continue to support policies in Congress that incentivize clean energy and lower prices for consumers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1700242401036517569"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"29 years ago today, the Federal Assault Weapons Ban was signed into law. The AR-15 used to murder people at my high school in Parkland should never be in the hands of civilians. Itâs time Congress take action to bring back the ban and protect our communities from gun violence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1701969550047150123"
+        },
+        {
+          "type": "statement",
+          "text": "\"30 years ago, the Brady Bill was signed into law, implementing federal background checks on firearms. This was a huge step forward in preventing gun violence, but we MUST do more. Congress has to act to keep our communities safe by passing common-sense gun safety laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1730267712167842183"
+        },
+        {
+          "type": "statement",
+          "text": "\"After Parkland, I helped lead the strongest gun violence prevention/school safety bill in Floridaâs history. It was bipartisan and itâs still intact to this day. We need a Congress that can get life-saving legislation like this done rather than one focused on partisan stunts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1757933255829967073"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz/37/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For 30 years now, the Family and Medical Leave Act has allowed millions of American workers to take time to care for their health and their families. I look forward to defending and expanding upon these key protections this Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1622258604660363266"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have to secure the border from fentanyl pouring into this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/JaredEMoskowitz/status/1603116438356520960"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/138155/police-act-of-2023#92230"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138155/jared-moskowitz/40/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BREAKING: The House just passed my bipartisan Stop Harboring Iranian Petroleum (SHIP) Act. With this legislation, weâre one step closer to strengthening sanctions on Iran and holding the regime accountable for its funding of terrorism.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1720466564758004046"
+        },
+        {
+          "type": "statement",
+          "text": "\"Foreign adversaries will not get away with financing and facilitating terror. Iâm proud to introduce legislation with @RepMikeLawler that will strengthen Americaâs sanctions on Iran and weaken the stateâs ability to fund terrorist groups.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1664653838463188992"
+        },
+        {
+          "type": "statement",
+          "text": "\"The SHIP Act I introduced with @RepMikeLawler passed 342-69. These new sanctions on Iranian petroleum have broad bipartisan support. In light of new attacks on U.S. troops by Iranâs proxies, itâs critical that this is part of a whole of government approach against the regime.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1752454232005922822"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs now one year since Putinâs deadly invasion of Ukraine. Americaâs global leadership is unwavering and we will continue to respond in a decisive way.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1629152800084045824"
+        },
+        {
+          "type": "statement",
+          "text": "\"Speaker Johnson is failing our allies. Itâs way past time Congress pass aid for Israel and Ukraine that the majority of both parties support. We cannot let Putin or Hamas win.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1765927778497507414"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the U.S. House showed the world and our allies that America can still lead. By delivering for Israel and Ukraine, we made it clear that we will not allow the extremists in the House to hand Americaâs allies over to Russia, Iran, and China.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMoskowitz/status/1781760488373637211"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/138155/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/138155/jared-moskowitz/41/technology-and-communication"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/138155/jared-moskowitz/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:10:28+00:00"
+}

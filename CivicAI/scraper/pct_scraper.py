@@ -5,12 +5,16 @@ Scrape a Vote Smart "Political Courage Test" (Issue Positions) page.
 Usage:
     python pct_scraper.py https://justfacts.votesmart.org/candidate/political-courage-test/151075/joe-neguse \
         --cookie-file cookie.txt
-    python pct_scraper.py "joe neguse" --cookie-file cookie.txt   # search by name, first result
+    python pct_scraper.py "joe neguse" --cookie-file cookie.txt   # name: local index first, then Vote Smart search
     python pct_scraper.py "mike bare" --pick 2 --cookie-file cookie.txt
     python pct_scraper.py 151075 --cookie-file cookie.txt          # by candidate id
-    python pct_scraper.py saved_page.html            # parse a locally saved copy
+    python pct_scraper.py saved_page.html                          # parse a locally saved copy
 
-Output goes to ../scraped/<candidate_id>.json (relative to this script).
+    python pct_scraper.py --lookup neguse     # search the local index (no network)
+    python pct_scraper.py --list              # show everything in the local index
+
+Output goes to ../scraped/<candidate_id>.json (relative to this script), and every
+scrape is recorded in ../scraped/index.json (id, name, office, url, last_updated).
 Use -d DIR to change the folder, --csv to also write a CSV.
 
 cookie.txt should contain just the value of the browser's Cookie request header
@@ -25,6 +29,7 @@ import json
 import os
 import re
 import sys
+from datetime import datetime, timezone
 from urllib.parse import quote
 
 from bs4 import BeautifulSoup
@@ -38,7 +43,91 @@ BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.3
 
 BASE = "https://justfacts.votesmart.org"
 
+INDEX_FILE = "index.json"
 
+
+# --------------------------------------------------------------------------- #
+# Local index: candidate_id -> {name, office, url, last_updated, ...}
+# --------------------------------------------------------------------------- #
+def default_out_dir() -> str:
+    return os.path.normpath(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scraped"))
+
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+
+
+def load_index(out_dir: str) -> dict:
+    path = os.path.join(out_dir, INDEX_FILE)
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (ValueError, OSError):
+        backup = path + ".bak"
+        os.replace(path, backup)
+        print(f"Warning: {path} was unreadable; moved it to {backup} and starting fresh.",
+              file=sys.stderr)
+        return {}
+
+
+def save_index(out_dir: str, index: dict) -> None:
+    os.makedirs(out_dir, exist_ok=True)
+    path = os.path.join(out_dir, INDEX_FILE)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(index, f, indent=2, ensure_ascii=False, sort_keys=True)
+    os.replace(tmp, path)  # atomic, so a crash can't leave a half-written index
+
+
+def update_index(out_dir: str, data: dict) -> dict:
+    """Record/refresh this candidate in the index and return the entry."""
+    index = load_index(out_dir)
+    cid = data["candidate_id"]
+    prev = index.get(cid, {})
+    entry = {
+        "name": data.get("name", ""),
+        "office": data.get("office", ""),
+        "on_the_ballot": data.get("on_the_ballot", ""),
+        "test_year": data.get("test_year", ""),
+        "positions": len(data.get("positions", [])),
+        "url": data.get("source", ""),
+        "file": f"{cid}.json",
+        "first_scraped": prev.get("first_scraped", data["scraped_at"]),
+        "last_updated": data["scraped_at"],
+    }
+    index[cid] = entry
+    save_index(out_dir, index)
+    return entry
+
+
+def find_in_index(index: dict, query: str) -> list:
+    """Match by exact id, or by every word of the query appearing in the name."""
+    q = query.strip().lower()
+    if q in index:
+        return [(q, index[q])]
+    tokens = q.split()
+    if not tokens:
+        return []
+    hits = [(cid, e) for cid, e in index.items()
+            if all(t in e.get("name", "").lower() for t in tokens)]
+    return sorted(hits, key=lambda h: h[1].get("name", ""))
+
+
+def print_entries(entries: list) -> None:
+    if not entries:
+        print("No matches in the local index.")
+        return
+    for cid, e in entries:
+        print(f"{cid:>8}  {e.get('name', '?'):<28} {e.get('office', '')[:40]:<40} "
+              f"updated {e.get('last_updated', '?')}")
+
+
+# --------------------------------------------------------------------------- #
+# Fetching / parsing
+# --------------------------------------------------------------------------- #
 def fetch(url: str, cookie: str = None, user_agent: str = None, accept: str = None):
     """GET a URL with a Chrome-like TLS fingerprint + the user's cookie. Returns the response."""
     try:
@@ -72,26 +161,38 @@ def fetch(url: str, cookie: str = None, user_agent: str = None, accept: str = No
     return resp
 
 
+def login_wall(text: str) -> bool:
+    return "loginFormPageLimitModal" in text and "Issue Positions" not in text
+
+
 def load_html(source: str, cookie: str = None, user_agent: str = None) -> str:
     if os.path.exists(source):
         with open(source, encoding="utf-8") as f:
             return f.read()
     text = fetch(source, cookie, user_agent).text
-    if "loginFormPageLimitModal" in text and "Sign Up" in text and "#accordion" not in text:
+    if login_wall(text):
         print("Warning: got the login/view-limit page. Your cookie may be missing or expired.",
               file=sys.stderr)
     return text
 
 
-def search_candidate(name: str, cookie: str = None, user_agent: str = None, pick: int = 0) -> dict:
-    """Look a name up via /x/search?s=<name> (JSON) and return the pick-th result (default: first)."""
+def search_candidates(name: str, cookie: str = None, user_agent: str = None) -> list:
+    """Raw Vote Smart name search (/x/search?s=<name>). Returns the list of result dicts."""
     url = f"{BASE}/x/search?s={quote(name)}"
     resp = fetch(url, cookie, user_agent, accept="application/json, text/plain, */*")
     try:
-        results = resp.json().get("results", [])
+        return resp.json().get("results", [])
     except ValueError:
-        sys.exit("Search did not return JSON (login page or Cloudflare challenge?). "
-                 "Check your cookie.")
+        raise RuntimeError("Search did not return JSON (login page or Cloudflare challenge?). "
+                           "Check your cookie.")
+
+
+def search_candidate(name: str, cookie: str = None, user_agent: str = None, pick: int = 0) -> dict:
+    """Look a name up and return the pick-th result (default: first). Exits if none."""
+    try:
+        results = search_candidates(name, cookie, user_agent)
+    except RuntimeError as e:
+        sys.exit(str(e))
     if not results:
         sys.exit(f"No candidates found for {name!r}.")
 
@@ -222,11 +323,32 @@ def parse_positions(soup: BeautifulSoup) -> list:
 
 
 def scrape(source: str, cookie: str = None, user_agent: str = None) -> dict:
-    soup = BeautifulSoup(load_html(source, cookie, user_agent), "html.parser")
+    text = load_html(source, cookie, user_agent)
+    soup = BeautifulSoup(text, "html.parser")
     data = parse_header(soup)
     data["source"] = source
     data["positions"] = parse_positions(soup)
+    data["_login_wall"] = login_wall(text)   # internal flag; never written to disk
     return data
+
+
+def save_scrape(data: dict, out_dir: str, source: str = "", make_csv: bool = False):
+    """Write <id>.json (+ optional CSV) and update index.json. Returns (cid, json_path, index_entry)."""
+    cid = data.get("candidate_id")
+    if not cid:
+        m = re.search(r"/political-courage-test/(\d+)", source or data.get("source", ""))
+        cid = m.group(1) if m else "unknown"
+    data["candidate_id"] = cid
+    data["scraped_at"] = now_iso()
+    os.makedirs(out_dir, exist_ok=True)
+    json_path = os.path.join(out_dir, f"{cid}.json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump({k: v for k, v in data.items() if not k.startswith("_")},
+                  f, indent=2, ensure_ascii=False)
+    entry = update_index(out_dir, data) if cid != "unknown" else None
+    if make_csv:
+        write_csv(data, os.path.join(out_dir, f"{cid}.csv"))
+    return cid, json_path, entry
 
 
 def write_csv(data: dict, path: str) -> None:
@@ -245,8 +367,17 @@ def write_csv(data: dict, path: str) -> None:
 
 def main():
     ap = argparse.ArgumentParser(description="Scrape a Vote Smart Political Courage Test page")
-    ap.add_argument("source", help="A candidate NAME (searches Vote Smart, uses the first result), a numeric candidate ID, a page URL, or a path to a saved .html file")
-    ap.add_argument("--pick", type=int, default=0, help="When searching by name, use this result index instead of the first")
+    ap.add_argument("source", nargs="?",
+                    help="A candidate NAME (checks the local index, then searches Vote Smart), "
+                         "a numeric candidate ID, a page URL, or a path to a saved .html file")
+    ap.add_argument("--pick", type=int, default=0,
+                    help="When searching by name, use this result index instead of the first "
+                         "(skips the local index)")
+    ap.add_argument("--online", action="store_true",
+                    help="Force a Vote Smart search even if the name is in the local index")
+    ap.add_argument("--lookup", metavar="QUERY",
+                    help="Search the local index by name or id and exit (no network)")
+    ap.add_argument("--list", action="store_true", help="List the local index and exit")
     ap.add_argument("-d", "--out-dir", help="Output directory (default: ../scraped, relative to this script)")
     ap.add_argument("--csv", action="store_true", help="Also write <id>.csv next to the JSON")
     ap.add_argument("--cookie", help="Cookie header string copied from your browser "
@@ -256,6 +387,19 @@ def main():
                                          "browser the cookies came from)")
     args = ap.parse_args()
 
+    out_dir = os.path.normpath(args.out_dir) if args.out_dir else default_out_dir()
+    index = load_index(out_dir)
+
+    # ---- local-only commands ----
+    if args.list:
+        print_entries(sorted(index.items(), key=lambda kv: kv[1].get("name", "")))
+        return
+    if args.lookup:
+        print_entries(find_in_index(index, args.lookup))
+        return
+    if not args.source:
+        ap.error("a source (name, id, URL, or .html file) is required unless using --list/--lookup")
+
     cookie = args.cookie or os.environ.get("VS_COOKIE")
     if args.cookie_file:
         with open(args.cookie_file, encoding="utf-8") as f:
@@ -264,37 +408,35 @@ def main():
     source = args.source
     if not os.path.exists(source) and not source.lower().startswith("http"):
         if source.isdigit():
-            source = pct_url(source)
+            known = index.get(source, {})
+            source = known.get("url") or pct_url(source, known.get("name", ""))
         else:
-            hit = search_candidate(source, cookie, args.user_agent, args.pick)
-            source = pct_url(hit["candidate_id"], hit["name"])
-            print(f"Using {hit['name']} -> {source}", file=sys.stderr)
+            matches = [] if (args.online or args.pick) else find_in_index(index, source)
+            if matches:
+                cid, entry = matches[0]
+                if len(matches) > 1:
+                    print(f"{len(matches)} local matches; using the first "
+                          f"(use --online or an id to pick another):", file=sys.stderr)
+                    for c, e in matches[:5]:
+                        print(f"    {c}  {e['name']}", file=sys.stderr)
+                source = entry.get("url") or pct_url(cid, entry["name"])
+                print(f"Found in local index: {entry['name']} -> {source}", file=sys.stderr)
+            else:
+                hit = search_candidate(source, cookie, args.user_agent, args.pick)
+                source = pct_url(hit["candidate_id"], hit["name"])
+                print(f"Using {hit['name']} -> {source}", file=sys.stderr)
 
     data = scrape(source, cookie, args.user_agent)
     if not data["positions"]:
         sys.exit("No positions found. If you hit the free-view limit or a login wall, "
                  "save the page from your browser and pass the .html file instead.")
 
-    cid = data.get("candidate_id")
-    if not cid:
-        m = re.search(r"/political-courage-test/(\d+)", source)
-        cid = m.group(1) if m else "unknown"
-    data["candidate_id"] = cid
-
-    out_dir = args.out_dir or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scraped")
-    out_dir = os.path.normpath(out_dir)
-    os.makedirs(out_dir, exist_ok=True)
-
-    json_path = os.path.join(out_dir, f"{cid}.json")
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    cid, json_path, entry = save_scrape(data, out_dir, source, make_csv=args.csv)
     print(f"Saved {len(data['positions'])} positions to {json_path}")
-
+    if entry:
+        print(f"Index updated: {cid} = {entry['name']!r} (last_updated {entry['last_updated']})")
     if args.csv:
-        csv_path = os.path.join(out_dir, f"{cid}.csv")
-        write_csv(data, csv_path)
-        print(f"Saved CSV to {csv_path}")
-
+        print(f"Saved CSV to {os.path.join(out_dir, cid + '.csv')}")
 
 if __name__ == "__main__":
     main()

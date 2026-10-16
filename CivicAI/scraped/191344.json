@@ -1,0 +1,508 @@
+{
+  "name": "Anna Luna",
+  "page_title": "Anna Luna's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 13, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 13",
+  "candidate_id": "191344",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191344/anna-luna",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we commemorate the millions of precious souls brutally ended under the Roe v. Wade regime. This unspeakable loss must motivate us to fight harder, even in a post-Roe America â until abortionâs grip on our nation is dismantled across every state & within every human heart.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1617274907234078721"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/191344/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Do not listen to the fear mongering regarding the debt ceiling: We are in no way touching Medicare and Social Security. We are, however, cutting all the pork and woke funding.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1620428050730225666"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Simply put, less government spending will free up money to be obligated toward higher priorities. Tax cuts and hikes are plot devices for the Parties to campaign on. The wealthy and connected have their means of shielding themselves from any tax-based legislation; only the poor and middle-class Americans are burdened by the games they play. Let's start with simplifying the tax code. Also - legislation to report, but not tax, the gig economy or cryptocurrency solutions.\"",
+          "source": "www.bradleyforcongress.com",
+          "url": "https://www.bradleyforcongress.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Simply put, less government spending will free up money to be obligated toward higher priorities. Tax cuts and hikes are plot devices for the Parties to campaign on. The wealthy and connected have their means of shielding themselves from any tax-based legislation; only the poor and middle-class Americans are burdened by the games they play. Let's start with simplifying the tax code. Also - legislation to report, but not tax, the gig economy or cryptocurrency solutions.\"",
+          "source": "www.bradleyforcongress.com",
+          "url": "https://www.bradleyforcongress.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the Supreme Court rightfully backed President Donald J. Trump in his appeal on the immunity case. This decision confirms that presidents can perform their duties without fearing politically motivated prosecutions. President Trump's actions to defend our elections were within his constitutional duties and should not be criminalized. I support the court's ruling and firmly stand behind President Trump. The ruling exposes the utter baselessness of Jack Smith's politically motivated prosecution of President Trump and the need for Congress to defund his office immediately. President Trump's dedication to this nation deserves commendation, not condemnation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1808128450235932838"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/191344/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/191344/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/191344/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to get government spending under control. This is why I voted against the minibus last Wednesday and will continue to oppose big government spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1766862167171617100"
+        },
+        {
+          "type": "statement",
+          "text": "\"Simply put, less government spending will free up money to be obligated toward higher priorities. Tax cuts and hikes are plot devices for the Parties to campaign on. The wealthy and connected have their means of shielding themselves from any tax-based legislation; only the poor and middle-class Americans are burdened by the games they play. Let's start with simplifying the tax code. Also - legislation to report, but not tax, the gig economy or cryptocurrency solutions.\"",
+          "source": "www.bradleyforcongress.com",
+          "url": "https://www.bradleyforcongress.com/priorities"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Authorizing the spending on money we donât have (as a country) is NOT how to fix the problem. Inflation is not going to go away and every time Congress passes another CR it only makes the problem worse. We also need to balance the budgetâ¦\"",
+          "source": "x.com",
+          "url": "https://x.com/realannapaulina/status/1748453923667538353"
+        },
+        {
+          "type": "statement",
+          "text": "\"Simply put, less government spending will free up money to be obligated toward higher priorities. Tax cuts and hikes are plot devices for the Parties to campaign on. The wealthy and connected have their means of shielding themselves from any tax-based legislation; only the poor and middle-class Americans are burdened by the games they play. Let's start with simplifying the tax code. Also - legislation to report, but not tax, the gig economy or cryptocurrency solutions.\"",
+          "source": "www.bradleyforcongress.com",
+          "url": "https://www.bradleyforcongress.com/priorities"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/191344/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student loan bailout is unjust. Itâs this simple: men who fought for our country shouldnât have to watch someone who didnât make that sacrifice get the same benefits as in the GI Bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1662062555655725057"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs version of \"justice\" is forcing 87% of Americans who donât have student loan debt to pay for the 13% who do.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1662168405267316749"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sounds like we should take the necessary precautions and do paper ballots with voter ID on one day for the next election. ð¡\"",
+          "source": "x.com",
+          "url": "https://x.com/realannapaulina/status/1724160477792551377"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Luna believes in unleashing the full might of Americaâs domestic energy production that we have right here at home so there is no need for us to rely on foreign countries who hate our values and what we stand for. Anna believes the American people have the right to use American oil from American soil. She will continue to lead the charge in Congress for American energy independence by restoring oil and gas leases, reinstating the Keystone XL pipeline, and fighting the Leftâs radical Green New Deal regulations.\"",
+          "source": "luna.house.gov",
+          "url": "https://luna.house.gov/energy-independence"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/191344/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Luna believes in unleashing the full might of Americaâs domestic energy production that we have right here at home so there is no need for us to rely on foreign countries who hate our values and what we stand for. Anna believes the American people have the right to use American oil from American soil. She will continue to lead the charge in Congress for American energy independence by restoring oil and gas leases, reinstating the Keystone XL pipeline, and fighting the Leftâs radical Green New Deal regulations.\"",
+          "source": "luna.house.gov",
+          "url": "https://luna.house.gov/energy-independence"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/191344/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The same politicians telling you that you canât have guns are the same ones sending them overseas to Ukraine. See the hypocrisy yet?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1717893561914429560"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191344/anna-luna"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Luna has been to the southern border three times and has long spoken out against illegal immigration and the human & drug trafficking that comes with it. Anna will fight to finish the border wall, end DACA, restore President Trumpâs Remain in Mexico policy, and crack down on criminal illegals in America. Rep. Luna opposes amnesty as a pathway to citizenship. Those who refuse to put the interests of American citizens first have no place representing our country.\"",
+          "source": "luna.house.gov",
+          "url": "https://luna.house.gov/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/191344/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Luna has been to the southern border three times and has long spoken out against illegal immigration and the human & drug trafficking that comes with it. Anna will fight to finish the border wall, end DACA, restore President Trumpâs Remain in Mexico policy, and crack down on criminal illegals in America. Rep. Luna opposes amnesty as a pathway to citizenship. Those who refuse to put the interests of American citizens first have no place representing our country.\"",
+          "source": "luna.house.gov",
+          "url": "https://luna.house.gov/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/191344/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/191344/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/191344/israel-security-supplemental-appropriations-act-2024#95976"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have an idea: If Ukraine wants American tax dollars, then start paying our taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1754311232041984121"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pigs will fly before I vote to send more American money to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1757449303331578116"
+        },
+        {
+          "type": "statement",
+          "text": "\"The fear-mongering from both sides of the aisle to try and scare us into sending more foreign aid is not going to sway me into giving the hard-earned tax dollars of Pinellas County constituents to fund a proxy war in Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1759740011501502688"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/191344/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ban TikTok.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLuna/status/1638917569334726659"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/191344/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/191344/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:09:47+00:00"
+}

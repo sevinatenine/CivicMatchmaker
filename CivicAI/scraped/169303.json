@@ -1,0 +1,502 @@
+{
+  "name": "Kevin Kiley",
+  "page_title": "Kevin Kiley's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 3, Independent",
+  "on_the_ballot": "Running, Independent for U.S. House (CA) - District 6",
+  "candidate_id": "169303",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/169303/kevin-kiley",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/2/abortion"
+        },
+        {
+          "type": "statement",
+          "text": "La Times \"During a debate ahead of the primaries before Roe vs. Wade was overturned, Kiley said he would \"fight for pro-life policies.\"'",
+          "source": "www.latimes.com",
+          "url": "https://www.latimes.com/politics/story/2022-10-25/kevin-kiley-and-kermit-jones-on-inflation-abortion-and-fires-in-rural-california"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 48% by Health Access California",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 414 \"Establishes a Statewide Individual Mandate Program for Health Insurance\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/91/health-insurance"
+        },
+        {
+          "type": "statement",
+          "text": "LA Times \"Iâm not sure itâs necessary to be continually specifying what every single plan needs to entail,\" Kiley told the outlet. \"I donât know that legislators are always in the best position to be weighing in.\"",
+          "source": "www.latimes.com",
+          "url": "https://www.latimes.com/politics/story/2022-10-25/kevin-kiley-and-kermit-jones-on-inflation-abortion-and-fires-in-rural-california"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government must uphold its commitment to our nationâs seniors. I will vote against any cuts to Social Security or Medicare benefits.\"",
+          "source": "kiley.house.gov",
+          "url": "https://kiley.house.gov/rep-kevin-kiley-is-working-tirelessly-to-protect-social-security-and-medicare"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will work to decrease taxes on middle-class families, seniors and small businesses.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1329051/issue-position-taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 1253 \"Increases Income Taxes For People Who Earn More Than $1 Million\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Despite a plethora of coauthors, the wealth tax and income tax hike both died. Some ideas are too nutty even for California, at least for the moment.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/KevinKileyCA/status/1302358909718413314"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Prosperity",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against SB 1360 \"Amends the California Election Code to Require Transparency of Contributors and Advertisements\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33438/88915/169303/amends-the-california-election-code-to-require-transparency-of-contributors-and-advertisements#88915"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against AB 481 \"Requires Law Enforcement Agencies Receive Approval Before Acquiring Military-Grade Equipment\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 40 \"Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enfo ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/20/criminal-justice"
+        },
+        {
+          "type": "statement",
+          "text": "LA Times \"Strong supporter of our law enforcement and the important role it plays in keeping us safe.\"",
+          "source": "www.latimes.com",
+          "url": "https://www.latimes.com/politics/story/2022-10-25/kevin-kiley-and-kermit-jones-on-inflation-abortion-and-fires-in-rural-california"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I promised to do everything in my power to rein in the excessive federal spending that created the inflation crisis crushing California families. With todayâs vote for the Fiscal Responsibility Act, we made a $2.1 trillion down payment on that promise â the largest single deficit reduction in U.S. history.\"",
+          "source": "kiley.house.gov",
+          "url": "https://kiley.house.gov/posts/statement-on-passage-of-h-r-3746-debt-ceiling"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There is a simple reason homelessness in California has spiraled out-of-control despite insane levels of spending: political ineptitude. The proof is that San Francisco was able to clean up the city immediately to welcome China's President Xi. It's a matter of political will.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/KevinKileyCA/status/1740512241911566470"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 2011 \"Establishes Affordable Housing and High Road Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/39/housing-and-property"
+        },
+        {
+          "type": "statement",
+          "text": "LA Times \"While homelessness is not just a housing issue, there is no doubt that California has an affordability crisis. We need to eliminate the overregulation that makes housing so difficult and costly to build.\"",
+          "source": "www.latimes.com",
+          "url": "https://www.latimes.com/politics/story/2022-10-25/kevin-kiley-and-kermit-jones-on-inflation-abortion-and-fires-in-rural-california"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finally, the Secretary of Defense is authorized to provide monthly bonuses to junior enlisted members to mitigate the impacts of inflation.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1655939/bipartisan-opposition-to-julie-su/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When I ran for Congress, I promised to do everything in my power to rein in the excessive federal spending that created the inflation crisis crushing California families.\"",
+          "source": "kiley.house.gov",
+          "url": "https://kiley.house.gov/posts/statement-on-passage-of-h-r-3746-debt-ceiling"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/82/economy-and-fiscal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Out-of-control government spending has left Californians struggling under the weight of runaway inflation and an ever-increasing cost of living.\"",
+          "source": "kiley.house.gov",
+          "url": "https://kiley.house.gov/posts/kiley-urges-president-to-come-to-negotiating-table-find-bipartisan-solution-to-debt-crisis"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For example, on student loan forgiveness, President Biden originally said, 'I don't think I have the authority to do it,' and then went ahead and did it anyway by executive order. The Supreme Court, of course, recently struck that order down. With the new Congress declining to pass further harmful economic policies, the administration has increasingly relied on aggressive agency rulemaking.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1657562/chair-kiley-challenges-whds-economically-damaging-regulations/"
+        },
+        {
+          "type": "statement",
+          "text": "Arkansas Advocate \"The following month they supported a joint resolution disapproving of the student loan debt cancellation plan.\"",
+          "source": "arkansasadvocate.com",
+          "url": "https://arkansasadvocate.com/2023/07/06/vulnerable-u-s-house-republicans-who-opposed-student-debt-plan-targeted-in-2024/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of AB 1746 \"Expands Grant Programs to Reduce College Debt\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is going to lower costs for Americans and, in particular, my State of California, where we pay the highest energy costs in the country. It will do that by lowering utility bills, by reducing gas prices, and by reducing the cost of everyday goods by reducing the cost of transport. It will do this by making our country more energy independent, enhancing our capacity for domestic energy production.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1647039/urgent-need-for-permitting-reform-to-secure-americas-energy-future/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday the California Energy Commission voted 5-0 to approve a new community solar program that will allow homeowners in SMUD territory to reap the benefits of solar energy without having to bear the cost of panels on each and every roof. I was happy to testify in support of this new program, which demonstrates that affordability and a clean energy future can coexist.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/watch/?v=196766728197309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4394 \"Energy and Water Development and Related Agencies Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"What we do know is California has the strictest gun laws in the nation and crime of all kinds continues to rise.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/KevinKileyCA/status/1511011893736984578"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America (GOA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 311 \"Prohibits the Sale of Firearms in Certain Areas\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your State Senator, I will fight the politicians in Sacramento and Washington who want a complete government-run health care system, where doctors and nurses work for the government and care is rationed by bureaucrats.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1329072/issue-position-health-care"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 48% by Health Access California",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against AB 414 \"Establishes a Statewide Individual Mandate Program for Health Insurance\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support policies that increase competition, decrease prescription drug prices and expand choices and options for treatment.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1329072/issue-position-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Secure the border. Mr. Speaker, this isn't something we should have to insist upon. It shouldn't be controversial. It shouldn't be a source of partisan contention.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1649734/secure-the-border-act-of-2023/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The situation at the southern border is utterly untenable. It is an urgent national security and public safety crisis. Everyone knows it. The American people know it. Members on both sides of the aisle in this House know it, and the President sure ought to know it.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1668839/denouncing-the-biden-administrations-open-borders-policies-condemning-the-national-security-and-public-safety-crisis-along-the-southwest-border-and-urging-president-biden-to-end-his-administrations-open-borders-policies"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/169303/kevin-kiley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety cr ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the Biden Administration, COVID-19 is still more of an emergency than the Border Crisis. We have a 2,000-bed ICE detention facility sitting vacant because of COVID rules as our communities are being overwhelmed.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/KevinKileyCA"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am glad to join my colleagues in a bipartisan letter urging the State Department to use every avenue to assist Americans seeking to return from Israel and to bring them safely home\"",
+          "source": "kiley.house.gov",
+          "url": "https://kiley.house.gov/posts/representative-kiley-issues-statement-regarding-evacuation-efforts-in-israel"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of 5961 \"No Funds for Iranian Terrorism Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/32/foreign-affairs"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stand united with my constituents in the Ukranian-American community. This week the State Assembly joined in one voice to condemn the ongoing attack on freedom and democracy.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/watch/?v=485063079957961"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/169303/kevin-kiley/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:10:33+00:00"
+}

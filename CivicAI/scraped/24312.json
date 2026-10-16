@@ -1,0 +1,616 @@
+{
+  "name": "Mario Diaz-Balart",
+  "page_title": "Mario Diaz-Balart's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 26, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 26",
+  "candidate_id": "24312",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/24312/mario-diaz-balart",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always support pro-life protections and ensure no taxpayer funds are spent to promote or perform abortions. Iâm proud the State and Foreign Ops FY25 bill includes strong, long-standing provisions to protect life. #Dobbs Anniversary\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1805293917098639445"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/2/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 25% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/24312/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last weekâs passage of Tax 2.0 will permanently lock in these tax cuts that have helped working class families and #SmallBiz owners alike. I am proud of the results we have achieved to ensure that families are #BetterOffNow, + I'll continue to provide real solutions for #FL25\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1048219287272476673"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lowering tax rates, maintaining the doubled Child Tax Credit, and decreasing tax rates for Main Street businesses will help our economy continue to flourish while allowing families the opportunity to save more of their hard-earned money.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1045716243460878336"
+        },
+        {
+          "type": "statement",
+          "text": "\"While jobs and wages continue steadily declining and the American people struggle to keep up with skyrocketing prices, House Democratic Leadership remains focused on pushing the largest tax increase on American families and businesses in decades.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1438533939912749061"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/24312/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"While jobs and wages continue steadily declining and the American people struggle to keep up with skyrocketing prices, House Democratic Leadership remains focused on pushing the largest tax increase on American families and businesses in decades.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1438533939912749061"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/24312/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/12/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/24312/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Defunding the police is irresponsible, & @realDonaldTrumpâs exec order on policing reform is an important step forward. It includes transparency, accountability and training. Congress needs to act on a bipartisan basis as wellâ just as we did with criminal justice reform.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1272987490647969796"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/24312/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a @HouseAppropsGOP Defense Subcommittee member, I work to ensure we are investing in our military readiness, especially here at home in FL.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1095039237236363264"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/24312/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/24312/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, I proudly voted for the \"Limit, Save, Grow Act,\" which will limit future spending by returning discretionary spending to pre-pandemic levels while maintaining a robust national defense and protecting Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1651344796424843265"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/24312/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/24312/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I proudly Voted in favor of the \"Limit, Save, Grow Act,\" which will limit future spending by returning discretionary spending to pre-pandemic levels while maintaining a robust national defense and protecting Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1651344796424843265"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to have a proven track record of delivering for my district to fund critical housing and infrastructure programs all while reducing wasteful spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1799152355855728902"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, I served as @HouseAppropsGOP Ranking Member for a hearing on the importance of affordable housing. In our Southern Florida community, affordable housing is critical to so many families and Iâll continue my efforts to preserve and expand access.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1103710772885106689"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 267 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25781/65256/24312/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2019#65256"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/24312/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin is trying to deflect the blame for skyrocketing #inflation, claiming that itâs Putinâs fault. But, the reality is, this is what happens when the Left pushes for TRILLIONS of dollars in reckless, unnecessary spending. Dollars that the U.S. doesnât have.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1514267973871091718"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Manchin-Biden deal does not reduce inflation. Americans are paying $2 more per gallon on gas since Biden took office. Food, housing prices & rents are UP, hurting American families. It raises taxes on Americans. More reckless spending is not the solution.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1558199109328273411"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democratic Leadershipâs $3.5 TRILLION \"budget bill\" is a trojan horse filled with nothing but reckless spending, which will kill American jobs, increase taxes on hardworking Americans, & increase the already-growing inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1429806056809631749"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/24312/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no such thing as \"forgiving\" or \"canceling\" debt. Instead, this debt will be transferred from a group of wealthier individuals who were privileged to go to college, to hardworking American taxpayersâ many of whom did not take out student loans or already paid them off.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1562540871962075138"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/24312/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/24312/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/24312/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/24312/climate-action-now-act#67056"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/24312/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On his first day in office, POTUS launched his war on American energy when he killed the Keystone XL pipeline, which would have increased our energy production, created American jobs, and lowered energy and gasoline costs for Americans while decreasing dependence on Russian oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1500895779661176837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted againsr HR 1941 \"Coastal and Marine Economies Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26929/68921/24312/coastal-and-marine-economies-protection-act#68921"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1146 \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26930/68923/24312/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/24312/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Defund our police & our military, threaten our nationâs highest court, erode the gun rights of law-abiding Americans, & continuously divide the country. These are all classic socialist tactics that impoverish & destroy a nation. Weâve seen this pattern before in Cuba & Venezuela.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1385296368676245510"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/24312/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/24312/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tucked away in the Democratsâ $4.3 trillion, 2,400-page tax and spending spree bill are provisions that would impose socialist price controls on drugs, limit the American peopleâs access to medicines, and drastically harm pharmaceutical innovation.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1451206466929582082"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/24312/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/24312/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A mass invasion of our southern border is happening, and yet, Biden proposed cutting funding for Homeland Security. Today, @HouseGOP @HouseAppropsGOP released the Homeland Security budget that increases funding for the border to stop this from happening. Border security is national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1797684855612014766"
+        },
+        {
+          "type": "statement",
+          "text": "\"American families are paying the ULTIMATE PRICE for the Biden Adminâs NEGLIGENCE. HR2, which I authored, is the strongest border security bill in history. Biden and Senate Dems could end this crisis now if they take up HR2, which: â Restarts construction of the border wall. â Increases the number of Border Patrol agents. â Ends catch-and-release. â Ends abuse of executive immigration authority.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1785098092221448640"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs dangerous open-border policies are putting our national security and the safety of the American people at great risk. My bill, H.R. 2, the strongest border security bill ever, passed the House over a year ago. Senate Dems need to do their part by passing H.R. 2 now to secure the border!\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1805962509616132146"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/24312/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/24312/police-act-of-2023#92230"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs dangerous open-border policies are putting our national security and the safety of the American people at great risk. My bill, H.R. 2, the strongest border security bill ever, passed the House over a year ago. Senate Dems need to do their part by passing H.R. 2 now to secure the border!\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1805962509616132146"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 29% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24312/mario-diaz-balart"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm outraged that the Biden Admin has decided to weaken sanctions and prop up the oppressive #Cuban regime. While hundreds of political prisoners, including children, languish in Cuban prisons, the Biden Administration is looking for ways to keep their oppressors in power.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1526357458905595905"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House also demonstrated robust support for key ally, Israel, by passing several measures dedicated to protecting critical national security interests and holding the terrorist regime of Iran accountable with tough sanctions.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1781748912811888686"
+        },
+        {
+          "type": "statement",
+          "text": "\"While the #Iranian people are demanding freedom, the regime is suppressing them w/ violence, censorship & internet blackouts.The Biden Admin must stand w/ the Iranian people by strengthening sanctions on the regime, & putting an end to further appeasement of their oppressors.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1573097906424451073"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/24312/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was honored to hear from President @ZelenskyyUa, who is heroically leading his peopleâs fight for freedom on the current status of Putinâs war on #Ukraine. The U.S. must work with our NATO allies to provide Ukraine with additional weapons, including fighter planes.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1500144522516484098"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, on the anniversary of the Brothers to the Rescue shootdown, and the anniversary of Putinâs invasion of Ukraine, we are reminded of the dangerousness of appeasing tyrants. The U.S. must stand in strong solidarity with the people of Ukraine, and all those struggling for freedom against brutality, by denying all legitimacy and support to their oppressors. If not stopped in Ukraine, Putin will continue his march further into Europe. Not only he, but his allies in Cuba, Venezuela, the PRC, and Iran would be further emboldened as a result.\"",
+          "source": "x.com",
+          "url": "https://x.com/MarioDB/status/1761480364634108101"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/24312/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/24312/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/24312/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:14:52+00:00"
+}

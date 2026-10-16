@@ -1,0 +1,604 @@
+{
+  "name": "Zoe Lofgren",
+  "page_title": "Zoe Lofgren's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 18, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 18",
+  "candidate_id": "21899",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/21899/zoe-lofgren",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sadly yet unsurprisingly, the partisan Supreme Court has again sacrificed Americans' health in pursuit of their far-right agenda. AND, like the Courtâs horrific abortion decision, it threatens decades of progress on so many issues beyond climate change.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1542987559982309377?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The unconstitutional #AlabamaAbortionBan, passed by an all-male majority, has no exceptions for rape or incest. This unconscionable, near-total ban is the latest Republican assault on reproductive rights. I will fight to defend #RoeVWade & protect access to safe, legal abortions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1128813658379825154?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We write to urge you to include robust support for the Title X Family Planning Program in any mandatory or discretionary funding package you bring to the House and Senate Floor in the coming months. On June 24th, the Supreme Court overturned nearly 50 years of precedent by overturning Roe v. Wade, removing a fundamental constitutional right from half of all Americans. As states move to ban abortion services outright or severely restrict these services, funding for contraception and family planning services offered by trusted providers is more crucial than ever. While no level of funding for contraception will ever obviate the need for abortion services, we know that people across the country will turn to family planning providers for more accessible contraceptive options in the wake of this decision.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1633252/letter-to-nancy-pelosi-speaker-of-the-us-house-of-representatives-and-chuck-shumer-majority-leader-of-the-united-states-senate-titus-pushes-for-emergency-title-x-family-planning-program-funding"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/21899/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Social Securityâs birthday, we should all recommit ourselves to protecting the program from Republicansâ continued attempts to dismantle it. I support increasing benefits & making the very wealthy pay their fair share. #ProtectSocialSecurity\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1558861821846724609?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Administrator Verma: \"We write to express strong bipartisan support for the Medicare Advantage program, which 40 percent of eligible Medicare beneficiaries, more than 22 million people, choose to enroll in.[1] We appreciate your ongoing commitment to preserving and strengthening the Medicare Advantage program for current and future Medicare beneficiaries. As the Administration considers updates to the program for plan year 2021, we urge you to ensure that the Medicare Advantage program will continue to offer affordable, high-quality, patient-centered coverage options for the diverse populations the program serves, including beneficiaries with End Stage Renal Disease who for the first time will be able to choose a Medicare Advantage plan.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1404173/letter-to-the-hon-seema-verma-administrator-for-the-centers-for-medicare-and-medicaid-services-guthrie-cardenas-blumenauer-kelly-lead-bipartisan-effort-to-secure-medicare-advantage/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/21899/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed Letter to Speaker Pelosi: \"The impact on our districts has been devastating, particularly on seniors who own homes and live on fixed income. The combination of capping SALT at $10,000 and the elevation of the standard deduction also removes most of the federal tax incentives for homeownership and for making charitable contributions. Homeownership is one of the most important ways for middle-class American families to build wealth, and millions of our constituent families will lose ground as a result. We are likewise hearing grave concerns from our districts' charitable organizations that depend on local, small-dollar donations. Churches, food pantries, youth organizations, animal welfare organizations, and many other worthy groups are experiencing sharp drops in donations.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1391831/letter-to-the-hon-nancy-pelosi-speaker-of-the-house-representative-malinowski-leads-letter-urging-vote-to-restore-salt-deduction/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/21899/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/21899/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2 years ago, Republicans rushed their #GOPTaxScam into law, putting giant corporations & billionaires over working families. 2 years later, wealth inequality in America is even worse.@HouseDemocrats are fighting for an economy that works for everyone, not just the privileged.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1208101007860715520?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"On Social Securityâs birthday, we should all recommit ourselves to protecting the program from Republicansâ continued attempts to dismantle it. I support increasing benefits & making the very wealthy pay their fair share. #ProtectSocialSecurity\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1558861821846724609?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/21899/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Chairperson of the Committee on House Administration, I was proud to help pass H.R. 1 -- the most transformational and comprehensive democracy reforms in more than four decades. H.R. 1 would put power back in the hands of the American people by helping to curtail the dominance of big money in politics, making it easier, not harder, to vote, and ensuring that politicians actually serve the public interest.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1402391/lofgren-statement-on-ten-year-anniversary-of-citizens-united-decision/"
+        },
+        {
+          "type": "statement",
+          "text": "\"H.R. 1 would also make significant advances in the areas of campaign finance and ethics reform. It would correct the rampant corruption flowing from the corrosive power of money in our elections. It would replace the current campaign finance system that empowers the super-rich and big corporations with one that relies on small donors and public matching funds. It would end secret election spending and force disclosure of all election-related spending. And it would call for a constitutional amendment to overturn the disturbing Citizens United decision that made it impossible to restrict outside spending by corporations or billionaires.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1506290/for-the-people-act-of-2021/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/21899/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/21899/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"From George Floyd to Eric Garner to Breonna Taylor & too many others, the list of unarmed POC who've been killed by law enforcement officers is long & outrageous. Action is long overdue. Led by @TheBlackCaucus, @HouseDemocrats are fighting for #JusticeInPolicing.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepZoeLofgren/status/1270053055740940294?s=20&t=v_6iOlr5lEG9lrxM1Wy1_Q"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rep. Lofgren believes police officers must be held accountable for excessive use of force and there must be an end to policies that result in needless deaths. Zoe has vowed to support reform efforts advocated for by the Congressional Black Caucus (CBC) and other safety and equitable law enforcement policies. Recently, as a member of the House Judiciary Committee, Zoe has demanded that the Department of Justice open investigations in response to recent murders and is an original cosponsor of the Justice in Policing Act of 2020, a comprehensive police reform bill supported by the CBC and civil rights organizations.\"",
+          "source": "lofgren.house.gov",
+          "url": "https://lofgren.house.gov/fighting-racial-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"Nationl Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/21899/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/21899/zoe-lofgren#.XZyrvedKhYg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/21899/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since the start of @POTUSâ term, weâve seen 7.9 million new jobs in the U.S. @HouseDemocrats are continuing to build on that success by strengthening supply chains, investing in infrastructure, & making sure big companies offer consumers fair prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1512441738564194318?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Investment Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/21899/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/21899/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The lack of affordable housing is a crisis in the South Bay and in communities across the country,\" said Rep. Zoe Lofgren. \"I'm proud to join my colleagues to introduce the Housing Access Improvement Act, which will encourage the construction or renovation of new, affordable units. Increasing the Project Based Voucher statutory cap is a straightforward change that will help local housing agencies meet the soaring demand for affordable housing. The Santa Clara County Housing Authority has already successfully used a higher project voucher cap, and this legislation recognizes the impact the county's innovation has had.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1636805/rep-panetta-leads-introduction-of-the-housing-access-improvement-act-to-support-affordable-housing-on-central-coast"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/21899/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/21899/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: Last week, @HouseDemocrats passed the #LowerFoodAndFuelCostsAct to help farmers & alleviate supply chain bottlenecks. This will lower prices at the gas pump & grocery aisle.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepZoeLofgren/status/1539723027067420674?s=20&t=2UzP8CHzGNMnit85aVP3qA"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, @HouseDemocrats passed the landmark Inflation Reduction Act. This legislation help will lower prescription drug costs, save our planet from the worst effects of climate change, keep ACA health insurance affordable, & fight inflation & spur growth.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1558207690790211584?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"The COVID-19 pandemic continues to exacerbate shortages, with parents unable to find child care and businesses struggling to find workers, contributing to supply chain bottlenecks and inflation. Addressing our nation's child care crisis remains essential to boosting labor force participation among mothers, helping lower everyday expenses for families and child care providers who are facing higher costs due to inflation, and ensuring all children access the benefits of quality child care that support positive physical and brain development. We stand ready to work with you to enact legislation through reconciliation that ensures middle-class and working families do not spend more than 7 percent of their income on child care, expands access to pre-K, and invests in the early childhood workforce and infrastructure.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610101/letter-to-joseph-r-biden-president-of-the-united-states-senator-murray-majority-of-senate-democrats-urge-action-to-address-child-care-crisis-through-reconciliation/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/21899/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Student loans shouldnât be a barrier to a college education. I applaud @POTUS for providing relief to 43 million borrowers, capping payments & extending the pay pause. This will help combat the student debt crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1562568591530405888?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/21899/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Democratic majority in the House of Representatives worked diligently to re-establish key provisions of the Voting Rights Act and put these blatantly discriminatory attempts to rob minority groups of their voting voice right back where they belong--firmly in the past. In passing H.R. 4, the Voting Rights Advancement Act, the House acted to ensure that every vote counts, and every eligible voter is able to exercise their right to vote, regardless of skin color or place of residence. The Voting Rights Act has long enjoyed bipartisan support, last renewed under a Republican-controlled Congress and signed by President George W. Bush -- it is long past time the Senate honor this tradition by bringing H.R. 4 to the floor for consideration.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1441538/statement-on-seventh-anniversary-of-shelby-county-decision/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voter ID: Members act as if that is just a piece of cake. Well, 11 percent of eligible voters in the United States don't have an ID, and they can't get it because they don't have the money to pay for the underlying documents that would be necessary to get that ID. And those 11 percent are disproportionately senior citizens, young people, people with disabilities, low-income voters. So what is the alternative? They sign under penalty of perjury. They can be prosecuted for a felony if they are lying.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1506290/for-the-people-act-of-2021/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/21899/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the South Bay and around the country, individuals and families are looking for ways to do their part in building our country's clean-energy economy and fighting climate change. The Clean Energy Victory Bonds Act provides Americans with an opportunity to invest, within their means, in innovative technologies that will yield profits both for themselves and our society,\" said Lofgren, a member of the Committee on Science, Space, and Technology. \"This is my fifth time reintroducing this bill, and I feel strongly that, as momentum continues to build in California and around the country to be good stewards of our environment, we must employ proven economic growth-based tactics to tackle climate change. We all benefit when we invest in America's future.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1535253/merkley-lofgren-matsui-introduce-legislation-to-give-individuals-an-opportunity-to-invest-in-building-americas-clean-energy-future/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We all benefit as Americans when we invest in the future of our country. I am pleased to reintroduce the Clean Energy Victory Bonds Act for the fourth time, as momentum builds in California and across the country for aggressive action on climate change,\" said Lofgren. \"Americans on both sides of the political divide understand the need for urgent action on the energy and environmental challenges we face. Individual citizens are looking for avenues to take ownership of these efforts and this legislation provides them with an opportunity to invest within their means in an array of clean energy projects.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1361870/udall-lofgren-matsui-introduce-legislation-to-give-all-americans-an-opportunity-to-invest-in-building-our-clean-energy-future/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/21899/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed Letter to Secretary Bernhardt: \"We are concerned over reports that the administration is continuing to pursue plans to expand new oil and gas leasing off the Pacific coast of the United States. As Members of Congress from the California Delegation, we write in strong opposition to any new oil and gas leasing off the Pacific coast. We urge you to continue to follow the 2017-2022 Outer Continental Shelf (OCS) Oil and Gas Leasing Program (Program), ensuring that no new oil and gas leasing takes place off the coast of California.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1445798/letter-to-david-bernhardt-secretary-of-the-interior-congressman-gomez-california-house-delegation-express-opposition-to-new-oilgas-leases-off-california-coast/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Speaker Pelosi: \"It is time to enact a budget that ends new federal leasing for offshore oil and gas drilling and prevents the next oil spill. Oil spills shut down the very activity that drives coastal economies. As we are seeing in California right now, toxic oil is covering marine wildlife, causing beaches to close, and shutting down recreation areas that support local businesses and industries. We cannot afford to keep investing our nation's budget in harmful leasing at a time when we should be investing in coastal communities, which requires preventing new offshore leasing. To avoid the next drilling disaster and protect future generations we must permanently protect our coasts from new offshore drilling. Thousands of jobs in industries like tourism, recreation, and fishing rely on the decisions we make in the coming weeks and months.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1569289/letter-to-hon-nancy-pelosi-speaker-of-the-house-and-hon-steny-hoyer-house-majority-leader-congressmen-alan-lowenthal-mike-levin-lead-letter-to-house-leadership-urging-retention-of-offshore-drilling-provisions-in-build-back-better-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/21899/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our nation has been affected by far too many mass shootings and we are long overdue for commonsense reforms to ensure all Americans have a right to safety from gun violence.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249480/issue-position-end-gun-violence"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the House passed the #AssaultWeaponsBan Act. While it canât bring back the lives lost three years ago yesterday at the Gilroy Garlic Festival, it would have prevented the sale of the gun used in the attack & will help prevent future tragedies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1553147805677621255?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/21899/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/21899/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/21899/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we recognize #FMLA23, it's time for Congress to pass national #paidleave #leadonleave\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepZoeLofgren/status/695671546287955968?s=20&t=2UzP8CHzGNMnit85aVP3qA"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter Act will deliver for California families with critical investments in childcare, universal Pre-K, paid leave, home & community based care, & expanded Child Tax Credits. I urge my Senate colleagues to quickly pass this vital legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1470778911801987073?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/21899/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Furthermore, we cannot ignore the economic benefits of paid leave. Enacting paid leave also means that families will continue to earn some income at the very time when they need it most â when a family is growing or a member is sick and needs medical care. Workers will be able to continue to earn a portion of their wages, allowing them to continue to meet their basic needs and pay bills before returning to work. Moreover, lack of paid leave has meant that workers lose an estimated $22.5 billion in wages each year when that could have been used to keep a family afloat and spent in local economies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1569262/letter-to-hon-joe-biden-president-of-the-united-states-pressley-100-house-democrats-urge-president-biden-to-protect-paid-leave-in-build-back-better-act/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thanks to the #InflationReductionAct, over 23,000 CA19 residents will save an average of $1,200 in health insurance premiums. 5,000 CA19 Medicare recipients will also have the cost of their insulin capped at $35 per month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1565386234335268865?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/21899/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/21899/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Zoe has described President Trump's cancellation of the Deferred Action for Childhood Arrivals (DACA) program as \"a moral emergency for our nation\". Some 800,000 DACA recipients brought to the United States as children are today vital members of our communities and economy. They are as American as any of us -- except for paperwork. President Trump's decision to turn his back on them betrays our national character. As the Senior Democrat on the House Judiciary Subcommittee on Immigration and Border Security and a former immigration attorney and immigration law professor, Zoe is working hard to grant DREAMers the legal status and path to citizenship that they deserve.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249479/issue-position-protecting-dreamers/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/21899/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/21899/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The men and women who work America's farms feed the nation. But many of them do so while living and working in a state of uncertainty and fear, which has only been heightened by the COVID-19 pandemic,\" said Rep. Zoe Lofgren. \"Stabilizing the workforce will protect the future of our farms and our food supply. The Farm Workforce Modernization Act accomplishes this by providing a path to legal status for farmworkers and updating and streamlining the H-2A temporary worker visa program while ensuring fair wages and working conditions for all workers. I look forward to working with Senators on both sides of the aisle to get this bipartisan legislation that serves the best interests of our country to the President's desk.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1516601/house-sends-bipartisan-farm-workforce-modernization-act-to-the-senate/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Zoe has described President Trump's cancellation of the Deferred Action for Childhood Arrivals (DACA) program as \"a moral emergency for our nation\". Some 800,000 DACA recipients brought to the United States as children are today vital members of our communities and economy. They are as American as any of us -- except for paperwork. President Trump's decision to turn his back on them betrays our national character. As the Senior Democrat on the House Judiciary Subcommittee on Immigration and Border Security and a former immigration attorney and immigration law professor, Zoe is working hard to grant DREAMers the legal status and path to citizenship that they deserve.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1249479/issue-position-protecting-dreamers/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/21899/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The US gov must continue to hold Russia accountable while strengthening Ukraineâs ability to fight off their invaders. Today, the House passed legislation to revoke permanent normal trade relations from Russia, which will further isolate Russia from the world. #IStandwithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/RepZoeLofgren/status/1504585066365734912?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/21899/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/21899/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, this NDAA conference report contains several important provisions that I support. These include the authorization of $300 million for the Ukraine Security Assistance Initiative, $300 million for construction of new military childcare centers, excluding the Basic Allowance for Housing (BAH) from the Basic Needs Allowance (BNA), and providing a 5.2 percent pay raise for servicemembers.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1668012/conference-report-on-hr-national-defense-authorization-act-for-fiscal-year-2024/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/21899/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/21899/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:16:32+00:00"
+}

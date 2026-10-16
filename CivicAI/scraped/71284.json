@@ -1,0 +1,700 @@
+{
+  "name": "Norma Torres' Issue Positions (Political Courage Test)",
+  "page_title": "Norma Torres' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 35, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 35",
+  "candidate_id": "71284",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/71284/norma-torres",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"46 years ago today, #SCOTUS ruled to defend a woman's right to make her own personal health decisions. As Vice Co-Chair of the @ProChoiceCaucus in the new Democratic House majority, I will fight to protect against Republican attacks on Roe v. Wade. #FightForRoe\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1087874868874489863?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/71284/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/71284/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today is the day that the wealthiest Americans hit the payroll tax cap and stop paying into Social Security. As House Republicans propose cuts to #SocialSecurity, House Democrats are fighting to protect benefits and #ScrapTheCap.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1630619914926014475?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I took to the House floor to speak against #GOPTaxScam 2.0. It would make the kickbacks to millionaires and corporations from the original #GOPTaxScam permanent by jeopardizing Medicare and Social Security for our seniors and raising taxes on CA's hardworking taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1045407337840881664?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats believe that big corporations and billionaires should pay their fair share in taxes. House Republicansâ first bill in the #118thCongress was to make it easier for wealthy people to cheat on their taxes. It's clear who's putting #PeopleOverPolitics.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1612860718755233792?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the Inflation Reduction Act becomes law! The benefits of this bill are game-changing for working families and seniors, all while making the ultra rich pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1559627628184608768?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/71284/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today is the day that the wealthiest Americans hit the payroll tax cap and stop paying into Social Security. As House Republicans propose cuts to #SocialSecurity, House Democrats are fighting to protect benefits and #ScrapTheCap.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1630619914926014475?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the Inflation Reduction Act becomes law! The benefits of this bill are game-changing for working families and seniors, all while making the ultra rich pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1559627628184608768?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/71284/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/71284/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "statement",
+          "text": "\"14 years ago, #CitizensUnited gave corporations and the ultra-wealthy the nearly unfettered ability to influence our elections. To ensure our nationâs democracy works for all Americans, we need to get big money out of politics â period. #DemocracyIsNotForSale\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1749191640781353470?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#GeorgeFloyd activated moms across the US to look in the mirror & ask: Is this the best we can do Yesterday's passage of the #JusticeInPolicing Act addresses an issue that's seemed unsolvable for far too longâand itâs up to us to build on these efforts.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1276600279429836800?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #GeorgeFloyd #JusticeInPolicing Act passed the House two weeks ago. We're one step closer towards true reform in this country, but as always, we're waiting on @SenateMajLdr Mitch McConnell to take ACTION.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1281288714723852294?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks 3 years since the murder of George Floyd. Bad policing costs lives, taxpayer dollars, and the trust of our communities. No one should be killed because of the color of their skin. We must do more to ensure that police fully uphold their promise to protect and serve.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1661759276874956801?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/71284/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Trump increasing defense budget wonât make us safe, but it will mean less $ for schools, health care & our crumbling roads & bridges.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/836368989815189505?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/71284/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31775/82892/71284/national-defense-authorization-act-for-fiscal-year-2022#82892"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/71284/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Had a great conversation with @POTUS & @SecretaryPete as they met w/ former mayors & governors today to discuss how the #AmericanJobsPlan will create much-needed jobs & deliver the #infrastructure we need to thrive once this pandemic is behind us.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1384238379978477573?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/71284/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/71284/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/71284/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#BuildBackBetter means historic investments in childcare, higher education, affordable housing, and job training as we recover from the #COVID19 crisis. We need to get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1453770284641685507?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everyone deserves a roof over their head and a floor beneath their feet. Iâm working hard in my role as Chair of @NewDemCoalitionâs Affordable Housing Task Force to make sure historically overlooked communities receive the shelter they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1740553975059886321?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #InlandEmpire has some of the worst air quality levels in the country. We deserve a 21st century infrastructure plan that also cleans up the air we breathe. From sustainable housing to expanded public transit, we can #ActOnClimate & improve quality of life for our families.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1406033493734223875?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ability to rent or buy a safe, secure home is essential to the American Dream. As chair of @NewDemCoalitionâs Affordable Housing Task Force, we met with @NLIHC's Diane Yentel to discuss improving housing affordability and accessibility in underserved communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1747761861783625837?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Insulin out-of-pocket costs for Americans on #Medicare are now capped at $35 a month. Thanks to the Inflation Reduction Act, Democrats are starting to lower prescription drug costs and deliver real savings for millions.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1612502461272494101?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the Inflation Reduction Act becomes law! The benefits of this bill are game-changing for working families and seniors, all while making the ultra rich pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1559627628184608768?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/71284/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Student debt relief is a win-win for employers & students AND legal. It is outrageous that extreme MAGA Republicans are working overtime to prevent millions of Americans from having their student debt canceled.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1630637960231292930?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUS, $5 billion in student loans will be canceled for nearly 74,000 borrowers, including teachers, nurses & firefighters. These hard-working Americans deserve this relief, and weâll keep fighting for others to have the same opportunity!\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1748755517126693061?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, extremists on the Supreme Court struck down student debt relief for millions of Americans, including those right here in the Inland Empire. This is a devastating ruling. @POTUS must use all his authority to deliver student loan forgiveness.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1674919240955211778?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/71284/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "statement",
+          "text": "\"Six years ago, five justices on the U.S. Supreme Court gutted one of our nationâs most important and effective civil rights laws â the Voting Rights Act of 1965. Itâs time for Congress to revive the heart of that law & restore it to its full & necessary strength. #RestoreTheVote\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1143662381630939136?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/71284/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #InlandEmpire has some of the worst air quality levels in the country. We deserve a 21st century infrastructure plan that also cleans up the air we breathe. From sustainable housing to expanded public transit, we can #ActOnClimate & improve quality of life for our families.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1406033493734223875?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/71284/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/71284/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Methane pollution from the oil & gas industry is harming our health and climate. That is why I fought for the inclusion of a robust program to #CutMethane as part of the #InflationReductionAct, and I'm glad that @EPA is tackling this deadly pollution.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1592992656094904320?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is a devastating ruling for the health and well-being of our communities and our planet. We must continue to fight for environmental justice, to expand green energy, and create a cleaner, healthier future for our kids and our Earth\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1542641901643485184?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/71284/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"National Gun Violence Survivor Week marks the time of year where gun deaths in the US surpasses gun deaths in peer countries in an entire year. Gun violence kills 100 Americans each day. House Republicans must stop playing political games with gun violence. #GVSurvivorsWeek\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1749528972612812858?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is #GunViolenceAwarenessDay. In the #InlandEmpire & across the country, we #WearOrange to remember victims whose lives were cut short & families who carry on w/ the unimaginable burden of loss. We must achieve commonsense gun safety laws to end the senseless loss of life.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1400933333610102785?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/71284/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/71284/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Healthcare is a human right. Thanks to the #InflationReductionAct, 4 out of 5 Americans can find high-quality health care coverage for $10 a month or less. #CA35 has until January 31 to #GetCovered!\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1747411410378735740?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats are focused on lowering prescription drug prices & improving access to affordable healthcare. Meanwhile, @realDonaldTrump & the @GOP are suing to strip healthcare away from millions in the middle of a pandemic. The difference couldn't be any clearer.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1311046925496406016?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Torres strongly believes that health care is a human right. The United States is one of the wealthiest countries in the world, and no one should go without affordable and comprehensive health insurance. During her tenure in Congress, she has fought to strengthen the Affordable Care Act, expand community health centers in the Inland Empire, and eliminate the barriers preventing Americans from accessing the care they deserve.\"",
+          "source": "www.normatorres.com",
+          "url": "https://www.normatorres.com/health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/71284/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For too long, rail workers have been denied paid sick leave, leaving them with no safety net if they or a loved one fall ill. The Senate has the opportunity to change this. It's time to pass legislation to support those workers who are simply seeking dignity and respect.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1598385531486101504?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women have lost nearly 2.9 million jobs since the beginning of the pandemic. It's critical that we prioritize paid leave and child care now to ensure we #BuildBackBetter and more equitably as we recover from this crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1448025652855115776?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/71284/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats are focused on lowering prescription drug prices & improving access to affordable healthcare. Meanwhile, @realDonaldTrump & the @GOP are suing to strip healthcare away from millions in the middle of a pandemic. The difference couldn't be any clearer.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1311046925496406016?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Insulin out-of-pocket costs for Americans on #Medicare are now capped at $35 a month. Thanks to the Inflation Reduction Act, Democrats are starting to lower prescription drug costs and deliver real savings for millions.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1612502461272494101?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/71284/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/71284/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hatred has no boundaries; itâs only purpose is to hurt the innocent. My heart is heavy for the lives lost in #Egypt, but calling for tighter border security and promoting nativist sentiments only adds fuel to the flame and does nothing to prevent these attacks from occurring.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/934550912412147712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bipartisan deal to #KeepGovernmentOpen reclaims our American values. It funds smart border security, invests in our communities, and ensures we treat immigrants with dignity. We can finally move on, give federal workers certainty, and get down to the business of governing.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1096240040945041410?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 23% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Dreamers and TPS recipients are essential members of our communities across the country. They are doctors, teachers, and business owners. It's time we give these Americans certainty and a pathway to citizenship. #HR6 #ProtectTheDream\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1105950762239172608?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We rely on the work & efforts of immigrants, but our immigration system has failed them. My registry bill delivers a pathway to permanent legal status. Glad to see my bill included in @HispanicCaucus's immigration priorities!\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1752725677512495434?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 23% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/71284/norma-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/71284/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Beijing's National Security Law blatantly encroaches on the liberties of the Hong Kong people & only serves to further undermine their independence. The US must remain ready to meet any abuse of human rights by Chinese officials w/ appropriate sanctions.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1278396918133972992?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/71284/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/71284/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/71284/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/71284/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/71284/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/71284/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/71284/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social media is a powerful tool, and those who are responsible for that power must be held to account. I'm thankful to Facebook whistleblower @FrancesHaugen for her courageous testimony. Some of the most disturbing revelations from this testimony are that Facebook knew their products were harming children, and intentionally hid those findings. Without this whistleblower, who knows how much longer they would have gotten away with it.\"",
+          "source": "x.com",
+          "url": "https://x.com/NormaJTorres/status/1445501012291117064?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:31:37+00:00"
+}

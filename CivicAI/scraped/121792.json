@@ -1,0 +1,628 @@
+{
+  "name": "Barry Moore",
+  "page_title": "Barry Moore's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AL) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (AL) - Sr",
+  "candidate_id": "121792",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/121792/barry-moore",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Its official - Roe v. Wade has been overturned! We've waited a long time for this decision to be overturned, and countless lives will be saved as a result.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1540353583606013954?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today at the SCOTUS, I talked with a group of pro-life medical professionals about the major abortion case before the Court this morning. This is a monumental day in our nation's history as the Supreme Court considers striking down Roe v. Wade.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1466152795128614917?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 48th anniversary of Roe v. Wade, a terrible decision that has allowed abortion to tragically end over 62 million innocent lives. Every life is precious, and I will always unapologetically fight to protect the sanctity of life at every stage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1352648340425617410?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/121792/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do not support increasing taxes to balance the budget. I do support fair, flat, or consumption taxes and a complete tax reform. Spending MUST be decreased. I have taken the Fair Tax Pledge and the Taxpayer Protection Pledge.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"REDUCE GOVERNMENT & CUT TAXES\"",
+          "source": "barrymooreforcongress.com",
+          "url": "https://barrymooreforcongress.com/#Issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, I introduced legislation to repeal our 16th Amendment, which authorizes the federal government to collect income taxes on its citizens. We need to restore fiscal responsibility and put hard-earned money back in the wallets of American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1648359165973213186?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should be cutting taxes, not paying more for Biden's failed policies that fuel inflation. That's why I introduced the HITS Act to provide an income tax holiday for millions of Americans who support the American economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1516163542059204611?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do not support increasing taxes to balance the budget. I do support fair, flat, or consumption taxes and a complete tax reform. Spending MUST be decreased. I have taken the Fair Tax Pledge and the Taxpayer Protection Pledge.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, I introduced legislation to repeal our 16th Amendment, which authorizes the federal government to collect income taxes on its citizens. We need to restore fiscal responsibility and put hard-earned money back in the wallets of American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1648359165973213186?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should be cutting taxes, not paying more for Biden's failed policies that fuel inflation. That's why I introduced the HITS Act to provide an income tax holiday for millions of Americans who support the American economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1516163542059204611?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I normally do not support increased regulation. However, I do support regulation or legislation that limits politicians from accepting campaign contributions from entities that attempt to influence political activity (directly or indirectly).\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of indirect campaign contributions from corporations and unions? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will ALWAYS support our law enforcement officers while the Democrats raise money to undermine law and order.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1496585913111134211?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our law enforcement officers risk their lives every day to serve our nation. This #NationalPoliceWeek, I want to thank every law enforcement officer and honor over 120 officers that have fallen this year. I will always #BackTheBlue.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBarryMoore/status/1524135986145509376?s=20&t=c96Y42QcXKam4m_WeOLcvw"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280: \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/121792/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support increasing defense spending? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support making our military the strongest in can be. However, there are many ways to increase defense and acquisition reform, regulatory reform, pork barrel, and other reforms must take place before spending increases. We must be ready to defend our homeland and interests and allies abroad at all times.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/121792/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Federal spending to support economic growth cannot burden the taxpayer--but should support the taxpayer.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted NO on the latest Democrat short-term spending bills. Democrats have been so focused on sticking the American people with their radical tax-and-spend agenda that they have once again neglected to perform the basic role of government.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1466538565060464649?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted against a continuing resolution that extends Biden and Pelosiâs out-of-control spending. Americans simply canât afford another CR that doesnât include any spending cuts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1724575416201973854?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support federal spending as a means of promoting economic growth? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed Letter to Joe Biden, President of the United States - Johnson Calls for President Biden to End Unconstitutional Eviction Moratorium: \"Instead of pursuing an unconstitutional moratorium, the Biden administration should be focused on distributing the nearly $50 billion in rental assistance that was appropriated through three separate stimulus packages.\" the lawmakers said. \"As long this moratorium remains in place, property owners will continue to struggle financially. These property owners must still pay mortgages, taxes, and maintenance for the dwelling. If this continues much longer, we will see a wave of bankruptcies, foreclosures, and blighted properties.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1555078/letter-to-joe-biden-president-of-the-united-states-johnson-calls-for-president-biden-to-end-unconstitutional-eviction-moratorium"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/121792/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden insists all is well with the American economy and inflation isn't all that bad. What world is he living in?! We need to cut gov't spending and red tape and let Americans keep more of their hard-earned money.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1539717898230534145?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs Inflation Reduction Act is bringing fire and rain, to the White House and the American people. And Biden isnât just taking money out of your wallet â he is celebrating it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1570132356127756289?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/121792/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democratsâ so-called \"Inflation Reduction Act\" and its millions in tax breaks for Green New Deal policies includes paying wealthy Americans to install solar panels and wind turbines on productive farmland.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1556697498017726465?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined the military, used the GI bill & started at junior college. My wife waited tables. We sweated, sacrificed & saved to pay for our college educations & borrow to start & grow our small business. What lesson is Biden sending wiping clean debts students willingly took on?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1562469637534908423?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Speaker Pelosi said last year that Biden had no authority to cancel student debt, but now sheâs cheering him on as truck drivers are forced to pay for other peopleâs doctorates in philosophy. I joined 93 colleagues in a letter asking her where Bidenâs sudden authority came from.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1564296999456964609?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court just declared Biden's student loan giveaway unconstitutional. Huge victory for American taxpayers, who would have been forced to foot the bill of $400 billion over the next 30 years.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1674790804848779265?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let me get this straight...Texas Dems showed IDs to board private jets (maskless, I might add), and buy cases of Miller Lite - to travel to Washington, D.C. in protest of voter ID laws. This is only about power, folks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1415047564626366466?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Radical proposals like taxpayer-funded campaigns & eliminating voter ID remove power from state & local governments - only to consolidate more power in Washington.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1362431197268295683?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden needs to reverse his anti-American oil and gas policies and allow production to increase here in the United States. Reopen the Keystone XL pipeline.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1498845894833315840?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support providing incentives for the private sector to develop solutions to environmental issues. I support the scientific community in keeping the citizens and the public sector informed of trends in environmental impact world-wide.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democratsâ so-called \"Inflation Reduction Act\" and its millions in tax breaks for Green New Deal policies includes paying wealthy Americans to install solar panels and wind turbines on productive farmland.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1556697498017726465?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden gave Russia the greenlight to build a pipeline to Europe â giving them more leverage over our European allies â yet cancelled the Keystone XL pipeline that would have created jobs & benefited both our country & our ally Canada. Unleash American energy now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1507848988422295557?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden needs to reverse his anti-American oil and gas policies and allow production to increase here in the United States. Reopen the Keystone XL pipeline.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1498845894833315840?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"On day one, President Biden made the deeply misguided decision to revoke the Keystone XL Pipeline permit. Now more than ever, job creation and promoting American energy is paramount.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1362457405670490114?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the stroke of a pen, President Biden destroyed thousands of jobs on his first day in office by canceling construction of the Keystone XL Pipeline.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1354111716603424769?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do not support any legislation that infringes on the 2nd Amendment. I do support legislation that holds people accountable for their crimes and that supports increased efforts to curb the mental health crisis in America.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "\"STAUNCH 2ND AMENDMENT SUPPORTER\"",
+          "source": "barrymooreforcongress.com",
+          "url": "https://barrymooreforcongress.com/#Issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration wants to spend $2 BILLION in tax dollars on more funding for the ATF to go after law-abiding gun owners. We must reject Biden's bloated budget and protect the Second Amendment!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1637109855625392136?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support tort reform, putting medicine back in the hands of doctors. Insurance was much cheaper with lower deductibles before the government took it over. We needs to enforce basic standards of insurance practices to insure that medical costs stay as low as possible and that everyone can obtain and maintain healthcare.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/121792/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thanks to Joe Biden, our southern border is open and fully controlled by the cartels. Today, House Republicans proposed the strongest border legislation in history to repair the chaos and protect Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1656694216641200129?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We MUST enforce laws that are already on the books while completely reforming and streamlining immigration policy. Immigration is very important to US economic development. However, illegal immigration threatens not only economics, but the physical security of our homeland.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the construction of a wall along the Mexican border? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats are responsible for causing the worst crisis at our southern border we have seen in two decades. The proposals included in their so-called spending bill offers mass amnesty to up to 10 million illegal immigrants, and will drive even more migrants to our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1459609134609969156?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We MUST enforce laws that are already on the books while completely reforming and streamlining immigration policy. Immigration is very important to US economic development. However, illegal immigration threatens not only economics, but the physical security of our homeland.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Germany halted approval of Nord Stream 2 pipeline in response to the Ukraine invasion. President Biden gave the green light to Nord Steam 2 last year. Biden should have never waived sanctions on Putin's pipeline in the first place.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1496197511064821760?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The US military should only be used when all of the other elements of power (diplomatic, Information, and economic) have been exhausted or when we have an imminent threat of harm to ourselves or our allies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/121792/barry-moore"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans already funded our military in the defense appropriations bill with a pay raise included, but Senate Democrats wonât consider the bill because it doesnât include the $6 BILLION in Ukraine funding they requested. We are $33 TRILLION in debt, and Ukraine is not the 51st state. America First.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1708175509270450229?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukraine is a young nation with rampant political corruption. With so many problems here at home - including historic inflation fueled by gov't spending & a border crisis being ignored by Washington - don't the American people deserve to know how Kyiv is (mis)spending their money?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1600572913077608448?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Washington thinks $100 billion of your tax money is better spent in Ukraine than on your border, your community, and your well-being. We canât let them escape accountability for how that money is spent (or misspent).\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1616193140028805121?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/121792/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech silenced conservative voices that challenged the views of their left-wing CEOs. Speech isn't truly free if the Left dictates every word.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1518653321762025472?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Facebookâs tyrannical message is clearâthey won't stop censoring conservative voices that go against far-left Silicon Valley elites. Big Tech is a threat to free speech.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1389952557984927747?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Speaker Pelosi needs to stop dragging her feet and take action to hold Big Tech accountable for its dangerous behavior.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBarryMoore/status/1481339089433645065?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:08:52+00:00"
+}

@@ -1,0 +1,682 @@
+{
+  "name": "Kathy Castor",
+  "page_title": "Kathy Castor's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 14, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (FL) - District 14",
+  "candidate_id": "53825",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/53825/kathy-castor",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Courtâs devastating decision to overturn #RoevWade one year ago & strip away a fifty-year-old constitutional right weighs heavily on me. Republicans want to criminalize all abortions without exceptions & pass an extreme national ban that could send doctors to jail.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1672597348323831809"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 4132 \"Womenâs Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/53825/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "statement",
+          "text": "\"Happy Birthday Social Security, Medicare & Medicaid! Itâs great to celebrate these critical initiatives that lower health care costs, grow the middle class and strengthen retirement security. @HouseDemocrats, @POTUS & @VP will always protect the benefits you have earned.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1823410992489095462"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 - \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/53825/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 - Protecting Family and Small Business Tax Cuts Act of 2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/53825/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 - \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/53825/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #FreedomToVote Act will restore the promise of democracy for all Americans. The Senate must pass this legislation to protect the fundamental right to vote, end the dominance of dark money in politics and stop partisan gerrymandering.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1450220262046240770"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/53825/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/53825/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rep. Castor fights for investment, expansion and support our baseâs military missions and personnel need to keep our country safe.\"",
+          "source": "castor.house.gov",
+          "url": "https://castor.house.gov/issues/issue/?IssueID=57990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/53825/department-of-defense-appropriations-act-2025#101337"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/53825/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/53825/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/53825/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/53825/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rep. Castor supports small businesses and community investments -- such as those in education, research and infrastructure -- that create jobs.\"",
+          "source": "castor.house.gov",
+          "url": "https://castor.house.gov/issues/issue/?IssueID=4387"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing is critical to grow the middle class and lower costs for Americans. Thanks to @POTUS, new homebuyers can take advantage of cost-saving initiatives to make housing more accessible and equitable, promoting homeownership across the country!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1693626225523101730"
+        },
+        {
+          "type": "statement",
+          "text": "\"Investments in affordable housing will not only increase & improve the supply of affordable housing, but will also: âï¸create jobs ð¼ âï¸generate revenue for state & local govts ð° âï¸support equitable economic recovery ð\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1446816446621880327"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/53825/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/53825/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4521 \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/53825/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/53825/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/53825/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A college degree should be a ladder of opportunity, not saddle students with crippling lifetime debt. 118k #FL14 residents are eligible for @POTUSâ student loan forgiveness plan. #SCOTUS should reject the political lawsuit that would block financial relief for 40m Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1630709400338825219"
+        },
+        {
+          "type": "statement",
+          "text": "\"Higher education should be accessible and not drive our neighbors, especially younger generations, into debt. Today, @POTUS approved necessary relief for Floridians that participate in income-driven repayment and Public Service Loan Forgiveness!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1709600016426221660"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "statement",
+          "text": "Thank you @POTUS Biden and @USEdGov for providing relief to 320k student loan borrowers and their families.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1429063341750857729"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/53825/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/53825/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "statement",
+          "text": "\"Clean energy and related jobs should be a rallying point for the #SunshineState, esp as \"Florida is one of 13 states to not have some kind of specific goals or standards for how much energy comes from renewable sources like solar power\"!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1335979298776379393"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/53825/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/53825/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm disappointed that all but 1 Florida Republican voted against my amendment to permanently ban oil drilling off of the beautiful coastline of Florida.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1618770983682453505"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "statement",
+          "text": "\"Despite bipartisan passage of my bill to #ProtectOurCoast & permanently ban oil drilling off of Florida, Trump and oil companies are still pushing to open Florida waters to dirty drilling. We say \"NO\"!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1272618530140237827"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Time after time, the extreme MAGA GOP offers their thoughts and prayers, but never action. We must urgently pass commonsense gun safety legislation to foster safe, healthy communities and save our neighbors lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1803847999530893463"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/53825/kathy-castor"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/53825/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/53825/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/53825/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"When you're sick, you shouldnât have to choose between a paycheck &staying home to safeguard yourself + others. #Coronavirus makes it very clear: ðºð¸ needs guaranteed, paid sick leave for all, that's why Iâm cosponsoring @rosadelauroâs #PaidSickLeave bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1237140709523755014"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/53825/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\" @HouseDemocrats have made historic progress lowering health care costs by capping the price of insulin at $35/month for seniors on Medicare. No matter what the extreme MAGA GOP does, I will never give up in our fight to ensure health care is affordable & high-quality for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1760319816164917339"
+        },
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats promised lower health care costs, and we delivered! Thanks to the Inflation Reduction Act, insulin is now capped at $35/month for our neighbors who rely on Medicare! Thatâs $ back into your pocket and relief to millions of Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1613560492164874242"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/53825/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4760 \"Securing Americaâs Future Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24733/63246/53825/securing-americas-future-act-of-2018#63246"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/53825/border-security-and-immigration-reform-act-of-2018#63301"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/53825/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR: 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/53825/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Tampa Bay area is rich with diversity and culture because of our #Dreamers. On the 11th anniversary of #DACA, let us recommit to supporting our Dreamers, who know no other home than the United States.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1669356551029813248"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/53825/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1603 \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/53825/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/53825/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I love the Cuban people and have consistently advocated for families, human rights and a better life for our neighbors. Since the historic protests, Iâve urged President Biden to help empower the people of Cuba and sanction communist oppressors.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1418284982682914823"
+        },
+        {
+          "type": "statement",
+          "text": "\"ðºð¸ will stand up for ðºð¦ and for freedom and democracy in Europe and across the globe. Following the historic sanctions imposed by @POTUS to hold Putin and Russia accountable, I voted to ban Russian oil and gas imports & send support to people of Ukraine and their armed forcesð\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1501906135628103685"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/53825/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/53825/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ðºð¸ will stand up for ðºð¦ and for freedom and democracy in Europe and across the globe. Following the historic sanctions imposed by @POTUS to hold Putin and Russia accountable, I voted to ban Russian oil and gas imports & send support to people of Ukraine and their armed forcesð\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1501906135628103685"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/53825/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/53825/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/53825/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As parents, we want our kids to have the chance to be creative online while not being put in harmâs way. That's why I am working to pass increased online safety protections to ensure we create a digital landscape that protects minors from Big Tech's invasive data collection.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1793636321958986202"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ever feel like you just can't stop scrolling on TikTok or Instagram? I hosted a roundtable with students & they shared the negative feelings they have when they spend their entire day scrolling. It's time we hold Big Tech accountable & outlaw manipulative, addictive marketing.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKCastor/status/1796208667697557998"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/53825/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/53825/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:12:55+00:00"
+}

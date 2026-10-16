@@ -1,0 +1,160 @@
+{
+  "name": "George Whitesides' Issue Positions (Political Courage Test)",
+  "page_title": "George Whitesides' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 27, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 27",
+  "candidate_id": "213585",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/213585/george-whitesides",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, he will be committed to creating great jobs in the district, finding solutions to the wildfire crisis, protecting a woman's right to choose and protecting Social Security and Medicare for seniors.\"",
+          "source": "www.georgewhitesides.com",
+          "url": "https://www.georgewhitesides.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I'll fight to restore the protections of Roe v. Wade\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1749508578493522240?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Excited about the future of clean energy and transportation, and the mortgage-paying jobs they will bring to our communities. This is the future we can build together in #CA27!\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1722771757202034853?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"From protecting our communities from wildfires to creating in-district jobs in our transition to clean energy, Iâm excited to partner with them to bring climate leadership to Congress and deliver real results for CA-27.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1674439941252857857?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Antelope Valley and Santa Clarita are well positioned for business growth with affordable housing, supportive cities, and visionary energy efforts, including hydrogen. As a board member of this organization, I look forward to supporting the creation of more good jobs in our area.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1629256343952719872?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"California policymakers must get focused on this issue with urgency. State Farm's decision is a major alarm bell. We must bring together everyone asap to chart a path forward in an American West where wildfires are getting worse and demand for housing is increasing every day.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1663792136708591617?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protecting voting rights and our democracy is more important than ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1722667637866639747?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Excited about the future of clean energy and transportation, and the mortgage-paying jobs they will bring to our communities. This is the future we can build together in #CA27!\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1722771757202034853?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"From protecting our communities from wildfires to creating in-district jobs in our transition to clean energy, Iâm excited to partner with them to bring climate leadership to Congress and deliver real results for CA-27.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1674439941252857857?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our home town! Great things happening in the Antelope Valley, both in renewable energy and aerospace.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1054551991609970689?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Marches across the country on Saturday for gun safety. A big national turnout will encourage Congress to get their bill over the line, which will save lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1535453375768039424?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"The work you do is making our communities safer and healthier. It was good to attend this meeting. In Congress, Iâll be an advocate for common sense gun safety. #CA27\"",
+          "source": "x.com",
+          "url": "https://x.com/gtwhitesides/status/1757482354711609477?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:08:30+00:00"
+}

@@ -42,8 +42,10 @@ example
 /ios
 /android
 
+CivicAI/scraper/cookie.txt
+CivicAI/scraper/scrape.sh
+
 
 .venv/
 Julia-1/
 __pycache__/
-cookie.txt

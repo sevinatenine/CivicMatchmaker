@@ -1,0 +1,562 @@
+{
+  "name": "Maria Salazar",
+  "page_title": "Maria Salazar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 27, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (FL) - District 27",
+  "candidate_id": "182300",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/182300/maria-salazar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Christian and the mother of two beautiful daughters, I support life. The Supreme Court decision gives power back to the states and their voters â where decisions should be made, just as the Constitution intends.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1540345502054621186"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 25% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/182300/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        },
+        {
+          "type": "statement",
+          "text": "\"Very proud to join this crucial legislation making the 2017 tax cuts permanent for #Florida and #Miami residents. ððµ In a time when the White House is wreaking havoc on American household budgets, I will always help #FL27 residents withstand the damage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1625227694626447364"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 79% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        },
+        {
+          "type": "statement",
+          "text": "\"Very proud to join this crucial legislation making the 2017 tax cuts permanent for #Florida and #Miami residents. ððµ In a time when the White House is wreaking havoc on American household budgets, I will always help #FL27 residents withstand the damage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1625227694626447364"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/12/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/182300/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/182300/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nancy Pelosi says that the $3+ trillion spending bill that funds the socialist agenda costs nothing - zero. Truth is, if you commute to work, buy groceries, or pay for any goods or services, then Pelosi's passing the cost of this irresponsible spending spree onto you.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1447711494737698818"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I joined my @HouseGOP colleagues to denounce Speaker Pelosiâs reckless tax-and-spending spree. American taxpayers canât afford trillions in new spending â especially when gas prices are skyrocketing & we are just days away from the most expensive Thanksgiving in history.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1461083662276079626"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/182300/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/182300/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Miami home prices are through the roof. I just introduced the Home Advantage for American Families Act to help solve the housing affordability crisis in South Florida\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1659263730738163712"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/182300/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: the Inflation Reduction Act will do NOTHING to reduce inflation. Instead, itâs going to raise your taxes, send American jobs overseas, and weaponize the IRS to come for your hard-earned dollars.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1560016886259224578"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is getting signed into law today. This billâ¦â hires 87,000 new IRS agents â imposes a 15% minimum corporate tax â sends American jobs overseas â costs American taxpayers $437 BILLION â will do NOTHING to reduce inflation\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1559576639461380097"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/182300/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/182300/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/182300/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/182300/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/182300/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by the American Energy Alliance (AEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/182300/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"Even more important: we need to increase American energy production with an \"all the above\" approach. We produce the cleanest energy in the world. It's long past time the U.S. become energy independent instead of relying on foreign sources.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1501277895301517322"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The radical politics of Biden and his neo-Marxist advisers are killing the national oil industry, which is why you are shocked every time you go to a gas station. The solution is to stimulate and promote local production.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1542306412667215877"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/182300/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I 100% support the 2nd Amendment. Iâm also a mom & want the same safety for my girls that all parents want. Today I voted for more mental health funding, school safety, background checks on 18-21 year olds & tougher penalties for gun traffickers. Much of this is already FL law.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1540413144266379265"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 17% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182300/maria-salazar/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/182300/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "\"I 100% support the 2nd Amendment. Iâm also a mom & want the same safety for my girls that all parents want. Today I Voted in favor of more mental health funding, school safety, background checks on 18-21 year olds & tougher penalties for gun traffickers. Much of this is already FL law.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1540413144266379265"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Medicare is broken and now #BernieSanders wants to add illegal immigrants to his #MedicareForAll . Donât worry Bernie says, the rich will pay for it. How easy it is for #Socialists to ignore reality.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1118004272157929472"
+        },
+        {
+          "type": "statement",
+          "text": "\"Donât fall for socialists when they claim to offer you something for free. There are always strings attached and it always leads to losing freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1448327440435191818"
+        },
+        {
+          "type": "statement",
+          "text": "\"The majority of Democrats, including my opponent Donna Shalala, support âMedicare for All.â Their plan would cost between $30-$40 TRILLION. Where are we going to get that money from? The tooth fairy? We need to propose healthcare reform that doesnât rob hard working Americans!\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1232494329026863106"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/182300/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Immigration reform isnât a laughing matter. My #DignityAct has one of the strongest border security measures in the history of the U.S. Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1504588558157463563"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #DignityAct is not just an immigration bill, itâs a national security and economic bill! My bill funds historic investments in border security and reforms asylum to end âcatch and release.â\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1666085102311608321"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs inability to get the border crisis under control is costing my community. President Biden must end this crisis now by securing our border and protecting Americans and law-abiding immigrants\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1453425122975617026"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/182300/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Always proud to stand with our Dreamers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1669796477441286146"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/182300/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/182300/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States must uphold its responsibilities and reimpose sanctions on the Maduro regime now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMariaSalazar/status/1774830260770775163"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/182300/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/182300/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted to send more aid to our allies Israel, Ukraine, and Taiwan.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1783236470871863399"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/182300/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I want TikTok freed from the hands of the Chinese Communist Party. Today, I voted to force its owners to sell the app to another company that is not controlled by China. This is one of my favorite votes.\"",
+          "source": "x.com",
+          "url": "https://x.com/MaElviraSalazar/status/1768008525622448274"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/182300/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/182300/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:15:14+00:00"
+}

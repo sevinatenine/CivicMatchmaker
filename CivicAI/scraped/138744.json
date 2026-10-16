@@ -1,0 +1,628 @@
+{
+  "name": "Brittany Pettersen",
+  "page_title": "Brittany Pettersen's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CO) - District 7, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CO) - District 7",
+  "candidate_id": "138744",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/138744/brittany-pettersen",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"With the Supreme Court ruling, Brittany helped pass legislation to codify Roe v. Wade as a state senator. She believes that deciding if and when someone wants to start a family is one of the most personal decisions to make, and nobody, especially politicians, should do that for them. She has worked to increase access to contraception and protect abortion rights here in Colorado, and in Congress, will vote to protect those rights for everyone. Brittany is pro-choice, supported by Planned Parenthood and NARAL, and has been recognized as a champion for reproductive health care nationally.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 22-1279: \"Prohibits Restrictions on Reproductive Rights\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32441/84829/138744/prohibits-restrictions-on-reproductive-rights#84829"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP are trying to cut critical programs that Coloradans rely on. They are using the debt limit as leverage to roll back investments in clean energy, cut SNAP & Medicaid benefits, remove support for kids & veterans, and make it easier for the rich to cheat on their taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1651344047686942723"
+        },
+        {
+          "type": "statement",
+          "text": "\"Brittany will never balance our budget on the backs of seniors by slashing Medicare benefits. Our seniors need to know that they can rely on this essential medical coverage while we also work to save billions combating fraud and abuse.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"STRENGTHENING SOCIAL SECURITY: Our seniors have been hit the hardest during the pandemic by health complications from COVID and the inability to keep up with the rising costs on their fixed incomes. Brittanyâs parents, like so many seniors, rely on social security benefits to get by. Brittany will defend social security and work to increase benefits to adjust for the rising costs.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At a time when so many American families are struggling to make ends meet, Iâm glad Congress was finally able to come together on a tax bill to lower costs, support small businesses & address our housing crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1752875835264995402"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to talk about \"fiscal responsibility\" but gave out trillions in tax cuts we can't afford to the ultra-wealthy. That's why I offered an amendment to the debt ceiling bill to reverse Trump-era tax cuts for millionaires.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1663989908136968194"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthiest and largest corporations continue to avoid paying taxes while the rest of us are stuck footing the bill. As a state senator, Brittany closed offshore tax havens for corporations who were dodging taxes to give millions back to our public schools. She will continue to fight for tax fairness to support working families and invest back in our schools, roads, and small businesses. Brittany knows that we need a more fair and simple tax code that helps rebuild the middle class and invests back in future generations. She will fight to repeal the 2017 Trump tax cuts that only benefited the wealthy and largest corporations, and will work to help give breaks to the middle class who have been left holding the bag for far too long.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by Colorado Union of Taxpayers",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP are trying to cut critical programs that Coloradans rely on. They are using the debt limit as leverage to roll back investments in clean energy, cut SNAP & Medicaid benefits, remove support for kids & veterans, and make it easier for the rich to cheat on their taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1651344047686942723"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to talk about \"fiscal responsibility\" but gave out trillions in tax cuts we can't afford to the ultra-wealthy. That's why I offered an amendment to the debt ceiling bill to reverse Trump-era tax cuts for millionaires.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1663989908136968194"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthiest and largest corporations continue to avoid paying taxes while the rest of us are stuck footing the bill. As a state senator, Brittany closed offshore tax havens for corporations who were dodging taxes to give millions back to our public schools. She will continue to fight for tax fairness to support working families and invest back in our schools, roads, and small businesses. Brittany knows that we need a more fair and simple tax code that helps rebuild the middle class and invests back in future generations. She will fight to repeal the 2017 Trump tax cuts that only benefited the wealthy and largest corporations, and will work to help give breaks to the middle class who have been left holding the bag for far too long.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by Colorado Union of Taxpayers",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The video footage of Tyre Nichols' last moments will haunt yet another generation of Black Americans. This police brutality and abuse of power is horrifying. If we expect anything to change, we must pass legislation now to hold bad actors accountable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1620146177307213826"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yesterday, we passed a bipartisan National Defense Authorization bill, including a raise for the servicemembers who sacrifice everything to protect us, as well as investments in military family housing & child care. Meeting these needs is essential for the security of our nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1735712941373088243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/138744/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/138744/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Welcome to Colorado @POTUS! Thank you for all you have done in our state to create jobs in the renewable energy sector and promote the transition to clean energy. I hope you enjoy Colorado's incredible natural beauty and continue to work with us to protect it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1729879962348630358"
+        },
+        {
+          "type": "statement",
+          "text": "\"As the economy has shifted and changed during the pandemic, nearly every sector has struggled to fill their employment needs. In Congress, Brittany will fight to help address critical workforce needs by passing loan forgiveness programs in areas like education and health care. She also supports funding apprenticeship programs and training to help build the skills and workforce needed to address the housing crisis and infrastructure needs of our state.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, she will continue to work to help small businesses recover by increasing access to capital, help our economy grow by investing in the research, technology and infrastructure we need, and help fill critical workforce gaps with training, scholarships, and loan forgiveness programs. Brittany will also work to invest in broadband access across rural Colorado to bring reliable internet for our businesses and communities.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the economy has shifted and changed during the pandemic, nearly every sector has struggled to fill their employment needs. In Congress, Brittany will fight to help address critical workforce needs by passing loan forgiveness programs in areas like education and health care. She also supports funding apprenticeship programs and training to help build the skills and workforce needed to address the housing crisis and infrastructure needs of our state.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Housing is an intersectional issue that impacts everything in our society, and we pay so much more to solve it on the backend than if we fixed these challenges upfront. @HouseDemocrats and @FSCDems are united in addressing the housing crisis, but we can't do it alone.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1769760595908218979"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our secret is out. Colorado is the best place to live & it's affecting our housing costs, especially in rural communities. I'm proud we were able to pass LIHTC & a funding bill that includes affordable housing projects I championed for\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1770922171403051413"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're in a housing crisis andâespecially in the more rural parts of COâinvestments are critical so residents can stay housed & the area can continue to grow. I'm proud to have secured $850,000 in funding for housing development in Leadville!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1774105092028878992"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Because of the Inflation Reduction Act & American Rescue Plan, Americans are saving on health care. Coloradans insured through the Affordable Care Act in #CO07 save an average of $840 a year, and you can be saving too. The open enrollment period for the ACA started this week!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1720516967562408325"
+        },
+        {
+          "type": "statement",
+          "text": "\"Brittany understands that so many of our friends and neighbors are still struggling to keep a roof over their head and put food on the table. Prices for everything are going up because big corporations are increasing costs in a time of crisis while they are making record profits, and politicians in Washington arenât putting our families first. In the Colorado Senate, Brittany sponsored legislation to hold companies accountable for price gouging and will do the same in Congress. She has worked to lower the price of health insurance premiums by 20%, slashed costs to start a business, and reduced the gas tax in Colorado. She will continue to fight to reduce costs for working families who keep getting squeezed, overlooked and left behind.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation hurts working families, housing affordability, and the ability of businesses & municipalities to hire & retain workers. Coloradans need us to make progress on this in DC & ensure rural mountain towns get their fair share of #ARPA & #IIJA funds.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1623444817274339328"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the economy has shifted and changed during the pandemic, nearly every sector has struggled to fill their employment needs. In Congress, Brittany will fight to help address critical workforce needs by passing loan forgiveness programs in areas like education and health care. She also supports funding apprenticeship programs and training to help build the skills and workforce needed to address the housing crisis and infrastructure needs of our state.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Brittany also supports loan forgiveness programs that dedicate support for students who pursue careers in critical areas of need like education and health care. Brittany had to wait tables to put herself through college and knows that would be impossible today with a lack of public investments in our higher education that have increased tuition costs for students.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, she will continue to work to help small businesses recover by increasing access to capital, help our economy grow by investing in the research, technology and infrastructure we need, and help fill critical workforce gaps with training, scholarships, and loan forgiveness programs. Brittany will also work to invest in broadband access across rural Colorado to bring reliable internet for our businesses and communities.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Like most Americans, Brittany knows that one of the greatest threats we face as a country is the continued attacks on our democracy. As a legislator, she passed a law that made our stateâs elections the most secure and accessible in the country. In Congress, she will fight to protect every citizenâs right to vote and increase access to the ballot. Free and fair elections are the fabric of our democracy and Brittany will fight to protect the rule of law and ensure that our Constitution is upheld, no matter who wins an election.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are witnessing unprecedented attacks on voting across the country from state legislatures, as they work to restrict this fundamental right and weaken the foundation of our democracy. That's why I signed on to the John Lewis Voting Rights Advancement Act. #RestoreTheVote\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1704199086717415759"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Brittany knows that climate change is one of the greatest threats we face and is committed to championing legislation to help communities deal with the current impacts of the climate crisis and ensure we mitigate its worst effects. We must act now by investing in an energy grid that will meet the needs of the future for energy transmission, the research to expedite battery and energy storage needs of clean technologies. Brittanyâs two-year old son Davis reminds her every day that the clock is ticking and will champion policy solutions to ensure Colorado continues to be a place where Davis and future generations can live and thrive.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Brittany supports a balanced and responsible approach to meet our energy needs. She supports a rapid transition to renewable energy like wind, solar, geothermal and other emerging clean technologies. She believes the federal government must play a role in building the energy grid needed to support our stateâs future energy and transmission needs. We also need to incentivize the research, development and deployment of renewable technologies so we can grow our economy right here in Coloradoâs 7th District, ensure energy independence, strengthen our national security, and address the urgent threat of climate change.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Brittany has made it a priority to protect Coloradoâs public lands and open spaces in the legislature, and expanded our state parks. Our public lands support over 500,000 jobs and generate billions for our local economies in agriculture, hunting, recreation, and tourism. In Congress, she will fight to protect these spaces from developers to conserve the places that make Colorado the best place to live in the country.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Colorado is the best place in the country to live, in large part due to our beautiful public lands. I promised to preserve & protect them for future generations, so I just voted no on a @HouseGOP bill to bring oil & gas development to the mountains, forests & open spaces we love\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1619045135073042432"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by Independent Petroleum Association of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"3 years ago today, a shooter walked into a King Soopers in Boulder & horrifically killed 10 people. You shouldn't have to fear for your life at the grocery store, movie theater, church, or school. We owe it to the families of the victims to pass commonsense gun legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1771186534701486364"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last year, 44,357 Americans died of gun violence, and nearly 40,000 more were injured. This is a public health emergency. That's why I'm signing on to a bill to treat it that way. This bill will study the root cause of gun violence & point us towards solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1689366395711111170"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The ACA has brought critical insurance coverage to millions of Americans and has protected people living with pre-existing conditions from being denied coverage. I will fight to protect the ACA from partisan attacks and work to strengthen the access and quality of care provided.\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the 14th anniversary of the Affordable Care Act, which marks 14 years of lower healthcare costs for millions of Americans, and protections for people with pre-existing conditions. We must continue to protect this important legislation for GOP attacks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1771600881240199196"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy Mother's Day! It is the greatest honor of my life to be Davisâ mom. As a working mom, I'm only able to do this work because I have access to child care, not everyone is as lucky. We need paid family leave & increased access to childcare to support moms & families!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1789676050378563698"
+        },
+        {
+          "type": "statement",
+          "text": "\"Happy Mother's Day! One of the most meaningful parts of my life is being a mother to my son Davis. I'm so lucky to have the support I need to be a working mother, but not everyone is as lucky. That's why we need paid family leave & accessible childcare now in this country\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1657778043577073665"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is take your child to work day! I love having Davis in the office with me in DC. I'm so lucky to have the support I need to be a working mother, but not everyone is as lucky. That's why we need paid family leave and accessible childcare now in this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1783609952025624861"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the anniversary of the House passing the 19th amendment, which gave women the right to vote. Now, over a century later we are still fighting for representation, for our bodily autonomy, for paid family leave, and so much more. We need to keep up the fight!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1660313751726477313"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Coloradans are having to choose between putting food on the table or paying for their prescription drugs, which is why Brittany stood up to the drug companies and voted to cap the cost of insulin, reduce the price of prescription drugs, and protect Coloradans from surprise medical billing. Brittany also passed a law that made Colorado insurance premiums some of the lowest in the nation. In Congress, she will fight to allow Medicare to negotiate prescription drug prices and improve transparency in medical billing, while working toward ensuring that every single American can afford quality health care\"",
+          "source": "brittanypettersen.com",
+          "url": "https://brittanypettersen.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/138744/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our immigration system is broken, but @HouseGOP refuses to bring bipartisan border policies to the floor. Today the @NewDemCoalition unveiled our framework for immigration and border security reform. I urge Republicans to put politics aside & join us to fix this issue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1758238302988116286"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/138744/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/138744/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The end of DACA would be a disaster for DREAMers, their families, and our economy. For many, this is the only country they have ever known, and yet they are forced to seek out other programs or fear deportation. I will keep fighting to guarantee a pathway to citizenship.",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1683912431943180291"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/138744/brittany-pettersen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 19-1124: \"Prohibits Local Law Enforcement from Helping to Enforce Federal Civil Immigration Laws\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27055/69327/138744/prohibits-local-law-enforcement-from-helping-to-enforce-federal-civil-immigration-laws#69327"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 21-077: \"Authorizes Undocumented Immigrants to Earn Professional Licenses\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30557/78862/138744/authorizes-undocumented-immigrants-to-earn-professional-licenses#78862"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/138744/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/138744/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/138744/israel-security-supplemental-appropriations-act-2024#99510"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/138744/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"GOP blocked it for months, but we finally passed bipartisan bills to stand w/ our allies in Ukraine, Israel & Taiwan â and critical humanitarian aid for Gaza, Sudan, Haiti & more. These bills will help us fight authoritarianism & shape a future that supports democracy & freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPettersen/status/1781747936872808950"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/138744/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/138744/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/138744/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/138744/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-14T23:36:19+00:00"
+}

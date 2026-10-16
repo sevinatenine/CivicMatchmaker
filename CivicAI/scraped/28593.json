@@ -1,0 +1,596 @@
+{
+  "name": "Doris Matsui",
+  "page_title": "Doris Matsui's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 7, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (CA) - District 7",
+  "candidate_id": "28593",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/28593/doris-matsui",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today marks 51 years since #RoeVWade. But instead of celebrating its anniversary, people across the country are being denied the abortion care they need.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1749532231557640552"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, SCOTUS will consider a case that could overturn #RoeVWade and take away the constitutional right to a safe, legal abortion from people in many states. #AbortionIsEssential â and I urge the Court to follow my home state in ensuring that everyone has the right to choose.",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1466093918815150089"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have worked closely with our region's health care and safety net providers to ensure that Sacrementans have access to the health care they need.\"",
+          "source": "www.matsuiforcongress.com",
+          "url": "https://www.matsuiforcongress.com/issues/health-care/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will continue fighting to build on the Affordable Care Act and its protections for consumers, so that all hard working American families can benefit from and access affordable health care.\"",
+          "source": "www.matsuiforcongress.com",
+          "url": "https://www.matsuiforcongress.com/issues/health-care/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/28593/doris-matsui"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1163 \"Protecting Taxpayers and Victims of Unemployment Fraud Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 23 \"Family and Small Business Taxpayer Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/28593/doris-matsui"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/28593/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 93% by Common Cause.",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/28593/doris-matsui"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"As negotiations over the omnibus for FY2018 agreement continue, we write to urge you to block any campaign finance policy riders in the final spending agreement. Recent media reports indicate that several controversial policy riders designed to dramatically reshape federal campaign finance law are currently being considered for inclusion in the FY2018 omnibus spending package.[1] Specifically, it has been reported negotiators are considering: the elimination of coordinated spending limits on political parties, a repeal of the so-called Johnson Amendment, which bars religious institutions from explicitly endorsing or opposing political candidates, and the enactment of additional prohibitions on the authority of the Securities Exchange Commission, the Internal Revenue Service, and the Executive Branch to apply commonsense transparency measures to certain political activity. Each of these changes would have dramatic implications for our nation's campaign finance system, widening the channels of influence for wealthy and well-connected campaign donors and further exacerbating the flood of undisclosed and unaccountable \"secret money\" into our political system.[2] Yet, the 115th Congress has not held one hearing, commissioned a single study, nor investigated in any serious way the ramifications of these ill-conceived policy riders. Put simply, it is irresponsible for Congress to advance these campaign finance changes without due deliberation and public debate.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1232820/letter-to-the-hon-paul-ryan-speaker-of-the-house-the-hon-nancy-pelosi-house-minority-leader-the-hon-mitch-mcconnell-senate-majority-leader-and-the-hon-charles-schumer-senate-minority-leader-stop-controversial-spending-bill-provisions-that-would-increase-secret-money-in-politics"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5175 \"Campaign Finance Disclosure Requirements\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/79/campaign-finance"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stand with those across the country who have lifted their voices, shared their pain, and called on us to enact meaningful change. We cannot remain complicit in a system that systematically oppresses people of color. The George Floyd #JusticeinPolicing Act seeks to fundamentally shift our nation's failed approach on policing and is a positive step towards a safer, more equal and more just America.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/doris.matsui/posts/10158480714153119"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/20/criminal-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4003 \"Law Enforcement De-Escalation Training Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Preserving the agreement in the Bipartisan Budget Act of 2013 that required increased spending to be spread evenly between defense spending and non-defense discretionary accounts which have both been harmed by the ongoing sequester;\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1219049/letter-to-donald-j-trump-president-of-the-united-states-keep-government-open-include-bipartisan-priorities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5961 \"No Funds for Iranian Terrorism Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Right now, we are creating a strong economic foundation for our future to better connect and protect generations to come. This legislation makes historic investments to repair our roads and bridges, deliver clean drinking water to our schools, modernize transit, combat climate change, expand broadband access, and give America's workers the tools they need to build back better.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1574535/matsui-statement-on-the-passage-of-the-infrastructure-investment-and-jobs-act-and-advancement-of-the-build-back-better-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House has passed a government funding package that looks towards the future and makes critical investments to support our nation's recovery from the COVID-19 pandemic, invest in our health care, combat climate change, and meet some of Sacramento's most pressing needs,\" said Congresswoman Matsui. \"As we emerge from one of the worst public health crises in history, we need to think big and bold -- and this package of bills includes the funding necessary to help us Build Back Better.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1553430/matsui-applauds-house-passage-of-priorities-in-government-funding-package"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/28593/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/28593/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined my colleagues to advocate for keeping the historical investment of housing funds in the #BuildBackBetter Act. As negotiations continue, we must ensure these investments in affordable housing will help Sacramentans for years to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1451617545644085259?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm supporting continued investments in housing, public education, and child care because opportunity and support for American families is how we move the nation forward.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1440390492747808771?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It was an honor to speak at the @AmeriCorpsNCCC graduation to congratulate this class for all the work they did throughout California! From assisting with disaster recovery to building affordable housing to environmental stewardship, this class has made an impact in our state.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1544507361427079170?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"We write to thank you for your commitment to cutting the cost and increasing the supply of high-quality child care for families across the country. The COVID-19 pandemic continues to exacerbate shortages, with parents unable to find child care and businesses struggling to find workers, contributing to supply chain bottlenecks and inflation. Addressing our nation's child care crisis remains essential to boosting labor force participation among mothers, helping lower everyday expenses for families and child care providers who are facing higher costs due to inflation, and ensuring all children access the benefits of quality child care that support positive physical and brain development.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1610101/letter-to-joseph-r-biden-president-of-the-united-states-senator-murray-majority-of-senate-democrats-urge-action-to-address-child-care-crisis-through-reconciliation/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/28593/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Overwhelming student loans are a barrier to those seeking a college degree. @POTUS' plan to relieve debt will: âï¸ provide up to $20K in debt cancellation to Pell Grant recipients âï¸ provide up to $10K in cancellation if you make less than $125K âï¸ extend the loan pause to 12/31\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1562588357070180352?s=20&t=OhLxSCU_3x0skidtAke5ug"
+        },
+        {
+          "type": "statement",
+          "text": "\"The unfortunate reality is that skyrocketing college costs are putting a college education out of reach for many families. To help address this, I have supported legislation that prevented student loan interest rates from doubling, and locked in rates for new student loans to prevent rates from skyrocketing in the future. This is a good step, but further action must be taken. Nearly 40 million Americans are struggling to repay student loans, putting off goals such as home ownership and saving for retirement. I support legislation that would allow student loan borrowers to refinance their loans at more affordable rates, saving them thousands of dollars.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1250801/issue-position-education/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The heroic legacy of the civil rights movement is under attack as states pass strict voter ID laws, gerrymander & purge voter rolls. Iâm proud to vote for #HR4, critical legislation that will help stop the most egregious voter suppression tactics. #RestoreTheVote\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1203011450761076737?s=20&t=OhLxSCU_3x0skidtAke5ug"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/29/energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a member of the House Energy and Commerce Committee, I have made it a top priority to bring clean energy technology to Sacramento and to support companies who aim to create good-paying, clean-tech jobs to our region. I have introduced legislation to support our local clean-tech businesses while reducing our dependence on foreign oil.\"",
+          "source": "www.matsuiforcongress.com",
+          "url": "https://www.matsuiforcongress.com/issues/clean-energy/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have introduced legislation to support our local clean-tech businesses while reducing our dependence on foreign oil.\"",
+          "source": "www.matsuiforcongress.com",
+          "url": "https://www.matsuiforcongress.com/issues/clean-energy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Retired offshore oil & gas rigs are a huge risk to the environment, other offshore infrastructure, & frontline communities. Thatâs why my I wrote to @BSEEgov & @BOEM, outlining needed improvements to the decommissioning process for this infrastructure off the CA coast.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1603819751108595712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump wants to turn our coastlines into unfettered drilling zones - a handout to big oil. We need to #ProtectOurCoasts, businesses, and communities, and invest in clean energy to combat the climate crisis. That's why I was proud to vote today to ban drilling off our Golden Coast.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1171901006050988033?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910 \"Protecting Our Kids Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue fighting to build on the Affordable Care Act and its protections for consumers, so that all hard working American families can benefit from and access affordable health care.\"",
+          "source": "www.matsuiforcongress.com",
+          "url": "https://www.matsuiforcongress.com/issues/health-care/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 485 \"Protecting Health Care for All Patients Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/38/health-and-health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"25 years after the Family and Medical Leave Act was signed into law, people need #paidleave. A national plan like the #FAMILYAct would benefit families, businesses and the economy. #Paidleave means everybody wins. #FMLA25\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/960583576872988672?s=20&t=OhLxSCU_3x0skidtAke5ug"
+        },
+        {
+          "type": "statement",
+          "text": "\"On todayâs Paid Leave National Day of Action, we must continue to sound the alarm about passing a paid family and medical leave policy that would help Americans throughout Sacramento & the country. #PaidLeaveforAll would also save jobs & boost our economy â let's make it happen.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1439983156334153729?s=20&t=OhLxSCU_3x0skidtAke5ug"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thanks to the #InflationReductionAct, people with Medicare can receive free vaccines and afford insulin with a cap of $35/month. I'll continue to work hard to advocate for and advance policies that help older Americans and expand access to health care for families nationwide.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1643665904561946662"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/28593/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/38/health-and-health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/28593/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week, the House passed two bills that will deliver critical aid to help defend the Ukrainian people from Putinâs aggression and seize assets belonging to sanctioned Russian oligarchs. We remain committed to supporting the people of Ukraine in their fight for democracy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DorisMatsui/status/1519854485992050691?s=20&t=OhLxSCU_3x0skidtAke5ug"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/28593/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Putinâs unprovoked attack against Ukraine is horrifying and this evil will have consequences. Russiaâs disgraceful, premeditated invasion has already led to loss of civilian life. I strongly condemn Putinâs actions. Congress must work with @POTUS & our allies to support Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1496994003450884104?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/28593/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/28593/doris-matsui/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"TikTok knows the negative effects it can have on young women, political extremism and more. I demand transparency from platforms about the algorithms that shape our online interactions â especially for young users.\"",
+          "source": "x.com",
+          "url": "https://x.com/DorisMatsui/status/1639011439015862272?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:09:52+00:00"
+}

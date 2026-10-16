@@ -1,0 +1,652 @@
+{
+  "name": "Young Kim",
+  "page_title": "Young Kim's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 40, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (CA) - District 40",
+  "candidate_id": "151787",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/151787/young-kim",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/151787/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/151787/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every level of government must prioritize building and maintaining economic conditions that are competitive and prioritize growth, while ensuring our societal safety net is securely in place. From local services that provide mental health services to job placement support, the government must be there for those who need it.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm approaching eligibility for Social Security & Medicare myself & understand how important these programs are for our seniors. That's why I'm working to protect & strengthen these programs for future generations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1654599349857386498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: I do not support changes to Social Security & Medicare that our seniors have earned. I look forward to coming to an agreement that helps reduce our federal debt while protecting & strengthening these important programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1630387308565499906?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Supporting our seniors is personal to me. I will fight to ensure seniorsâ Social Security & Medicare benefits are protected & strengthened. Cuts are not on the table.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1636094922347388929?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians are struggling with record inflation, an all-time high in gas prices, skyrocketing housing costs & high state & local taxes. Our nation cannot afford more reckless spending & tax hikes that stifle economic growth & hurt workers, families & businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1461411694975062018?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Californians face the heaviest tax burden of any state in the nation, which is why Young will always fight to lower our taxes. Through bipartisan action, Young is working to provide much-needed tax relief by fully repealing the cap on State and Local Tax (SALT) deductions.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nearly 2 out of every 3 Americans is living paycheck to paycheck, and in California, everything is more expensive. That's why I'm working to bring common sense to Congress and make life affordable by combatting reckless spending and lowering taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1649790160878600198?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Young knows that the hard working men and women of Southern California are already taxed and regulated too much. Working Californians need to be able to keep more of their hard earned money, and the best way to keep good paying jobs in Southern California is by getting rid of unnecessary regulation, backing free market policies, and working with state and local leaders to create an environment where business can prosper.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians are struggling with record inflation, an all-time high in gas prices, skyrocketing housing costs & high state & local taxes. Our nation cannot afford more reckless spending & tax hikes that stifle economic growth & hurt workers, families & businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1461411694975062018?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Californians face the heaviest tax burden of any state in the nation, which is why Young will always fight to lower our taxes. Through bipartisan action, Young is working to provide much-needed tax relief by fully repealing the cap on State and Local Tax (SALT) deductions.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Young knows that the hard working men and women of Southern California are already taxed and regulated too much. Working Californians need to be able to keep more of their hard earned money, and the best way to keep good paying jobs in Southern California is by getting rid of unnecessary regulation, backing free market policies, and working with state and local leaders to create an environment where business can prosper.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/151787/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am grateful to the men and women of our law enforcement who work around the clock to keep us safe and will always back the blue!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1654999488640196608?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is not lost on Young that every day, thousands of individuals put on a uniform and work around the clock to keep our community safe. Young knows that these heroes ensure the rule of law is enforced and the prosperity we cherish and enjoy continues. In America today, violent crime is on the rise. To protect communities, law enforcement must have the support and tools they require to adequately deal with new criminals targeting businesses, families and individuals.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/151787/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Young Kim believes that a strong America must lead the world by defending the values that have made our country great and have given so many hope. The worldâs best chance at peace and stability comes when America is leading. Young Kim is restoring American global leadership by standing up to Russia, China, Iran, North Korea and other strongmen dictators and regimes that donât share our values.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/151787/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/151787/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/151787/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians are struggling with record inflation, an all-time high in gas prices, skyrocketing housing costs & high state & local taxes. Our nation cannot afford more reckless spending & tax hikes that stifle economic growth & hurt workers, families & businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1461411694975062018?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm fighting to rein in reckless spending & get our country back on track for my grandkids & yours. We cannot saddle them with debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1719527174695538965?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The best way to keep good paying jobs in Southern California is by getting rid of every unnecessary regulation, backing free market policies, and working with state and local leaders to create an environment where business can prosper.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/151787/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Californians already face high state and local taxes and housing costs. Inflation and big-spending policies only worsen costs of living. We need to restore pro-growth, commonsense policies that remove burdensome government red tape and empower Americans to thrive.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1487893380134805524?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Housing prices continue to soar in #CA39. I'm proud to cosponsor the Affordable Housing Credit Improvement Act & am working to fully repeal the cap on the SALT deduction. I remain committed to doing my part to make life more affordable for Californians.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1403351319578959880?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Limited housing supply, high mortgage rates not seen in decades, rising housing costs, and tax hikes are keeping the American dream out of reach for too many. I'm fighting to roll back the cap on the SALT deduction that hurts so many and make life more affordable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1757856353161200105?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Persistent inflation is hurting all Americans and impacts Californians the most, with the highest gas prices and living costs in the country. Iâm fighting back against the Biden administrationâs runaway spending and working to make life more affordable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1712455890190700949?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Young Kim knows what it takes to create an environment where jobs can be created and workers can thrive. She understands that reckless spending in Washington is worsening and prolonging the inflation crisis, making it impossible for the economy to recover.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/151787/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The latest CPI numbers confirm that inflation is not \"transitory\" as families continue to pay more for less. I'm committed to reining in reckless spending contributing to inflation & promoting commonsense policies to make life more affordable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1757464655860011128?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Financial aid transparency is vital for students & families to make informed decisions & avoid debt. My bipartisan bill was added to the College Cost Reduction Act to ensure families get accurate information on college costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1754950587857432770?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/151787/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/151787/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 11% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's anti-American energy policies of cutting off U.S. leases, begging authoritarian regimes for oil & shipping U.S. emergency oil reserves overseas to China are leaving Americans behind. We need to boost production here to grow supply chains & lower costs!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1546654572537675776?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration is actively begging Saudi Arabia for oil while cutting off U.S. leases. This is bad for our economy, national security & environment. We need energy security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1551009770315857922?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against SB 350: \"Establishes Renewable Energy Production Targets\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/20173/53943/151787/establishes-renewable-energy-production-targets#53943"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden has depleted our emergency oil supply & sent 500 million barrels to China. Meanwhile, Americans are suffering at the gas pump. These anti-energy policies are putting us on the wrong track.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1548449903013072905?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden said in his #SOTU address, \"instead of relying on foreign supply chains, letâs make it in America.\" I agree. So why are we buying over 500,000 barrels of oil a day from Russia?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1499236875667607559?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's anti-American energy policies of cutting off U.S. leases, begging authoritarian regimes for oil & shipping U.S. emergency oil reserves overseas to China are leaving Americans behind. We need to boost production here to grow supply chains & lower costs!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1546654572537675776?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration is actively begging Saudi Arabia for oil while cutting off U.S. leases. This is bad for our economy, national security & environment. We need energy security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1551009770315857922?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I introduced the Prevent Family Fire Act with @RepMikeLevin to incentivize safe gun storage. While there's no one-size-fits-all fix, this bill would reduce the chance of gun violence, suicide, or accidental shootings while protecting 2nd amendment rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1659363245021614081?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/151787/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The path to affordable, available, and accessible healthcare starts with a free and open market. Itâs basic economics â when there is a competitive marketplace, costs are driven down. Extreme socialist healthcare proposals that advocate for a government takeover of healthcare would eliminate private insurance and drastically increase taxes while failing to improve the quality and affordability of critical health services. Young believes in market-based solutions that give Americans the care they deserve while driving down the unacceptable costs of prescription drugs\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The path to affordable, available, and accessible healthcare starts with a free and open market. Itâs basic economics â when there is a competitive marketplace, costs are driven down. Extreme socialist healthcare proposals that advocate for a government takeover of healthcare would eliminate private insurance and drastically increase taxes while failing to improve the quality and affordability of critical health services. Young believes in market-based solutions that give Americans the care they deserve while driving down the unacceptable costs of prescription drugs\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/151787/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/151787/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a proud immigrant, Young wants people from around the world to be able to legally immigrate into our country, become citizens, and achieve the American Dream. However, our immigration system is broken and it must be fixed. Young will work with anyone who is willing to fix our immigration system while increasing border security.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Stopping the illegal entry of migrants, drugs, and weapons is a top priority for Young Kim. This begins on our Southern Border, which the Biden administration has failed to secure and has put our community at risk. Young believes the record number of illegal border crossings and record numbers of illegal drugs entering the country today is completely unacceptable.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/151787/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/151787/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a proud immigrant, Young wants people from around the world to be able to legally immigrate into our country, become citizens, and achieve the American Dream. However, our immigration system is broken and it must be fixed. Young will work with anyone who is willing to fix our immigration system while increasing border security.\"",
+          "source": "youngkimforcongress.com",
+          "url": "https://youngkimforcongress.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are already seeing tens of thousands of illegal crossings at our Southern border as Title 42 comes to an end. The border crisis is a direct result of President Biden's policies, and there is nothing fair, humane, or compassionate about it. I am fighting for solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1657155336699015169?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/151787/young-kim"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/151787/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/151787/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36415/97653/151787/israel-security-supplemental-appropriations-act-2024#97653"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/151787/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/151787/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/151787/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/151787/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/151787/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As long as TikTok is run by a company with ties to the Chinese Communist Party, it poses a serious security threat & should not be used by our kids. We must get answers on what information is being shared with the CCP & protect our national security & data privacy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1628541395563675648?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"If you want the Chinese Communist Party to control your algorithm, decide what you see on your news feed, & take your personal data, then TikTok is the app for you. TikTok is owned by a company with CCP ties & remains a national security threat.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1725275388459299027?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok is not only a national security threat, itâs addicting our kids. At todayâs @FinancialCmte National Security & Illicit Finance Subcommittee hearing, I asked if social media companies are doing enough to prevent fentanyl sales on their platforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1639046869673230336?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Whether through surveillance balloons or apps like TikTok, the Chinese Communist Party has made clear it will monitor Americans, steal our data & undermine our way of life. We must keep the American dream alive & ensure that our nation's word is taken seriously by adversaries.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepYoungKim/status/1630009825412407299?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:06:07+00:00"
+}

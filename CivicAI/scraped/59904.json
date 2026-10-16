@@ -1,0 +1,577 @@
+{
+  "name": "Julia Brownley",
+  "page_title": "Julia Brownley's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CA) - District 26, Democratic",
+  "candidate_id": "59904",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/59904/julia-brownley",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Pro Choice Caucus, I am proud to have voted for the Women's Health Protection Act, and I will continue fighting until everyone has the freedom to make their own decisions about their health and their lives. It is critically important for all my constituents to understand that in the State of California, abortion is still legal and people can access safe and legal abortion care. But for millions of others across the United States, this is not the case because of the extreme ideology of a few. Every American deserves the right to make their own personal health care decisions -- and we must continue to fight to protect the right to abortion access across the United States.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1613293/brownley-statement-on-supreme-court-decision-to-overturn-roe-v-wade"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/59904/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/59904/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always keep our country's commitment to today's and tomorrow's seniors. Balancing our budget does not mean doing so off the backs of America's seniors, who have paid a lifetime into Medicare and Social Security. I will vigorously oppose proposals that unfairly target seniors, who have played by the rules and worked for the benefits they have earned.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1065263/issue-position-seniors#.XZ4Ur-dKhYg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is an American success story and part of the fabric that safeguards economic security and independence for seniors and people with disabilities. In Congress, I am absolutely committed to protecting Social Security and Medicare, and addressing the high cost of prescription drugs.\"",
+          "source": "juliabrownley.house.gov",
+          "url": "https://juliabrownley.house.gov/issues/seniors-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/59904/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter Act lowers costs and fights inflation because it is fully paid for by making big corporations and the wealthiest pay their fair share. No one making under $400,000 will pay a penny more in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/1461488058663120896?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill raises taxes on 86 million middle-class households and will be especially painful here in California, where nearly 5.5 million taxpayers will see a tax increase. The legislation cuts back on the very popular state and local tax deductions that working families count on and puts limits on which kinds of disasters qualify for the property loss deduction that helps many in our state rebuild after terrible events, like wildfires and floods. More than 80 percent of the benefits in this bill go to the richest 1% of Americans, and to make matters worse, they pay for this windfall for the wealthy by exploding the debt by at least $1.5 trillion and sticking our grandchildren with the bill. Republicans are already talking about using this added debt as an excuse to cut Social Security and Medicare.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1214670/partisan-tax-bill-is-missed-opportunity-for-real-reform-says-brownley"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am deeply concerned about the current campaign finance system, because I don't believe corporations should be allowed to spend unlimited amounts of money to influence elections. In Congress, I have co-sponsored several constitutional amendments that would reverse the Supreme Court's misguided Citizens United and McCutcheon decisions. When I was in the California Assembly, I championed campaign finance reform as author of the California Disclose Act that would require the top donors of political advertisements for candidates and initiatives to be clearly identified on all mediums of political advertising, whether TV, radio or print.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1065254/issue-position-standing-up-to-washington-politicians"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/59904/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The George Floyd Justice in Policing Act is a step forward in ending police brutality, holding police accountable, improving transparency, and creating structural change that will safeguard every American's right to safety and justice.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1441000/brownley-applauds-passage-of-the-george-floyd-justice-in-policing-act/#.Xyg9uihKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"This sweeping legislation will take numerous steps to achieve transformative, structural change to stop police brutality and racial injustice, including: Eliminating the so-called qualified immunity doctrine that is a barrier to holding police officers accountable for wrongful conduct.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1441000/brownley-applauds-passage-of-the-george-floyd-justice-in-policing-act/#.Xyg9uihKg2w"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/59904/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This yearâs defense budget invests in what makes America strong: our diversity, our technological innovation, our alliances and partnerships, and those who serve in uniform.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrownley/status/1468404165248536580?s=20&t=aehMAPGTVUgh_aZHMzPR8A"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/59904/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/59904/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/59904/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/59904/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/59904/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our nation's roads, bridges, and transit systems are in dire need of repair. What better way to invest in our nation's crumbling infrastructure than by getting rid of a tax windfall for Big Oil? In addition to increasing investment, we also need to make sure that more funds are going directly to the local level, where transportation planning officials know their own communities' needs best. As a member of the House Transportation and Infrastructure Committee, I will continue to work to ensure local transportation projects, including right here in Ventura County, get the funding and support they need.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1322556/brownley-introduces-bills-to-increase-local-infrastructure-investment-cut-big-oil-subsidies#.XZ4WT-dKhYg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/59904/american-rescue-plan-act-of-2021#77837"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America is stronger when we have sustainable, inclusive communities and quality affordable housing for all Americans. I will continue to work in Congress to address the affordable housing crisis and ensure that every American has a safe place to live.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/993913950159949825?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"For too long, our country has failed to invest in fair and affordable housing. This has led to more families experiencing housing instability. Itâs time to #PassBuildBackBetter with $150 billion to help end homelessness and make housing more affordable. #ShowHousingLove\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/1493298275050569732?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Recently, #TeamBrownley attended the groundbreaking ceremony for Habitat for Humanityâs latest affordable housing project in Camarillo. Since 1983, Habitat for Humanity of Ventura County has been serving low-income families who are in need of safe, affordable housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/1121484718497832960?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As food prices rose, House Democrats took action to reduce prices for American farmers and lower prices for families in the grocery aisles. But our work is far from over. We understand that prices are too high and Americans are struggling to make ends meet. Fighting inflation and lowering costs for families remains our top priority.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1621484/house-democrats-take-action/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, House Democrats continued their work to provide relief to America's working families, to lower everyday costs for those who are struggling to make ends meet, to put people over politics, and we passed the Inflation Reduction Act,\" said Congresswoman Julia Brownley. \"This historic legislation makes significant strides to combat inflation, reduce prescription drug prices, invests in clean, renewable energy to help combat the climate crisis, and to reduce energy costs for American consumers. The bill also includes significant additional resources to combat the historic drought in our region.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1625199/brownley-applauds-house-passage-of-the-inflation-reduction-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/59904/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Student loans have now surpassed credit cards as the second largest debt category behind mortgages in the United States, and that's simply unacceptable,\" said Congresswoman Brownley. \"Student loan debt can follow a student their entire life, limiting career growth, and making it more difficult to raise a family, start a business, buy a home, or save for retirement. By helping college graduates repay their student loan debts, this bill will help alleviate the financial and emotional burden this debt can have. This bill will also help employers to attract and retain skilled, qualified employees, so it's a win-win for all.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1322547/brownley-introduces-bill-to-help-more-americans-pay-back-student-loans/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, @POTUS announced his plan to lift college borrowers out of the crushing burden of student loan debt. While this action will help many Americans receive the financial relief they need, Congress must do more to help make higher education more accessible and affordable.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrownley/status/1562564539924631555?s=20&t=aehMAPGTVUgh_aZHMzPR8A"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/59904/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/59904/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"It was American civil rights leaders like John Lewis who fought, bled, and nearly died for the right of all Americans to vote. I support the John R. Lewis Voting Rights Advancement Act, to honor their legacy and keep the promise of our democracy alive for us all. #RestoreTheVote\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/1427790646769713152?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's been one year since the passing of my friend and colleague, John Lewis, and we must continue to honor his legacy in the fight for what is right and what is just. It's time to pass the John Lewis Voting Rights Advancement Act and protect the right to vote.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBrownley/status/1417156923519078401?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/59904/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have been a staunch advocate for moving us away from our dependence on fossil fuels and foreign oil and have supported efforts to cut our greenhouse gas emissions. We must also become energy independent and make strategic investments in clean, renewable, and sustainable energy right here at home.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1065250/issue-position-energy-and-the-environment"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/59904/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/59904/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have been a staunch advocate for moving us away from our dependence on fossil fuels and foreign oil and have supported efforts to cut our greenhouse gas emissions. We must also become energy independent and make strategic investments in clean, renewable, and sustainable energy right here at home.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1065250/issue-position-energy-and-the-environment"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/59904/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/59904/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One very obvious, commonsense solution that more than 90 percent of this country supports is universal background checks. H.R. 8 will not solve all of the gun violence that is ripping our Nation apart, but it will help. That is what we are here to do. I urge my colleagues to support H.R. 8.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1314276/help-solve-the-gun-crisis#.XZ4cDedKhYg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/59904/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/59904/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to support the #FamilyAct, which creates a comprehensive and inclusive national paid family and medical leave program. Workers should not be forced to choose between earning a paycheck and taking care of themselves or a family member. #FMLA28\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrownley/status/1357775968719360000?s=20&t=aehMAPGTVUgh_aZHMzPR8A"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should have to choose between their family, health, or work! Paid leave saves jobs, helps boost our economy, and is essential to our countryâs long term success. To #BuildBackBetter, we must #PassPaidLeave and support American workers and their families.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrownley/status/1440020735444111361?s=20&t=aehMAPGTVUgh_aZHMzPR8A"
+        },
+        {
+          "type": "statement",
+          "text": "\"We strongly urge you to retain the insulin affordability provisions in the House-passed Build Back Better Act, implement these provisions sooner, and expand these provisions to apply to the uninsured population. These provisions have the potential to immediately save lives and prevent complications of untreated diabetes for millions of Americans,\" the Members continued. \"By retaining and expanding the insulin cost caps, we can pass a bill that truly makes insulin affordable for everyone in the U.S.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1577396/letter-to-hon-chuck-schumer-majority-leader-us-senate-keep-affordable-insulin-measures-in-build-back-better-act/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lifesaving medical treatment shouldnât bankrupt families. For Josh Davis and the over 37 million Americans living with diabetes, I am fighting to cap the cost of insulin at $35 a month to make this essential medication affordable and accessible.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrownley/status/1509652048203206657?s=20&t=aehMAPGTVUgh_aZHMzPR8A"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/59904/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/59904/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59904/julia-brownley"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/59904/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court's decision today provides temporary relief for those who are living in fear of being callously and arbitrarily ripped away from their families, their jobs, and the only home they've ever known, and who are being used as a bargaining chip to advance President Trump's extreme immigration agenda. While this temporary reprieve is welcome, Congress must pass legislation to provide permanent protection for our Dreamers. We need to fix our immigration system so that it not only protects American jobs, but recognizes the contributions of immigrants, from all walks of life and skill sets, to our economy, our culture, and our moral authority in the world as a country that welcomes and celebrates diversity. I will continue to work across the aisle to pass legislation to permanently resolve this issue.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1227994/brownley-statement-on-supreme-court-decision-not-to-hear-daca-case"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no doubt that our immigration system is broken and needs a common sense approach that includes an earned pathway to citizenship.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1065256/issue-position-immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/59904/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/59904/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/59904/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/59904/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/59904/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/59904/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/59904/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-15T00:35:14+00:00"
+}
