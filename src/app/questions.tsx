@@ -155,7 +155,12 @@ function QuestionRenderer({
 
 export default function QuestionsPage() {
   const router = useRouter();
-  const { state, city } = useLocalSearchParams<{ state: string; city: string }>();
+  const { state, city, address, zip } = useLocalSearchParams<{
+    state: string;
+    city: string;
+    address?: string;
+    zip?: string;
+  }>();
   const [answers, setAnswers] = useState<Answers>({});
 
   const setAnswer = (id: string, value: number | string) =>
@@ -165,29 +170,35 @@ export default function QuestionsPage() {
 
   return (
     <Screen scroll>
-        <ScreenTitle>Questions</ScreenTitle>
-        <ScreenSubtitle>
-          We will ask you a series of questions to help match you with candidates.
-        </ScreenSubtitle>
-        {QUESTIONS.map((def, i) => (
-          <Fragment key={def.id}>
-            {def.section !== QUESTIONS[i - 1]?.section && (
-              <Text style={styles.sectionTitle}>{def.section}</Text>
-            )}
-            <QuestionRenderer
-              def={def}
-              value={answers[def.id]}
-              onChange={(value) => setAnswer(def.id, value)}
-            />
-          </Fragment>
-        ))}
-        <PrimaryButton
+      <ScreenTitle>Questions</ScreenTitle>
+      <ScreenSubtitle>
+        We will ask you a series of questions to help match you with candidates.
+      </ScreenSubtitle>
+      {QUESTIONS.map((def, i) => (
+        <Fragment key={def.id}>
+          {def.section !== QUESTIONS[i - 1]?.section && (
+            <Text style={styles.sectionTitle}>{def.section}</Text>
+          )}
+          <QuestionRenderer
+            def={def}
+            value={answers[def.id]}
+            onChange={(value) => setAnswer(def.id, value)}
+          />
+        </Fragment>
+      ))}
+      <PrimaryButton
         title="Continue"
         disabled={!isFormValid}
         onPress={() =>
           router.navigate({
-            pathname: '/results', // <-- changed from '/selectType'
-            params: { state, city, answers: JSON.stringify(answers) },
+            pathname: '/results',
+            params: {
+              state,
+              city,
+              address: address ?? '',
+              zip: zip ?? '',
+              answers: JSON.stringify(answers),
+            },
           })
         }
       />
