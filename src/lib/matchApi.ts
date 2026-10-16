@@ -9,22 +9,42 @@ export type Reason = {
   agreement: number; // 0-100
 };
 
+export type Level = 'Federal' | 'State' | 'Local' | 'Other';
+
 export type CandidateMatch = {
   id: string;
   name: string;
   office: string;
   party: string | null;
+  level: Level;
+  position: string; // "U.S. Senate", "U.S. House", "Governor", "State Senate", ...
+  district: string | null;
+  state: string | null;
   score: number | null; // null = not enough overlapping positions
   coverage: number;
   sections: Record<string, number | null>;
   reasons: Reason[];
 };
 
-export type MatchResult = { matches: CandidateMatch[]; answered: number };
+export type MatchLocation = {
+  state: string | null;
+  city: string;
+  district: string | null;
+  county: string | null;
+  districtKnown: boolean;
+};
+
+export type MatchResult = {
+  matches: CandidateMatch[];
+  answered: number;
+  location: MatchLocation;
+};
 
 export type MatchPayload = {
   state: string;
   city: string;
+  address?: string; // optional: lets the server find your U.S. House district
+  zip?: string;
   answers: {
     id: string;
     section: string;

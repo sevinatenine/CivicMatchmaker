@@ -17,7 +17,13 @@ import {
 } from 'react-native';
 
 type Option = { label: string; value: string };
-type Location = { country: string | null; state: string | null; city: string | null };
+type Location = {
+  country: string | null;
+  state: string | null;
+  city: string | null;
+  address: string | null;
+  zip: string | null;
+};
 
 function SelectField({
   label,
@@ -124,22 +130,59 @@ function SelectField({
   );
 }
 
+function TextField({
+  label,
+  value,
+  placeholder,
+  onChangeText,
+  keyboardType,
+  autoComplete,
+}: {
+  label: string;
+  value: string;
+  placeholder: string;
+  onChangeText: (v: string) => void;
+  keyboardType?: 'default' | 'number-pad';
+  autoComplete?: 'street-address' | 'postal-code';
+}) {
+  return (
+    <View>
+      <Text style={styles.fieldLabel}>{label}</Text>
+      <TextInput
+        value={value}
+        onChangeText={onChangeText}
+        placeholder={placeholder}
+        placeholderTextColor={Colors.textMuted}
+        selectionColor={Colors.button}
+        keyboardAppearance="dark"
+        keyboardType={keyboardType}
+        autoComplete={autoComplete}
+        autoCorrect={false}
+        style={styles.input}
+      />
+    </View>
+  );
+}
+
 const COUNTRY_CODE = 'US';
 
 export function LocationForm({ onChange }: { onChange?: (l: Location) => void }) {
   const [stateCode, setStateCode] = useState('');
   const [city, setCity] = useState('');
+  const [address, setAddress] = useState('');
+  const [zip, setZip] = useState('');
 
   const states = useMemo(() => {
-  // Collect every state code that has at least one city
-  const stateCodesWithCities = new Set(
-    (City.getCitiesOfCountry(COUNTRY_CODE) ?? []).map((c) => c.stateCode)
-  );
+    // Collect every state code that has at least one city
+    const stateCodesWithCities = new Set(
+      (City.getCitiesOfCountry(COUNTRY_CODE) ?? []).map((c) => c.stateCode),
+    );
 
-  return State.getStatesOfCountry(COUNTRY_CODE)
-    .filter((s) => stateCodesWithCities.has(s.isoCode))
-    .map((s) => ({ label: s.name, value: s.isoCode }));
-}, []);
+    return State.getStatesOfCountry(COUNTRY_CODE)
+      .filter((s) => stateCodesWithCities.has(s.isoCode))
+      .map((s) => ({ label: s.name, value: s.isoCode }));
+  }, []);
+
   const cities = useMemo(
     () =>
       stateCode
@@ -148,14 +191,16 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
             value: c.name,
           }))
         : [],
-    [stateCode]
+    [stateCode],
   );
 
-  const emit = (s: string, ci: string) =>
+  const emit = (s: string, ci: string, a: string, z: string) =>
     onChange?.({
       country: 'United States',
       state: s ? State.getStateByCodeAndCountry(s, COUNTRY_CODE)?.name ?? null : null,
       city: ci || null,
+      address: a.trim() || null,
+      zip: z.trim() || null,
     });
 
   return (
@@ -168,7 +213,7 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
         onSelect={(v) => {
           setStateCode(v);
           setCity('');
-          emit(v, '');
+          emit(v, '', address, zip);
         }}
       />
       <SelectField
@@ -179,7 +224,34 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
         disabled={!stateCode || cities.length === 0}
         onSelect={(v) => {
           setCity(v);
-          emit(stateCode, v);
+          emit(stateCode, v, address, zip);
+        }}
+      />
+
+      <Text style={styles.hint}>
+        Optional: add your street address and ZIP so we can find your exact U.S. House district.
+        Without it, we show House candidates from every district in your state.
+      </Text>
+
+      <TextField
+        label="Street address (optional)"
+        placeholder="123 Main St"
+        value={address}
+        autoComplete="street-address"
+        onChangeText={(v) => {
+          setAddress(v);
+          emit(stateCode, city, v, zip);
+        }}
+      />
+      <TextField
+        label="ZIP code (optional)"
+        placeholder="80020"
+        value={zip}
+        keyboardType="number-pad"
+        autoComplete="postal-code"
+        onChangeText={(v) => {
+          setZip(v);
+          emit(stateCode, city, address, v);
         }}
       />
     </View>
@@ -188,12 +260,18 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
 
 export default function LocationSelectPage() {
   const router = useRouter();
-  const [location, setLocation] = useState<Location>({ country: null, state: null, city: null });
+  const [location, setLocation] = useState<Location>({
+    country: null,
+    state: null,
+    city: null,
+    address: null,
+    zip: null,
+  });
 
   const isFormValid = !!(location.state && location.city);
 
   return (
-    <Screen>
+    <Screen scroll>
       <ScreenTitle>Select your location</ScreenTitle>
       <ScreenSubtitle>
         We ask this so we can find candidates near you. Note: This is only available for US
@@ -202,7 +280,7 @@ export default function LocationSelectPage() {
 
       <LocationForm onChange={setLocation} />
 
-      <View style={{ flex: 1 }} />
+      <View style={{ height: 24 }} />
 
       <PrimaryButton
         title="Continue"
@@ -210,7 +288,12 @@ export default function LocationSelectPage() {
         onPress={() =>
           router.navigate({
             pathname: '/questions',
-            params: { state: location!.state!, city: location!.city! },
+            params: {
+              state: location.state!,
+              city: location.city!,
+              address: location.address ?? '',
+              zip: location.zip ?? '',
+            },
           })
         }
       />
@@ -225,6 +308,7 @@ const styles = StyleSheet.create({
     color: Colors.textMuted,
     marginBottom: 8,
   },
+  hint: { ...typography.label, color: Colors.textMuted, lineHeight: 18 },
   field: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -237,6 +321,16 @@ const styles = StyleSheet.create({
   },
   fieldText: { flex: 1, fontSize: 16, color: Colors.text },
   chevron: { color: Colors.button, fontSize: 18 },
+  input: {
+    paddingHorizontal: 16,
+    paddingVertical: 16,
+    backgroundColor: Colors.card,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+    borderRadius: 14,
+    fontSize: 16,
+    color: Colors.text,
+  },
 
   sheet: { flex: 1, backgroundColor: Colors.background },
   sheetHeader: {
