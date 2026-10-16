@@ -15,8 +15,8 @@ If the client disconnects at any point, the job is cancelled:
   - still queued  -> removed from the queue, never runs
   - already running -> its cancel_event is set; the task should check it
 
-Run:   python server.py
-Test:  curl -N -X POST localhost:5000/run -H 'Content-Type: application/json' -d '{"steps": 8}'
+Run:   python main.py
+Test:  curl -N -X POST localhost:4000/run -H 'Content-Type: application/json' -d '{"steps": 8}'
        (Ctrl-C in curl to simulate a disconnect)
 
 NOTE: state lives in memory, so run a SINGLE process. For production use e.g.
@@ -32,6 +32,8 @@ from collections import deque
 
 from flask import Flask, Response, jsonify, request, stream_with_context
 
+import ai
+
 MAX_CONCURRENT = int(os.environ.get("MAX_CONCURRENT", 2))
 MAX_QUEUED = int(os.environ.get("MAX_QUEUED", 50))
 KEEPALIVE_SECONDS = 5
@@ -46,6 +48,11 @@ def generate_response_task(data: dict, emit, cancelled: threading.Event):
                  Check it often (or pass it into long-running calls).
     Return value becomes the "result" event.
     """
+    # Real work: the app sends {"state", "city", "answers": [...]}
+    if "answers" in data:
+        return ai.run_match(data, emit, cancelled)
+
+    # Demo task (curl test)
     steps = int(data.get("steps", 5))
     for i in range(steps):
         if cancelled.is_set():
@@ -124,6 +131,7 @@ class Scheduler:
                     self.cond.wait()
                 job = self.pending.popleft()
             if job.cancel_event.is_set():
+                job.finish()
                 continue
             job.emit("started", {"id": job.id})
             try:
@@ -194,5 +202,14 @@ def status():
         waiting = len(scheduler.pending)
     return jsonify(max_concurrent=MAX_CONCURRENT, waiting=waiting)
 
+def _warmup():
+    try:
+        ai.warmup()
+        print("Julia 1 loaded.")
+    except Exception as e:  # noqa: BLE001
+        print(f"Could not load Julia 1: {e}")
+
 def run_server(port=4000, host="0.0.0.0"):
+    # Load the model now so the first request isn't slow
+    threading.Thread(target=_warmup, daemon=True).start()
     app.run(host=host, port=port, threaded=True)

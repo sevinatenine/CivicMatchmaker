@@ -35,6 +35,7 @@ export default function RootLayout() {
         <Stack.Screen name="about" options={{ title: 'About Us' }} />
         <Stack.Screen name="questions" options={{ title: 'Questions' }} />
         <Stack.Screen name="selectType" options={{ title: 'Select type' }} />
+        <Stack.Screen name="results" options={{ title: 'Your matches' }} />
       </Stack>
     </ThemeProvider>
   );

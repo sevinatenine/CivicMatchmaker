@@ -186,7 +186,7 @@ export default function QuestionsPage() {
         disabled={!isFormValid}
         onPress={() =>
           router.navigate({
-            pathname: '/selectType',
+            pathname: '/results', // <-- changed from '/selectType'
             params: { state, city, answers: JSON.stringify(answers) },
           })
         }
