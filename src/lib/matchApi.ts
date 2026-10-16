@@ -62,6 +62,7 @@ export async function runMatch(
   onEvent: (e: MatchEvent) => void,
   signal?: AbortSignal,
 ): Promise<void> {
+  console.log('API_URL =', API_URL);
   const res = await fetch(`${API_URL}/run`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
