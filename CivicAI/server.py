@@ -209,7 +209,7 @@ def _warmup():
     except Exception as e:  # noqa: BLE001
         print(f"Could not load Julia 1: {e}")
 
-def run_server(port=4000, host="0.0.0.0"):
+def run_server(port=4001, host="0.0.0.0"):
     # Load the model now so the first request isn't slow
     threading.Thread(target=_warmup, daemon=True).start()
     app.run(host=host, port=port, threaded=True)
