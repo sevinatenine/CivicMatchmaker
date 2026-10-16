@@ -9,8 +9,7 @@ export default function Home() {
   return (
     <Screen>
       <ScreenTitle>Welcome to CivicMatchmaker</ScreenTitle>
-      <ScreenSubtitle>Answer a lot of usless, boring questions and meet the candidates who fit/hate you, and will take your money. Just like Donald Trump. Don't vote for him.</ScreenSubtitle>
-
+    <ScreenSubtitle>Answer a few questions about the issues you care about and get matched with the candidates who fit you best. Unbiased and non-partisan.</ScreenSubtitle>
       <Image
         source={require('@/assets/front-image.png')}
         style={styles.frontImage}
