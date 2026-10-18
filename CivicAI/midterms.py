@@ -161,12 +161,13 @@ def upsert(reg: dict, cands: list, state: str, year: int) -> tuple:
 # --------------------------------------------------------------------------- #
 # Districts from a street address (Census geocoder)
 # --------------------------------------------------------------------------- #
-def geocode(street, city, state, zip_):
-    params = {"street": street, "city": city, "state": state, "zip": zip_,
-              "benchmark": "Public_AR_Current", "vintage": "Current_Current",
+CENSUS_BASE = "https://geocoding.geo.census.gov/geocoder/geographies"
+
+
+def _census_lookup(endpoint, params):
+    params = {**params, "benchmark": "Public_AR_Current", "vintage": "Current_Current",
               "layers": "all", "format": "json"}
-    params = {k: v for k, v in params.items() if v}
-    data = http_json(CENSUS, params, "Census geocoder")
+    data = http_json(f"{CENSUS_BASE}/{endpoint}", params, "Census geocoder")
     matches = data.get("result", {}).get("addressMatches", [])
     if not matches:
         return None
@@ -176,7 +177,7 @@ def geocode(street, city, state, zip_):
         if not rows:
             continue
         row = rows[0]
-        if "Congressional Districts" in key and row.get("GEOID"):
+        if "Congressional District" in key and row.get("GEOID"):
             info["congressional_district"] = row["GEOID"][2:].zfill(2)  # state fips (2) + district (2)
         elif "Legislative Districts - Upper" in key:
             info["state_senate"] = row.get("NAME", "")
@@ -185,6 +186,25 @@ def geocode(street, city, state, zip_):
         elif key == "Counties":
             info["county"] = row.get("NAME", "")
     return info
+
+
+def geocode(street, city, state, zip_):
+    """Tries ZIP-only, then city, then a one-line address. Returns info dict or None."""
+    attempts = []
+    if zip_:
+        attempts.append(("address", {"street": street, "zip": zip_, "state": state}))
+    if city:
+        attempts.append(("address", {"street": street, "city": city, "state": state}))
+    one_line = ", ".join(p for p in [street, city, f"{state} {zip_ or ''}".strip()] if p)
+    attempts.append(("onelineaddress", {"address": one_line}))
+    for endpoint, params in attempts:
+        try:
+            info = _census_lookup(endpoint, params)
+        except FetchError:
+            continue
+        if info and info.get("congressional_district"):
+            return info
+    return None
 
 
 # --------------------------------------------------------------------------- #

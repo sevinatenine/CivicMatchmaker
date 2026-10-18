@@ -6,10 +6,25 @@ import { CandidateMatch, Level, MatchResult, runMatch } from '@/lib/matchApi';
 import { typography } from '@/theme/typography';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
-import { ActivityIndicator, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import {
+  ActivityIndicator,
+  Linking,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 
 const LABELS = ['Strongly oppose', 'Oppose', 'Neutral', 'Support', 'Strongly support'];
 const LEVEL_ORDER: Level[] = ['Federal', 'State', 'Local', 'Other'];
+
+function importanceLabel(w?: number): string | null {
+  if (!w || w === 1) return null;
+  if (w >= 3) return 'Top priority for you';
+  if (w >= 2) return 'High priority for you';
+  return w < 1 ? 'Low priority for you' : null;
+}
 
 function districtLabel(m: CandidateMatch): string {
   if (m.position !== 'U.S. House' || m.district === null) return m.position;
@@ -95,7 +110,18 @@ function CandidateCard({ match }: { match: CandidateMatch }) {
         <Text style={styles.score}>{match.score === null ? '—' : `${match.score}%`}</Text>
       </View>
 
-      {match.score === null ? (
+      {match.ballotOnly ? (
+        <>
+          <Text style={styles.meta}>
+            On your ballot. No recorded issue positions, so there is no match score.
+          </Text>
+          {!!match.url && (
+            <Pressable onPress={() => Linking.openURL(match.url!)} hitSlop={8}>
+              <Text style={styles.toggle}>Campaign website</Text>
+            </Pressable>
+          )}
+        </>
+      ) : match.score === null ? (
         <Text style={styles.meta}>Not enough overlapping positions to compare.</Text>
       ) : (
         <>
@@ -117,6 +143,9 @@ function CandidateCard({ match }: { match: CandidateMatch }) {
               ))}
               {match.reasons.map((r, i) => (
                 <View key={i} style={styles.reason}>
+                  {!!importanceLabel(r.importance) && (
+                    <Text style={styles.reasonTag}>{importanceLabel(r.importance)}</Text>
+                  )}
                   <Text style={styles.reasonText}>
                     You ({LABELS[r.yourAnswer - 1]}): {r.statement}
                   </Text>
@@ -136,12 +165,13 @@ function CandidateCard({ match }: { match: CandidateMatch }) {
 
 export default function ResultsPage() {
   const router = useRouter();
-  const { state, city, address, zip, answers } = useLocalSearchParams<{
+  const { state, city, address, zip, answers, weights } = useLocalSearchParams<{
     state: string;
     city: string;
     address?: string;
     zip?: string;
     answers: string;
+    weights?: string;
   }>();
 
   const [status, setStatus] = useState('Connecting…');
@@ -154,6 +184,7 @@ export default function ResultsPage() {
   useEffect(() => {
     const ctrl = new AbortController();
     const parsed: Record<string, number | string> = answers ? JSON.parse(answers) : {};
+    const parsedWeights: Record<string, number> = weights ? JSON.parse(weights) : {};
 
     const payload = {
       state,
@@ -166,6 +197,7 @@ export default function ResultsPage() {
         type: q.type,
         question: q.question,
         answer: parsed[q.id],
+        weight: parsedWeights[q.id] ?? 1,
       })),
     };
 
@@ -191,7 +223,7 @@ export default function ResultsPage() {
     });
 
     return () => ctrl.abort(); // leaving the screen cancels the job on the server
-  }, [state, city, address, zip, answers]);
+  }, [state, city, address, zip, answers, weights]);
 
   const matches = useMemo(() => result?.matches ?? [], [result]);
 
@@ -250,7 +282,15 @@ export default function ResultsPage() {
             (loc.districtKnown ? (
               <Text style={styles.locNote}>
                 Showing U.S. House district {parseInt(loc.district ?? '0', 10) || 'at-large'}
-                {loc.county ? ` · ${loc.county}` : ''}, plus statewide and national races.
+                {loc.county ? ` · ${loc.county}` : ''}
+                {loc.matchedAddress ? ` (matched: ${loc.matchedAddress})` : ''}, plus statewide and
+                national races.
+              </Text>
+            ) : loc.addressGiven ? (
+              <Text style={styles.locNote}>
+                We couldn’t find your district from that address. {loc.geocodeError ?? ''} Every
+                House race in {state} is shown. Go back and double-check the street address and
+                ZIP.
               </Text>
             ) : (
               <Text style={styles.locNote}>
@@ -258,6 +298,15 @@ export default function ResultsPage() {
                 and add a street address + ZIP to narrow it to yours.
               </Text>
             ))}
+
+          {result.ballot?.note ? (
+            <Text style={styles.locNote}>{result.ballot.note}</Text>
+          ) : result.ballot?.loaded ? (
+            <Text style={styles.locNote}>
+              Local and state races from your ballot ({result.ballot.elections.join(', ')}) are
+              listed without scores.
+            </Text>
+          ) : null}
 
           <View style={styles.filters}>
             <ChipRow
@@ -285,7 +334,8 @@ export default function ResultsPage() {
 
           <Text style={styles.footnote}>
             Scores compare your support/oppose answers to candidates’ recorded positions. They only
-            cover issues where a matching position was found.
+            cover issues where a matching position was found. Questions you marked as more
+            important count for more.
           </Text>
         </>
       )}
@@ -337,6 +387,7 @@ const styles = StyleSheet.create({
   details: { gap: 8, marginTop: 4 },
   detailLine: { ...typography.label, color: Colors.text },
   reason: { backgroundColor: Colors.background, borderRadius: 12, padding: 12, gap: 4 },
+  reasonTag: { ...typography.label, color: Colors.button },
   reasonText: { fontSize: 14, color: Colors.text },
   reasonSub: { fontSize: 13, color: Colors.textMuted },
   footnote: { ...typography.label, color: Colors.textMuted, marginBottom: 24 },
