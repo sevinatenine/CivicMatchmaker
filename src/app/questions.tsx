@@ -14,6 +14,80 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 type Answers = Record<string, number | string>;
 
+/* ---------- How much does this question matter? ---------- */
+
+const IMPORTANCE = [
+  { label: 'Low', value: 0.5 },
+  { label: 'Normal', value: 1 },
+  { label: 'High', value: 2 },
+  { label: 'Top priority', value: 3 },
+];
+
+function ImportanceRow({ value, onChange }: { value: number; onChange: (v: number) => void }) {
+  return (
+    <View style={styles.importance}>
+      <Text style={styles.importanceTitle}>How much does this matter to you?</Text>
+      <View style={styles.importanceOptions}>
+        {IMPORTANCE.map((o) => {
+          const selected = value === o.value;
+          return (
+            <Pressable
+              key={o.label}
+              accessibilityRole="button"
+              accessibilityState={{ selected }}
+              onPress={() => onChange(o.value)}
+              style={({ pressed }) => [
+                styles.importanceChip,
+                selected && styles.importanceChipSelected,
+                pressed && !selected && styles.buttonPressed,
+              ]}
+            >
+              <Text style={[styles.importanceText, selected && styles.importanceTextSelected]}>
+                {o.label}
+              </Text>
+            </Pressable>
+          );
+        })}
+      </View>
+    </View>
+  );
+}
+
+/* ---------- Question title + (i) explanation ---------- */
+
+function QuestionHeader({ title, info }: { title: string; info?: string }) {
+  const [open, setOpen] = useState(false);
+
+  return (
+    <View style={styles.header}>
+      <View style={styles.headerRow}>
+        <Text style={styles.questionTitle}>{title}</Text>
+        {!!info && (
+          <Pressable
+            accessibilityRole="button"
+            accessibilityLabel={open ? 'Hide explanation' : 'What does this mean?'}
+            accessibilityState={{ expanded: open }}
+            hitSlop={10}
+            onPress={() => setOpen((o) => !o)}
+            style={({ pressed }) => [
+              styles.infoButton,
+              open && styles.infoButtonOpen,
+              pressed && { opacity: 0.7 },
+            ]}
+          >
+            <Text style={[styles.infoIcon, open && styles.infoIconOpen]}>i</Text>
+          </Pressable>
+        )}
+      </View>
+      {open && !!info && (
+        <View style={styles.infoBox}>
+          <Text style={styles.infoText}>{info}</Text>
+        </View>
+      )}
+    </View>
+  );
+}
+
 /* ---------- Scale question ---------- */
 
 function QuestionButton({
@@ -45,14 +119,18 @@ function ScaleQuestion({
   def,
   value,
   onChange,
+  importance,
+  onImportance,
 }: {
   def: ScaleQuestionDef;
   value: number | undefined;
   onChange: (value: number) => void;
+  importance: number;
+  onImportance: (value: number) => void;
 }) {
   return (
     <View style={styles.question}>
-      <Text style={styles.questionTitle}>{def.question}</Text>
+      <QuestionHeader title={def.question} info={def.info} />
       <View style={styles.options}>
         {[1, 2, 3, 4, 5].map((n) => (
           <QuestionButton
@@ -72,6 +150,7 @@ function ScaleQuestion({
           {def.highLabel ?? 'Highest'}
         </Text>
       </View>
+      <ImportanceRow value={importance} onChange={onImportance} />
     </View>
   );
 }
@@ -117,7 +196,7 @@ function ChoiceQuestion({
 }) {
   return (
     <View style={styles.question} accessibilityRole="radiogroup">
-      <Text style={styles.questionTitle}>{def.question}</Text>
+      <QuestionHeader title={def.question} info={def.info} />
       <View style={styles.choices}>
         {def.choices.map((choice) => (
           <ChoiceOption
@@ -138,14 +217,26 @@ function QuestionRenderer({
   def,
   value,
   onChange,
+  importance,
+  onImportance,
 }: {
   def: QuestionDef;
   value: number | string | undefined;
   onChange: (value: number | string) => void;
+  importance: number;
+  onImportance: (value: number) => void;
 }) {
   switch (def.type) {
     case 'scale':
-      return <ScaleQuestion def={def} value={value as number | undefined} onChange={onChange} />;
+      return (
+        <ScaleQuestion
+          def={def}
+          value={value as number | undefined}
+          onChange={onChange}
+          importance={importance}
+          onImportance={onImportance}
+        />
+      );
     case 'choice':
       return <ChoiceQuestion def={def} value={value as string | undefined} onChange={onChange} />;
   }
@@ -162,9 +253,13 @@ export default function QuestionsPage() {
     zip?: string;
   }>();
   const [answers, setAnswers] = useState<Answers>({});
+  const [weights, setWeights] = useState<Record<string, number>>({}); // missing = Normal (1)
 
   const setAnswer = (id: string, value: number | string) =>
     setAnswers((prev) => ({ ...prev, [id]: value }));
+
+  const setWeight = (id: string, value: number) =>
+    setWeights((prev) => ({ ...prev, [id]: value }));
 
   const isFormValid = QUESTIONS.every((q) => answers[q.id] !== undefined);
 
@@ -172,7 +267,8 @@ export default function QuestionsPage() {
     <Screen scroll>
       <ScreenTitle>Questions</ScreenTitle>
       <ScreenSubtitle>
-        We will ask you a series of questions to help match you with candidates.
+        Tap the (i) on any question for a plain-language explanation. You can also mark how much
+        each question matters to you, and the important ones will count for more.
       </ScreenSubtitle>
       {QUESTIONS.map((def, i) => (
         <Fragment key={def.id}>
@@ -183,6 +279,8 @@ export default function QuestionsPage() {
             def={def}
             value={answers[def.id]}
             onChange={(value) => setAnswer(def.id, value)}
+            importance={weights[def.id] ?? 1}
+            onImportance={(value) => setWeight(def.id, value)}
           />
         </Fragment>
       ))}
@@ -198,6 +296,7 @@ export default function QuestionsPage() {
               address: address ?? '',
               zip: zip ?? '',
               answers: JSON.stringify(answers),
+              weights: JSON.stringify(weights),
             },
           })
         }
@@ -216,11 +315,63 @@ const styles = StyleSheet.create({
     padding: 18,
     marginBottom: 16,
   },
+
+  // Title + info button
+  header: { marginBottom: 16 },
+  headerRow: { flexDirection: 'row', alignItems: 'flex-start', gap: 12 },
   questionTitle: {
     ...typography.heading,
     color: Colors.text,
-    marginBottom: 16,
+    flex: 1,
   },
+  infoButton: {
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+    borderWidth: 1.5,
+    borderColor: Colors.button,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 1,
+  },
+  infoButtonOpen: { backgroundColor: Colors.button },
+  infoIcon: { color: Colors.button, fontSize: 15, fontWeight: '700' },
+  infoIconOpen: { color: Colors.onButton },
+  infoBox: {
+    marginTop: 12,
+    padding: 14,
+    borderRadius: 12,
+    backgroundColor: Colors.background,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+  },
+  infoText: { fontSize: 14, lineHeight: 21, color: Colors.textMuted },
+
+  // Importance
+  importance: {
+    marginTop: 16,
+    paddingTop: 14,
+    borderTopWidth: StyleSheet.hairlineWidth,
+    borderTopColor: Colors.border,
+    gap: 10,
+  },
+  importanceTitle: { ...typography.label, color: Colors.textMuted },
+  importanceOptions: { flexDirection: 'row', gap: 6 },
+  importanceChip: {
+    flex: 1,
+    paddingVertical: 9,
+    paddingHorizontal: 4,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: Colors.border,
+    backgroundColor: Colors.background,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  importanceChipSelected: { backgroundColor: Colors.buttonSoft, borderColor: Colors.button },
+  importanceText: { fontSize: 12, fontWeight: '600', color: Colors.textMuted, textAlign: 'center' },
+  importanceTextSelected: { color: Colors.button },
+
   options: { flexDirection: 'row', gap: 8 },
   button: {
     flex: 1,
@@ -290,6 +441,4 @@ const styles = StyleSheet.create({
   },
   scaleLabelSide: { flex: 1 },
   scaleLabelMid: { flex: 1, textAlign: 'center' },
-  scroll: { alignSelf: 'stretch', flex: 1 },
-  scrollContent: { paddingBottom: 40 },
 });

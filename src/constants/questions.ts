@@ -3,7 +3,8 @@ export type ScaleQuestionDef = {
   type: 'scale';
   section: string;
   question: string;
-  // 1 = Strongly support ... 5 = Strongly oppose
+  info?: string; // plain-language explanation shown behind the (i) button
+  // 1 = Strongly oppose ... 5 = Strongly support
   lowLabel?: string;
   midLabel?: string;
   highLabel?: string;
@@ -14,240 +15,187 @@ export type ChoiceQuestionDef = {
   type: 'choice';
   section: string;
   question: string;
+  info?: string;
   choices: string[];
 };
 
 export type QuestionDef = ScaleQuestionDef | ChoiceQuestionDef;
 
-const scale = (id: string, section: string, question: string): ScaleQuestionDef => ({
+const scale = (id: string, section: string, question: string, info?: string): ScaleQuestionDef => ({
   id,
   type: 'scale',
   section,
   question,
+  info,
   lowLabel: 'Strongly oppose',
   midLabel: 'Neutral/unsure',
   highLabel: 'Strongly support',
 });
 
-const choice = (
-  id: string,
-  section: string,
-  question: string,
-  choices: string[],
-): ChoiceQuestionDef => ({ id, type: 'choice', section, question, choices });
-
+// Every statement below mirrors one question from Vote Smart's Political Courage Test,
+// worded so that a candidate answering "Yes" to that question AGREES with the statement.
+// The server (ai.py) pairs them by id, so keep the ids in sync with DIRECT in ai.py.
+// You can freely reword `question` and `info`; just don't change the ids.
 export const QUESTIONS: QuestionDef[] = [
-  // Education
+  // Abortion
   scale(
-    'k12-funding',
-    'Education',
-    'Your local government should increase funding for public K–12 schools, even if doing so requires higher state taxes.',
-  ),
-  scale(
-    'school-spending-freedom',
-    'Education',
-    'Public schools should have more freedom to choose how they spend government funding, even if that means less centralized oversight.',
-  ),
-  choice('education-priority', 'Education', 'Which should the government prioritize more?', [
-    'Increasing teacher pay',
-    'Reducing class sizes',
-    'Expanding academic programs',
-    'Increasing school safety/resources',
-    'Keeping taxes lower',
-    'Balance all of these',
-  ]),
-
-  // Housing
-  scale(
-    'zoning',
-    'Housing',
-    'Local governments should make it easier to build more housing, even if this means changing some local zoning restrictions.',
-  ),
-  choice(
-    'housing-priority',
-    'Housing',
-    'What should the government prioritize most when addressing housing affordability?',
-    [
-      'Building more housing',
-      'Providing financial assistance to renters/buyers',
-      'Limiting rent increases',
-      'Reducing regulations and development costs',
-      'A combination of these',
-    ],
+    'roe-wade',
+    'Abortion',
+    'The Supreme Court was right to overturn Roe v. Wade.',
+    'In 2022 the Supreme Court overturned Roe v. Wade (1973), which had protected a nationwide right to abortion. Since then, each state sets its own abortion laws. Supporting means you agree with that decision; opposing means you think abortion rights should be protected nationally.',
   ),
 
   // Taxes & Government Spending
   scale(
-    'higher-income-taxes',
+    'safety-net',
     'Taxes & Government Spending',
-    'The U.S. federal government should increase taxes on higher-income households to fund public programs.',
+    'The government should spend more on programs like Social Security and Medicare.',
+    'Social Security pays retirement and disability income, and Medicare covers health care for older Americans. This asks whether Congress should put more money into these and similar programs. Supporters say they protect people who need help; opponents worry about the cost and the national debt.',
   ),
-  choice(
-    'surplus-priority',
+  scale(
+    'income-tax-cut',
     'Taxes & Government Spending',
-    'If the government has a budget surplus, what should it prioritize?',
-    [
-      'Tax reductions',
-      'Education and infrastructure',
-      'Healthcare/social programs',
-      'Saving the money',
-      'A combination',
-    ],
-  ),
-  choice('government-size', 'Taxes & Government Spending', 'Which statement is closest to your view?', [
-    'The government should generally provide more services, even if taxes increase.',
-    'The government should provide a balance of services and taxation.',
-    'The government should generally limit spending and keep taxes lower.',
-    'Unsure',
-  ]),
-
-  // Environment & Energy
-  scale(
-    'renewable-transition',
-    'Environment & Energy',
-    'The U.S. federal government should accelerate its transition toward renewable energy, even if it increases short-term costs.',
+    'Lowering income taxes would help balance the budget.',
+    'Income tax is the tax taken from paychecks. A balanced budget means the government spends no more than it collects. Supporters say lower taxes grow the economy, which brings in more money; opponents say tax cuts reduce revenue unless spending is cut too.',
   ),
   scale(
-    'energy-costs-fossil',
-    'Environment & Energy',
-    'The U.S. federal government should prioritize reducing energy costs even if that means expanding the use of fossil fuels.',
-  ),
-  choice(
-    'energy-priority',
-    'Environment & Energy',
-    "Which should be the government's highest priority for energy policy?",
-    [
-      'Reducing climate change',
-      'Keeping energy affordable',
-      'Energy independence/reliability',
-      'Creating clean-energy jobs',
-      'Balancing all four',
-    ],
+    'wealth-tax',
+    'Taxes & Government Spending',
+    'The government should tax the wealth of the richest people to pay for public programs.',
+    'A wealth tax is a yearly tax on the total value of what very rich people own, such as stocks, property and businesses, not just their income. Supporters say it would fund public programs and reduce inequality; opponents say it is hard to enforce and could drive money out of the country.',
   ),
 
-  // Healthcare
+  // Economy
   scale(
-    'healthcare-affordability',
-    'Healthcare',
-    'The government should expand programs that help people afford healthcare, even if government spending increases.',
+    'growth-spending',
+    'Economy',
+    'The government should spend money or offer tax breaks to help the economy grow.',
+    'This covers things like grants and tax incentives that the government gives to businesses or industries to create jobs. Supporters say it boosts the economy; opponents say it picks winners and adds to the deficit.',
   ),
-  choice(
-    'healthcare-costs-approach',
-    'Healthcare',
-    'Which approach should the government emphasize most to reduce healthcare costs?',
-    [
-      'Greater government involvement',
-      'Greater competition between healthcare providers',
-      'Negotiating/controlling prices',
-      'Increasing subsidies for consumers',
-      'A combination',
-      'Unsure',
-    ],
+  scale(
+    'inflation-action',
+    'Economy',
+    'The government should do more to fight inflation than just what the Federal Reserve does.',
+    'Inflation is when prices rise over time. The Federal Reserve already fights it, mainly by changing interest rates. This asks whether Congress and the president should also act, for example through spending or other policies. Supporters say more action is needed; opponents say extra government action may backfire.',
   ),
 
-  // Transportation & Infrastructure
+  // Housing
   scale(
-    'public-transit',
-    'Transportation & Infrastructure',
-    'The federal government should spend more public money on public transportation, even if this means less funding for roads.',
-  ),
-  scale(
-    'maintain-infrastructure',
-    'Transportation & Infrastructure',
-    'The U.S. federal government should prioritize maintaining existing infrastructure before building new major projects.',
+    'affordable-housing',
+    'Housing',
+    'The federal government should spend more on affordable housing.',
+    'Federal affordable housing programs include rental vouchers and money to build lower-cost homes. Supporters say they help people afford a place to live; opponents say they are costly and that fewer building rules would do more.',
   ),
 
-  // Technology & AI
+  // Education
   scale(
-    'ai-regulation',
-    'Technology & AI',
-    'The government should place stronger regulations on artificial intelligence companies to protect privacy, workers, and consumers.',
-  ),
-  choice('ai-priority', 'Technology & AI', 'Which should the government prioritize when regulating AI?', [
-    'Innovation and economic growth',
-    'Privacy and consumer protection',
-    'Preventing job displacement',
-    'Preventing misinformation',
-    'National security',
-    'Balance these priorities',
-  ]),
-
-  // Public Safety & Criminal Justice
-  scale(
-    'incarceration-alternatives',
-    'Public Safety & Criminal Justice',
-    'The government should invest more in alternatives to incarceration for people convicted of nonviolent offenses.',
-  ),
-  choice(
-    'criminal-justice-priority',
-    'Public Safety & Criminal Justice',
-    'Which should be prioritized most when developing criminal-justice policy?',
-    [
-      'Reducing crime',
-      'Rehabilitation',
-      'Preventing wrongful convictions',
-      'Reducing incarceration',
-      'A balance of these',
-    ],
+    'student-loans',
+    'Education',
+    'Federal student loan debt should be forgiven.',
+    'Forgiveness would cancel some or all of the money people owe on federal student loans. Supporters say it relieves a heavy burden; opponents say it is unfair to people who paid their loans off or never went to college, and that taxpayers would cover the cost.',
   ),
 
   // Democracy & Voting
   scale(
-    'easier-voting',
+    'voter-id',
     'Democracy & Voting',
-    'Voting should be made easier through measures such as expanded early voting and easier voter registration.',
+    'People should have to show a government ID to vote in person.',
+    'Some states require voters to show a photo ID or a similar document at the polls. Supporters say it prevents fraud and builds trust in elections; opponents say fraud is rare and that IDs can be hard for some people to get.',
   ),
-  choice(
-    'election-priority',
+  scale(
+    'campaign-finance',
     'Democracy & Voting',
-    'Which should be prioritized more when designing election rules?',
-    [
-      'Making voting as accessible as possible',
-      'Strengthening election security',
-      'Making both priorities equal',
-      'Unsure',
-    ],
+    'The government should regulate indirect campaign donations from corporations, unions and individuals.',
+    '"Indirect" donations are money spent to support a candidate by outside groups, such as super PACs, rather than given to the campaign directly. Supporters say regulating it reduces the influence of big donors; opponents say it limits free speech.',
+  ),
+
+  // Public Safety & Criminal Justice
+  scale(
+    'officer-liability',
+    'Public Safety & Criminal Justice',
+    'Police and other officials should be protected from being personally sued over misconduct claims.',
+    'Rules such as "qualified immunity" can shield officials from having to pay damages out of their own pocket in civil lawsuits. Supporters say it lets officers do their jobs without fear of lawsuits; opponents say it makes it hard to hold officials accountable.',
+  ),
+  scale(
+    'gun-control',
+    'Public Safety & Criminal Justice',
+    'The government should pass gun-control laws, like red flag laws.',
+    '"Red flag" laws let a court temporarily take guns from someone judged to be a danger to themselves or others. Another example is closing the "boyfriend loophole," which would bar people convicted of abusing a dating partner from owning guns. Supporters say these laws reduce gun deaths; opponents say they infringe on Second Amendment rights.',
+  ),
+
+  // Defense & National Security
+  scale(
+    'defense-spending',
+    'Defense & National Security',
+    'The U.S. should spend more on defense.',
+    'Defense spending pays for the military, including troops, equipment and weapons. Supporters say a strong military keeps the country safe; opponents say the budget is already large and the money is better used elsewhere.',
+  ),
+  scale(
+    'economic-intervention',
+    'Defense & National Security',
+    'The U.S. should use sanctions and other economic pressure to resolve conflicts between countries.',
+    'This means using tools like sanctions, trade limits or frozen assets instead of military force. Supporters say it pressures governments without going to war; opponents say sanctions often do not work and can hurt ordinary people.',
+  ),
+  scale(
+    'ukraine-aid',
+    'Defense & National Security',
+    'The U.S. should send more offensive weapons and military aid to Ukraine.',
+    'Offensive aid means weapons that can strike targets, not only defensive equipment. Supporters say it helps Ukraine resist Russia\u2019s invasion; opponents say it costs too much or risks a wider war.',
+  ),
+
+  // Environment & Energy
+  scale(
+    'renewables-funding',
+    'Environment & Energy',
+    'The government should pay to develop renewable energy like solar and wind.',
+    'Renewable energy comes from sources that do not run out, such as solar, wind and geothermal (heat from underground). Supporters say funding it cuts pollution and creates jobs; opponents say private companies should pay for it, or that it costs too much.',
+  ),
+  scale(
+    'drilling-permits',
+    'Environment & Energy',
+    'The federal government should let companies drill for oil and gas on public lands.',
+    'The federal government owns large areas of public land and can allow drilling there by granting permits. Supporters say it boosts energy supply and jobs; opponents say it harms the environment and the climate.',
+  ),
+
+  // Healthcare
+  scale(
+    'single-payer',
+    'Healthcare',
+    'The U.S. should have a government-run health care system, like Medicare-for-All.',
+    'In a "single-payer" system such as Medicare-for-All, the government rather than private insurance companies pays for health care for everyone. Supporters say it covers everyone and lowers costs; opponents say it means higher taxes and less choice.',
+  ),
+  scale(
+    'paid-leave',
+    'Healthcare',
+    'The government should expand paid family and medical leave.',
+    'Paid leave means workers keep getting paid while they take time off for a new baby, a sick family member, or their own illness. Supporters say it helps families; opponents say it burdens employers or taxpayers.',
+  ),
+  scale(
+    'drug-prices',
+    'Healthcare',
+    'The government should be able to regulate prescription drug prices.',
+    'This asks whether the government should be able to limit or negotiate what drug companies charge. Supporters say it lowers costs for patients; opponents say it could reduce the money available to develop new medicines.',
   ),
 
   // Immigration
   scale(
-    'legal-pathways',
+    'border-security',
     'Immigration',
-    'The United States should expand legal pathways for immigrants to enter the country and work legally.',
+    'The U.S. should increase security along the southern border.',
+    'Border security can include more agents, barriers, technology and inspections along the U.S.\u2013Mexico border. Supporters say it controls illegal crossings and drug smuggling; opponents say the money would be better spent on other things, such as improving legal immigration.',
   ),
-  choice(
-    'immigration-priority',
+  scale(
+    'return-for-citizenship',
     'Immigration',
-    "Which should be the government's highest priority for immigration policy?",
-    [
-      'Stronger border enforcement',
-      'Expanding legal immigration',
-      'Faster processing of immigration applications',
-      'Providing pathways to legal status for some undocumented immigrants',
-      'A combination',
-      'Unsure',
-    ],
+    'Immigrants should have to go back to their home country before they can become citizens.',
+    'This would require even people already living in the U.S. to leave and apply from abroad, whatever their current immigration status. Supporters say it makes everyone follow the same process; opponents say it would separate families and disrupt communities.',
   ),
 
-  // Young People & College
+  // Technology & AI
   scale(
-    'college-aid',
-    'Young People & College',
-    'The government should provide more financial assistance to make college and vocational education more affordable.',
-  ),
-  choice(
-    'young-people-priority',
-    'Young People & College',
-    'Which issue should the government prioritize most for young people?',
-    [
-      'College affordability',
-      'Job opportunities/wages',
-      'Housing affordability',
-      'Climate/environment',
-      'Healthcare',
-      'Education',
-      'Mental-health services',
-      'Other',
-    ],
+    'social-media',
+    'Technology & AI',
+    'The government should put more regulations on social media companies.',
+    'Rules could cover things like children\u2019s safety, data privacy, or what content platforms must remove. Supporters say these companies have too much power and influence; opponents say regulation limits free speech and innovation.',
   ),
 ];
