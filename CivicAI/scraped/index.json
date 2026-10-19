@@ -208,6 +208,17 @@
     "test_year": "2020",
     "url": "https://justfacts.votesmart.org/candidate/political-courage-test/135651/tom-cotton"
   },
+  "135679": {
+    "file": "135679.json",
+    "first_scraped": "2026-10-19T02:19:14+00:00",
+    "last_updated": "2026-10-19T02:19:14+00:00",
+    "name": "Gaylon Kent",
+    "office": "",
+    "on_the_ballot": "Running, Libertarian for U.S. House (CO) - District 2",
+    "positions": 24,
+    "test_year": "2024",
+    "url": "https://justfacts.votesmart.org/candidate/political-courage-test/135679/gaylon-kent"
+  },
   "136062": {
     "file": "136062.json",
     "first_scraped": "2026-10-15T00:25:35+00:00",
@@ -317,6 +328,17 @@
     "positions": 23,
     "test_year": "2024",
     "url": "https://justfacts.votesmart.org/candidate/political-courage-test/146274/gary-palmer"
+  },
+  "149582": {
+    "file": "149582.json",
+    "first_scraped": "2026-10-19T02:20:47+00:00",
+    "last_updated": "2026-10-19T02:20:47+00:00",
+    "name": "Mark Elworth, Jr.",
+    "office": "",
+    "on_the_ballot": "Running, Libertarian for U.S. House (CO) - District 5",
+    "positions": 21,
+    "test_year": "2022",
+    "url": "https://justfacts.votesmart.org/candidate/political-courage-test/149582/mark-elworth-jr"
   },
   "151075": {
     "file": "151075.json",
@@ -846,6 +868,17 @@
     "test_year": "2024",
     "url": "https://justfacts.votesmart.org/candidate/political-courage-test/195142/sarah-mcbride"
   },
+  "195379": {
+    "file": "195379.json",
+    "first_scraped": "2026-10-19T02:18:14+00:00",
+    "last_updated": "2026-10-19T02:18:14+00:00",
+    "name": "Critter Milton",
+    "office": "",
+    "on_the_ballot": "Running, Unity Party of Colorado for U.S. House (CO) - District 1",
+    "positions": 24,
+    "test_year": "2024",
+    "url": "https://justfacts.votesmart.org/candidate/political-courage-test/195379/critter-milton"
+  },
   "201437": {
     "file": "201437.json",
     "first_scraped": "2026-10-15T00:23:15+00:00",
@@ -955,6 +988,17 @@
     "positions": 23,
     "test_year": "2024",
     "url": "https://justfacts.votesmart.org/candidate/political-courage-test/209096/maxwell-frost"
+  },
+  "212841": {
+    "file": "212841.json",
+    "first_scraped": "2026-10-19T02:17:36+00:00",
+    "last_updated": "2026-10-19T02:17:36+00:00",
+    "name": "Adam Withrow",
+    "office": "",
+    "on_the_ballot": "Running, Unity Party of Colorado for U.S. Senate (CO) - Jr",
+    "positions": 24,
+    "test_year": "2024",
+    "url": "https://justfacts.votesmart.org/candidate/political-courage-test/212841/adam-withrow"
   },
   "212889": {
     "file": "212889.json",

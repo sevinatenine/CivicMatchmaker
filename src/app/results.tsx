@@ -340,7 +340,13 @@ export default function ResultsPage() {
         </>
       )}
 
-      <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+      <View style={styles.buttons}>
+        <PrimaryButton
+          title="Learn how to vote"
+          onPress={() => router.push({ pathname: '/learn', params: { state } })}
+        />
+        <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+      </View>
     </Screen>
   );
 }
@@ -391,4 +397,5 @@ const styles = StyleSheet.create({
   reasonText: { fontSize: 14, color: Colors.text },
   reasonSub: { fontSize: 13, color: Colors.textMuted },
   footnote: { ...typography.label, color: Colors.textMuted, marginBottom: 24 },
+  buttons: { gap: 12 },
 });
