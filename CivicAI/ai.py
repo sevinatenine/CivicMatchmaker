@@ -366,13 +366,27 @@ def _registry_by_pct(folder):
         return {}
 
 
-def load_candidates():
+def _candidate_dirs():
     here = os.path.dirname(os.path.abspath(__file__))
     dirs = [os.environ.get("CANDIDATES_DIR"), os.path.join(here, "..", "scraped"),
             os.path.join(here, "scraped"), here]
+    return [os.path.normpath(d) for d in dirs if d]
+
+
+def load_registry():
+    """Every record in the first candidates.json found (made by midterms.py), or []."""
+    for d in _candidate_dirs():
+        try:
+            with open(os.path.join(d, "candidates.json"), encoding="utf-8") as f:
+                return list(json.load(f).get("candidates", {}).values())
+        except (OSError, ValueError, AttributeError):
+            continue
+    return []
+
+
+def load_candidates():
     found = []
-    for d in filter(None, dirs):
-        d = os.path.normpath(d)
+    for d in _candidate_dirs():
         if not os.path.isdir(d):
             continue
         by_pct = _registry_by_pct(d)
@@ -576,6 +590,47 @@ def fetch_ballot(loc, address, city, zip_):
                         "close to election day, and local coverage varies by county.")
     print(f"[ballot] {len(contests)} contests for {full!r}", flush=True)
     return contests, names, None
+
+
+def registry_candidates(loc, scored):
+    """
+    Federal candidates from candidates.json with no Vote Smart answers (e.g. they never took
+    the Political Courage Test), listed unscored so they don't silently disappear.
+    FEC also lists primary losers and paper filings, so only the top fundraiser per party in
+    each race is kept (a proxy for the nominee); ties, e.g. nobody raised money, keep everyone.
+    """
+    races = {}
+    for r in load_registry():
+        if r.get("office") not in OFFICE_CODES:
+            continue
+        level, position = OFFICE_CODES[r["office"]]
+        district = r.get("district") if r["office"] == "H" else None
+        if not in_area({"state": r.get("state"), "position": position, "district": district}, loc):
+            continue
+        key = (r.get("state"), r["office"], district or "", r.get("party_code") or r.get("party"))
+        races.setdefault(key, []).append((r, level, position, district))
+
+    out, seen, seen_ids = [], [m["name"] for m in scored], set()
+    for group in races.values():
+        top = max(g[0].get("raised") or 0 for g in group)
+        for r, level, position, district in group:
+            if (r.get("raised") or 0) < top:
+                continue
+            if r.get("pct_scraped") or any(_same_person(r["name"], n) for n in seen):
+                continue                  # already scored from a Vote Smart file
+            if r.get("pct_id") and r["pct_id"] in seen_ids:
+                continue                  # same person filed twice with FEC
+            seen.append(r["name"])
+            seen_ids.add(r.get("pct_id"))
+            office = f"{position} ({r['state']})" + (f" - District {_dnum(district)}" if district else "")
+            out.append({
+                "id": f"fec-{r['fec_id']}", "name": r["name"], "office": office,
+                "party": r.get("party") or None, "level": level, "position": position,
+                "district": district, "state": r.get("state"),
+                "score": None, "coverage": 0, "sections": {}, "reasons": [],
+                "ballotOnly": True, "url": None,   # the app labels url "Campaign website"
+            })
+    return out
 
 
 def ballot_candidates(contests, state):
@@ -842,6 +897,7 @@ def run_match(data, emit, cancelled):
         emit("progress", {"done": i, "of": len(candidates), "candidate": cand["name"]})
 
     out.sort(key=lambda m: (m["score"] is None, -(m["score"] or 0)))
+    out += registry_candidates(loc, out)
 
     contests, elections_found, ballot_note = fetch_ballot(
         loc, (data.get("address") or "").strip(), (data.get("city") or "").strip(),
