@@ -7,6 +7,7 @@ export type Reason = {
   candidateQuestion: string;
   candidateAnswer: string;
   agreement: number; // 0-100
+  importance?: number; // how much you said this question matters (1 = normal)
 };
 
 export type Level = 'Federal' | 'State' | 'Local' | 'Other';
@@ -24,6 +25,8 @@ export type CandidateMatch = {
   coverage: number;
   sections: Record<string, number | null>;
   reasons: Reason[];
+  ballotOnly?: boolean; // on your ballot, but no recorded positions to score
+  url?: string | null; // campaign website, when known
 };
 
 export type MatchLocation = {
@@ -32,12 +35,23 @@ export type MatchLocation = {
   district: string | null;
   county: string | null;
   districtKnown: boolean;
+  addressGiven: boolean;
+  geocodeError: string | null;
+  matchedAddress: string | null;
+};
+
+export type BallotInfo = {
+  loaded: boolean;
+  note: string | null;
+  elections: string[];
+  extra: number;
 };
 
 export type MatchResult = {
   matches: CandidateMatch[];
   answered: number;
   location: MatchLocation;
+  ballot?: BallotInfo;
 };
 
 export type MatchPayload = {
@@ -51,6 +65,7 @@ export type MatchPayload = {
     type: 'scale' | 'choice';
     question: string;
     answer: number | string;
+    weight?: number; // 0.5 low, 1 normal, 2 high, 3 top priority
   }[];
 };
 
@@ -62,7 +77,6 @@ export async function runMatch(
   onEvent: (e: MatchEvent) => void,
   signal?: AbortSignal,
 ): Promise<void> {
-  console.log('API_URL =', API_URL);
   const res = await fetch(`${API_URL}/run`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },

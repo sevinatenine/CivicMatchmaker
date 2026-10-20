@@ -1,0 +1,407 @@
+{
+  "name": "Gaylon Kent",
+  "page_title": "Gaylon Kent's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Libertarian for U.S. House (CO) - District 2",
+  "candidate_id": "135679",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/135679/gaylon-kent",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The moral aspects of this issue are your lookout and no one else's. The government must butt out of the abortion debate.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/"
+        }
+      ]
+    },
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The moral aspects of this issue are your lookout and no one else's. The government must butt out of the abortion debate.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Three: I want an American economy anchored in low taxes and free markets\"",
+          "source": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=V6GrYAdLWWs"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two, I would overhaul our income tax code because we deserve something simpler. Right now, our tax code is nine million words long and confuses even the IRS. I favor a flat tax of 5 percent on individual incomes and eliminating the corporate income tax because that is merely an expense businesses pass on to us consumers. A flat tax would give us more money to spend, and our income tax return would fit on a single sheet of paper.\"",
+          "source": "www.steamboatpilot.com",
+          "url": "https://www.steamboatpilot.com/news/gaylon-kent-libertarian-candidate-for-u-s-house-of-representatives-in-colorados-3rd-congressional-district/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We really shouldn't have to pay any income tax at all, but until we can reasonably support that, we should pay no more than 5% on incomes over $50,000.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/"
+        },
+        {
+          "type": "statement",
+          "text": "Ballotpedia \"A flat tax of no more than 5% on incomes over $50,000\"",
+          "source": "ballotpedia.org",
+          "url": "https://ballotpedia.org/Gaylon_Kent#Campaign_themes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Ballotpedia \"End the fighting of all wars that have not been declared by Congress.\"",
+          "source": "ballotpedia.org",
+          "url": "https://ballotpedia.org/Gaylon_Kent#Campaign_themes"
+        },
+        {
+          "type": "statement",
+          "text": "Ballotpedia \"I am the peace candidate. I believe the US should not fight any wars that have not been declared by Congress. If we continue to do so, our country will collapse, perhaps before this half-century is our.\"",
+          "source": "ballotpedia.org",
+          "url": "https://ballotpedia.org/Gaylon_Kent#Campaign_themes"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I favor the 2nd Amendment without qualification or restriction.\"",
+          "source": "lpedia.org",
+          "url": "https://lpedia.org/w/images/d/d6/CO_2020_USSenate_Kent.pdf"
+        },
+        {
+          "type": "statement",
+          "text": "\"One question that keeps scholars scratching their heads is whether the Second Amendment refers only to bear arms in the context of militia service or does it allow citizens to own whatever weapon they want. Taken in the context of the times that inspired the Bill of Rights and the English laws and customs that influence them, I think the answer is both. I support our Second Amendment rights without qualifications or restriction. The founding fathers won and armed citizens not only for service in the militia but to fight off the Indians whose lands we were stealing and to provide for food and personal defense. Perhaps most importantly, they did not want unarmed citizens going up against an armed government, something we feel remains a consideration today. Now, eventually, a weary America will want to discuss modifying or even eliminating the Second Amendment. It's inevitable; there has been too much carnage for too long in our country. Those of us who support the Second Amendment must be active participants in this discussion and not merely by blindly trotting out the Second Amendment. We would not subject ourselves to limitations on our First Amendment rights, friends, so we must be very careful about limiting our Second Amendment Rights. They are there for a reason.\"",
+          "source": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=s4wncWKYj0Y"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Doctors and health insurers must be returned to the free market. They must be financially answerable to their patients and customers.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Doctors and health insurers should be free from government regulation with the same free market access your plumber or lawyer has.\"",
+          "source": "www.youtube.com",
+          "url": "https://www.youtube.com/watch?v=y1QpvvkI7Io"
+        },
+        {
+          "type": "statement",
+          "text": "\"The very best thing the federal government can do is to get out of the health care industry. Both doctors and health insurers must be returned to the free market. This means doctors and insurers will have a direct interest in pleasing the consumer, which they do not have now. With a free market will come lower prices and increased innovation as doctors and insurers compete to offer products and services people need and offer them at prices consumers are willing to pay. We let the free market provide food, clothing and shelter, and we should let it provide medical care as well.\"",
+          "source": "www.steamboatpilot.com",
+          "url": "https://www.steamboatpilot.com/news/gaylon-kent-libertarian-candidate-for-u-s-house-of-representatives-in-colorados-3rd-congressional-district/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The immigration issue in the US is an interesting animal. One the one hand, sovereign nations are entitled to secure borders and to determine their immigration policy. While we acknowledge that life in some countries can be difficult and oppressive, we cannot open the doors and let everybody in.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/immigration/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're entitled to secure borders and those here illegally are not entitled to citizenship. But they're entitled to be more than criminals, so let's legalize them and let them do the workt hey came here to do.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While every sovereign nation is entitled to secure borders, those already here should be made legal without making them citizens.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/immigration/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"But what about those who are already here illegally? This is a problem, too, because we were unable to keep them out, and as a practical matter, we are unable to round them up and send them home. So let's make them legal. They are not entitled to citizenship- that is reserved for those who play by the rules- but they came here to work and build a life, and we should let them do that. We'll call it the Work Card Program. It will allow those who have one to legally live and work in the US. It is not citizenship. Holders will not be entitled to vote, hold a US passport, or enjoy any other benefit of US citizenship. But it means they will no longer be criminals, something that benefits everybody.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/immigration/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a US Representative, would you support a declaration of war by the US against Russia because of its invasion and attacks on Ukraine?\" \"No, not at all. This war has nothing to do with our security or liberty.\"",
+          "source": "thefreedomtrain.com",
+          "url": "https://thefreedomtrain.com/immigration/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must only fight in wars that have been declared by Congress, as mandated in the Constitution\"",
+          "source": "x.com",
+          "url": "https://x.com/gaylon4congress/with_replies"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-19T02:19:14+00:00"
+}

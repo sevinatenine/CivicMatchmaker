@@ -286,7 +286,7 @@ def parse_header(soup: BeautifulSoup) -> dict:
     title = soup.select_one("h2.card-title")
     if title:
         t = clean(title.get_text())
-        info["name"] = re.sub(r"[’']s Issue Positions.*$", "", t)
+        info["name"] = re.sub(r"[’']s?\s+Issue Positions.*$", "", t)
         info["page_title"] = t
 
     # Office + ballot status
