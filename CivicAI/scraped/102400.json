@@ -1,0 +1,586 @@
+{
+  "name": "Cliff Bentz",
+  "page_title": "Cliff Bentz's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OR) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OR) - District 2",
+  "candidate_id": "102400",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102400/cliff-bentz",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I would vote to reverse Roe v. Wade were I on the Supreme Court. If I am elected to fill Congressman Greg Waldenâs Second Congressional District seat, I will continue to be an advocate for the unborn and I will continue the fight for our most vulnerable in Washington DC.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/life/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/102400/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am a right to life candidate. By \"right to life\" I mean that I believe that life begins at conception and that life should be protected until death by natural causes occurs. The only exception to the prohibition against abortion that I support is when the life of the mother is at risk.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/life/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by Alliance for Retired Americans",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will work in Congress â just as I did in the state senate â to strengthen our economy by directing investments toward rural Oregon, reducing regulations, lowering taxes and supporting President Trumpâs policies that make our economy even stronger. I was one of the eleven Republican Senators that walked out of the senate to deny the Democrats a quorum so that the Gross Receipts Tax might be stopped. We were unsuccessful in stopping that tax, but we did call out the incredible damage it could do in an economic downturn. And now we are in that downturn. That tax makes it even more difficult for small business to survive.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/reduce-regulation-lower-taxes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the middle of a crippling recession that is hitting you where it hurts the most, the Democrats' grand plan is to RAISE taxes on you. They just can't help themselves.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1554141000611799040?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will work in Congress â just as I did in the state senate â to strengthen our economy by directing investments toward rural Oregon, reducing regulations, lowering taxes and supporting President Trumpâs policies that make our economy even stronger. I was one of the eleven Republican Senators that walked out of the senate to deny the Democrats a quorum so that the Gross Receipts Tax might be stopped. We were unsuccessful in stopping that tax, but we did call out the incredible damage it could do in an economic downturn. And now we are in that downturn. That tax makes it even more difficult for small business to survive.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/reduce-regulation-lower-taxes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the middle of a crippling recession that is hitting you where it hurts the most, the Democrats' grand plan is to RAISE taxes on you. They just can't help themselves.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1554141000611799040?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/102400/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of August 31st, 234 police officers had been shot in 2022. Defunding and demonizing the police has dangerous consequences.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1569754557600698369?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/102400/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted for passage of the National Defense Authorization Act last night. This bill gives our military the resources they need to defend American freedom and democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1468670673753198594?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/102400/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/102400/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/102400/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden has sent us down a path that has led us to the inevitable: soaring inflation. We MUST put an end to reckless and unnecessary spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1580642602885357568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted no on massive spending, an increase in taxes, and the hiring of an additional 87,000 IRS agents. Amid 40-year high inflation, Democrats are pushing a semantically loaded, partisan bill that will do everything EXCEPT reduce inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1558199218619162624?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are now $31 TRILLION in debt. It's completely unconscionable. Tired of wasteful and excessive government spending? Republicans have a plan in place to fight it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1577397600327811072?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102400/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden has sent us down a path that has led us to the inevitable: soaring inflation. We MUST put an end to reckless and unnecessary spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1580642602885357568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted no on massive spending, an increase in taxes, and the hiring of an additional 87,000 IRS agents. Amid 40-year high inflation, Democrats are pushing a semantically loaded, partisan bill that will do everything EXCEPT reduce inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1558199218619162624?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102400/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cancelling student debt is insulting and a slap in the face to those of us who paid back our student loans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1562807652672974852?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I put myself through college by working all sorts of different jobs. Let me be really clear: cancelling student loans is insulting and a slap in the face to those of us who paid back our debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1630931720978546689?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/102400/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/102400/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden promised a green job for displaced energy workers but has yet to deliver and now these once productive folks are on unemployment and dependent on the government.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1383052603957800961?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Dem $3.5 trillion bill props up the Green New Deal w/ $630 billion at expense of US businesses, farms, & families through higher costs & prices. The bill would create a Citizens Climate Corps & Climate Youth Patrol by funneling tax dollars to out-of-work climate activists.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1448040164417314817?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/102400/strategic-production-response-act#90422"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/102400/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/102400/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/102400/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly oppose government run healthcare. Estimates show that the democratâs proposal of a single payer healthcare system would cost over $30 trillion. I believe Obamacare should be replaced with solutions that focus on free market principles to help drive down the skyrocketing cost of healthcare. I will support efforts in Congress to promote healthcare reforms that lower premiums and overall healthcare costs, improve quality care, protect the doctor patient relationship, increase much needed transparency and create more choices for consumers of healthcare.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/healthcare/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HB 2005: \"Requires 12 Weeks of Paid Medical Leave\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26746/67945/102400/requires-12-weeks-of-paid-medical-leave#67945"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/102400/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/102400/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will join President Trump in stopping illegal immigration by improving border security and by building/completing the wall. Of course, we need to address and reform immigration. But any conversation about immigration must start by addressing how we are going to stop those that are coming into the country illegally.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/secure-our-borders/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/102400/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/102400/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will join President Trump in stopping illegal immigration by improving border security and by building/completing the wall. Of course, we need to address and reform immigration. But any conversation about immigration must start by addressing how we are going to stop those that are coming into the country illegally.\"",
+          "source": "cliffbentz.com",
+          "url": "https://cliffbentz.com/2020/03/secure-our-borders/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102400/cliff-bentz"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/102400/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/102400/farm-workforce-modernization-act-of-2021#77981"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/102400/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/102400/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/102400/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/102400/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/102400/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/102400/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/102400/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just finished 1st mtg of GOP Task Force on Big Tech Censorship and Data. Discussed big tech responsibility, power, data. Look forward to working w/ GOP colleagues to advocate for meaningful transparency & accountability, consistency, competition, and the welfare of consumers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBentz/status/1420128132187688971?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/102400/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:23:43+00:00"
+}

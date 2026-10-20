@@ -1,0 +1,579 @@
+{
+  "name": "Dan Goldman",
+  "page_title": "Dan Goldman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 10, Democratic",
+  "candidate_id": "208627",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/208627/dan-goldman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"51 years ago, the landmark Roe decision recognized the right for women to make their own health care decisions. That right is foundational to individual freedom, even if this extreme SCOTUS works to destroy it. We must enshrine the protections of Roe v Wade into federal law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1749478625001271458"
+        },
+        {
+          "type": "statement",
+          "text": "\"A year ago today, SCOTUS ripped up decades of precedent and, for the first time in history, eradicated a fundamental right by overturning Roe v. Wade. Until we've finally guaranteed that fundamental right, Dems will never stop fighting against the conservative War on Freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1672616782383726593"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today would have marked the 50th anniversary of Roe. Instead, ideologues on the Supreme Court have ripped away a womanâs individual freedom. I vow to continue the fight for the right choose until we succeed, and I was proud to do so during my first week in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1617206942077800448"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always protect your social security benefits.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1760366558528884801"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is an essential program that rewards those who have paid into our government with a dignified retirement. We simply must guarantee its solvency. The Social Security 2100 Act will do exactly that so we donât have to endure uncertainty any longer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1661423977535766567"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House GOP wants to cut your social security, and theyâre trying to do it under cover of darkness by burying a âfiscal commissionâ in their budget. I joined my colleagues to press GOP leadership to reject this secret commission and commit to protecting Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1752768561129427216"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Billionaire Minimum Tax is just what we need so those who've benefited the most from the American Dream can help provide others with the access to pursue it. It's time to level the playing field, spur economic investment, and expand opportunity with this long-overdue policy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1730691577062859130"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Billionaire Minimum Tax is just what we need so those who've benefited the most from the American Dream can help provide others with the access to pursue it. It's time to level the playing field, spur economic investment, and expand opportunity with this long-overdue policy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1730691577062859130"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"SCOTUS made its Citizens United decision 14 years ago, opening our elections up to unlimited dark money. As the price tag on each election grows, faith in government falls. We can't continue to allow dark money in politics to undermine everyoneâs right to one person, one vote.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1749194299927884236"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need the We the People Amendment to reverse Citizens United, limit special interest influence, and restore trust in our system.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1720503494820397330"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Three years ago today, George Floyd was unjustly murdered by a police officer in Minneapolis. Since then we have failed to address the reality of police brutality around the country. And while progress has been far too slow, we must never give up on the fight for justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1661804791293419520"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/208627/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/208627/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change & deteriorating public housing are among the defining issues of this century. @RepAOC & @SenSandersâ Green New Deal for Public Housing will address them head-on. We must invest in green public housing to create jobs & restore public housing to quality condition.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1771196516645896338"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined @RepPaulTonko & @SenWhitehouse to urge @Interior to follow @BOEMs recommendations for Renewable Energy & Environmental Programs to help meet U.S. offshore wind targets. Advancing offshore wind development will create American jobs & produce clean power for our future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1638239571509911552"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined the House Sustainable Energy and Environment Coalition @SEEC because climate change is a current and existential threat to our planet today. We have an obligation to protect our clean air and water, invest in resiliency and fight for environmental justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1623016627355717635"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change & deteriorating public housing are among the defining issues of this century. @RepAOC & @SenSandersâ Green New Deal for Public Housing will address them head-on. We must invest in green public housing to create jobs & restore public housing to quality condition.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1771196516645896338"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, I advocated for free bus lines, called for a tax deal to reinvigorate affordable housing production in NYC, and announced a bill that would combat anti-abortion misinformation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1771634252968317072"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hunger doesnât take a summer vacation. I joined @RepYvetteClarke to introduce the Summer Nutrition Parity Act that ties the summer lunch program funding to inflation so that schools have the resources to keep kids healthy and fed year-round\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1761140919598759995"
+        },
+        {
+          "type": "statement",
+          "text": "\"When @POTUS lowered insurance premiums for Affordable Care Act enrollees, he saved #NY10 residents $1000s per year. Itâs up to us to build off of the Inflation Reduction Actâs successful investment in affordable health care to ensure all NYers can take care of their health.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1777028733150314993"
+        },
+        {
+          "type": "statement",
+          "text": "\"With 2.7 million new jobs created in 2023 and inflation falling, we're entering the new year with a growing economy for all. In 2024, @POTUS and @HouseDemocrats will build on this momentum and continue to grow our economy from the bottom-up and middle-out.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1743712055897538810"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From working to codify President Bidenâs student debt forgiveness plan to fighting to curb gun trafficking and highlighting the alarming rise of antisemitism in the U.S., my team and I worked to serve #NY10.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1733934337433964819"
+        },
+        {
+          "type": "statement",
+          "text": "\"High-interest rates and predatory loans have forced 25 million students into a position of owing more in loans than they ever borrowed. @POTUS' innovative plan to cancel up to $20k in borrowers' interest will help millions finally get out from under loan debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1777770004613599631"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protecting the right to vote canât be a partisan issue â itâs a right thatâs fundamental to American democracy. 31 years ago today, the 1992 VRA Amendments were signed by a Republican president after bipartisan passage. We must have that same commitment to voting rights today.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1695483021619585076"
+        },
+        {
+          "type": "statement",
+          "text": "\"The 15th Amendment constitutionally prohibited racial discrimination in voting, a historic expansion in voting rights.Yet racial gerrymandering and discriminatory election laws still subvert those goals. We must fight these practices and expand access to the ballot for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1753868503558279588"
+        },
+        {
+          "type": "statement",
+          "text": "\"The legendary John Lewis was a civil rights hero who never stopped fighting for our democracy. In honor of his legacy and in the spirit of the John R. Lewis Voting Rights Act, passed in 2021, we must never stop fighting for every American to have equal access to the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1694771465353101417"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voting rights are the very foundation of our democracy â as extremists undermine them in the raw pursuit of power, it's imperative we defend them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1692542015660081556"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        },
+        {
+          "type": "statement",
+          "text": "\"Climate change & deteriorating public housing are among the defining issues of this century. @RepAOC & @SenSandersâ Green New Deal for Public Housing will address them head-on. We must invest in green public housing to create jobs & restore public housing to quality condition.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1771196516645896338"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined @RepPaulTonko & @SenWhitehouse to urge @Interior to follow @BOEMs recommendations for Renewable Energy & Environmental Programs to help meet U.S. offshore wind targets. Advancing offshore wind development will create American jobs & produce clean power for our future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1638239571509911552"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined the House Sustainable Energy and Environment Coalition @SEEC because climate change is a current and existential threat to our planet today. We have an obligation to protect our clean air and water, invest in resiliency and fight for environmental justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1623016627355717635"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans will put one substantive bill â ONE â on the floor this entire week. Itâs sole purpose is to increase oil and fossil fuel production for Republican special interests.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1618241057845837827"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last night, I offered the #GreenEquityAmendment to replace a giveaway to Big Oil with a recommitment to climate action and environmental justice. But the GOP wouldn't even let it come to a vote. Theyâll stop at nothing to protect oil drilling at the expense of our planet.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1619031751090929666"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/208627/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"91% of Americans want universal background checks on all gun sales. There's no other issue with such broad, bipartisan support. Yet the GOP refuse to listen to the American people and won't prioritize commonsense gun violence prevention. We must put our kids over the gun lobby.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1700159353246855643"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Columbine school shooting should have been a call to action to limit firearm access and save our childrenâs lives. 25 years later, school shootings are still tragically all too common. We must keep our children safe. We must pass gun safety legislation now.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1781794451448340852"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Universal health care is a right and every American deserves quality care. Thatâs why I'm cosponsoring the Medicare for All Act with @RepJayapal because we need to do everything we can to expand access to health care to all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1658943650745708544"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A year ago, I stood with @RepJimmyGomez and my colleagues to launch @DadsCaucus. As dads, we must be out front fighting for working families. We have not wavered in our commitment to uplift families through the Child Tax Credit, affordable childcare, and paid family leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1750904881848734154"
+        },
+        {
+          "type": "statement",
+          "text": "\"No parent should ever have to choose between being present for their family and putting food on the table. We must make it easier for working families by passing the Child Tax Credit, expanding paid family leave, and providing access to affordable childcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1697269416772177960"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you to the parents who came to today's event to discuss the difficulties that parents across the US face with the lack of a national paid family leave policy. We must continue fighting for national paid family leave, one of many policies that will uplift working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1656797751663894528"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know? Thanks to President Bidenâs Inflation Reduction Act, on July 1, the $35/month cap on insulin prices began for all Medicare beneficiaries. Make sure that the new cost is reflected in your bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1675917389496459266"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last Congress, @POTUS and House Democrats fought to cap insulin prices at $35 in the Inflation Reduction Act so that seniors on Medicare can access life-saving medication. Democrats will keep fighting to ensure that all Americans don't have to worry about affording medical care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1742692205788275044"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This past month, @SecMayorkas and a bipartisan group of senators have worked to find real border solutions. Instead of joining them, the House GOP held a sham impeachment hearing with AGs who sued to stop him fromâ¦addressing problems at the border. The duplicity is astounding.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1745238555956478232"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/208627/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/208627/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fantastic news! @POTUS heeded our call to ensure DACA recipients have access to the benefits of the Affordable Care Act. Everyone deserves access to affordable, quality health care. It's now Congress' turn to do its job and create a pathway to citizenship for DACA recipients.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1786488952603508931"
+        },
+        {
+          "type": "statement",
+          "text": "\"New York is a city of immigrants, and we need everyone to pitch in, including our City's universities, to help support migrant families and provide them with the services they need to build a new life here.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1662873040370257921"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208627/dan-goldman"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/208627/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/208627/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/208627/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/208627/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Aid to Ukraine cannot wait. Without it, Putin will conquer our democratic ally Ukraine & continue marching into Europe. China & Iran are watching. Global democracy is on the line.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1768027059635306640"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/208627/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/208627/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must do everything it can to eliminate foreign threats to our democracy. That is why I voted yes on todayâs bill requiring ByteDance to sell TikTok\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDanGoldman/status/1767963882381856873"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/208627/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/208627/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:57:36+00:00"
+}

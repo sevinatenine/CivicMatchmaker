@@ -1,0 +1,664 @@
+{
+  "name": "Greg Murphy",
+  "page_title": "Greg Murphy's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NC) - District 3",
+  "candidate_id": "166135",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/166135/greg-murphy",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a devout Christian and staunch believer of the unalienable right to life for all, Dr. Murphy is a proud supporter of pro-life issues. Dr. Murphy has had a lifelong allegiance to the unborn and the right-to-life.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/pro-life/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, #SCOTUS will hear oral arguments to determine the rights of states to implement restrictions on abortion. An unborn child is a human being, entitled to life, liberty, and the pursuit of happiness. They must be protected under the law. #ProLife\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1466053248024989698?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Part of the legislative process involves implementing policy, observing it in action, and adjusting it if it isn't working properly,\" said Murphy. \"SNAP provides an essential service to low-income Americans. However, it's been abused by people who don't need it and the American taxpayer is footing the bill. I'm proud to introduce the SNAP Reform Act of 2021 to ensure that only those who actually need food stamps are the ones who receive them.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1530397/murphy-introduces-snap-reform-act-of-2021"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NAtional Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/166135/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's FY2023 budget proves that he has learned nothing over the past year. His \"plan\" adds $15 TRILLION to the federal debt and hits American families and businesses with $58 TRILLION in new taxes. During a time of record inflation, Biden's budget is another tone-deaf disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1508473194436509700?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Dr. Murphy has spent his time in Congress fighting to simplify the tax code for working families and to lower the rates they have to pay, regardless of income. As our debt continues to rise irresponsibly under democratic rule, he has pledged to cut the amount of money the government spends annually.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/tax-economy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to President Trump and House Republicans passing the Tax Cuts and Jobs Act, the tax rates for hard working families are at historic lows. Yet thanks to out of control government spending, the fight for lower taxes for the American people must continue.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/tax-economy/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dr. Murphy has spent his time in Congress fighting to simplify the tax code for working families and to lower the rates they have to pay, regardless of income. As our debt continues to rise irresponsibly under democratic rule, he has pledged to cut the amount of money the government spends annually.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/tax-economy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to President Trump and House Republicans passing the Tax Cuts and Jobs Act, the tax rates for hard working families are at historic lows. Yet thanks to out of control government spending, the fight for lower taxes for the American people must continue.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/tax-economy/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 1 -- which should be referred to as the \"For the Politicians Act' -- funnels taxpayer dollars to incumbent candidates for their reelection campaigns, enables the federal government to control all aspects of our elections, and restricts voter ID laws. Many in her party even want convicted felons in prison to vote. Talk about misguided priorities. In effect, Pelosi is attempting to wield her self-acclaimed dictatorial powers and use Congress to retain Democratic control. The American people cannot and will not be fooled by this overt political and unconstitutional stunt.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1512946/murphy-votes-against-hr-1"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by CommonCause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/166135/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the past year, weâve heard cries to defund the police. Now that crime rates are increasing it is clear that police are not the problem; they are the solution. This is Bidenâs Crime Crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1407784062312460301?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The police are tired of being attacked by the Democratic Party. #backtheblue\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1294794861762117638?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The pure tone deaf arrogance of the Progressive Left is astounding. They want to Defund the Police and then deny that the result is an increase in crime.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1467488788809142278?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/166135/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/166135/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of wasting more taxpayer time and money, we should be voting to fund our military, lower drug costs and finalize trade deals.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1194725628412669954?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/166135/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/166135/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I remain firm in my position that we must end Washingtonâs reckless spending and secure our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1743312644478497075?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's FY2023 budget proves that he has learned nothing over the past year. His \"plan\" adds $15 TRILLION to the federal debt and hits American families and businesses with $58 TRILLION in new taxes. During a time of record inflation, Biden's budget is another tone-deaf disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1508473194436509700?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Not a dime of President Bidenâs #BuildBackBroke agenda goes toward mitigating any one of his devastating self-inflicted crises. Instead, heâs spending trillions of dollars we donât have on the backâs of the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1461348925097476103?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The national debt crisis is REAL. Republican and Democrat witnesses agree. BOTH sides are to blame. Modern Monetary Theory is quack science. We need to get responsible about spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1732490746798780500?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I had a productive meeting with the Outer Banks Chamber of Commerce to discuss a wide variety of issues impacting the community. A few of the topics we addressed include affordable housing, environmental issues, our fishing community, inlet access, insurance issues, and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1674422406629441540?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In order to increase affordable housing on the Outer Banks we must cut burdensome regulations that prevent our home builders from getting to work and drive up the cost of home ownership.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1674071774105853952?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"60% of Americans are worried that President Bidenâs student debt cancelation scheme will worsen inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1567179062883323904?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is the #1 concern for American families. Despite this dismal economic reality, liberals are doubling down on their Far-Left spending agenda. No matter what lies you may hear from Biden, Dems control the House, the Senate, and the White House. The buck stops with them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1526559710912172033?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to President Bidenâs radical spending agenda resulting in record inflation, American families will have to pay more for todayâs #SuperBowl celebrations than ever before.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1492878375312146437?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act created $1.2 trillion in taxpayer-funded credits that are filling Chinaâs coffers while doing nothing for ordinary Americans. The Biden Administrationâs myopic climate agenda is a failure for taxpayers and our environment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1746572509447643301?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"60% of Americans are worried that President Bidenâs student debt cancelation scheme will worsen inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1567179062883323904?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's SAVE Act teaches young people that they don't have to repay their debts. Instead, American taxpayers are responsible, and it is estimated to cost $559 billion. I voted YES on a resolution to prohibit Bidenâs plan to force American taxpayers to repay student loan debt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1732803294123213310?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"What if the colleges and universities that have billions of dollars in their endowments \"forgave\" student loans? President Biden wants individuals who worked hard to pay back their student loans and individuals who never went to college to pay the debt of others.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1520375614536097795?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 1 -- which should be referred to as the \"For the Politicians Act' -- funnels taxpayer dollars to incumbent candidates for their reelection campaigns, enables the federal government to control all aspects of our elections, and restricts voter ID laws. Many in her party even want convicted felons in prison to vote. Talk about misguided priorities. In effect, Pelosi is attempting to wield her self-acclaimed dictatorial powers and use Congress to retain Democratic control. The American people cannot and will not be fooled by this overt political and unconstitutional stunt.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1512946/murphy-votes-against-hr-1"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democratsâ #1 priority is a power-hungry federal takeover of elections that steamrolls statesâ rights, forces taxpayers to fund politicians, green lights ballot harvesting, and eliminates common sense voter ID laws. A total disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1480367068251934724?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"So while Dems are screaming no fraud in the last election, they, because their disastrous policies are going to lose the next election, are all of a sudden scream fraud in the next election??? Eliminate Voter ID, allow Ballot harvesting, Federalize elections? #DemHypocrisy\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1484496785687162880?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by CommonCause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans associate Bidenomics with an increasing cost of living and high gas prices. The White Houseâs economic agenda, dominated by green handouts, stringent regulations, and increased taxes, simply isnât working.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1706001496859443376?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The @EPA's recent push for Green New Deal coastal regulations will have devastating and lasting consequences for Eastern North Carolina. The people of #NC03 simply cannot afford it. Thatâs why I joined 195 of my @HouseGOP colleagues in a letter urging them to reconsider.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1618715109261725696?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"U.S. energy independence is a pillar of national security and global stability. President Biden must end his attack on American energy, abandon his radical Green New Deal agenda, and embrace energy resources at home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1497238140297388034?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden paused U.S. domestic energy production on his first day in office, and now heâs begging Saudi Arabia and #OPEC to drill more oil abroad. Why does Biden hate American energy independence?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1425476467169931272?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"U.S. energy independence is a pillar of national security and global stability. President Biden must end his attack on American energy, abandon his radical Green New Deal agenda, and embrace energy resources at home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1497238140297388034?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We could produce our way out of Bidenâs anti-American energy crisis. Instead, the White House is pushing policies that cripple U.S. energy independence and make us dependent on unstable foreign oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1463151612281696256?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Murphy is a firm supporter of the Second Amendment. He fundamentally believes in the constitutional right to bear arms for law-abiding citizens so they may protect themselves and their families.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/second-amendment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Glad to see so many stand up for their 2nd Amendment rights in Virginia. It simply makes no sense to disarm law abiding citizens. Read the Constitution.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1219392589473906688?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"He also is an original cosponsor of the Concealed Carry Reciprocity Act, which would allow constituents to carry concealed firearms between states that allow for such methods of carrying. This right should never be infringed upon and, as a personal sportsman, Dr. Murphy will continue to fight for the Second Amendment rights for North Carolinaâs Third District.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/second-amendment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Law-abiding Americans have every right to keep and bear arms. There should be no arbitrary reason for the government to infringe upon these rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1417610294331944967?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since Democrats took control of Congress, their primary healthcare strategy has been to impose a one-size-fits-all approach that fails to empower patients and their doctors to do what is best. Beyond simply opposing efforts to enact broad \" Medicare for All \" policies that would destroy personalized and modernized care, we will work to transform the healthcare system to better serve patients and providers.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1622445/washington-examiner-put-healthcare-back-in-the-hands-of-doctors-and-patients-not-bureaucrats/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The cost of American medicine is outpacing the ability to care for each patient. Obamacare has proved itself to be a disaster but we should be looking at reform not replacement. We simply cannot put the genie back in the bottle.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1740052448281281002?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/166135/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/166135/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Although the concern over the high cost of prescription drugs is bipartisan, there is still much debate to be had about the best path moving forward. H.R. 3 is a well-intentioned but poorly executed plan to fix the often-unbearable price of prescription drugs in this country,\" said Murphy. \"As a practicing urologist, I have seen more cures to diseases created in the last five years than the 70 preceding years combined. But by instituting price controls on prescription drugs, this legislation would significantly hamper research and development. There are better ways we can lower drug prices, like reigning in the practices of pharmacy benefit managers and curtailing direct-to-consumer advertising. It's imperative that we refrain from passing legislation that produces unintended consequences precluding scientists from finding the miraculous cures of tomorrow. We owe it to our children and grandchildren.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1389469/murphy-votes-against-hr-3/"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a practicing physician of over 30 years, the issue of healthcare and cost-effective relief is of utmost importance to Dr. Murphy. He has spent his career fighting the high-cost of prescription drugs and the lack of access to quality, on-time care for patients. As Vice Chairman of the Congressional Doctors Caucus, he will fight to make the healthcare system work for patients.\"",
+          "source": "murphy4congress.com",
+          "url": "https://murphy4congress.com/issues/healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Earlier this week, I was glad to join the North Carolina Biosciences Organization (@ncbio) for an important conversation about how we can lower prescription drug costs for patients while at the same time preserving American innovation for new cures.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1446101483439759367?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of wasting more taxpayer time and money, we should be voting to fund our military, lower drug costs and finalize trade deals.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1194725628412669954?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border patrol encountered over 221,300 illegal immigrants at the Southern Border last month. This is a 542% increase from March 2020. We must secure our border NOW.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1518584894837960710?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I remain firm in my position that we must end Washingtonâs reckless spending and secure our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1743312644478497075?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration is ready to end #Title42 and green light millions of illegal border crossingsâ¦while mask mandates still remain in effect for American citizens. How is opening our border and putting Americans last âfollowing the scienceâ? Pure parody.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1513638294109753360?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Legal immigration has been the foundation of this nation's growth. We are the world's melting pot and we celebrate that diversity. However, if these two bills were made law, more than one million individuals who entered this country illegally, as well as their dependents, would be rewarded for breaking the law. We are a nation of immigrants, but we are also a nation that was founded on its belief in the rule of law.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1512957/murphy-votes-against-legislation-providing-amnesty-to-millions-of-illegal-immigrants"
+        },
+        {
+          "type": "statement",
+          "text": "\"Record-breaking illegal migrant crossings are happening all the time under President Biden, and Americans are footing the bill. Billions of dollars in taxes are being wasted that otherwise could be used to secure our border and protect our communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1734642399958192412?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration is ready to end #Title42 and green light millions of illegal border crossingsâ¦while mask mandates still remain in effect for American citizens. How is opening our border and putting Americans last âfollowing the scienceâ? Pure parody.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1513638294109753360?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166135/greg-murphy"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/166135/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/166135/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/166135/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6933: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/166135/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "statement",
+          "text": "\"My heart breaks for Ukraine and they need support, but we must address the crisis on our own border first. It is imperative we prioritize the national security of our country before funding other nations. Until the White House gets this, the funding will dry up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1735015364012966379?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/166135/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hamas is receiving millions of dollars from pro-Palestinian charities. Theyâre using social media platforms like TikTok to fool well-intentioned American citizens into giving out the goodness of their hearts. This cannot be allowed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGregMurphy/status/1722611698136494344?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/166135/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:09:34+00:00"
+}

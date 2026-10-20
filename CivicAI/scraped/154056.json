@@ -1,0 +1,640 @@
+{
+  "name": "Becca Balint",
+  "page_title": "Becca Balint's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VT) - At-Large, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (VT) - At-Large",
+  "candidate_id": "154056",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/154056/becca-balint",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/2/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/2/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Deciding whether and when to have a child is deeply personal â and should be in the hands of pregnant people, not politicians. The Supreme Courtâs decision to overturn Roe v. Wade was cruel, dehumanizing, and dangerous. It does not reflect the will of the majority of Americans who deeply value maintaining control of their bodies, their lives, and their futures. The extremist conservative Supreme Court is using their power to override the will of the people.\"",
+          "source": "beccabalint.com",
+          "url": "https://beccabalint.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Abortion Surivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/154056/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/53/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs simple, if we starve our government of resources, we canât meet the needs of our constituents. Whether it is Social Security or Disability benefits, I will not stop fighting for what Vermonters need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1672300718256996381"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security. Medicare. Nutrition assistance. Veterans benefits. Disability insurance. These are vital support systems for regular people and lifelines to staying out of crushing poverty. They need to be strengthened, not put on the chopping block.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1748032112005972398"
+        },
+        {
+          "type": "statement",
+          "text": "\"The GOP needs to find their way through their civil war and put forward a Speaker that keeps their word. We have urgent work to get done â from protecting Social Security, investing in education, ensuring reproductive rights are protected, and recovering from the flooding in VT.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1709666997762400712"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Billionaires should not pay lower tax rates than teachers, nurses, & firefighters. The Biden Budget will close the loophole that allows some billionaires to pay no federal income taxes. Working families pay their fair share of taxes. Billionaires should, too. #BidenBudget\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1633906558240210965"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Billionaires should not pay lower tax rates than teachers, nurses, & firefighters. The Biden Budget will close the loophole that allows some billionaires to pay no federal income taxes. Working families pay their fair share of taxes. Billionaires should, too. #BidenBudget\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1633906558240210965"
+        },
+        {
+          "type": "statement",
+          "text": "\"Oh, and letâs make sure the ultra-wealthy pay their fair share like the rest of us.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1752379870137724975"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS is hearing arguments today in Moore v. US. This decision could shield billionaires from a wealth tax, create chaos in our economy, and hinder small businessesâ ability to compete in the economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1732105001231589592"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax Day reminders: File your taxes. Tax the rich. Tax the corporations. Invest in working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1779895702472040514"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democracy is worse off since the Citizens United ruling 14 years ago to allow dark money groups to influence elections and policy. The agenda of corporations and the ultra wealthy has been able to bulldoze the needs of regular Americans. We need reform.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1749544550077493467"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs time to return power to the people. Our democracy is at stake. I'm proud to cosponsor @RepAdamSchiffâs Democracy for All amendment to overturn Citizen United and get dark money out of politics.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1616509032323518469"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 20% by National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/20/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/154056/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we lurch towards a shutdown, Republicans are digging in on their spending bill that would mean an 80% cut in federal funding for low-income schools. It's a thinly veiled attack on working class people and it puts our most vulnerable students at risk.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1706764829690855752"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden is an infrastructure president. He's investing back into Vermont through affordable and reliable internet, tens of thousands of new jobs, roads, bridges, airports, clean water, and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1790085722935840839"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs Inflation Reduction Act is the most significant piece of climate legislation passed in history. Vermonters will benefit firsthand from its investments in infrastructure resiliency.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1804949835088380401"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Bipartisan Infrastructure Law â in just 2 years â has reached Vermont with: Cleaner and safer water. More people connected to high-speed internet. Improved roads and bridges. Better public transportation. Cleaner and more efficient energy. Upgraded airports. & so much more!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1724869481791389725"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NEW: I just introduced the Community Housing Act. So many families are facing the crushing burden of the housing crisis. This is an investment of hundreds of billions of dollars into affordable housing to address root causes and alleviate long term affordability problems.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1757131276757184910"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Community Housing Act offers creative solutions and bold investments to tackle the housing crisis in Vermont and across the country. Itâs long past time we truly invest in the needs of working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1757510613813617060"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot have a strong economy or communities without fair, affordable housing for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1773009835186905474"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're facing a shortage of affordable housing in Vermont and in every state. Many households spend more than half of their income on housing â itâs not sustainable. We need to increase access and availability of affordable housing for families who need it most.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1737856245506453838"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Because of the Inflation Reduction Act, the Twin States are receiving a historic investment to improve water and waste management. Water and waste management is a housing issue, a rural issue, and a community issue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1760739040503189803"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs Inflation Reduction Act is the most significant piece of climate legislation passed in history. Vermonters will benefit firsthand from its investments in infrastructure resiliency.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1804949835088380401"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, million of Americans will save on average $800 per year and $2400 per family on #ACA health insurance premiums. Sign up by January 15 to #GetCovered starting next month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1614003997278339074"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act made historic investments in growing our clean energy economy, lowering health care costs, creating good-paying union jobs & so much more. But we can't stop there. We need bold action. We need to pass the #GreenNewDeal and #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1692514179716952332"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden is canceling *more* student loan debt for tens of millions of Americans that just want to get on their feet. This is a president that wants to see working families thrive.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1777393402117554487"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is welcome news â borrowers deserve relief from the student loan debt that is crippling so many Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1731019551968538852"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're facing a student loan crisis that impacts generations of borrowers. With collectively over $1.6 trillion in student loan debt, we urgently need to act to address this burden. #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1695133026349375996"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/29/"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs Inflation Reduction Act is the most significant piece of climate legislation passed in history. Vermonters will benefit firsthand from its investments in infrastructure resiliency.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1804949835088380401"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act made historic investments in growing our clean energy economy, lowering health care costs, creating good-paying union jobs & so much more. But we can't stop there. We need bold action. We need to pass the #GreenNewDeal and #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1692514179716952332"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have no chance at overcoming the urgent threat of climate change without a strong transition toward clean energy. Vermont has more public charging stations per capita than any other state â and now we have our first federally funded station!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1783519385484677316"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The @HouseGOP is pushing a bill that puts #PollutersOverPeople. It's full of handouts and loopholes for their oil & gas and special interest friends â it does absolutely nothing to lower energy prices for American families or address our climate crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1640790357096161280"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vermonters know the value of our natural resources. That's why today, I voted against the GOP's #PollutersOverPolitics bill. HR1 is a threat to our clean air and safe drinking water, all while padding the pockets of oil and gas executives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1641485442171432962"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/154056/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34063/90422/154056/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/37/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Common-sense gun reform is popular in Vermont and across the country, but the powerful gun lobby has stopped these reforms in their tracks. In D.C., Becca isnât afraid to stand up to the gun lobby and advocate for gun safety measures including expanding background checks, investing in gun violence research and prevention programs, and Extreme Risk laws.\"",
+          "source": "beccabalint.com",
+          "url": "https://beccabalint.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America (GOA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/37/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Becca is a member of the Gun Violence Prevention Task Force, to bring together voices from across the country to finally end this epidemic and get beyond \"thoughts and prayers.\" She is an original cosponsor of common sense reform like the Bipartisan Background Checks Act and the Assault Weapons Ban. Becca believes itâs time to reinstate the assault weapons ban. There is no reason for weapons of war to be in our communities.\"",
+          "source": "beccabalint.com",
+          "url": "https://beccabalint.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's time we passed Medicare for All, and that must include mental health care for all. When I get to Congress, I am going to make sure we address the mental health crisis. Help me get our message out by supporting our team.\"",
+          "source": "x.com",
+          "url": "https://x.com/BeccaBalintVT/status/1547629965939617794"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, million of Americans will save on average $800 per year and $2400 per family on #ACA health insurance premiums. Sign up by January 15 to #GetCovered starting next month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1614003997278339074"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act made historic investments in growing our clean energy economy, lowering health care costs, creating good-paying union jobs & so much more. But we can't stop there. We need bold action. We need to pass the #GreenNewDeal and #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1692514179716952332"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States is the only industrialized nation that doesn't guarantee access to health care. We need Medicare for All. Full stop.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1794716495953756517"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"30 years ago #FMLA became the law of the land. But our work is not done. Like parents everywhere, I know that no one should have to choose between work and family. I'm fighting until Paid Family and Medical Leave finally meet the needs of working families. Whoâs with me?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1621275164385107968"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"American families are struggling while Big Pharma reaps the benefits. @HouseDemocrats and @POTUS have made major progress to keep lowering prescription drug costs & make healthcare more affordable. Let's build on that. Cap insulin at $35 for every American who needs it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1625190448355545103"
+        },
+        {
+          "type": "statement",
+          "text": "\"Huge News: After @HouseDemocrats capped the price of insulin for seniors last year, @lillypad has announced capping the cost at $35 for everyone. Finally making insulin more accessible for anyone who needs it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1631045076418715649"
+        },
+        {
+          "type": "statement",
+          "text": "\"Insulin is now capped at $35 a month for millions more Americans. This is progress â thanks to the Inflation Reduction Act â but there is more to do. We need to make sure that people can easily afford life saving medicine, not make drug companies richer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1742236225484808558"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/154056/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/154056/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35732/95281/154056/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/154056/becca-balint/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/154056/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/154056/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033 \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37091/99585/154056/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3202 \"Assad Regime Anti-Normalization Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36475/97788/154056/assad-regime-anti-normalization-act-of-2023#97788"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5923 Iran-China Energy Sanctions Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37062/99527/154056/iran-china-energy-sanctions-act-of-2023#99527"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015 \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37081/99564/154056/iran-sanctions-accountability-act-of-2023#99564"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I've long supported Israel's right to self-defense, but tonight's bill does nothing to address the crisis in Gaza, bring security to the region, or protect Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1754988716416741623"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs long past time the US showed robust support for our democratic ally, Ukraine. Sustaining Ukraine's effort to maintain its independence is so critical to the health of our global democracy. Today Iâm proud to vote to send over $60 billion to support the fight to defeat Putin.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1781728504083571053"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukraine has stood tall and strong in the face of Vladimir Putin's tyranny. The United States stands with Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1765928351200313678"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/154056/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As parents weâve seen what the data shows: social media is significantly impacting our kids' mental health and safety. Proud to see Vermont standing up to tech giants and taking action to protect our kids.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1748781315162292524"
+        },
+        {
+          "type": "statement",
+          "text": "\"Data tells us that social media has damaging effects on our kids' mental health. Young people in Vermont have told me this themselves. Big tech companies have clear incentives for designing apps to be addictive, so we need to take action to reel it back and protect our youth.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBeccaB/status/1803057139616817325"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/154056/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/154056/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:25:41+00:00"
+}

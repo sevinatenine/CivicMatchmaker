@@ -1,0 +1,496 @@
+{
+  "name": "Brad Finstad",
+  "page_title": "Brad Finstad's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MN) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MN) - District 1",
+  "candidate_id": "38612",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/38612/brad-finstad",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always support the sanctity of life and will continue to fight for the lives of unborn children.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1748422469990363286"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will work to protect life and fight for the unborn. Roe v. Wade was the wrong decision in 1973. The U.S. Supreme Court should uphold the Constitution and return this issue to the states.\"",
+          "source": "x.com",
+          "url": "https://x.com/BradFinstad/status/1521511325373022213"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/38612/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 10% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We donât need more taxes. We need less wasteful government spending, more commonsense spending controls, and greater fiscal responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1634209594108006401"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We donât need more taxes. We need less wasteful government spending, more commonsense spending controls, and greater fiscal responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1634209594108006401"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/12/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to sign onto the Americaâs Law Enforcement Pledge. It is critical, now more than ever, that we support these everyday heroes in their efforts to protect our communities and fight back against the radical Defund the Police movement.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1770514665384116451"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by the National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/20/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to vote in support of the Servicemember Quality of Life and National Defense Authorization Act which makes meaningful improvements for the well-being of our servicemembers and strengthens our national defense.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1801675701294084116"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I stood with my colleagues and voted for the passage of the National Defense Authorization Act. As a member of @HASCRepublicans, I am honored to be a voice for our servicemembers in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1679926609866899456"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/38612/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I heard from city leaders about the need for future road & infrastructure expansion, growing demand for housing in the area, & additional resources for public safety.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1762571299589693481"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to vote in support of the Limit, Save, Grow Act, the only responsible approach to raising the debt ceiling. This historic plan can save the American taxpayers over $4 trillion by placing limitations on federal government spending\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1651586730326208512"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Good to meet with Commissioner Ho and other members of @mnhousing to talk about the importance of affordable housing in rural communities that can keep up with the needs of todayâs workforce.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1641065928786948099"
+        },
+        {
+          "type": "statement",
+          "text": "\"I heard from city leaders about the need for future road & infrastructure expansion, growing demand for housing in the area, & additional resources for public safety.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1762571299589693481"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I heard from both of these businesses about the impact that skyrocketing inflation, supply chain issues, and labor shortages have had on their bottom line. In order for our businesses to thrive, we need to do more to address these problems and get our economy growing again.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1577770415312801798"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/38612/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is essential that Congress take seriously its oversight role and conduct a hearing on Bidenâs harmful policy that puts this burden on the 87% of Americans who do not have student loans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1567621925798838272"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs SCOTUS decision to strike down President Bidenâs reckless student loan bailout plan will save hardworking taxpayers, including the 87% of Americans who do not hold any student debt, hundreds of billions of dollars.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1674925145079545856"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Minnesotans have proven that taking advantage of our natural resources does not mean sacrificing our environment. This administration would rather keep the U.S. reliant on China than unleash the abundance of untapped potential that we have in our state.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1618981850399264770"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/38612/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"Brad understands that agriculture is the bedrock of American freedom and prosperity, and he brings the kind of knowledge and leadership we need in DC fighting against the \"Green New Deal\" policies that threaten our livelihoods.\"",
+          "source": "finstadforcongress.com",
+          "url": "https://finstadforcongress.com/about/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With our abundance of natural resources, along with our technological capabilities, why is America importing energy from other countries, especially those with hostile governments? Brad knows the answer is because weâve allowed liberal politicians to hamstring our production in the name of \"fixing\" climate change. Thatâs why he works to unleash our coal, oil, gas, nuclear power and more so we can create jobs, bring down prices for families, and enhance our national security.\"",
+          "source": "finstadforcongress.com",
+          "url": "https://finstadforcongress.com/about/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Minnesotans have proven that taking advantage of our natural resources does not mean sacrificing our environment. This administration would rather keep the U.S. reliant on China than unleash the abundance of untapped potential that we have in our state.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1618981850399264770"
+        },
+        {
+          "type": "statement",
+          "text": "\"The SPR is at its lowest point since 1984. This administrationâs America LAST energy policies are hurting family pocketbooks. We need to end the federal freeze on oil & gas leases, reinvest in our pipelines, & return to American energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1583111547668365313"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/38612/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"With our abundance of natural resources, along with our technological capabilities, why is America importing energy from other countries, especially those with hostile governments? Brad knows the answer is because weâve allowed liberal politicians to hamstring our production in the name of \"fixing\" climate change. Thatâs why he works to unleash our coal, oil, gas, nuclear power and more so we can create jobs, bring down prices for families, and enhance our national security.\"",
+          "source": "finstadforcongress.com",
+          "url": "https://finstadforcongress.com/about/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/37/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every state is a border state because of @POTUS's open-border policies that allow fentanyl to flood into our communities. Itâs time to secure the border and protect American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1751334260051759544"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to vote in support of the Secure the Border Act today. The crisis at our southern border has become a national security risk and a humanitarian crisis. It is past time that we get serious about securing our border and restoring the rule of law in our country, which is exactly what this bill does.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1656767859152781312"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38612/brad-finstad/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/38612/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS wants to circumvent Congress to grant citizenship status to thousands of illegal immigrants â incentivizing bad behavior and worsening an immigration crisis of his own making.This amnesty plan is not only irresponsible, itâs unconstitutional.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1803222701214925114"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our countryâs facing an unprecedented border crisis, & this dangerous legislation not only exacerbates the problem, but brings it right to our backyard. My MN GOP colleagues & I will strongly oppose any Democrat effort to make MN a sanctuary state.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1755728816872309029"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I joined my colleagues in sending a letter to @GovTimWalz condemning the North STAR Act, which would make Minnesota a sanctuary state for illegal migrants. The state legislature should be prioritizing public safety, not bringing the border crisis into our backyard.",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1760075844058308889"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/38612/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stood with the majority of @HouseGOP today and voted to put the American people first by saying NO on sending $60B more taxpayer dollars to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1781817253517799457"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/38612/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stood with the majority of @HouseGOP today and voted to put the American people first by saying NO on sending $60B more taxpayer dollars to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/17818172535177994577"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/38612/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs simple: communist China shouldnât have access to data on millions of Americansâ phones. Proud to vote for commonsense legislation today that would require TikTokâs parent company to divest from the Chinese govt & end its surveillance on the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFinstad/status/1768030613087355021"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/38612/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:12:27+00:00"
+}

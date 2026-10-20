@@ -1,0 +1,634 @@
+{
+  "name": "Randy Weber, Sr.",
+  "page_title": "Randy Weber, Sr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 14, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TX) - District 14",
+  "candidate_id": "102026",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102026/randy-weber-sr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Supreme Court strikes down Roe V. Wade decision in draft of Majority Opinion! If accurate, this is a win for our most innocent and vulnerable - the unborn.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1521492839951122432?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we celebrate the first anniversary of the Dobbs Supreme Court decision that overturned Roe v. Wade. Every unborn child is precious, extraordinary, and worthy of protection. I am proud to stand on the side of LIFE!\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1672587827123564545?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"How many times do we have to tell y'all that cuts to Medicare and Social Security are off the table?\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1623039676977188894?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans don't want to cut Social Security & Medicare. Joe Biden must stop his baseless attacks, put his money where his mouth is, and work with Republicans to address the looming crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1625565011979472909?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The positive impact of our #TaxCutsAndJobsAct is undeniable. We lowered individual taxes at every level, doubled the child tax credit, repealed the individual mandate & more. Wages are up, unemployment is down. Most importantly, #YouKeepMore of your hard-earned money.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1117910751748947968?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/102026/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Well weâre trying to get out of this place today. The Socialistic, Liberal Democrats donât think theyâve done enough damage; they want to increase taxes! Our MTR is messing w/them! Democrats canât decide what to do on the floor. Turns out were rubbing \"SALT\" in their wounds!\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1207739095092518912?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From here on out, we have cause to celebrate â lower tax rates for Americans, nearly doubled standard deductions, doubled tax credits, relief from Obamacareâs individual mandate, and a simpler filing process. #TaxCutsAndJobsAct\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/986310436109869056?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Individual Mandate is one of the many crippling aspects of Obamacare. It has got to go. Proud to join my colleagues in signing this letter and fighting for lower taxes for ALL Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/940363087047282690?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/102026/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/102026/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats with their anti-law and order mentality (including, but not limited to defunding the Police) are in control. Howâs that working for them? (Probably ok in their eyes) But not so much for the citizens of the Big Apple\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1409538980975153152?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the way to Washington to discuss police reform bills. Just saw Senate Dems blocked debate on the Justice Act. Disgraceful. Do they ever get tired of the same stunt? Americans are watching and we are voting.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1275840611107700737?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/102026/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue working to ensure that Congress fulfills its constitutional mandate to \"provide for the common defense\" through the necessary funding of our military. In my view, this includes providing for the needs of our veterans, as well. Our military is owed considerable resources to restore its readiness to confront any adversary.\"",
+          "source": "weber.house.gov",
+          "url": "https://weber.house.gov/issues/issue/?IssueID=14888"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted for the Make America Secure Appropriations Act to secure our borders, rebuild our armed forces, increase troop pay, and protect our citizens\"",
+          "source": "randyweber.org",
+          "url": "https://randyweber.org/#about"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A $34 trillion debt is not the legacy we should leave for our children, grandchildren, and great-grandchildren. This path of recklessness is unsustainable and downright insane. The spending needs to stop.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1742394278817484938?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted AGAINST the clean CR. We are $33 TRILLION in debt & the American people canât afford to continue Nancy Pelosiâs bloated spending levels. I couldnât support a CR that does nothing to protect our southern border or cut spending. All it does is kick the can down the road.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1708204895516385713?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Republicans earn back the House this November, we will fight Americaâs inflation crisis by curbing Biden and House Democratsâ out-of-control government spending that is causing the price of groceries, gas, cars, and housing to skyrocket.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1575165728478461963?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102026/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hardworking Americans agree that the federal government must reduce runaway spending, lower the pain of inflation, and provide affordable energy for all Americans in conjunction with raising the debt limit.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1661384183984398339?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Republicans earn back the House this November, we will fight Americaâs inflation crisis by curbing Biden and House Democratsâ out-of-control government spending that is causing the price of groceries, gas, cars, and housing to skyrocket.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1575165728478461963?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102026/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let's be clear, President Biden is not \"forgiving\" or \"canceling\" student loan debt. He's simply transferring borrowers' burden to working and middle-class American - many of them didn't go to college or did not take out student loans. This is disastrous.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1562499142148009984?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted for a resolution that would rightly exert Congress's authority over the power of the purse while canceling the costly and downright unconstitutional student loan \"forgiveness.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1661483058699309057?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The legitimacy of our republic--soon to celebrate two and a half centuries as a beacon of freedom--rests on the foundation that our elections are transparent, fairly administered, and above board,\" said Weber. \"Just as Americans from either side of the aisle are losing faith in our electoral process, the VOTER ID Act implements transparency and audit procedures that aim to restore the trust of our citizens in the integrity of THEIR ballots while honoring the constitution.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1519362/westerman-introduces-voter-id-act/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/102026/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs war on American energy is embarrassing. He takes a gas can down and begs Venezuela and Saudi Aruba for oil. Mr. Presidentâ¦bring your gas can to Texas.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1633899153502683158?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Republican's plan for American energy: unleash American energy and restore American energy dominance. The Democrat's plan for American energy: kill the fossil fuel industry and implement the Green New Deal. Choose your fighter.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1587861687792803841?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Therefore, I think it's obvious that any plan to completely abandon our current infrastructure and energy sources would be a big mistake. That's why a key component of a successful equitable energy transition is an all-of-the-above energy strategy, with a focus on affordable and reliable energy technologies, and keeping traditional energy sources on the table while making them cleaner and more efficient. That means carbon capture, utilization, and sequestration that makes fossil fuels clean. It means keeping our nuclear fleet up and running. It also means incorporating solar, wind, and other renewables into our grid as a piece of the puzzle, instead of mandating an instant and complete transition.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1551651/hearing-of-the-energy-subcommittee-of-the-house-science-space-and-technology-committee-opening-statement-of-rep-randy-weber-hearing-on-equitable-energy-innovation/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States could produce 48.5 billion barrels of oil offshore in the Gulf of Mexico. Instead...the offshore oil and gas permitting plummets to a 2-decade low under Biden. No surprise here. We need to DRILL here NOW!\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1712544641306997239?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should be increasing oil production in Texas - NOT IN VENEZUELA.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1597294922167898113?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just voted NO against Democrats' latest unconstitutional attempt to strip Americans of their Second Amendment rights. In the wake of tragedy, Dems are hell-bent on advancing their radical gun control agenda. The right to keep & bear arms is a cornerstone of American freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1534684701683769344?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thomas Jefferson once said that when government fears the people, there is liberty. When the people fear the government, there is tyranny. And I would add fear the government that fears your guns. I will always defend Americansâ right to bear arms\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1668625755910320129?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are done sitting back and letting a bunch of faceless bureaucrats destroy the Second Amendment. I will continue to fight for every single law-abiding gun owner. When government fears the people, there is liberty. When the people fear the government, there is tyranny.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1621177971133542400?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/102026/enhanced-background-checks-act-of-2021#77850"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Individual Mandate is one of the many crippling aspects of Obamacare. It has got to go. Proud to join my colleagues in signing this letter and fighting for lower taxes for ALL Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/940363087047282690?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nancy Pelosi & Dâs are having a rules committee mtg this week on \"Medicare for all\". If I remember the #âs correctly: 130 million Americans lose their existing healthcare. If you think healthcare is expensive now... wait until it is \"free.\"",
+          "source": "x.com",
+          "url": "https://x.com/WeberforTexas/status/1123220103536021506?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Dâs are celebrating that they are once again poised to take over (they think) the HealthCare system. \"Medicare for all.\" Champagne in the Rules Committee after the hearing... If you think healthcare is expensive now: wait until itâs \"free!\" Never passes Senate or POTUS desk.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1123572650247446529?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/102026/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@SpeakerPelosi is WRONG on prescription drugs. Her plan creates a 75% tax on American innovation that will lead to HIGHER drug prices and fewer cures. This is just another socialist plan for takeover of the prescription drug industry.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1179413668095758337?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the house will vote on H.R. 3 @SpeakerPelosi's prescription drug plan. H.R. 3 is not only unconstitutional, it will lead to less cures for patients! This drug pricing scheme is bad policy and won't pass the Senate.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1205146500881362944?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/102026/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Under the abysmal failures of President Biden at our southern border, Texas is being forced to foot the bill for the outrageous cost of illegal immigration. We cannot continue to force Texans to pay for criminal cartels, human smugglers, and illegal immigrants to pour across our border while the Biden administration looks the other way. President Biden must take responsibility for the crisis he created.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1622513/congressman-pat-fallon-introduces-the-lone-star-reimbursement-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unfortunately, our broken immigration system cannot be called fair. It is not fair to those who patiently wait in line to enter legally. It is not fair to American workers who must compete with illegal immigrants working for artificially low wages. Our broken system and porous borders also leave us less safe. Despite the tireless efforts of our Border Patrol and immigration enforcement officers, drugs and people continue to cross our southern border. We can and must make this system better.\"",
+          "source": "weber.house.gov",
+          "url": "https://weber.house.gov/issues/issue/?IssueID=14888"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must secure our southern border\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1732156460774150634?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our school systems, our hospitals, and our communities will soon be flooded with illegal immigrants that American taxpayers are expected to pay for. America will be unrecognizable if we donât shut down the southern border immediately.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1742673471191101754?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unfortunately, our broken immigration system cannot be called fair. It is not fair to those who patiently wait in line to enter legally. It is not fair to American workers who must compete with illegal immigrants working for artificially low wages. Our broken system and porous borders also leave us less safe. Despite the tireless efforts of our Border Patrol and immigration enforcement officers, drugs and people continue to cross our southern border. We can and must make this system better.\"",
+          "source": "weber.house.gov",
+          "url": "https://weber.house.gov/issues/issue/?IssueID=14888"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102026/randy-weber-sr"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House just passed a bill to send immediate aid to Israel. I am proud to stand with Israel to ensure our greatest ally has what it needs to defend itself, in its fight to permanently eliminate the terrorist threat.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1720207056290918867?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/102026/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/102026/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over 75% of my constituents in TX-14 agree...NOT another dime to Ukraine until we reverse and STOP Joe Biden's border policies that are allowing illegal aliens to invade our country and resettle in every single state.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1734302870197989624?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The NDAA includes $600 million for Ukraine. Another reason I am a NO.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1735315860003156391?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted against sending more money to Ukraine. We have already sent billions of dollars to Ukraine. Enough is enough. We are $33 TRILLION in debt and our southern border is being overrun. We need to get our priorities straight and put America FIRST.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1707210053269295317?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/102026/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech has been emboldened to target Conservative voices. And now we have found out that Twitter has promoted the lefts woke socialist views - while they silence and censor the truth. Accountability is coming.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1599553057506762752?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok cannot be trusted & TikTok is out of time.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1638991001028116481?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're not naive enough to believe that the Chinese Communist government doesn't have the will, the way, and the methods to look into all of the data that TikTok has gathered on behalf of Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1639353502534098956?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We've seen Americans silenced, the truth censored, and viewpoints suppressed, and this is yet another example of Big Tech flexing its liberal muscles on free speech. DirecTV's censorship of Newsmax is unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/TXRandy14/status/1618742650605277184?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:26:45+00:00"
+}

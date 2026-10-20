@@ -1,0 +1,750 @@
+{
+  "name": "Marcy Kaptur",
+  "page_title": "Marcy Kaptur's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OH) - District 9, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (OH) - District 9",
+  "candidate_id": "27016",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27016/marcy-kaptur",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week is the 47th Anniversary of Roe v. Wade, yet Trump is marking the occasion by addressing March For Life, the 1st president to do so. This is another sign that women's Constitutional right to make their own healthcare decisions is more at risk than it has been in years.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1220811133990379525?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/27016/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/27016/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week is the 47th Anniversary of Roe v. Wade, yet Trump is marking the occasion by addressing March For Life, the 1st president to do so. This is another sign that women's Constitutional right to make their own healthcare decisions is more at risk than it has been in years.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1220811133990379525?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/27016/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/27016/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rest assured, I will NEVER allow Social Security or Medicare to be put on the chopping block. Americans worked hard for their earned benefits, and I will ALWAYS fight to protect them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1677001230424342535?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we introduce the Social Security 2100 Act to increase benefits for current and new beneficiaries, protect retirees against inflation and repeal the Windfall Elimination Provision. This important framework will strengthen and preserve Americaâs bedrock retirement safety net.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1679238553815973888?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tax cuts for the rich wonât grow the economy nor will it provide relief to the millions of Ohioans who need a leg up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/943243316379967488?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the wealthiest pay their fair share, America can invest in our children, workers, families, and seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1461740390294462464?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/27016/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tax cuts for the rich wonât grow the economy nor will it provide relief to the millions of Ohioans who need a leg up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/943243316379967488?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the wealthiest pay their fair share, America can invest in our children, workers, families, and seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1461740390294462464?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/27016/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Campaign spending has skyrocketed in the years following the outrageous Citizens United decision. Billionaires and corporations are now free to pump millions of dollars into our elections without accountability. Our countryâs very future as a democracy is at risk unless we achieve campaign finance reform. Marcy Kaptur knows we must reign in special interests and has supported legislation to repeal Citizens United, to limit spending in elections, and to improve access to the ballot for candidates. Our elections cannot be up for sale to the highest bidder. Liberty requires safeguards on the influence of money in governance and elections.\"",
+          "source": "marcykaptur.com",
+          "url": "https://marcykaptur.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/27016/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Justice is served. The fact remains that George Floyd should be alive today. Let us derive strength from his memory, and the memories of countless others, to carry on our fight for a reimagined system of justice that actually treats people with dignity, respect, and equality.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1384626179379011584?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The way our country approaches policing must be dramatically reimagined. That is why I voted in favor of the George Floyd Justice in Policing Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1276327555956715521?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/27016/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the House Appropriations Defense Subcommittee, Congresswoman Kaptur has sought to secure the well-being of our veterans, while making sure our current military is equipped to promote liberty, ensure our national security, and build a future of clean energy independence. Marcy Kaptur is a strong supporter of modern defense systems and equipment for our armed forces and supports Northern Ohioâs legacy as a leader in the nationâs defense industrial base. She has spearheaded major federal investments at Ohioâs defense bases including northern Ohioâs National Guard and Reserve assets such as the 180 TFW and Ottawa Countyâs Camp Perry.\"",
+          "source": "marcykaptur.com",
+          "url": "https://marcykaptur.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/27016/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31775/82892/27016/national-defense-authorization-act-for-fiscal-year-2022#82892"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/27016/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/27016/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"As the chair of the Energy and Water subcommittee on Appropriations, Congresswoman Kaptur works every day to bring green jobs to Northern Ohio. Whether itâs solar, wind, or biofuels, our region can lead us into a 21st century energy future that fosters American energy independence and brings down emissions to combat climate change. Additionally, we need a new mindset that recognizes that our homes are an important part of our nationâs infrastructure.\"",
+          "source": "marcykaptur.com",
+          "url": "https://marcykaptur.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/27016/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/27016/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Kaptur is a champion of weatherization programs that increase home energy efficiency and bring down costs for citizens who need it most. President Bidenâs Bipartisan Infrastructure Act delivers on this key priority, a success that will bring lower energy costs and increase property values in our region. A one-size-fits all approach to housing will not work â some communities need new housing to bring down the cost of homeownership. Others have housing stock that must be rehabilitated after years of neglect following the 2008 financial crisis. Congresswoman Kaptur is a leader in efforts to increase the supply of affordable housing, while reducing the dangers of lead in legacy homes. She has introduced the Restoring Communities Left Behind Act to invest in both urban and rural communities that have seen disinvestment over the years.\"",
+          "source": "marcykaptur.com",
+          "url": "https://marcykaptur.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joined @NeighborWorks to cut the ceremonial ribbon and open new energy efficient affordable housing â future thinking like this improves the lives and living conditions of those in our community who need help most.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1667902375435157505?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we announced $5.9 million in federal funding for @LucasHousing and @NatlChurchRes to help create 30 affordable housing units for our low-income seniors in Toledo.nOur seniors have been there for us. Itâs only right that we be there for them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1438601618203848705?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let us applaud @POTUS decision to utilize the Defense Production Act to reassure domestic manufacturing of essential medicine critical for our national security. This is a strategic response to the challenges we faceâkeeping inflation in checkâwhile also healing our supply chain.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1729942155144392952?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When I voted to lower Insulin costs for seniors on Medicare as part of the Inflation Reduction Act not a single Republican joined me. Seniors in NW Ohio are now saving as much as $1,307 annually.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1686750815128563712?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/27016/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/27016/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our students should be able to enter the workforce with out this crippling burden of student debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1029481554039386112?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must do more to help Americans with student debt create wealth through homeownership. The burden of student debt is holding far too many people back. My bill gets us started!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/948904360905293826?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every citizen deserves to have their voice heard, in fair elections, with fair districts. Voting is a right, not a privilege. Five years after the Supreme Court gutted the VRA, Americans want full protections for their freedom to vote. Itâs time to #RestoreTheVOTE\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1011324428578443267?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/27016/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/27016/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the chair of the Energy and Water subcommittee on Appropriations, Congresswoman Kaptur works every day to bring green jobs to Northern Ohio. Whether itâs solar, wind, or biofuels, our region can lead us into a 21st century energy future that fosters American energy independence and brings down emissions to combat climate change. Additionally, we need a new mindset that recognizes that our homes are an important part of our nationâs infrastructure.\"",
+          "source": "marcykaptur.com",
+          "url": "https://marcykaptur.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 84% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/27016/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/27016/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As America demonstrates that an all of the above energy strategy works, we produced more oil than ever. Investing in renewables and bringing new energy industry jobs to our region of northern Ohioâwe can be energy independent and continue to create climate solutions of tomorrow.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1728112682824278373?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/27016/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/27016/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/27016/bipartisan-background-checks-act-of-2021#77848"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27016/marcy-kaptur"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/27016/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/27016/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Healthcare is critical to the economic security of Ohio, and millions of Americans rely on the ACA. Letâs build on this progress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/821488546645213184?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: the only reason the Supreme Court is even considering this case is because the GOP has worked night and day to repeal the ACA. We should be working to EXPAND access to high-quality, affordable healthcare - not trying to roll it back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1326220609836240896?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/27016/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/27016/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Marcy Kaptur (OH-09) cosponsored the Healthy Families Act, which would allow workers to earn paid sick leave, as opposed to taking vacation time or unpaid leave. Paid sick leave is critical for when employees get sick or need to care for a loved one. 41 million workers in the private sector do not have access to paid sick days. \"The fact that millions of working and middle-class people don't have access to paid sick leave is immoral,\" said Kaptur. \"On the campaign trail, President Trump pledged to stand with working people in Ohio and across the nation. Well, Mr. President, this is a good place to start. Americans, no matter their job or state or city, deserve this foundational benefit that allows peace of mind for when they or a loved one falls ill.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1184912/kaptur-cosponsors-bill-to-guarantee-paid-sick-leave-for-workers/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"Furthermore, we cannot ignore the economic benefits of paid leave. Enacting paid leave also means that families will continue to earn some income at the very time when they need it most â when a family is growing or a member is sick and needs medical care. Workers will be able to continue to earn a portion of their wages, allowing them to continue to meet their basic needs and pay bills before returning to work. Moreover, lack of paid leave has meant that workers lose an estimated $22.5 billion in wages each year when that could have been used to keep a family afloat and spent in local economies.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1569262/letter-to-hon-joe-biden-president-of-the-united-states-pressley-100-house-democrats-urge-president-biden-to-protect-paid-leave-in-build-back-better-act/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House just PASSED the Affordable Insulin Now Act. No one should have to choose between lifesaving insulin and food on the table. I'll keep fighting to lower healthcare costs and ensure hardworking families and seniors live with the dignity they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1509649819509395457?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When I voted to lower Insulin costs for seniors on Medicare as part of the Inflation Reduction Act not a single Republican joined me. Seniors in NW Ohio are now saving as much as $1,307 annually.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1686750815128563712?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/27016/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/27016/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs deeply troubling that @SpeakerJohnson is giving up on bipartisan efforts to address Border security. The American people need us to get this right â not kick the can down the road to score political points. Democrats and Republicans must keep working and find real solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1750630056022385025?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trumpâs declaration of a #FakeNationalEmergency is an unlawful power grab and an affront to our Constitution. We need operational border security, not an ineffective wall. What ever happened to Mexico paying for this ill-advised campaign promise?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1096469246295580672?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/27016/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/27016/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Taking away the protected status of immigrants with random actions will break up families and will hurt our economy. We need comprehensive reform and this is not it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/950491012006400000?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today and every day, I'm honored to stand with our #Dreamers and immigrant communities across Northern Ohio and this great nation. They are students, teachers, first responders, and organizers who make our communities and our country stronger. #SupportDACA.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/1194330828584685568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must stand up for #DREAMers whose economic & cultural contributions make our Nation stronger.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMarcyKaptur/status/905153251041058817?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/27016/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/27016/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/27016/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/27016/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/27016/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, in Ukraine, the real battle for liberty grinds on. Vladimir Putin dines on caviar while Speaker Johnson and his majority House Conference paralyze our Nation. They refuse to bring up the Senate aid bill to provide Ukraine ammunition. The Speaker pretends Congress won't fix our southern border so we shouldn't arm Ukraine's freedom fighters. Fixing our southern border requires Congress to vote for the funds to secure it, yet the Speaker refuses to bring up border funding while Ukraine's soldiers face the third largest military in the world. Courageous freedom champion Alexei Navalny was tortured and imprisoned by Putin because he wanted a free nation. He was killed in a bitter, frigid, arctic prison colony. What an awesome, heroic son of liberty for the future of his countrymen and -women. He died for liberty. Meanwhile, this House is paralyzed. For shame. History will render harsh judgments against those elected officials who do not stand up for liberty at its time of severe testing on a continent where 500,000 American soldiers died in the last century so that our generation could be free.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1671101/border-funding-tied-to-ukraine-funding/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/27016/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/27016/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/27016/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/27016/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, in Ukraine, the real battle for liberty grinds on. Vladimir Putin dines on caviar while Speaker Johnson and his majority House Conference paralyze our Nation. They refuse to bring up the Senate aid bill to provide Ukraine ammunition. The Speaker pretends Congress won't fix our southern border so we shouldn't arm Ukraine's freedom fighters. Fixing our southern border requires Congress to vote for the funds to secure it, yet the Speaker refuses to bring up border funding while Ukraine's soldiers face the third largest military in the world. Courageous freedom champion Alexei Navalny was tortured and imprisoned by Putin because he wanted a free nation. He was killed in a bitter, frigid, arctic prison colony. What an awesome, heroic son of liberty for the future of his countrymen and -women. He died for liberty. Meanwhile, this House is paralyzed. For shame. History will render harsh judgments against those elected officials who do not stand up for liberty at its time of severe testing on a continent where 500,000 American soldiers died in the last century so that our generation could be free.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1671101/border-funding-tied-to-ukraine-funding/"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/27016/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/27016/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:01:09+00:00"
+}

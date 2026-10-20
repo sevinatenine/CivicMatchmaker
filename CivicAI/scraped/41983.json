@@ -1,0 +1,628 @@
+{
+  "name": "Mike Flood",
+  "page_title": "Mike Flood's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NE) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NE) - District 1",
+  "candidate_id": "41983",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/41983/mike-flood",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Life is a precious gift from God that begins at conception. I've been a pro-life champion in the Legislature, and I'll take the same fight to Washington. In Congress, I'll work to ban abortions and expand prohibitions on taxpayer subsidies for abortion. Our tax dollars should never be used to subsidize abortions. The federal government must respect the freedom of conscience and the dignity of human life from conception until natural death.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thousands of #prolife Nebraskans turned out in the cold to stand with mothers, babies, and families. Nebraska has led the way in protecting life and we will keep fighting for the most vulnerable among us.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1751354476655415704?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/41983/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP wants to end the reckless, unnecessary, out-of-control spending in Washington. Along the way, weâre going to save AND strengthen Social Security and Medicare. Thatâs our #CommitmentToAmerica!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1623088077324406784?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of LB 108: \"Expands SNAP Eligibility\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30827/79796/41983/expands-snap-eligibility#79796"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will protect President Trump's Tax Cuts and Jobs Act and work to further cut taxes and regulations that kill jobs. We need to get government out of the way and allow the free market to do what it does best: create more prosperity than any other economy in human history.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden and Nancy Pelosi want to grow the size and power of government, raise our taxes, control our elections, and foist a mountain of new debt on our kids and grandkids. The radical, socialist agenda they're pushing has already driven up prices, fueling the highest inflation this country has seen in four decades.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of LB 873: \"Reduces Tax Rates\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32815/86094/41983/reduces-tax-rates#86094"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will protect President Trump's Tax Cuts and Jobs Act and work to further cut taxes and regulations that kill jobs. We need to get government out of the way and allow the free market to do what it does best: create more prosperity than any other economy in human history.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of LB 873: \"Reduces Tax Rates\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32815/86094/41983/reduces-tax-rates#86094"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'll fight the Biden-Pelosi agenda at every turn, stopping their attempts to bankrupt our country with socialist giveaways that will destroy our economy. I'll work to keep Democrats' hands off Nebraska elections, balance the federal budget, respect states' rights and local control, and make government smaller.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America has the highest murder rate in 20 years and the number of full time police officers has dropped because they are treated like villains. The @HouseGOP has a plan to hire more officers and keep crime out of our communities\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1585691702781947904?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"At a time when our law enforcement community has been under siege by anti-public safety forces, @HouseGOP is stepping forward and sending a message loud and clear that America stands with our countryâs peace officers.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1658994207011516417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'll work with law enforcement agencies to ensure our police officers are defended, not defunded. We must provide the tools needed to combat rising crime rates, fight human trafficking and opioid abuse, and keep our communities safe. Police officers, not Washington bureaucrats, know how best to do their jobs and hold criminals accountable. We must make it easier, not harder, for them to do their work.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress needs to pass the National Defense Authorization Act (NDAA) so we can build a nation that is safe. This yearâs NDAA protects our service members and our countryâall while saving Americans billions of dollars.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1679605048400130048?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/41983/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/41983/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP wants to end the reckless, unnecessary, out-of-control spending in Washington. Along the way, weâre going to save AND strengthen Social Security and Medicare. Thatâs our #CommitmentToAmerica!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1623088077324406784?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Getting ready to vote NO on the $2 trillion spending spree. Itâs time for Washington to stop the reckless spending thatâs driving inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1606347188681965568?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/41983/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"I cast an emphatic \"no\" on this spending spree, which comes at a time when Washington, D.C. needs to stop the spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1606377347002863627?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing is one of the top priorities in communities around #NE01, and Plattsmouth and Fremont are helping lead the way. Plattsmouth is renovating their old high school into apartments and Fremont is adding more housing options. Great work!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1694807373544628386?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Housing is a top issue across #NE01. During Housing Week, @MayorLeirion and I visited affordable housing developments and future sites for new projects. From Clarkson to Columbus to Lincoln, communities are taking unique approaches to address the challenges they face.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1752085544568295900?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Visited Milford this week to learn about Hoppe Development's successful work turning an abandoned nursing home into apartments. Creative projects like this one are helping address our ongoing need for more affordable housing. #NE01\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1690092783946670080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When communities decide to invest in housing it makes a difference. You can see results from such efforts right here in #NE01.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1749473762053939258?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Getting ready to vote NO on the $2 trillion spending spree. Itâs time for Washington to stop the reckless spending thatâs driving inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1606347188681965568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs simply poetic that Biden decided to throw a party celebrating the Inflation Reduction Act â which I call the Inflation Expansion Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1570057056073256960?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs spending spree continues to drive high inflation. At 6.4% year-over-year, January inflation is outpacing the wage growth Americans experienced in 2022.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1625549014132310016?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/41983/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Heâs been holding onto his coronavirus emergency declaration to prop up his ill-advised student loan debt bailout. And his coronavirus vaccine mandate has been driving healthcare workers out of the industry and ending careers.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1620812205947232256?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In canceling student loan debt, President Biden acted outside of his authority and attempted to circumvent the legislative process, which belongs solely to Congress\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1628801089561587712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The only person responsible to repay a loan, is the person who applied for the loan. The Supreme Court made the right decision in finding Biden's student loan bailout unconstitutional.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1674907168993161224?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress needs to restore the voice of Americans in our representative republic by ending congressional proxy voting, implementing voter ID, and increasing election accountability.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1577410686841663488?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'll fight the Biden-Pelosi agenda at every turn, stopping their attempts to bankrupt our country with socialist giveaways that will destroy our economy. I'll work to keep Democrats' hands off Nebraska elections, balance the federal budget, respect states' rights and local control, and make government smaller.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American people deserve the confidence of knowing our elections are fair and secure. I support commonsense measures, like voter ID, that will better secure future elections and give voters the confidence that legal ballots will be counted accurately. Nebraska's election laws should be decided by Nebraska voters, not Joe Biden and Nancy Pelosi.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At a time when activists are trying to re-write the rules of the American financial system, Congress must step up to ensure the investments and life savings of working families are not subject to the goals of Green New Deal progressives.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1603794939514875905?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nebraska ag producers are the best at what they do, and their efforts fuel our state's economy and feed the world. In Congress, I'll have their backs, working to expand free, fair trade, support family farming and ranching, oppose anti-competitive behavior in meatpacking, and fight the farm-killing Green New Deal.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration's anti-drilling and anti-pipeline policies have predictably resulted in lost jobs and massive price increases at the pump. We must support energy exploration and the use of reliable, affordable energy sources like ethanol, coal, and natural gas. Only an all-of-the-above approach will ensure Americans secure access to affordable energy for our vehicles, homes, and businesses. I oppose the Green New Deal, mileage taxes, carbon taxes, and any other radical effort to shackle our economy.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs energy policy: Pay more to heat your home and import more oil from foreign dictators. But it doesnât have to be this way. @HouseGOPâs H.R. 1 will stop Bidenâs war on American energy, LOWER your energy bills, and set our country on a path to energy independence!\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1640765405194059791?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration's anti-drilling and anti-pipeline policies have predictably resulted in lost jobs and massive price increases at the pump. We must support energy exploration and the use of reliable, affordable energy sources like ethanol, coal, and natural gas. Only an all-of-the-above approach will ensure Americans secure access to affordable energy for our vehicles, homes, and businesses. I oppose the Green New Deal, mileage taxes, carbon taxes, and any other radical effort to shackle our economy.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/41983/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/41983/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6538: \"Active Shooter Alert Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32976/86825/41983/active-shooter-alert-act-of-2022#86825"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of LB 773: \"Authorizes the Concealed Carry of Handguns Without a Permit\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33433/88892/41983/authorizes-the-concealed-carry-of-handguns-without-a-permit#88892"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/41983/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA Rated 100% by Federation for Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Federation for Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/41983/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/41983/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our nation's southern border is in a state of emergency, and Democrats' policies only create more incentives for illegal immigrants to come to this country and violate our laws. We must complete President Trump's border wall, expand funding for Customs and Border Protection and ICE, and close loopholes in our immigration laws. I oppose amnesty and any pathway to citizenship for illegal immigrants. We must have strong immigration enforcement and order on our southern borderâotherwise, we won't have a country at all.\"",
+          "source": "mikefloodfornebraska.com",
+          "url": "https://mikefloodfornebraska.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden created a crisis at our Southern Border. For 29 straight months, illegal immigrant encounters have been higher than even the highest month seen under the last administration. House Republicans have taken action to curb this crisis by passing the Secure the Border Act, and now itâs time for President Biden and Democrats to come together around this plan.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1702044421636644871?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Federation for Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA Rated 100% by Federation for Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41983/mike-flood"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/41983/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/41983/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/41983/israel-security-supplemental-appropriations-act-2024#95976"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/41983/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/41983/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs the final countdown for TikTok: We need a total ban of the CCPâs favorite social media app.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1639023662010335237?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs time for a total TikTok ban. We are giving up too much data. Weâre giving up too much information to a country that sees weakness in America.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1625667094334283776?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok is the Chinese Communist Partyâs favorite social media app for Americans. It has been used as a tool of propaganda in our country and this narrowly tailored bill will help put an end to that.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepMikeFlood/status/1767972173157708255?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/41983/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:10:10+00:00"
+}

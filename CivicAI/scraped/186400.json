@@ -1,0 +1,460 @@
+{
+  "name": "Suhas Subramanyam",
+  "page_title": "Suhas Subramanyam's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VA) - District 10, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (VA) - District 10",
+  "candidate_id": "186400",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/186400/suhas-subramanyam",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"50 Republicans just killed debate on @VAHouseDems efforts to protect women's reproductive choices and enshrine Roe v. Wade in the Virginia Constitution. We will continue to fight for this.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1537835128893976576"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the year after the overturning of Roe, we see the role state legislatures play in who continues to have access to reproductive care. Make no mistake, access to reproductive rights are on the line in VA.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1674489489903820800"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since the fall of Roe v. Wade, Republicans across the nation have launched constant attacks on reproductive rights in an effort to ban abortion. Today, Iâm proud to join lawmakers across the nation in signing a letter opposing the recent attack on access to mifepristone.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1646901683245416451"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice Virginia",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/186400/suhas-subramanyam/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Another quick session recap: $4.3 billion to Virginian communities for schools, homes, businesses, broadband, and appointed eight phenomenal appellate court judges with stellar experience and diverse backgrounds.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1427290046638575616"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act will help boost rural communities and those working in industries hit hardest by the energy transition. We will be making creating jobs for them a focus next Session.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1570469369494257665"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Important Rental and Mortgage Update Below: Today, Virginia will launch the Virginia Rent and Mortgage Relief Program with the Virginia Department of Housing and Community Development using $50 million in federal CARES Act funds.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1277623462408978433"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need more affordable housing in Virginia. That's why I presented a measure today to make additional investments in housing funds across VA. It's good for working families and businesses facing workforce shortages, and it's the right thing to do. #affordablehousing\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1617665480906637312"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act will help boost rural communities and those working in industries hit hardest by the energy transition. We will be making creating jobs for them a focus next Session.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1570469369494257665"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act: Lowers the deficit and is fiscally responsible. Lowers energy costs. Reduces carbon emissions. Allows Medicare to negotiate drug prices. Lowers ACA health care premiums. Sounds good to me. Tell your federal representatives to vote yes.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1553048957412057088"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As someone dedicated to protecting the environment and combating climate change I am proud to have been awarded an A+ rating on the Climate Cabinet Actionâs VA 2023 Scorecard. Thank you @climate_af together we can lower pollution and protect our parks and green spaces.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1658909684407980032"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am proud to be named a @VirginiaLCV Legislative Hero with a ð¯ scorecard. There is much more work to be done, and I will continue to fight for climate action in the Commonwealth.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1683946224049876993"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to be recognized as a #LegislativeHero by @VirginiaLCV with an 100% on their 2022 Scorecard. I remain committed to protecting our environment, fighting climate change, and pursuing environmental justice for everyone in Virginia.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1546490010634960903"
+        },
+        {
+          "type": "statement",
+          "text": "\"New: our campaign has been endorsed by @clean_virginia! Together, we passed historic legislation to address the important issue of environmental justice, reducing the impact of climate change, and keeping utility prices down.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1392557282953682949"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A2: We must start treating the gun violence epidemic as a public health emergency. Universal background checks and a ban on military-style assault weapons are top priorities to ensure that we feel safe at home, work, and school. This can happen when we #FlipVABlue! #VADemsChat\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1176559585680875534"
+        },
+        {
+          "type": "statement",
+          "text": "\"Common sense gun violence prevention measures should be exactly that: common sense. I don't want to have to live in a world where my daughters have active shooter drills at their school. We must do better. #gunsense\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1772721520881656264"
+        },
+        {
+          "type": "statement",
+          "text": "\"What's on the line this year? Democracy, preventing gun violence, lowering health care costs, and a better future for our kids.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1765006734462960049"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/186400/suhas-subramanyam"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More than 750,000 Virginians will be eligible for Medicaid dental benefits starting July 1, 2021. I'm proud to support Medicaid expansion in VA and to have passed critical funding to help our most vulnerable Virginians have more access to healthcare.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1409539586951368704"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to be endorsed by the @ctphealthcare. I will continue to fight to ensure that every Virginian has access to quality, affordable #healthcare\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1702070164206858410"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act: Lowers the deficit and is fiscally responsible. Lowers energy costs. Reduces carbon emissions. Allows Medicare to negotiate drug prices. Lowers ACA health care premiums. Sounds good to me. Tell your federal representatives to vote yes.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1553048957412057088"
+        },
+        {
+          "type": "statement",
+          "text": "\"What's on the line this year? Democracy, preventing gun violence, lowering health care costs, and a better future for our kids.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1765006734462960049"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a father, Iâm committed to ensuring that parents have access to paid family leave. This past session, I introduced HB 2035 with @BrianaSewellVA to launch a #paidfamilyleave program in the Commonwealth and will continue to fight for it in the Senate.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1687209114802475009"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have friends and neighbors who have had to drop out of the workforce due to lack of paid leave and access to quality childcare when they become parents. This isn't right and it benefits no one. Offering good benefits leads to loyal employees and makes businesses more competitive. Passing family friendly policies would uplift us all.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1405978569776500737"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to have been endorsed by @teamfreedomva! As a Dad, I am dedicated to fighting for policies Freedom Virginia champions like paid family leave, sick leave, affordable childcare, and much more.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1659207905084837889"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you @FamilyEconomyVA for the #FamilyFriendlyVA Seal of Approval. Iâve dedicated my time in the General Assembly to fighting for #PaidLeave and a #CareEconomyVA that works for families like mine and yours.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1659610513192501256"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"What's on the line this year? Democracy, preventing gun violence, lowering health care costs, and a better future for our kids.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1765006734462960049"
+        },
+        {
+          "type": "statement",
+          "text": "\"When politicians on both sides of the aisle refused to take on Big Pharma, Suhas passed legislation to bring down drug costs and increase price transparency for consumers.\"",
+          "source": "www.suhasforvirginia.com",
+          "url": "https://www.suhasforvirginia.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Subramanyam Calls on Governor Youngkin to Sign Drug Affordability Legislation. SB 274 allows us to stop price gouging that makes even the most basic medications unaffordable. Our Commonwealth should not tolerate financial hardship and bankruptcy because people need life-saving medication.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1775705077442838923"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act: Lowers the deficit and is fiscally responsible. Lowers energy costs. Reduces carbon emissions. Allows Medicare to negotiate drug prices. Lowers ACA health care premiums. Sounds good to me. Tell your federal representatives to vote yes.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SuhasforVA/status/1553048957412057088"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Suhas has since worked tirelessly to improve the health and prosperity of all Virginians and Americans. He served on Capitol Hill as a policy aide, where he worked to expand and improve health care access to millions of Americans, helped build a bipartisan coalition in support of the DREAM Act, and drafted legislation to increase job opportunities and funding for veterans.\"",
+          "source": "www.suhasforvirginia.com",
+          "url": "https://www.suhasforvirginia.com/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:20:46+00:00"
+}

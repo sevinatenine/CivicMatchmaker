@@ -1,0 +1,460 @@
+{
+  "name": "Tom Kean, Jr.",
+  "page_title": "Tom Kean, Jr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NJ) - District 7, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NJ) - District 7",
+  "candidate_id": "43250",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/43250/tom-kean-jr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/43250/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#OTD in 1935, President Franklin D. Roosevelt signed the Social Security Act into law. Congress has a duty to protect Social Security and I am committed to keeping that promise.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1691132583013240848"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Congress has a duty to protect Social Security for retirees, seniors, and those in need of today and tomorrow. I am proud to co-lead the Resolution to clearly reaffirm that House Republicans are committed to keeping that promise.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1626691965608775716"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs tax-and-spend policies are failing New Jersey families.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1778426527555932444"
+        },
+        {
+          "type": "statement",
+          "text": "\"The average New Jersey household needs to spend $1,055 more per month to maintain the same standard living from 2021. More taxes and wasteful government spending does not work for New Jerseyans.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1785300575267262749"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs tax-and-spend policies are failing New Jersey families.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1778426527555932444"
+        },
+        {
+          "type": "statement",
+          "text": "\"The average New Jersey household needs to spend $1,055 more per month to maintain the same standard living from 2021. More taxes and wasteful government spending does not work for New Jerseyans.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1785300575267262749"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always support the men and women in blue who keep our communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1785769204026691945"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/43250/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/43250/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs tax-and-spend policies are failing New Jersey families.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1778426527555932444"
+        },
+        {
+          "type": "statement",
+          "text": "\"The average New Jersey household needs to spend $1,055 more per month to maintain the same standard living from 2021. More taxes and wasteful government spending does not work for New Jerseyans.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1785300575267262749"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/43250/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/43250/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/43250/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/43250/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 67% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 67% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2465: \"Prohibits 3D Printed Firearms\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25733/65074/43250/prohibits-3d-printed-firearms#65074"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/43250/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The ongoing influx of unvetted illegal migrants being bused in New Providence, Fanwood, and now Westfield is deeply troubling. Massive busloads of unvetted illegal migrants creates a serious concern to our community's security and resources. Governor Murphy needs to take swift action and deploy necessary security resources to monitor and address this crisis. Our priority must be the safety and well-being of our constituents, and I urge the Governor to step up and uphold the rule of law. This is yet another repercussion of President Biden's failure to secure our nation's borders.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1753126797384823206"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/43250/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/43250/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The ongoing influx of unvetted illegal migrants being bused in New Providence, Fanwood, and now Westfield is deeply troubling. Massive busloads of unvetted illegal migrants creates a serious concern to our community's security and resources. Governor Murphy needs to take swift action and deploy necessary security resources to monitor and address this crisis. Our priority must be the safety and well-being of our constituents, and I urge the Governor to step up and uphold the rule of law. This is yet another repercussion of President Biden's failure to secure our nation's borders.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1753126797384823206"
+        },
+        {
+          "type": "statement",
+          "text": "\"There has been a historic volume of illegal border crossings in recent months and this is likely to worsen as Title 42 expires this evening. Today, the House will consider the strongest border security legislation in history.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1656715198852476928"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/43250/tom-kean-jr"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/43250/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/43250/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/43250/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/43250/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I met with President Zelenskyy in Kyiv today to express the United Statesâ firm support for Ukraine. Ukraineâs resistance to Russian aggression has inspired nations around the world. Ukrainians have proven their unbreakable spirit and fierce perseverance in defense of freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongressmanKean/status/1782506901432942604"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/43250/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/43250/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/43250/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:00:53+00:00"
+}

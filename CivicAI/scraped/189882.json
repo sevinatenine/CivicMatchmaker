@@ -1,0 +1,712 @@
+{
+  "name": "Teresa Leger Fernández",
+  "page_title": "Teresa Leger Fernández's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NM) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NM) - District 3",
+  "candidate_id": "189882",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/189882/teresa-leger-fern-ndez",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"51 years ago today, Roe v. Wade established our constitutional right to reproductive freedom. A year and a half ago, SCOTUSâs decision to overturn it not only stripped away a woman's right to choose, but stole our right to privacy in our homes, marriages, and doctorâs offices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1749455413412528573"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/189882/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/189882/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "statement",
+          "text": "\"#SocialSecurity is an earned benefit. You paid into it, and you deserve to retire with dignity. Iâm glad benefits will increase by 8.7%, but we can do more to make Social Security last through 2100 and beyond. Itâs a sacred trust, and I came to Congress to protect it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1583842614209454081"
+        },
+        {
+          "type": "statement",
+          "text": "\"Roses are red. Violets are blue. Improving Social Security is long overdue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1493303512251478018"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#DYK? The wealthiest pay nothing into Social Security on wages over $147,000. Itâs time to lift the cap and make sure everyone pays their fair share to keep this earned benefit strong through 2100. Social Security is a sacred trust. Iâm in Congress to strengthen it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1587097898453553154"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthy donât need another tax cut â the middle class does. Itâs about time that working people get the tax cut they deserve. We need to reward work in this country â not just wealth.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1453735827415056391"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#DYK? The wealthiest pay nothing into Social Security on wages over $147,000. Itâs time to lift the cap and make sure everyone pays their fair share to keep this earned benefit strong through 2100. Social Security is a sacred trust. Iâm in Congress to strengthen it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1587097898453553154"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted for the #BuildBackBetter Act because it delivers para la gente! It lowers the everyday costs that burden working families â from health care to child care & more. And itâs fully paid for by making big corporations & the wealthiest pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1462450732154511363"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is unacceptable that millionaires will stop contributing to Social Security. I cosponsored @RepJohnLarsonâs #Secure2100 to ensure everyone pays their fair share! #ScrapTheCap\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1497256924815015949"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Citizens United corrupted our politics. Special interest groups blocked actions to tackle climate change & lower prescription drug prices. Enough is enough. #HR1 will reform our campaign finance system. Itâs time to put people back in charge of Washington! #DemocracyForAll\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1352278296684339201"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/189882/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year after the death of #GeorgeFloyd, we continue to push for true justice. We must address system racism. We must create change. We can start by passing the George Floyd Justice in Policing Act today!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1397221530862555141"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Senate must pass the George Floyd Justice in Policing Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1384617715374170112"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/189882/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Republican appropriations bill would eliminate funding for diversity efforts in our military. That's why I spoke against it in rules last night.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1702018912894808168"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/189882/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/189882/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/189882/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we celebrate the beauty of our planet this #EarthDay letâs use it as a reminder of our dedication to combating the #ClimateCrisis. We must continue to create clean energy jobs, build resilient infrastructure, & invest in equitable solutions to address environmental injustice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1385253529548464131"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now is the time to invest boldly in American families and Americaâs future. Thatâs why I am proud to support @HouseDemocrats funding bill, which will create jobs, grow opportunity for the middle class, and provide a lifeline for the nationâs most vulnerable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1420130636644421634"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/189882/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/189882/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Housing is essential to improve the health and wellness of children and adults. We must continue to fight for the opportunity to invest in housing resources â like rental assistance, public housing, and the Housing Trust Fund. Itâs time to #BuildBackBetter\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1485363287617273856"
+        },
+        {
+          "type": "statement",
+          "text": "\"I secured $11.8 MILLION for small #CommunityProjects I championed across every corner of my district. These 15 projects will repair roads in Portales, help build a convention center in Questa, improve affordable housing in Santa Fe and much more!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1770829621384065509"
+        },
+        {
+          "type": "statement",
+          "text": "\"New Mexico has 20,000 people struggling with homelessness â almost half of those are children with unstable housing. Today, I was proud to announce $16.5M for 28 programs across New Mexico â a step toward eliminating homelessness.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1754656247142400479"
+        },
+        {
+          "type": "statement",
+          "text": "\"Renters who pay more than half of their incomes on rent are 23% more likely to face food insecurity. We need to provide large-scale, sustained investments for affordable housing to ensure people have an affordable place to call home. Let's #ShowHousingLove\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1493301168877051909"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: Yesterday, the Senate passed the #InflationReductionAct to reduce inflation and lower costs for our familias\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1556672462959566848"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, Congress can alleviate some of the strain caused by inflation by passing the #BuildBackBetter Act. We can lower everyday costs for families, including childcare, health care, utility bills, prescription drugs, and education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1471503570411290642"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\" Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/189882/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/189882/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of addressing the student debt crisis, my colleagues across the aisle want to gut the SAVE Student Loan Repayment Program and make college more expensive for 5.5 million Americans â including 7,500 people in my district.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1732103860364181621"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUS, $267M in total student loan debt for New Mexico students has been forgiven. This means 6,270 New Mexicans are free of student debt. Promises made, promises kept!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1763277965637685506"
+        },
+        {
+          "type": "statement",
+          "text": "\"This student loan relief is a good first step to easing the financial burden of hard working New Mexicans carrying high student loan debt. Education shouldnât be a burden; no one should struggle with crushing debt to get a quality education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1562587584882024449"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today marks 57 years since the 1965 #VotingRightsAct became law. Voters are once again threatened by disenfranchisement and draconian laws. Thatâs why I cosponsored the #ForThePeopleAct and the John Lewis Voting Rights Act. The sacred right to vote belongs to all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1556007954507124736"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/189882/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/189882/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we celebrate the beauty of our planet this #EarthDay letâs use it as a reminder of our dedication to combating the #ClimateCrisis. We must continue to create clean energy jobs, build resilient infrastructure, & invest in equitable solutions to address environmental injustice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1385253529548464131"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am excited to talk about renewable energy research and the creation of job opportunities for Nuevo Mexicanos. We will continue to invest in the future so that this part of New Mexico is our next Route 66 of Renewable Energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1496605952547635203"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm happy to welcome $35 million from @USDA for rural development projects! These funds will bring more renewable energy investments to Taos and help grow New Mexicoâs rural economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1764319828121460934"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/189882/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fossil fuel companies have abandoned hundreds of thousands of oil and gas wells that pollute our air and water and pose serious public health risks, especially for our rural, tribal, and disadvantaged communities\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1380270943893913605"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/189882/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/189882/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/189882/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/189882/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More than 31 million Americans have gained health coverage thanks to the ACA. The #BuildBackBetter Act follows through on our commitment to further expand access to care for all Americans and make health care more affordable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1457060215640281093"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should have to wonder whether getting medical care is worth the cost. This pandemic has shown us that healthcare must be a human right. We need #MedicareforAll because everyone deserves access to affordable care without fear of the cost\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1384235359102390275"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Care Act is 14 years old today! Last year, a record 21M people enrolled, many paying less than $10 per month for quality care. After building on its success with the Inflation Reduction Act, I am committed to protecting its life-changing coverage for millions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1771589099771580518"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"More than 65 million women provided unpaid care in the form of child care, family care & eldercare during 2020. Paid leave & care policies have the potential to help the economy grow as much as 5% by bringing womenâs labor force participation rates up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1413588772713910275"
+        },
+        {
+          "type": "statement",
+          "text": "\"The COVID-19 pandemic has put a spotlight on working conditions for our essential workers. Workers have a right to workplace safety protections, health care, and paid leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1362839376301084675"
+        },
+        {
+          "type": "statement",
+          "text": "\"This #WomensHistoryMonth, we must continue the fight of the women who came before us. That means pushing to protect reproductive rights, invest in childcare, deliver paid leave for all, pay equity, and more\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1763604744155623722"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can protect our rail workers and keep our supply chain moving. Today the House passed two bills to do just that. This legislation will increase worker pay by 24 percent, allow medical leave, and mandate at least 7 paid sick days annually. The Senate needs to act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1598079286334066692"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I came to Congress to lower prescription drug prices, protect and strengthen Social Security, and look after our elders. Iâm so grateful to visit with seniors at Mary Esther Gonzales Senior Center and hear their concerns and hopes for our comunidad.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1587225907529502720"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, Congress can alleviate some of the strain caused by inflation by passing the #BuildBackBetter Act. We can lower everyday costs for families, including childcare, health care, utility bills, prescription drugs, and education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1471503570411290642"
+        },
+        {
+          "type": "statement",
+          "text": "\"The outrageous costs of prescription drugs forces too many Americans to ration or decline life-saving medications. The #BuildBackBetter Act caps the cost of insulin at $35 per month for every American with insurance.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1461402806213128196"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/189882/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/189882/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "\"I spoke against the Republican bill that creates more chaos at the border and does nothing to fix our broken immigration system. Instead, letâs work together to create real reforms, improve security, and provide a path to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTeresaLF/status/1656741072356114433"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/189882/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/189882/teresa-leger-fernandez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/189882/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/189882/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/189882/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/189882/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/189882/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/189882/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/189882/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/189882/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/189882/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/189882/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/189882/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/189882/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/189882/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:21:02+00:00"
+}

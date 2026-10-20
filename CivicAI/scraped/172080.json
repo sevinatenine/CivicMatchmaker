@@ -1,0 +1,358 @@
+{
+  "name": "Roger Marshall",
+  "page_title": "Roger Marshall's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (KS) - Jr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (KS) - Jr",
+  "candidate_id": "172080",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/172080/roger-marshall",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"But a subject I have never talked about up here, a subject that few Americans talk about, is infertility and recurrent miscarriages. Hundreds of thousands of women have these problems, and for whatever reason, when I took care of women with miscarriages, women who so desperately wanted to have a baby--it might be her third, her fourth, her fifth miscarriage--and who were unable to have a baby, it was at moments like that that I thought about Roe v. Wade. It never made sense to me. This morning, I read from the Book of Ecclesiastes trying to make some sense of life up here. Still, here I am, 50-some years of age, and I haven't found the answer. How can I live in a country where in one hospital I am fighting to help a woman keep a baby, and 100 miles away, the largest abortion clinic in the country is taking life away? How can we live in that type of a country? Tonight I pledge, I recommit my support and my efforts to protect life.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1395273/the-47th-annual-march-for-life#.XupJnp5Kg6g"
+        },
+        {
+          "type": "statement",
+          "text": "\"Susan B. Anthony List, America's leading pro-life organization, today announced that U.S. Congressman Roger Marshall, M.D., has earned an A-rating on the organization's National Pro-Life Scorecard. The scorecard is a new tool for holding members of Congress accountable for their legislative records on life and highlighting leadership in the fight to protect unborn children and their mothers. \"The first 25 years of my career were dedicated to delivering babies in rural Kansas. Sadly, today in Congress, I must fight harder to protect unborn children and their mothers than I did in the delivery room,\" said Dr. Marshall. \"I am honored to receive an A-rating from Susan B. Anthony List and will keep fighting for the well-being of mothers and their babies by working to end the barbaric practice of abortion.\" Rep. Marshall has voted consistently to protect the lives of the unborn, defended the Trump Administration's pro-life efforts, and is a leading advocate and cosponsor of H.R. 962, the Born-Alive Abortion Survivors Protection Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1403722/leading-pro-life-group-recognizes-marshall#.XupJ1p5Kg6g"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By getting Washington out of the way, lowering taxes, and decreasing regulation we are seeing the new age of American greatness again.\"",
+          "source": "kansansformarshall.com",
+          "url": "https://kansansformarshall.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the House Committee on Ways and Means released the Tax Cuts & Jobs Act. This bill will deliver major reforms to our nation's tax code, including lower rates, dramatic simplification of the tax code, doubling of the standard deduction, expanding the child tax credit, allowing businesses to immediately write off the full cost of new equipment and provisions to keep American jobs here at home.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206488/marshall-comments-on-todays-tax-bill-release#.XupKnZ5Kg6g"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of Tax Cuts and Jobs Act of 2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/172080/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the son of a chief of police, I could never vote for this partisan Nancy Pelosi bill. This bill will hinder a police officer's job to \"serve and protect,' said Rep. Marshall. \"I have personally spoken with Kansas police officers and Kansas sheriffs, and they firmly oppose this bill. This bill was crafted with zero input from a single Republican, and as we've heard twice now this week, Nancy Pelosi would rather make outrageous statements like calling Republicans murderers than work on a bipartisan bill to enact responsible and needed reforms. National Democrats have made a political stunt out of a tragedy with this bill\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1439703/marshall-stands-with-law-enforcement"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Sheriffs of Kansas appreciate Congressman Marshall's NO VOTE on House Bill HR7120. One of our key oppositions to the Bill is eliminating the defense of Qualified Immunity for law enforcement officers. Congressman Marshall understands that the defense is essential to the protection of peace officers who act in good faith and would have a devastating impact on law enforcement who must be able to respond without hesitation while relying on clearly established law. Qualified immunity is not a defense for a peace officer who knowingly violates an individuals' constitutional rights\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1439703/marshall-stands-with-law-enforcement"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Marshall proudly supported a twenty-percent increase in military funding in order to fully fund Ft. Riley and the largest pay increase for our troops in 9 years. We must be certain the brave men and women protecting us have the tools and training they need to be successful on the battlefield, and the confidence that America will never renege on the promises made to them as veterans.\"",
+          "source": "kansansformarshall.com",
+          "url": "https://kansansformarshall.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House passed the National Defense Authorization Act which provides a total of $708.1 billion in crucial military funding. The House-passed NDAA would give a well-deserved 2.6 percent pay raise for our troops, the largest increase our soldiers have seen in nine years.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1249379/rep-marshall-votes-to-rebuild-and-reform-our-military#.XupLWZ5Kg6g"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5515- National Defense Authorization Act for Fiscal Year 2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24638/63049/172080/national-defense-authorization-act-for-fiscal-year-2019#63049"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1790- National Defense Authorization Act for Fiscal Year 2020",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/key-votes/172080/roger-marshall/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our focus should be on helping our constituents return to work while also supporting businesses as they safely resume their operations and attempt to recover financially. We ask that you take these concerns into consideration and allow the $600 supplemental UI benefits to expire at the end of July, as intended in the CARES Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1430605/letter-to-speaker-pelosi-majority-leader-mcconnell-minority-leader-kevin-mccarthy-and-minority-leader-schumer-concern-over-extending-supplemental-unemployment-insurance"
+        },
+        {
+          "type": "statement",
+          "text": "\"Wheat farmers have experienced significant economic harm resulting, in part, from COVID-19. Given the unique nature of the wheat production cycle, which entails harvest starting in May in the south and running into the early fall in the northern states, 2020 production impacts should be covered by USDA's COVID relief funds provided by Congress. Specifically, we request that you use funding provided in the CARES Act to immediately begin providing assistance for COVID-19 losses on 2020 production for all classes of wheat. We understand that more resources from Congress will surely be needed to address the breadth of economic losses resulting from COVID-19, and we are committed to pursuing additional resources to help farmers as part of any larger aid package developed by Congress. In the meantime, use of existing resources to help wheat farmers is needed now.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1464296/letter-to-the-hon-sonny-perdue-secretary-of-the-dept-of-agriculture-newhouse-joins-call-to-include-wheat-growers-in-usda-coronavirus-aid-program"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Voted in favor of H Con Res 119 - Expressing the sense of Congress that a carbon tax would be detrimental to the United States economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24938/63566/172080/expressing-the-sense-of-congress-that-a-carbon-tax-would-be-detrimental-to-the-united-states-economy#63566"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dr. Marshall is a lifetime member of the NRA. The most basic role of government is to defend Americans and to never encroach on citizensâ right to defend themselves. In Congress, Dr. Marshall has always made sure that your 2nd Amendment rights are never infringed upon.\"",
+          "source": "kansansformarshall.com",
+          "url": "https://kansansformarshall.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\" Rep. Marshall wants to make sure that guns are in the hands of mentally stable, law-abiding individuals that have no intent to harm others. \"We must put politics aside when it comes to the safety of our schools and our children. To achieve a safer America, we must come together and take common-sense action,\" Rep. Marshall said. \"After reflecting on the tragedy last week, I can't help but think what if? What if teachers, coaches, or authorized personnel had the opportunity to carry their concealed weapon on school grounds, how would that have changed the outcome in Parkland, Florida? I stand with the president on this and his call to strengthen our background check process.\" \"This approach is far from an attack our second amendment rights, but reforms tailored towards strengthening background checks by acknowledging warning signs and mental stability is just common sense.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1228256/rep-marshall-to-achieve-a-safer-america-we-must-come-together-and-take-common-sense-action#.XupLxp5Kg6g"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Congressman Roger Marshall, M.D., introduced in the House, The Home Defense and Competitive Shooting Act, which would streamline bureaucratic regulations, reduce lengthy Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) processing times, and remove unconstitutional finger print requirements and fees for certain rifles.\"Opponents of the Second Amendment want to use bureaucracy and regulations to obstruct citizens attempting to exercise their God-given right to keep and bear arms. The firearms addressed in this bill are commonly used for hunting, personal defense, and competitive shooting,\" said Dr. Marshall. \"Since I came to Congress, I have fought tooth and nail to stop attempts that would strip our Constitutional right to keep and bear arms. This bill will eliminate regulations designed not to protect Americans, but to deny them their Constitutional rights.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387869/marshall-introduces-home-defense-and-competitive-shooting-act#.XupLxJ5Kg6g"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/172080/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I've been to the border several times. I know it is a crisis, and President Trump is right: we must build a wall and fix our broken immigration system, and we have to turn off the magnets that attract, promote, encourage and allow migrants to enter our country under false pretenses.\"",
+          "source": "kansansformarshall.com",
+          "url": "https://kansansformarshall.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6136 - Border Security and Immigration Reform Act of 2018.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/172080/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"\"The young people covered by DACA are not just a statistic on a DHS report. These are friends of my children, brothers and sisters of babies I've delivered, and members of my community. They didn't put themselves in this position, and my heart goes out to them. The United States is in this position due to the unilateral approach the previous administration took toward enacting DACA. It is because of that one-sided approach that we now have uncertainty and inconsistency throughout the entire immigration system. Consistency should be the hallmark of American governance. Our resources, especially as they pertain to deportation, must remain focused on getting rid of bad people who present a danger to the American citizen -- not a young person who is here simply due to circumstance. To date, 787,000 young people have legally registered with the U.S. government, and showed their willingness to follow our laws. We cannot allow that information to now be used against them in reverse order.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1193763/marshall-statement-on-daca-announcement/?search=DACA#.XupmCJ5KjGI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Spring of 2018, Congressman Marshall was asked to represent U.S. agriculture at the final round of NAFTA negotiations in Mexico City. Since then, the new USMCA trade deal has been revealed, and must be passed.\"",
+          "source": "kansansformarshall.com",
+          "url": "https://kansansformarshall.com/issues/"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:59:30+00:00"
+}

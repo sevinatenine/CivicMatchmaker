@@ -1,0 +1,646 @@
+{
+  "name": "Joe Wilson, Sr.",
+  "page_title": "Joe Wilson, Sr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (SC) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (SC) - District 2",
+  "candidate_id": "3985",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3985/joe-wilson-sr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/2/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Susan B. Anthony Pro-Life America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/3985/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/3985/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Save and strengthen Social Security and Medicare.\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/53/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/3985/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 78% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 88% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/3985/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/3985/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 90% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 88% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/3985/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26112/66405/3985/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/3985/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/3985/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28148/73007/3985/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/3985/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28441/76074/3985/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/3985/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/3985/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Curb wasteful government spending that is raising the price of groceries, gas, cars, and housing, and growing our national debt.\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/3985/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/3985/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/83568/3985/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/3985/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/3985/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24715/63190/3985/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats passed their âInflation Expansion Act,â much to the dismay & detriment of American families. We are already living with record inflation & high prices on daily items, now this bill will spend and waste $billions more. Biden and Democrats out of touch with reality.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeWilson/status/1558247638964764673"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/3985/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/3985/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Did not vote on HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/3985/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End special treatment for Members of Congress by repealing proxy voting, and increase accountability in the election process through voter ID, accurate voter rolls, and observer access.\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/3985/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/3985/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/3985/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/3985/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Maximize production of reliable, cleaner, American-made energy and cut the permitting process time in half to reduce reliance on foreign countries, prevent rolling blackouts, and lower the cost of gas and utilities.\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/3985/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34063/90422/3985/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Safeguard the Second Amendment\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3985/joe-wilson-sr/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/3985/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/3985/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Personalize care to provide affordable options and better quality, delivered by trusted doctors\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28212/73153/3985/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/3985/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lower prices through transparency, choice, and competition, invest in lifesaving cures, and improve access to telemedicine\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/3985/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/3985/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fully fund effective border enforcement strategies, infrastructure, and advanced technology to prevent illegal crossings and trafficking by cartels\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "statement",
+          "text": "\"Grateful to speak at @HouseForeignGOP Border hearing. The Southern Border must be secured.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeWilson/status/1730698268697321730"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/3985/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End catch-and-release loopholes, require legal status to get a job, and eliminate welfare incentives\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/3985/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/3985/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week, along with the Republican Members of the HFAC MENAGC Subcommittee, I sent a letter to Secretary Janet Yellen urging the Biden Administration to reverse course & enforce sanctions on Chinese purchasing of Iranian oil.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeWilson/status/1451651914727317515"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35952/96006/3985/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5923 \"Iran-China Energy Sanctions Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37062/99527/3985/iran-china-energy-sanctions-act-of-2023#99527"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/3985/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Grateful to lead this resolution affirming longstanding US policy in support of a sovereign Ukraine, while defining victory over war criminal Putin. Rule of law must prevail, and we must remain steadfast in our support.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeWilson/status/1651018308202668032"
+        },
+        {
+          "type": "statement",
+          "text": "\"Providing Ukraine support is in our national security interests and not something that should be a wedge issue or political football. If war criminal Putin takes over, itâs going to be far worse than the fallout of the failed withdrawal of Afghanistan.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJoeWilson/status/1710284791122153681"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor or HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/3985/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Provide greater privacy and data security protections, equip parents with more tools to keep their kids safe online, and stop companies from putting politics ahead of people\"",
+          "source": "www.joemeansjobs.com",
+          "url": "https://www.joemeansjobs.com/wp-content/uploads/2022/10/CTA-Pocket-Card.pdf"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/3985/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/3985/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:28:18+00:00"
+}

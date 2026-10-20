@@ -1,0 +1,441 @@
+{
+  "name": "Ben McAdams' Issue Positions (Political Courage Test)",
+  "page_title": "Ben McAdams' Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. House (UT) - District 1",
+  "candidate_id": "117512",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/117512/ben-mcadams",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Council of Utah.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by Planned Parenthood Action Fund.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams#.XZIPw0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He criticized the 2017 Tax Cuts and Jobs Act because it favored the wealthy over the middle class.\"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/budgettaxes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Utahns deserve tax reform that puts their needs ahead of those of the very wealthy. Rep. Love and her colleagues in D.C. had an opportunity to reform the tax code in a way that grows the economy, helps the middle-class and doesnât explode our national debt and they failed. #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BenMcAdams/status/943236216463302656"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need tax reform that reduces taxes for Utah families and simplifies the system. The bill passed today double taxes income by the federal government on the state and local taxes we already pay. This will raise taxes on hard-working Utahns. It is a mistake. #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BenMcAdams/status/931298461437386753"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security and Medicare are promises made to seniors. They've paid into the system, earned the benefits. My opponent would privatize Social Security, turn Medicare into a voucher system. #utdebates\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BenMcAdams/status/1051990196101632000"
+        },
+        {
+          "type": "statement",
+          "text": "Endorsed by National Committee to Preserve Social Security and Medicare.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed by End Citizens United.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"limiting the influence of big donors on campaigns, quashing the political influence, real or perceived, special interests currently have in our government and providing incentives for donors to make small contributions to federal candidates;\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1286714/letter-to-the-115th-congress-call-for-sweeping-reform-bill#.XZIRgUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - For the People Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/66405#.XZH-rUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our country faces an important moment of reckoning. Too many Black Americans are dying at the hands of some in law enforcement. The sad truth is that equality, fairness and justice are not given as a matter of law to all citizens. This bill takes important steps to support communities as they implement reforms and seek to build trust between all residents and law enforcement,\"",
+          "source": "mcadams.house.gov",
+          "url": "https://mcadams.house.gov/news/documentsingle.aspx?DocumentID=399"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 - George Floyd Justice in Policing Act of 2020.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Absent a bipartisan agreement to avoid sequestration, across the board cuts to defense and nondefense spending will disrupt the most essential functions of our government and drastically increase economic uncertainty.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1358901/letter-to-the-hon-nancy-pelosi-speaker-of-the-house-the-hon-kevin-mccarthy-house-minority-leader-the-hon-mitch-mcconnell-senate-majority-leader-and-the-hon-charles-schumer-senate-minority-leader-reps-katko-murphy-lead-bipartisan-push-urging-budget-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Talking with Mary Dickson on the need to oppose more deadly nuclear weapons testing. We need to prevent any future tests and expand funds to help Utah downwinders who are still dealing with health impacts from previous testing\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepBenMcAdams/videos/306418467412407"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"McAdams said upgrades to roads, bridges, airports and the electrical grid are important to Utah's economy and to improve safety and reduce congestion in the rapidly-growing 4th Congressional District.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1331525/mcadams-calls-on-house-democratic-leadership-to-prioritize-infrastructure#.XZISBEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Talked infrastructure and transportation with @AGCofUtah. Iâm committed to bipartisan solutions that improve Utahâs infrastructure- reducing traffic and congestion, and helping to clean our air. #utpol #infrastructureweek\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1128699661722669056"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, as I continue to receive treatment in a Utah hospital for COVID-19, I am not able to vote on H.R. 748, the Coronavirus Aid, Relief and Economic Security (CARES) Act. Had I been present and able to vote, I would have voted `aye'. This bill is certainly not perfect and raises significant concerns about fiscal responsibility and appropriate use of taxpayer dollars.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1413285/middle-class-health-benefits-tax-repeal-act-of-2019#.Xo3dh8hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #CARESAct #coronavirus relief bill passed in the House and will now go to the President for his signature. We must take quick action to help Utah families and businesses. Iâm glad accountability measures are included.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1243612103954649088"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "He partnered with the private sector and the state on projects like solar installations on county-managed facilities and public transit-oriented developments.\"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/energy-environment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It also aids w/ developing solar as a reliable source of energy, lessening our dependence on foreign markets, and building a stronger and more secure grid. Solar innovation also continues to drive the cost of renewable energy lower â helping the environment and consumers. #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1149020830262857729"
+        },
+        {
+          "type": "statement",
+          "text": "\"This approach emphasizes increasing the supply of renewable energy, along with research and development of new technologies.\"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/energy-environment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Utah's health and Utah's economy are stronger with clean air, clean water and solutions to address climate change. Ben supports an all-of-the-above energy portfolio, which ensures affordable, reliable energy for Utah homes and businesses. \"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/energy-environment/"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Utah's air quality and Utahns' health depend on reducing pollution, including emissions coming from cars and trucks, \"said McAdams. \"Under the agreement, the U.S. pledged to reduce greenhouse gas emissions by 26 percent from 2005 levels, by 2025. That would be achieved in part by strengthening vehicle fuel economy, which saves consumers money and contributes to cleaner air. The U.S. is a country that stands by its commitments.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1345803/mcadams-votes-to-remain-in-agreement-on-climate-change#.XZISTUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 - Climate Action Now Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/67056#.XZH_GEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today we reflect on the #Parkland shooting from one year ago. I stand w/ that community who has dealt with so much tragedy. I support the kids speaking up about gun safety. And I support universal background checks so fewer guns end up in dangerous hands.#utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1096112423071875083"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8 - Bipartisan Background Checks Act of 2019.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/66232#.XZIPaUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams#.XZIQBkE3kfJ"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ben wants to work with both parties to fix the Affordable Care Act, rather than just scrapping it.\"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Madam Speaker, passage of the Affordable Care Act nearly a decade ago, while not a perfect bill, helped thousands of Utah families gain insurance coverage, many for the first time, and I am working in Congress to ensure we meet the law's goals to improve access to care and protect all Americans' coverage, particularly those with preexisting conditions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1359848/we-must-act-on-bipartisan-healthcare-solutions#.XcGmX0FTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Representative Mia Loveâs vote to gut ACA without addressing fixes is directly hurting Utah Families. The latest report says Utahns' health care premiums will increase by as much as 19%. Voters are going to remember how much Mia Love has cost them.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BenMcAdams/status/969338472803721216"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71516#.Xos2HZNKi9Y"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I donât support a 2000 mile border wall, but I do support protection that could be technology, personnel, and some barrier sections. I want permanent protection (not temporary) for #DREAMers and bipartisan reform to our broken immigration system.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1088793827362562048"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 1% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams#.XZIQBkE3kfJ"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 1% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/117512/ben-mcadams#.XZIQBkE3kfJ"
+        },
+        {
+          "type": "statement",
+          "text": "\"The approach needs to strengthen and unite families and allow DACA recipients to continue building their futures.\"",
+          "source": "benmcadamsforcongress.com",
+          "url": "https://benmcadamsforcongress.com/blog/issue/immigration/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court heard arguments today on whether to end #DACA. I support #Dreamers and voted for the Dream and Promise Act to protect the more than 20,000 Dreamers that live and work in Utah. #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1194373191004803072"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our military men and women have again demonstrated their skill and courage in the face of such a threat. I will continue to do everything possible to support them so they can successfully complete their assignment and return home safely to their families. I'm also encouraged that the Iranians now appear to be \"standing down' and that both sides can work to step back and take actions that lower tensions in the region. I agree with the President that Iran should not obtain nuclear weapons. That is a worthy goal that all parties should support, and I look forward to working with the President and my colleagues to pursue a comprehensive strategy, with buy-in from our allies, that reduces the threat of nuclear proliferation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1398683/mcadams-response-to-the-presidents-speech-following-iranian-missile-attacks-in-iraq"
+        },
+        {
+          "type": "statement",
+          "text": "\"While military force is always an option if necessary to protect American lives and the freedoms we enjoy, I support the President in his efforts to achieve our objectives in Iran through diplomatic efforts and economic sanctions and his recent intentions to de-escalate tensions and pursue alternative means of resolving this crisis. Iran must not gain a nuclear weapon and must cease sponsorship of terrorist activities.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1398684/mcadams-votes-against-non-binding-war-powers-resolution-on-iran"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A U.S. pullback in Syria would have negative impacts on our allies in the region, our ability to counter ISIS, and our national security. I urge the administration to work with Congress to develop a strategy that meets our nationâs security and foreign policy objectives. #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1181664866135941122"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our military men and women have again demonstrated their skill and courage in the face of such a threat. I will continue to do everything possible to support them so they can successfully complete their assignment and return home safely to their families. I'm also encouraged that the Iranians now appear to be \"standing down' and that both sides can work to step back and take actions that lower tensions in the region. I agree with the President that Iran should not obtain nuclear weapons. That is a worthy goal that all parties should support, and I look forward to working with the President and my colleagues to pursue a comprehensive strategy, with buy-in from our allies, that reduces the threat of nuclear proliferation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1398683/mcadams-response-to-the-presidents-speech-following-iranian-missile-attacks-in-iraq"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I spoke on the House floor demanding action on #USMCA. Time to put politics aside and get this important trade agreement done to support Utah jobs and strengthen our economy. #USMCANow #utpol\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBenMcAdams/status/1197202198322667525"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"It is imperative that we reach a negotiated agreement early in the fall. Canada and Mexico are by far our most important trading partners, and we need to restore certainty in these critical relationships that support millions of American jobs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1367497/letter-to-nancy-pelosi-speaker-of-the-house-trade-agreements-are-good-for-the-economy#.XcGopUFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tariffs are hurting Utah farmers, homebuilders, other businesses. We should have updated trade agreements that treat the USA fairly, but tariffs hurt Utah products, services, consumers #Utdebates\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BenMcAdams/status/1051998314600652800"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:11:08+00:00"
+}

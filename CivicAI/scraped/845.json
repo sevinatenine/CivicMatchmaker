@@ -1,0 +1,622 @@
+{
+  "name": "Adam Smith",
+  "page_title": "Adam Smith's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WA) - District 9, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (WA) - District 9",
+  "candidate_id": "845",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/845/adam-smith",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The gravity of the Supreme Courtâs decision to overturn Roe v. Wade cannot be overstated: reproductive freedom is hanging on by a thread. Today, House Democrats took action and passed two bills to safeguard abortion access,\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1548005453774262272"
+        },
+        {
+          "type": "statement",
+          "text": "\"The health and wellbeing of our democracy depends on an equal balance of power across the three branches of government. But in this moment in history, the Supreme Court has radically overstepped its bounds by reversing a number of precedents, including Roe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1546585484515835906"
+        },
+        {
+          "type": "statement",
+          "text": "\"The overturning of Roe v. Wade has left millions of Americans without access to essential reproductive health care. That's why I'm co-sponsoring the Women's Health Protection Act: to protect abortion access nationwide.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1641485440720175105"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks 50 years since Roe v. Wade was decided. No one should be denied an abortion because of their zip code or income. I am committed to #AbortionJustice and advancing legislation that ensures reproductive health care is affordable and accessible for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1617190479493308417"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a strong supporter of Social Security and Medicare and will stand firm against attempts to cut these programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1752121949197598956"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is an economic necessity for millions of people: The median household nearing retirement has only $10,000 in retirement savingsâand nearly half of families have none at all. We must protect and expand social security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1701015196373061885"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security, Medicare, and Medicaid are programs that strengthen families' financial security and give folks the freedom to access the care they need. I'll fight to protect and strengthen these programs for this generation and the next.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1745159660296868227"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/38/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs past time to tax billionaires and giant corporations, so we can invest in the care economy. These investments would go towards programs like child care and aging and disability care to support our working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1803811310632632533"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs protect social security and make billionaires pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1781732057695313963"
+        },
+        {
+          "type": "statement",
+          "text": "\"The 0.01% should pay their fair share. We need a fairer tax code that closes loopholes for billionaires and corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1786767739404927273"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly support the John R. Lewis Voting Rights Advancement Act and the #FreedomToVoteAct. Together, these bills will ensure access to voting for all people across the United States and protect our election system from gerrymandering, dark money, and corporate influence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1456305250969739274"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs been 10 years since the disastrous #CitizensUnited decision. I am continuing to fight corruption, fix the broken political system, and create a democracy that works better for my constituents in #WA09. Proud to have earned an A rating from #EndCitizensUnited.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1219718534223278080"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I was proud to answer the call from the American people to restore our democracy by voting for #HR1 â a package of reforms to take on campaign finance regulations, expand voting rights, and combat corruption with improved transparency and ethics in the federal government.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1367327603036717056"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/12/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #GeorgeFloyd #JusticeinPolicing Act would fundamentally transform the culture of policing by addressing the crisis of racial profiling, increasing law enforcement accountability & ending qualified immunity. I stand with @TheBlackCaucus to push for these much-needed reforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1286381856246595584"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/845/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: I oppose the effort to raise the defense budget topline by $23.9 billion. I stand by President Biden's initial proposal. An extra $23.9 billion will not make us any safer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1433141221321584641"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Department of Defense doesn't need more money than it asked for â it needs discipline. I look forward to making that argument in today's #FY23NDAA markup hearing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1539581540702855169"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since the passage of the Bipartisan Infrastructure Law two years ago, the highway, street, and bridge construction industry has added over 37,000 jobs. When our working class is strong, our economy is strong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1728207889028780508"
+        },
+        {
+          "type": "statement",
+          "text": "\"This year, I requested $30+ MILLION to support community projects across the 9th District. This funding would support affordable housing, workforce development, public safety, infrastructure, and more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1801686039523688776"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can build a stronger economy by investing in job training programs, rebuilding infrastructure, strengthening domestic manufacturing, lowering the costs of healthcare, and fighting for benefits for working families like paid leave and child care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1783636858989363264"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/845/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Building more affordable housing is essential, but itâs also crucial that we take care of the affordable housing that currently exists. I'm requesting $1.4M to help support the renovation of two local apartment buildings to ensure they remain safe homes for residents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1798386076559810668"
+        },
+        {
+          "type": "statement",
+          "text": "\"Huge investment from the Biden-Harris administration for affordable housing, which is desperately needed in my district and across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1720131729405428151"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need more job opportunities that prepare us for the future. Growing the climate resiliency workforce is an investment in a new generation of workers and a greener, more sustainable future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1707121006752457209"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/845/emergency-housing-protections-and-relief-act-of-2020#73172"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Job creation is breaking records, unemployment is low, wages are rising, and inflation is falling. #BidenBoom\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1753442518551695789"
+        },
+        {
+          "type": "statement",
+          "text": "\"We're growing the economy from the bottom up and middle out, with more than 15 million jobs created, the lowest unemployment in decades, rising wages, and inflation falling. More people than ever before have health insurance and we cut health care costs for millions of Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1766151858316300735"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/845/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today @POTUS announced that he will cancel up to $20,000 of federal student loan debt for people making less than $125,000/year. This action will help ease financial barriers and promote economic opportunity for millions of Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1562519145853652995"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/845/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/845/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that 40% of Americaâs electricity comes from clean energy? Thatâs more than ever before. We can build a clean energy economy that creates good-paying jobs and protects the planet for future generations, thanks to investments from @HouseDemocrats\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1783950772452966722"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last week, the Biden-Harris administration announced a HUGE investment in the clean energy economy, right here in the PNW. This investment was made possible by the Bipartisan Infrastructure Law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1714740634228248744"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/845/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The outgoing Trump admin is rushing the process to drill in the pristine Arctic Refuge. Despite widespread opposition, they are still moving forward with a call for nominations. We'll continue to fight to #ProtectTheArctic and defend this irreplaceable land.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1328734344245075972"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I was proud to vote to #KeepItWild and protect: ð1.5 million acres of wilderness ð¶1,000 river miles ðµ and withdraw more than 1.2 million acres of public land from new oil and gas and mining claims.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1365399203703361544"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/845/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I remain committed to passing long overdue, comprehensive gun safety legislation. We can make our communities safer by passing an assault weapons ban, red-flag laws, and universal background checks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1772390504174596385"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to pass stronger gun safety legislation. Weapons of war intended for battlefields have no place in our cities, public spaces, or schools. That's why I support the assault weapons ban.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1796183210100924450"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/845/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care is a right, not a privilege. Far too many people in our country do not have affordable, quality health care, and this must change.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1100784499732959239"
+        },
+        {
+          "type": "statement",
+          "text": "\"I stand with my colleagues and constituents who support Medicare for All. #MedicareForAll represents an important step forward in improving our health care system by establishing a single-payer, health care for all program.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1793691845270343839"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to be a founding member of the Congressional Medicare for All Caucus. We must work towards a healthcare system that works for everyone in this country. Together, our caucus will work to achieve guaranteed healthcare for every person living in the US.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1020648279477047302"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. health care system is ineffective, inefficient and outrageously expensive. Itâs time for change. Iâm proud to join @RepJayapal and over 100 of our colleagues as a co-sponsor of the #MedicareforAll Act!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1100118448363966469"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is crucial that we pass the #BuildBackBetterAct to support families across the U.S. by providing funding for programs like child care and paid family and medical leave. With this bill, we have the chance to advance equal opportunity for children and families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1453049273579343877"
+        },
+        {
+          "type": "statement",
+          "text": "\"Only 21% of the workforce has access to paid family leave through their employer. That needs to change. Iâm a cosponsor of the FAMILY Act which would provide all workers with up to 12 weeks of paid leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1754672917407826259"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can build a stronger economy by investing in job training programs, rebuilding infrastructure, strengthening domestic manufacturing, lowering the costs of healthcare, and fighting for benefits for working families like paid leave and child care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1783636858989363264"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/845/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Drug manufacturers are coming to the negotiating table thanks to historic health care provisions in the Inflation Reduction Act. This is another major step forward in our fight to lower health care costs for seniors and families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1709927684078211084"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to @HouseDemocrats, seniors on Medicare wonât pay more than $35 a month for insulin. I will continue fighting to lower the cost of prescription drugs and make health care more affordable for working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1778800933230494040"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/845/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/845/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is not our top national security priority to build a wall at our southern border. Taking money from the Department of Defense for this purpose makes us less safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1098054528241491969"
+        },
+        {
+          "type": "statement",
+          "text": "\"The photos and videos capturing the recent treatment of Haitian migrants at the border are horrifying. All those seeking asylum in the United States should be treated with dignity. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1440665598917152775"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have a responsibility to people entering this country that they will be treated with dignity and respect when they cross the border â but this is sadly counter to the for-profit detention center companies who prioritize profits over anything else.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1586040239415443456"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/40/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#RemainInMexico has proven dangerous, and in some cases deadly - this horrendous policy has resulted in only pain and suffering.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1227690354260037633"
+        },
+        {
+          "type": "statement",
+          "text": "\"DACA recipients have made countless contributions to our country, and it's time we return the favor. The Senate must act now to create a pathway to citizenship and protect Dreamers from being deported from the only country they have ever known.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1602725265792196609"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/845/adam-smith/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/845/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Banning investments in Russia â alongside our allies and partners â is the right move. Putinâs brutal war will not go unpunished. Harsh economic measures will deepen his challenges at home and make it harder for him to continue his unlawful aggression.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1511718341257400321"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, the House finally passed crucially needed aid for our allies abroad, including Ukraine, Israel, and Taiwan. Passage of this legislation is an investment in democracy and freedom across the globe. The Senate must not delay in sending this funding to the President's desk.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdamSmith/status/1781746067677008342"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/845/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:15:42+00:00"
+}

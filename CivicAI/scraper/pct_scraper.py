@@ -12,10 +12,14 @@ Usage:
 
     python pct_scraper.py --lookup neguse     # search the local index (no network)
     python pct_scraper.py --list              # show everything in the local index
+    python pct_scraper.py --reindex           # rebuild index.json from the <id>.json files on disk
 
 Output goes to ../scraped/<candidate_id>.json (relative to this script), and every
 scrape is recorded in ../scraped/index.json (id, name, office, url, last_updated).
 Use -d DIR to change the folder, --csv to also write a CSV.
+
+index.json is updated under a file lock (read from disk, merge one entry, write atomically),
+so several scrapers can run at once without losing entries.
 
 cookie.txt should contain just the value of the browser's Cookie request header
 (one line). Keep it out of git and never share it: it is your logged-in session.
@@ -24,11 +28,13 @@ Requires: pip install curl_cffi beautifulsoup4
 """
 import argparse
 import csv
+import fcntl
 import html
 import json
 import os
 import re
 import sys
+from contextlib import contextmanager
 from datetime import datetime, timezone
 from urllib.parse import quote
 
@@ -58,6 +64,17 @@ def now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
+@contextmanager
+def index_lock(out_dir: str):
+    os.makedirs(out_dir, exist_ok=True)
+    with open(os.path.join(out_dir, ".index.lock"), "w") as lf:
+        fcntl.flock(lf, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(lf, fcntl.LOCK_UN)
+
+
 def load_index(out_dir: str) -> dict:
     path = os.path.join(out_dir, INDEX_FILE)
     if not os.path.exists(path):
@@ -68,39 +85,65 @@ def load_index(out_dir: str) -> dict:
     except (ValueError, OSError):
         backup = path + ".bak"
         os.replace(path, backup)
-        print(f"Warning: {path} was unreadable; moved it to {backup} and starting fresh.",
-              file=sys.stderr)
+        print(f"Warning: {path} was unreadable; moved it to {backup}. "
+              f"Run --reindex to rebuild it from the <id>.json files.", file=sys.stderr)
         return {}
 
 
 def save_index(out_dir: str, index: dict) -> None:
     os.makedirs(out_dir, exist_ok=True)
     path = os.path.join(out_dir, INDEX_FILE)
-    tmp = path + ".tmp"
+    tmp = f"{path}.{os.getpid()}.tmp"      # per-process tmp so runs can't collide
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2, ensure_ascii=False, sort_keys=True)
     os.replace(tmp, path)  # atomic, so a crash can't leave a half-written index
 
 
-def update_index(out_dir: str, data: dict) -> dict:
-    """Record/refresh this candidate in the index and return the entry."""
-    index = load_index(out_dir)
-    cid = data["candidate_id"]
-    prev = index.get(cid, {})
-    entry = {
+def entry_from_data(data: dict, prev: dict = None) -> dict:
+    prev = prev or {}
+    return {
         "name": data.get("name", ""),
         "office": data.get("office", ""),
         "on_the_ballot": data.get("on_the_ballot", ""),
         "test_year": data.get("test_year", ""),
         "positions": len(data.get("positions", [])),
         "url": data.get("source", ""),
-        "file": f"{cid}.json",
-        "first_scraped": prev.get("first_scraped", data["scraped_at"]),
-        "last_updated": data["scraped_at"],
+        "file": f"{data['candidate_id']}.json",
+        "first_scraped": prev.get("first_scraped", data.get("scraped_at", "")),
+        "last_updated": data.get("scraped_at", ""),
     }
-    index[cid] = entry
-    save_index(out_dir, index)
+
+
+def update_index(out_dir: str, data: dict) -> dict:
+    """Record/refresh this candidate in the index and return the entry.
+    Reads the index fresh under a lock so concurrent scrapers don't overwrite each other."""
+    with index_lock(out_dir):
+        index = load_index(out_dir)
+        cid = data["candidate_id"]
+        entry = entry_from_data(data, index.get(cid))
+        index[cid] = entry
+        save_index(out_dir, index)
     return entry
+
+
+def rebuild_index(out_dir: str) -> dict:
+    """Recreate index.json from the <id>.json files already on disk (keeps existing entries)."""
+    with index_lock(out_dir):
+        index = load_index(out_dir)
+        for fn in sorted(os.listdir(out_dir)):
+            if not fn.endswith(".json") or fn in (INDEX_FILE, "candidates.json"):
+                continue
+            try:
+                with open(os.path.join(out_dir, fn), encoding="utf-8") as f:
+                    d = json.load(f)
+            except (ValueError, OSError):
+                continue
+            if not isinstance(d, dict) or "positions" not in d:
+                continue
+            d["candidate_id"] = d.get("candidate_id") or fn[:-5]
+            index[d["candidate_id"]] = entry_from_data(d, index.get(d["candidate_id"]))
+        save_index(out_dir, index)
+    return index
 
 
 def find_in_index(index: dict, query: str) -> list:
@@ -342,9 +385,11 @@ def save_scrape(data: dict, out_dir: str, source: str = "", make_csv: bool = Fal
     data["scraped_at"] = now_iso()
     os.makedirs(out_dir, exist_ok=True)
     json_path = os.path.join(out_dir, f"{cid}.json")
-    with open(json_path, "w", encoding="utf-8") as f:
+    tmp = f"{json_path}.{os.getpid()}.tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump({k: v for k, v in data.items() if not k.startswith("_")},
                   f, indent=2, ensure_ascii=False)
+    os.replace(tmp, json_path)
     entry = update_index(out_dir, data) if cid != "unknown" else None
     if make_csv:
         write_csv(data, os.path.join(out_dir, f"{cid}.csv"))
@@ -378,6 +423,8 @@ def main():
     ap.add_argument("--lookup", metavar="QUERY",
                     help="Search the local index by name or id and exit (no network)")
     ap.add_argument("--list", action="store_true", help="List the local index and exit")
+    ap.add_argument("--reindex", action="store_true",
+                    help="Rebuild index.json from the <id>.json files in the output folder and exit")
     ap.add_argument("-d", "--out-dir", help="Output directory (default: ../scraped, relative to this script)")
     ap.add_argument("--csv", action="store_true", help="Also write <id>.csv next to the JSON")
     ap.add_argument("--cookie", help="Cookie header string copied from your browser "
@@ -388,6 +435,12 @@ def main():
     args = ap.parse_args()
 
     out_dir = os.path.normpath(args.out_dir) if args.out_dir else default_out_dir()
+
+    if args.reindex:
+        idx = rebuild_index(out_dir)
+        print(f"Rebuilt {os.path.join(out_dir, INDEX_FILE)}: {len(idx)} candidates")
+        return
+
     index = load_index(out_dir)
 
     # ---- local-only commands ----
@@ -398,7 +451,7 @@ def main():
         print_entries(find_in_index(index, args.lookup))
         return
     if not args.source:
-        ap.error("a source (name, id, URL, or .html file) is required unless using --list/--lookup")
+        ap.error("a source (name, id, URL, or .html file) is required unless using --list/--lookup/--reindex")
 
     cookie = args.cookie or os.environ.get("VS_COOKIE")
     if args.cookie_file:
@@ -437,6 +490,7 @@ def main():
         print(f"Index updated: {cid} = {entry['name']!r} (last_updated {entry['last_updated']})")
     if args.csv:
         print(f"Saved CSV to {os.path.join(out_dir, cid + '.csv')}")
+
 
 if __name__ == "__main__":
     main()

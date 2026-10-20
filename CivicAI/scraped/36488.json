@@ -1,0 +1,537 @@
+{
+  "name": "Robin Ficker",
+  "page_title": "Robin Ficker's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Republican for U.S. House (MD) - District 6",
+  "candidate_id": "36488",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/36488/robin-ficker",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Stop borrowing and printing money to pay for unaffordable programs.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If our elected officials were as quick to provide vaccines as they are to raise our taxes, we would be be safer.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1360635894051590152"
+        },
+        {
+          "type": "statement",
+          "text": "\"Maryland has the sixth highest rate of migration of families earning $200,000/yr of all the states primarily because of its 5.5% state income tax plus local piggyback income tax.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1688801133005795329"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our campaign for Governor is the ONLY one to cut taxes on those hit hardest by inflation. Cut MD sales tax 2 cents or $780/yr./household.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1502649726516224006"
+        },
+        {
+          "type": "statement",
+          "text": "\"The high cost of living, above-average health care costs, exorbitant taxes and soaring home prices are all pushing Marylanders to look elsewhere for jobs and an affordable retirement.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1390268699085623297"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cut the chit chat and start the skit skat to open the county. Shutdown, tax increase politics is bad for us all.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1313648641932816385"
+        },
+        {
+          "type": "statement",
+          "text": "\"Maryland is focused on increasing your taxes and being #MarylandLAST to open.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1367525739738890244"
+        },
+        {
+          "type": "statement",
+          "text": "\"Marylanders are already burdened enough with high taxes and Joe Bidenâs inflation. I am OPPOSED to any new taxes on Marylanders and I urge you to call your representatives and tell them to vote NO. #NoTaxIncrease #VoteNo\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1769858211211801084"
+        },
+        {
+          "type": "statement",
+          "text": "\"The high cost of living, above-average health care costs, exorbitant taxes and soaring home prices are all pushing Marylanders to look elsewhere for jobs and an affordable retirement.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1390268699085623297"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"$34 TRILLION in US debt, but 0 efforts by current administration to cut spending!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1742559970380460377"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ben Cardin has spent 57 years in office increasing government spending. He is not the person going forward to control federal spending. Term Limits. Bye, Bye Ben!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1636005262363447297"
+        },
+        {
+          "type": "statement",
+          "text": "\"Stop borrowing and printing money to pay for unaffordable programs.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our campaign for Governor is the ONLY one to cut taxes on those hit hardest by inflation. Cut MD sales tax 2 cents or $780/yr./household.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1502649726516224006"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expand Calvert Cliffs Nuclear Plant and make America energy independent again by expanding drilling for oil and gas. Focus on reading, writing, and arithmetic in schools instead of social ideologies. Keep violent criminals in jail, not on the streets. Stop borrowing and printing money to pay for unaffordable programs. Pass term limits on politicians. Bring jobs and new business to Maryland instead of letting them go to Virginia, Delaware, and Pennsylvania. Close the border. Stop the fentanyl.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Marylanders are already burdened enough with high taxes and Joe Bidenâs inflation. I am OPPOSED to any new taxes on Marylanders and I urge you to call your representatives and tell them to vote NO. #NoTaxIncrease #VoteNo\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1769858211211801084"
+        },
+        {
+          "type": "statement",
+          "text": "\"Well hereâs what will actually happen if the Democrats win this election: - Worsening of the border crisis - More fentanyl in our streets - More [unpunished] crime in our neighborhoods - Higher inflation and cost of living - Higher taxes and more wasteful spending\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1777700679621992726"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Appeals court temporarily halts Biden's student loan forgiveness plan We cannot afford this inflationary, unfair giveaway!\"",
+          "source": "washex.am",
+          "url": "https://washex.am/3Sq3Gt7"
+        },
+        {
+          "type": "statement",
+          "text": "\"I paid off my own college loan. Why should Biden-Spend-Moore make me pay off somebody elseâs student loan?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1562146812894613507"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student loan forgiveness is giving university presidents the power to issue US Treasury debt.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1585434997581877252"
+        },
+        {
+          "type": "statement",
+          "text": "\"Wes Moore Spending favors making me, who already paid off his student loan, pay off the loans of others. Can he make those getting student loans forgiven pay off my home equity loan in return?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1562821585123151872"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why do the Montgomery County elected officials who support Vaccination Passports oppose Voter ID?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1485413247947878401"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Montgomery County realizes $200 million/year from a should-have-been sunsetted energy tax. Why isnât this money used to build solar and wind farms?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1235301863987216384"
+        },
+        {
+          "type": "statement",
+          "text": "\"Double Calvert Cliffs Nuclear plant to serve another Million Maryland homes with clean energy!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1502326109387505666"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expand Calvert Cliffs Nuclear Plant and make America energy independent again by expanding drilling for oil and gas. Focus on reading, writing, and arithmetic in schools instead of social ideologies. Keep violent criminals in jail, not on the streets. Stop borrowing and printing money to pay for unaffordable programs. Pass term limits on politicians. Bring jobs and new business to Maryland instead of letting them go to Virginia, Delaware, and Pennsylvania. Close the border. Stop the fentanyl.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why isnât the Maryland legislature trying to double the electrical output of Calvert Cliffs Nuclear plant to 2 million homes?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1507215057930919936"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As McCain said, Russia is like a gas station masquerading as a country. 1/2 their income is from oil and gas. Increase US production to drive down US gas prices and Putinâs income.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1497579766265913359"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ban the import of oil from the country of Putin(Stalin II). Cut his funding and increase US production to drive down prices and inflation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1499726991930667013"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expand Calvert Cliffs Nuclear Plant and make America energy independent again by expanding drilling for oil and gas. Focus on reading, writing, and arithmetic in schools instead of social ideologies. Keep violent criminals in jail, not on the streets. Stop borrowing and printing money to pay for unaffordable programs. Pass term limits on politicians. Bring jobs and new business to Maryland instead of letting them go to Virginia, Delaware, and Pennsylvania. Close the border. Stop the fentanyl.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"House to vote on bill offsetting Biden's SPR drawdown with more oil and gas production | Fox Business we need this bill to offset Ben Cardinâs end of US energy self sufficiency policy. Term Limits. Bye, Bye Ben!\"",
+          "source": "foxbusiness.com",
+          "url": "https://foxbusiness.com/politics/house-vote-bill-offsetting-bidens-spr-drawdown-with-more-oil-gas-production"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is an incredibly disturbing affront to our liberty and a clear reason we must elect President Trump and Senators who will protect our 2nd Amendment. As your Senator, I will not allow radical Democrats to take our freedoms.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1764720906880811321"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/36488/robin-ficker"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Stop borrowing and printing money to pay for unaffordable programs.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The high cost of living, above-average health care costs, exorbitant taxes and soaring home prices are all pushing Marylanders to look elsewhere for jobs and an affordable retirement.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1390268699085623297"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"4 more years of Trone and Biden will result in 15-20 million more illegal immigrants crossing the southern fentanyl border!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1751277563106754795"
+        },
+        {
+          "type": "statement",
+          "text": "\"Allowing 6,000,000 illegal immigrants to cross the Southern Border since Joe Biden took office, including some smuggling fentanyl with them? Especially when the leading cause of death for adults under 45 in this country is drug overdoses? That makes absolutely no sense.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expand Calvert Cliffs Nuclear Plant and make America energy independent again by expanding drilling for oil and gas. Focus on reading, writing, and arithmetic in schools instead of social ideologies. Keep violent criminals in jail, not on the streets. Stop borrowing and printing money to pay for unaffordable programs. Pass term limits on politicians. Bring jobs and new business to Maryland instead of letting them go to Virginia, Delaware, and Pennsylvania. Close the border. Stop the fentanyl.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is whatâs coming to your doorstep if we donât close the border and #BuildTheWall.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1771302825382834380"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Allowing 6,000,000 illegal immigrants to cross the Southern Border since Joe Biden took office, including some smuggling fentanyl with them? Especially when the leading cause of death for adults under 45 in this country is drug overdoses? That makes absolutely no sense.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expand Calvert Cliffs Nuclear Plant and make America energy independent again by expanding drilling for oil and gas. Focus on reading, writing, and arithmetic in schools instead of social ideologies. Keep violent criminals in jail, not on the streets. Stop borrowing and printing money to pay for unaffordable programs. Pass term limits on politicians. Bring jobs and new business to Maryland instead of letting them go to Virginia, Delaware, and Pennsylvania. Close the border. Stop the fentanyl.\"",
+          "source": "voteficker.com",
+          "url": "https://voteficker.com/restore/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have a President who puts the feelings of violent illegal immigrants before the lives of their victims. The security of our country is at stake in this election. It is critical that we elect leaders like President Trump and myself to close our border and protect American lives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1767200570639569204"
+        },
+        {
+          "type": "statement",
+          "text": "\"UNBELIEVABLE! This twice-deported, criminal illegal immigrant was allowed to be here thanks to \"sanctuary\" policies implemented in Montgomery county under Larry Hoganâs watch! Marylanders cannot trust Larry Hogan to keep our kids safe!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1768712335386906989"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Give Russiaâs money to Ukraine\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1765376663150334272"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putin is Stalin II. No regard for human life. Must be countered. Make US Energy Independent ASAP, undercut 50% of Russiaâs revenue.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1500114863137427464"
+        },
+        {
+          "type": "statement",
+          "text": "\"US announces $345 million military aid package for Taiwan Good idea!\"",
+          "source": "apnews.com",
+          "url": "https://apnews.com/article/taiwan-military-aid-china-support-06e61a0e0ed787ea120f839ef59885fa"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why isnât the US putting economic sanctions on Putin now?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1496100649909555203"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the only Republican candidate for Maryland Governor who has an Honorable Discharge from the US Armed Forces I know that War is Hell and that his War in Ukraine, which is not a democracy by the way, will have a deleterious effect on Maryland.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1492401492426477568"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden needs to force a Ukraine settlement.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1503477345008721936"
+        },
+        {
+          "type": "statement",
+          "text": "\"HIGH Gas prices too. Inflation too. That is what Ukraine is giving us.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1496110177317179396"
+        },
+        {
+          "type": "statement",
+          "text": "\"I see NO reason why Ukraine should be a member of NATO!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robin_ficker/status/1493220153097609227"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:27:41+00:00"
+}

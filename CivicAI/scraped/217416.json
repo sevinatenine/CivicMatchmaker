@@ -1,0 +1,394 @@
+{
+  "name": "Wesley Bell",
+  "page_title": "Wesley Bell's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MO) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MO) - District 1",
+  "candidate_id": "217416",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/217416/wesley-bell",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every person deserves the freedom to make their own healthcare decisions without government mandates or political interference. The sad reality in Missouri is that women do not have access to abortion at all, including in cases of rape and incest. Across the country, right-wing extremistsâin legislatures and in courtsâare restricting or banning access to reproductive care as they push for a federal ban. In 2022, I was one of the first county prosecutors in the country to sign a letter vowing not to prosecute those who seek or perform abortions. I will always fight for womenâs rights to access safe and legal reproductive health care, including abortion and birth control. I will support federal legislation to codify the central components of Roe v. Wade into law to protect a woman's fundamental right to reproductive freedom.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the 1-yr anniv of #Roe being overturned, a reminder that I have NEVER WAVERED in my support of women's bodily autonomy--> You don't have to wonder where I stand-> Roe should be codified--> #MO deserves a Senator who will fight to protect their rights, not try & take them away!\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1672650100181458945"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Once again, MAGA Republicans are threatening to cut Social Security. We can't let that happen. #M001 needs a representative who will protect our seniors, grow the middle class, and stand with President Biden. That's exactly what I'll do in Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1774516512763887834"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Bipartisan Infrastructure Law is already delivering for Missouri! Here in St. Louis, that means more good-paying jobs, a stronger and more secure supply chain, and playing a leading role in bringing down energy costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1759715736988340361"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Bipartisan Infrastructure Law keeps delivering results for Missouri! Our state is upgrading its water infrastructure, to make sure everyone has access to clean and safe water, and to mitigate damage from climate-change related issues like flooding.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1779931958275092921"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need leadership in Washington that understands the value of legislation like the Bipartisan Infrastructure Law and what it provides for our community. I am committed to supporting policy that brings resources back home to our district and I will work on a bipartisan basisâand with President Bidenâto get this done.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"People are fed up. Housing costs have skyrocketed. We must do more to bring down the barrier of entry for Americans to own a home.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1769801192534605987"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Another strong jobs report! Bills like the Bipartisan Infrastructure Law and the Inflation Reduction act have made our economic comeback a reality. #AmericanWorkers\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1776243843769176425"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unemployment is low, inflation is easing, but prices for basic goods remain high. We must do more to bring costs down so Americans can keep their pantries filled and actually believe that we are the greatest economy in the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1768770703732482265"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration knows the weight and burden student loans are putting on an entire generation of Americans. More will need to get done to make sure those that need the help are able to get it.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1762961625173065846"
+        },
+        {
+          "type": "statement",
+          "text": "\"The student loan crisis is hurting our economy. The Biden administration and Dept of Education must find new ways to help Missourians who are buried in debt and now have no other options for relief.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1674840506088423431"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am committed to removing unnecessarily restrictive barriers that stand between voters and the ballot box. I will work to increase voter registration and education so that all Americans can exercise this fundamental right. On this issue, I am reminded of the words of the great civil rights pioneer and icon John Lewis: \"Some of us gave a little blood for the right to participate in the democratic process.\" We must keep working to honor his legacy and commitment to democracy. At a time when our fundamental rights and freedoms are under attack, I'm ready to continue the fight for voting rights because our democracy is only as strong as those who participate in it.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a responsible gun owner, I support common sense gun safety laws. It is critical that we pass these laws in order to improve public safety. Gun violence is the single most preventable issue that our country is facing. As the Prosecuting Attorney in the largest county in the state, I see first-hand how gun violence tears apart our communities. During my time in office, I have made significant changes to improve public safety and address gun violence in St. Louis County. Our Gun Violence Reduction Task Force, Chiefs Advisory Committee, and expansion of ShotSpotter technology have helped address underlying issues that lead to crime. We have worked tirelessly with our partners within 55 police departments to improve public safety.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must do more to curb the violence that is happening in our streets. There have been too many victims and the assailants keep getting younger. We must pass common-sense gun safety laws and address the root cause of this unacceptable behavior.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1771582932869648666"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Everyone should be able to have access to quality, affordable health care. No one should lose their home due to medical bills, or be forced to choose between paying for groceries or paying for their prescriptions. I know firsthand how challenging this issue is. When I owned a small business, a health matter set me back. I was unable to work for a period of time, and without access to great providers, I would not have been able to navigate recovery and keep my job. We must do more to strengthen and expand healthcare coverage, lower costs, expand access to insurance, and make it easier to hire the best doctors and nurses.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am committed to strengthening our economy by focusing on workers and job and skills training, lowering health insurance and prescription drug costs, and reinvesting in our communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1763349681751634233"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I'll fight alongside the Biden administration to continue to lower prescription drug costs and increase access to quality care.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1778173611469136307"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The St. Louis region has been enriched and strengthened by generations of immigrants choosing to start new lives in our community. But for decades, Washington politicians have kicked the can down the road instead of actually coming together and tackling this issue. Itâs time for comprehensive immigration reform that addresses current challenges and prepares for the future as well. We need to work toward finding the appropriate balance in creating a system that ensures safety and security at the border, while also treating people with dignity and respect, and honoring the rights of asylum seekers. A pathway to citizenship must be established for those who are already here, working hard, and paying taxes. We need to ensure that our country is protected from MS-13 gang members, drug traffickers, and terrorists. You can count on me to fight to ensure that the Department of Homeland Security has adequate funding to serve our country.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Pres. Biden signed a bill to keep govt. open, stand with our allies, secure our border, and make progress on his agenda. My opponent Cori Bush voted NO on this bill. We need a leader who fights FOR #MO01, and stands WITH Joe Biden. Thatâs why Iâm running for Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1771654245562888557"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The St. Louis region has been enriched and strengthened by generations of immigrants choosing to start new lives in our community. But for decades, Washington politicians have kicked the can down the road instead of actually coming together and tackling this issue. Itâs time for comprehensive immigration reform that addresses current challenges and prepares for the future as well. We need to work toward finding the appropriate balance in creating a system that ensures safety and security at the border, while also treating people with dignity and respect, and honoring the rights of asylum seekers. A pathway to citizenship must be established for those who are already here, working hard, and paying taxes. We need to ensure that our country is protected from MS-13 gang members, drug traffickers, and terrorists. You can count on me to fight to ensure that the Department of Homeland Security has adequate funding to serve our country.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has to pass the supplemental aid package and stand up to Vladimir Putin. The fate of Ukraine depends on it, but Republicans seem to be okay with just letting vital time slip by. History will remember this moment.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1762889147143045489"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our steadfast relationships with global allies are essential to our national security and prosperity. These relationships help promote peace and stability in the world. We must continue to work with our allies to address shared challenges, such as climate change and terrorism, and be willing to stand up for our values. By working together, we can build a more secure and prosperous world for all. Right now, democracies across the globe are under attack. Ukraine continues to resist the illegal invasion of Russian dictator Vladimir Putin. Israelâthe only democracy and strongest American ally in the Middle Eastâwas attacked by terrorists on October 7. I believe Israel has the right to defend itself and go after those who perpetrated those attacks. In Congress, Iâll fight to make sure the United States remains Israelâs strongest ally.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress has to pass the supplemental aid package and stand up to Vladimir Putin. The fate of Ukraine depends on it, but Republicans seem to be okay with just letting vital time slip by. History will remember this moment.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1762889147143045489"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our steadfast relationships with global allies are essential to our national security and prosperity. These relationships help promote peace and stability in the world. We must continue to work with our allies to address shared challenges, such as climate change and terrorism, and be willing to stand up for our values. By working together, we can build a more secure and prosperous world for all. Right now, democracies across the globe are under attack. Ukraine continues to resist the illegal invasion of Russian dictator Vladimir Putin. Israelâthe only democracy and strongest American ally in the Middle Eastâwas attacked by terrorists on October 7. I believe Israel has the right to defend itself and go after those who perpetrated those attacks. In Congress, Iâll fight to make sure the United States remains Israelâs strongest ally.\"",
+          "source": "www.bell4mo.com",
+          "url": "https://www.bell4mo.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech companies like Meta need to take steps to ensure their election-disinformation policies apply to all of their social media services. This is not a partisan issue, it is about an ethical responsibility to uphold the truth.\"",
+          "source": "x.com",
+          "url": "https://x.com/bell4mo/status/1800227428750545057"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:04:46+00:00"
+}

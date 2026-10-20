@@ -1,0 +1,478 @@
+{
+  "name": "Maxine Dexter",
+  "page_title": "Maxine Dexter's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OR) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (OR) - District 3",
+  "candidate_id": "190844",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/190844/maxine-dexter",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As abortion rights came under attack nationwide, I was proud to champion legislation that further cemented Oregon as a beacon of reproductive freedom. While in the legislature, I supported a bill to protect doctors and medical professionals from persecution and prosecution for providing abortions or gender-affirming care, including prohibiting the Oregon courts from working with other jurisdictions to impede individuals receiving or providing abortion care.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have experienced myself how affordable access to birth control and reproductive care are critical to our ability to create a secure future for ourselves and our families. As a physician, I know how personal these discussions and decisions are, and I know that they are best made by patients and their doctors â not politicians. MAGA extremists are attacking our fundamental rights in every way they can. We need leaders who understand the danger to our health â and to our democracy - that can result from being forced to cede control of our bodies to others and who are passionate about protecting reproductive rights. As a woman and a physician I am uniquely able to lead on this issue and as a mother I am determined to protect the rights of my children. Everyone must have the right to control their own bodies\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protect access to abortion and reproductive healthcare across our nation through legislative action.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Working families, our children and the elderly depend on SNAP benefits. The cruel cutting of these important resources will end with far greater harm than cost-saving benefit.\"",
+          "source": "x.com",
+          "url": "https://x.com/doctormaxine/status/1217195842932629504?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3552: \"Expands Insurance Eligibility to Undocumented Immigrants Not Covered by Medicaid\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31146/81138/190844/expands-insurance-eligibility-to-undocumented-immigrants-not-covered-by-medicaid#81138"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Close corporate taxation loopholes and ensure billionaires pay their fair share.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enact the For the People Act to limit the influence of money in policymaking, curb partisan gerrymandering, and create stricter ethical standards for our public officials.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"End Citizens United, getting big money out of politics.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hold a vote and pass #BuildBackBetter now. Families need this support now more than ever. Invest in families and our entire community benefits.\"",
+          "source": "x.com",
+          "url": "https://x.com/doctormaxine/status/1458191301929668613?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you OPAL for your insightful panel on Rosa Parks Transit Equity Day. One of the best ways we can address our climate crisis is to invest in equitable green infrastructure. We need to make sure every Oregonian has access to efficient, affordable green transit solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/doctormaxine/status/1225177408535519233?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The 100% Clean Energy for All bill, #HB2021 will help to create living wage jobs and target investments in community-based renewable energy projects as we transition to 100% clean energy by 2040. We must pass this policy. Climate change is a threat we cannot ignore.\"",
+          "source": "x.com",
+          "url": "https://x.com/doctormaxine/status/1405182199037530119?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I chaired the Oregon House of Representatives Committee on Housing and Homelessness in 2023 and 2024 and led the legislatureâs efforts to address Oregon's housing and homelessness crises. In 2023, we passed a historic $200 million investment in Oregon's housing future within an unprecedented 60 days. Among many other priorities, this package allocated millions of dollars to provide homeless youth and families with shelter and housing. It also supported innovative, Oregon-based modular housing development to begin building units here at home. This year, I also helped lead the passage of another $376 million housing package which will fund homeless shelters, support renters, build critical infrastructure, and boost housing production.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Safe housing should be a fundamental right, and it pains me to witness the harsh reality of many Oregonians living on the streets. As a critical care physician, I engage directly with houseless individuals who wind up in the intensive care unit, incredibly sick due to exposure and lack of care and services. As a physician caring for people at all income and insurance levels for over 20 years, I have a deep understanding of the additional complexity when housing insecurity intersects with mental illness and addiction. The housing situation in Oregon has reached a critical point, demanding urgent and decisive action from all levels of government.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 2001: \"Appropriates $200 Million for Affordable Housing Initiatives\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34331/90979/190844/appropriates-200-million-for-affordable-housing-initiatives#90979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3442: \"Authorizes Local Governments to Allow for Affordable Housing on Certain Lands\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35898/95822/190844/authorizes-local-governments-to-allow-for-affordable-housing-on-certain-lands#95822"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Work to bring down inflation and the cost of living through strategic investments and accountability for gouging corporations.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pass the John Lewis Voting Rights Act to ensure every eligible voter can exercise their right to vote.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 4133: \"Authorizes Voter Registration Without State-Issued ID\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32986/86855/190844/authorizes-voter-registration-without-state-issued-id#86855"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will champion a swift transition to 100% renewable energy sources to mitigate our reliance on fossil fuels. This shift is crucial, especially for our socially and economically disadvantaged communities who bear the brunt of climate change's adverse health impacts. By addressing climate pollution, we simultaneously tackle health disparities, creating a healthier, more equitable future for all Oregonians.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rebuild Americaâs crumbling electrical infrastructure, burying electrical lines wherever possible to prevent wildfires and power outages and rapidly expanding the availability of electric vehicle charging stations.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Transition to 100% clean electricity nationwide to decarbonize our economy.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Oregon League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/190844/maxine-dexter"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ban new development of fossil fuel infrastructure both on public lands and offshore.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will champion a swift transition to 100% renewable energy sources to mitigate our reliance on fossil fuels. This shift is crucial, especially for our socially and economically disadvantaged communities who bear the brunt of climate change's adverse health impacts. By addressing climate pollution, we simultaneously tackle health disparities, creating a healthier, more equitable future for all Oregonians.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Transition to 100% clean electricity nationwide to decarbonize our economy.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Expand federal background checks to prevent prohibited individuals from purchasing guns without adequate scrutiny.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since entering the legislature, I have been an effective advocate for common sense gun reform to protect our children, families, teachers, and neighbors. I fought to make Oregon the ninth state in the nation to ban non-serialized and undetectable ghost guns that are used by gun traffickers and people legally prohibited from buying firearms. I also fought to pass safe storage legislation which requires gun owners to secure weapons when not in use. Lastly, I have passed $47 million in investments for gun violence prevention.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/190844/maxine-dexter"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 2005: \"Amends Various State Gun Control Laws\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35037/92618/190844/amends-various-state-gun-control-laws#92618"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pass legislation to ensure every American has access to high-quality, affordable health care with the ultimate goal of a single-payer model.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must work toward the goal of adopting a single-payer model, and it must include comprehensive behavioral health, vision, dental, and prescription drug coverage.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 1089: \"Establishes the Universal Health Plan Governance Board\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35519/94437/190844/establishes-the-universal-health-plan-governance-board#94437"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SJR 12: \"Amends the State Constitution to Establish Healthcare as a Right for All Citizens\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30800/79627/190844/amends-the-state-constitution-to-establish-healthcare-as-a-right-for-all-citizens#79627"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enact the nationwide provision of paid family and sick leave for all workers.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"If we invest in paid leave and affordable childcare the U.S. economy will be more competitive and children will have a more secure future. It seems clear this is smart policy. Letâs get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/doctormaxine/status/1375091407543623682?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rigorously regulate pharmacy benefit managers and private equity investors in our healthcare system.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must work toward the goal of adopting a single-payer model, and it must include comprehensive behavioral health, vision, dental, and prescription drug coverage.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3265: \"Expands and Strengthens the State's Sanctuary Law\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30960/80641/190844/expands-and-strengthens-the-states-sanctuary-law#80641"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3552: \"Expands Insurance Eligibility to Undocumented Immigrants Not Covered by Medicaid\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31146/81138/190844/expands-insurance-eligibility-to-undocumented-immigrants-not-covered-by-medicaid#81138"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Increase humanitarian support and work to expand the new Mediterranean aid corridor and continue to advocate for critically needed food and medical aid.\"",
+          "source": "maxinefororegon.com",
+          "url": "https://maxinefororegon.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:24:07+00:00"
+}

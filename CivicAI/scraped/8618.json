@@ -1,0 +1,700 @@
+{
+  "name": "Tim Walberg",
+  "page_title": "Tim Walberg's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MI) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MI) - District 5",
+  "candidate_id": "8618",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/8618/tim-walberg",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim will defend religious institutions and individuals with deeply held beliefs, so government will not force them to violate their conscience. He believes wholeheartedly in the sanctity of life, the definition of marriage as between one man and one woman, and that government should be colorblind in order to truly be just.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/defending-our-values"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/8618/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/8618/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim Walberg is dedicated to preserving and strengthening Social Security and Medicare. He introduced a lockbox bill, to preventing the raid of these funds citizens paid into and expect during their retirement years.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/fiscal-responsibility"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tim will preserve the promise of Social Security and Medicare\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/defending-our-values"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democratsâ tax and spending bill is a recipe for prolonging the recession and inflation crisis. Higher taxes, 87,000 new IRS agents, and a laundry list of extreme Green New Deal policies. I will be voting NO on this disastrous bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1557089052876328961"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tim has supported tax reform efforts resulting in tax cuts for over 82% of middle class families across America. Reform brought corporate tax rates to a competitive global level and spurred hundreds of billions in domestic investments.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/building-healthy-economy"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/8618/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Billions in more spending, taxes, and debtâall in the middle of a recession. Now is the time for fiscal responsibility, not another boondoggle spending bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1557432269496893440"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democratsâ tax and spending bill is a recipe for prolonging the recession and inflation crisis. Higher taxes, 87,000 new IRS agents, and a laundry list of extreme Green New Deal policies. I will be voting NO on this disastrous bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1557089052876328961"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/8618/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/8618/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The unfolding of recent events weighs heavily on our nationâs heart. The horrific killing of George Floyd is an absolute tragedy, and justice must be swift for him and his family or it will be a miscarriage of justice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1267233711814303746"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under President Biden, violent crime is on the rise in major cities across the country. Radical rhetoric aimed at law enforcement is dangerous and making the crime crisis worse. We need to support the policeânot defund them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1491518154526314496"
+        },
+        {
+          "type": "statement",
+          "text": "\"Very disappointing to watch Senate Democrats block consideration of the JUSTICE Act today. Their actions stand in the way of allowing debate, offering amendments, and finding common ground on police reform. All about politics.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1275895358707687424"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/8618/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/8618/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/8618/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/8618/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/8618/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is out of control and we need to stop with the big-government, runaway federal spending coming from Washington. Iâm working on a different, better path forward.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1560286305682132992"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sky-high inflation is putting the squeeze on family budgets, costing the average American household an extra $8,000 a year. We need to stop runaway spending, combat inflation, and create an economy thatâs strong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1589726186975875072"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/8618/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/8618/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is out of control and we need to stop with the big-government, runaway federal spending coming from Washington. Iâm working on a different, better path forward.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1560286305682132992"
+        },
+        {
+          "type": "statement",
+          "text": "\"It turns out the so-called \"Inflation Reduction Act\" actually made the problem worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1580660771654369280"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sky-high inflation is putting the squeeze on family budgets, costing the average American household an extra $8,000 a year. We need to stop runaway spending, combat inflation, and create an economy thatâs strong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1589726186975875072"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/8618/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"$400 billion. Thatâs how much President Bidenâs student loan bailout will cost taxpayers. It will worsen the inflation crisis while doing nothing to address the soaring cost of higher education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1574862944906739712"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs student loan bailout scheme is fiscally irresponsible, highly inflationary, and legally indefensible. It will cost billions and wonât pass constitutional muster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1562468320175353856"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rather than addressing the soaring cost of higher education, President Biden unilaterally granted a student loan bailout that is irresponsible and illegal. There needs to be greater transparency surrounding the true price tag of this ill-advised scheme.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1570478510552104963"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/8618/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/8618/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democratsâ tax and spending bill is a recipe for prolonging the recession and inflation crisis. Higher taxes, 87,000 new IRS agents, and a laundry list of extreme Green New Deal policies. I will be voting NO on this disastrous bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1557089052876328961"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/8618/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/8618/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/8618/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/8618/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/8618/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/8618/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/8618/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/8618/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim has introduced legislation to allow small businesses to join together to purchase more affordable healthcare insurance. Tim supports lowering prescription drug prices and patient-centered reforms such as ending lawsuit abuse, allowing the purchase of insurance across state lines, expanding the use and flexibility of health savings accounts, reducing fraud, and giving individuals the same tax treatment as corporations when purchasing health insurance. He will continue working to make healthcare more affordable.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/building-healthy-economy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/8618/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1628: \"American Health Care Act of 2017\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/22765/59189/8618/american-health-care-act-of-2017#59189"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@realDonaldTrump just signed the Families First Coronavirus Response Act into law. It provides access to free testing and paid sick leave for workers who need it. Relief is on the way, but there is much more work to do. We will get through this together.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1240452408892887040"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/8618/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim has introduced legislation to allow small businesses to join together to purchase more affordable healthcare insurance. Tim supports lowering prescription drug prices and patient-centered reforms such as ending lawsuit abuse, allowing the purchase of insurance across state lines, expanding the use and flexibility of health savings accounts, reducing fraud, and giving individuals the same tax treatment as corporations when purchasing health insurance. He will continue working to make healthcare more affordable.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/building-healthy-economy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/8618/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/8618/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/8618/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border security remains a top priority for Tim as he helped the House pass H.R. 2, Secure the Border Act, the strongest border security bill in history that will help slow the ever-increasing fentanyl which pours across our border daily.\"",
+          "source": "www.walbergforcongress.com",
+          "url": "https://www.walbergforcongress.com/issues/fixing-biden-crises"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/8618/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/8618/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of working to secure the border as illegal crossings surge, President Biden is taking steps to make the crisis even worse by pushing for mass amnesty provisions. Itâs reckless and wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1455621182074589185"
+        },
+        {
+          "type": "statement",
+          "text": "\"Whatâs happening at the southern border is a humanitarian crisis. Instead of addressing it, Speaker Pelosi brings up a sweeping amnesty bill without a dime for border security. This flawed approach will only deepen the crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1372695201488252929"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8618/tim-walberg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/8618/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/8618/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/8618/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/8618/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/8618/israel-security-supplemental-appropriations-act-2024#99510"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/8618/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/8618/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/8618/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/8618/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"TikTokâs CEO admitted that data from American citizens can be accessed in China. Itâs the unanimous view by U.S. intelligence agencies that TikTok poses a serious national security threat. It is time for Congress to act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1639014550413484033"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, we'll be voting on a bill to give TikTok the opportunity to either break up with the CCP or be removed from app stores. TikTok has repeatedly lied about their connection to the CCP, including when I asked about access to Americans' data.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepWalberg/status/1767870973812892145"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/8618/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/8618/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:14:36+00:00"
+}

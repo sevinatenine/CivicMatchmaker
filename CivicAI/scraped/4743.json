@@ -1,0 +1,688 @@
+{
+  "name": "Bill Keating",
+  "page_title": "Bill Keating's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MA) - District 9, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MA) - District 9",
+  "candidate_id": "4743",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/4743/bill-keating",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The fight is not over, and my commitment to ensuring access to safe reproductive healthcare has not wavered. We must make Roe the law of the land once again.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1672596723309355010"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Abortion Survivors Protection Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The choice couldnât be clearer: Democrats want to strengthen Medicare & Social Security, and protect the right of all Americans to make their own decisions about their bodies. Republicans want a nationwide abortion ban passed and programs like Social Security and Medicare ended.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1584564873081802752"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 9% by National Taxpayers Union in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\" in 2017",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#BuildBackBetterAct will create jobs, cut taxes, & lower costs for American families, & itâs all paid for by making the wealthiest and large corporations pay their fair share. Itâs time we put American families before corporations - thatâs why we must pass #BuildBackBetter.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1438178506844917765"
+        },
+        {
+          "type": "statement",
+          "text": "\"The infrastructure bill will create jobs and rebuild our highways, bridges, and roads. #BuildBackBetter will deliver more jobs, cut taxes and lower costs, doing so by making the wealthiest few and big corporations pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1434866979094007811"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by The Club for Growth in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our work here does not end today - we owe it to the memory of George Floyd and Breonna Taylor, and the lives of every potential future victim, to fight until structural racism in the United States is eradicated. #GeorgeFloydLaw #JusticeInPolicing\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1276318614614937603"
+        },
+        {
+          "type": "statement",
+          "text": "\"This evening we took a big step toward ending police brutality and racial profiling, increasing transparency, and ensuring that police are accountable to the communities they serve in passing the #JusticeInPolicingAct . #GeorgeFloydLaw\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1276318613574750213"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill believes that the most effective and efficient way to create jobs and grow our local workforce while stimulating long-term economic growth is to invest directly in these industries, businesses, and public sector opportunities that support our regional economy.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit, Save, Grow Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5735 \"THRIVE Act\" in 2018",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#BuildBackBetterAct will create jobs, cut taxes, & lower costs for American families, & itâs all paid for by making the wealthiest and large corporations pay their fair share. Itâs time we put American families before corporations - thatâs why we must pass #BuildBackBetter.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1438178506844917765"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There is no room for compromise when it comes to guaranteeing all Americans the right to vote, and there should be no room in a democracy for those who want to deny voting rights and overturn election results.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1483131307530067970"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs ruling, alongside dozens of GOP-backed attempts to roll back voter rights across the country, underscores the importance of the Senate passing the John Lewis Voting Rights Act and the For the People Act to protect our democracy from these transparent, partisan attacks.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1410698845219139589"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Public Citizen in 2019-20",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill strongly supports energy policies that increase the use of clean, renewable sources, such as solar and wind; decrease our reliance on fossil fuels; create hundreds of clean energy jobs throughout Massachusetts; and lead to important cost-savings for our local municipalities. He believes that investments in these sources are critical to our global responsibility to combat the threats of climate change and preserve our community for future generations.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\" in 2019",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill strongly supports energy policies that increase the use of clean, renewable sources, such as solar and wind; decrease our reliance on fossil fuels; create hundreds of clean energy jobs throughout Massachusetts; and lead to important cost-savings for our local municipalities. He believes that investments in these sources are critical to our global responsibility to combat the threats of climate change and preserve our community for future generations.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\" in 2023",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Throughout his entire career â from time as a member of the Massachusetts legislature to Norfolk County District Attorney to now in Congress â Bill has supported responsible gun control legislation. He supports background checks before all gun purchases, in addition to stemming illegal possession or transfer of firearms and improving safety technologies like personalized weapons and trigger locks.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill believes that access to high-quality, affordable healthcare is a basic human right. While he was not in Congress when the Patient Protection and Affordable Care Act (ACA) was voted on in 2009, he is a strong proponent of health care reform as originated in Massachusetts, which has been an unrivaled success. Today, more than 96.9% of the Commonwealthâs total population is insured, and less than 2 percent of children lack coverage.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Economic justice, equal pay for equal work, access to affordable healthcare, reproductive rights, standing up to all forms of discrimination inside the work place and out. These are issues that a just and moral society must band together to fight for âfor everyone.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1039904946865545218"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should face discrimination from an insurer because they have a pre-existing condition, but if the GOPâs Texas v. U.S. lawsuit strikes down the Affordable Care Act insurers will be able to do just that. #ProtectOurCare\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1216802822265675777"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill is a strong advocate for organized labor and credits unions with support for our countryâs middle class and workplace protections. Workers who are unionized are often paid more than their nonunion counterparts and are covered by workplace-related health insurance. Strong unions translate into fairer treatment for workers, including hours, pay, and leave time.\"",
+          "source": "keating.house.gov",
+          "url": "https://keating.house.gov/policy-work/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/38/health-and-health-care?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A @KamalaHarris Presidency will protect women's reproductive rights, protect Medicare, and continue to cut prescription drug costs and expand healthcare access for all - and a Harris Presidency will keep our nation safer and more secure from global threats.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1815124131282575623"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last year, Democrats passed the IRA to help make medication more affordable to seniors. Now, PhRMA has filed a lawsuit challenging Medicare's authority to negotiate lower drugs costs. We will hold #BigPharma accountable for putting profits over people.\"",
+          "source": "x.com",
+          "url": "https://x.com/WilliamKeating/status/1673393690805411853"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have also called for no further Homeland Security appropriations to implement family separation and was proud to be part of a strong Democratic coalition to block defense funds being allocated to border wall construction.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1146470165082759168"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dreamers are a valuable part of our society. They are first responders, healthcare professionals, teachers - they are our friends and neighbors. Many if not most know no other home than this country. And they deserve to be treated for what they are - Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1273629804223500289"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/4743/bill-keating"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/40/immigration?p=2"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Important meeting with members of parliament from the Weimar Parliamentary Group to discuss urgent Ukraine aid and U.S. support for allies. The House must act and pass the supplemental funding package immediately to support our allies in Ukraine, Israel, and around the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1780342721955152264"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no moral equivalency between premeditated murder and money from arms sales. There should be no currency for the sale of Americaâs soul. I will work to sanction Saudi Arabia and hopefully be joined by congressional colleagues.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1065039398650224640"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Important meeting with members of parliament from the Weimar Parliamentary Group to discuss urgent Ukraine aid and U.S. support for allies. The House must act and pass the supplemental funding package immediately to support our allies in Ukraine, Israel, and around the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1780342721955152265"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yet, with two years of war behind us, the US must again act, as our European allies have, to support Ukraine. Ukraine needs our support--as a global leader and a global force for democracy--and they need it now. History is watching, and history will not forget inaction.\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1761429301193248894"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@matusvallo says social media companies are not protecting democracy enough. I couldnât agree more - we canât allow hurtful hate speech which targets minorities and marginalized communities to continue\"",
+          "source": "x.com",
+          "url": "https://x.com/USRepKeating/status/1466447774812151812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/41/technology-and-communication"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\" in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/4743/bill-keating/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:32:57+00:00"
+}

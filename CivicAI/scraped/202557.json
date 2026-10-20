@@ -1,0 +1,436 @@
+{
+  "name": "Patrick Harrigan",
+  "page_title": "Patrick Harrigan's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 10, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NC) - District 10",
+  "candidate_id": "202557",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/202557/patrick-harrigan",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I applaud the Supreme Court for correcting an errant opinion that removed power from the People and gave it to an unelected class.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1540481678497529856?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An economy that was booming in previous years is being destroyed by out-of-touch politicians like Jeff Jackson who are addicted to spending. Their runaway spending, out-of-control inflation, crippling energy prices, & high taxes are ruining lives here in Meck & Gaston Counties.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1582728747362717697?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pat will fight to curb inflation, cut wasteful spending, decrease taxes, and lower energy prices.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The extreme base of the Democratic party and the policies of the Biden Administration are wrecking an economy that was roaring in years past. Their runaway spending, out-of-control inflation, crippling grocery prices, and high taxes are ruining the lives of hardworking Americans.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NC14 needs a leader who knows what itâs like to sign the front of a paycheck. I will fight to curb inflation, cut wasteful spending, decrease taxes, and lower energy prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1568257084613066753?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pat will fight to curb inflation, cut wasteful spending, decrease taxes, and lower energy prices.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Defund the Police movement put our communities' safety at risk, and it's no surprise that law enforcement agencies are still trying to recover. We must stand up for law and order, ensuring our neighborhoods are safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1687790430379823104?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a former Green Beret, I know a strong nation is a secure nation. I will work to ensure our military is the best equipped and our defense strategies are robust, keeping America safe from external threats while maintaining our position as the preeminent global leader.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1726978951174856942?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm ready to serve in Congress, fighting for fiscal responsibility, a secure southern border, strong national defense, and the American values that Iâve defended all my life.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1745268672849985961?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An economy that was booming in previous years is being destroyed by out-of-touch politicians like Jeff Jackson who are addicted to spending. Their runaway spending, out-of-control inflation, crippling energy prices, & high taxes are ruining lives here in Meck & Gaston Counties.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1582728747362717697?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pat will fight to curb inflation, cut wasteful spending, decrease taxes, and lower energy prices.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The extreme base of the Democratic party and the policies of the Biden Administration are wrecking an economy that was roaring in years past. Their runaway spending, out-of-control inflation, crippling grocery prices, and high taxes are ruining the lives of hardworking Americans.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In 2023, the number of homeless Americans reached its highest recorded level in history at more than 650,000. Among veterans, the rate of homelessness surged 7% in the last year alone. This is the real legacy of Bidenomics: lower-paying jobs, skyrocketing housing costs and interest rates, and grocery prices that hardworking families can barely afford. Americans canât afford another term of President Bidenâs failures.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1738385601135600110?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pat will fight to curb inflation, cut wasteful spending, decrease taxes, and lower energy prices.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The cost of inflation to Americans this year is over $8,000. That is money that could have been spent on food, gas, or a variety of other things. It's time to put an end to the never-ending government spending sprees and put American families first.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1587501754261831685?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the government prints and spends money like a drunken sailor, inflation will accelerate. Hope we don't have to make the cost of capital exceed the inflation rate. We will if we cannot practice fiscal responsibility! #ncpol\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1629590173884243969?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"When we vote as residents of North Carolina, we should have to show identification and confirm our identities in a meaningful way. As the right to vote is one of the most sacred foundational responsibilities of our citizenry, we must endeavor that the result be secure and trustedâor we will have lost our country. We must pass election laws that make it easier to vote, and harder to cheat, and that push power down to the local and state levels.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americaâs energy problem is an economic crisis and a matter of national security. We must act now to become energy independent. We can no longer afford to buy oil and other resources from our enemies. We need an all-of-the-above approach to energy that aggressively puts America on the fast-track to independence. That includes domestic oil exploration, pipeline construction, fracking, nuclear energy development, solar, wind, coal, and all other forms of energy that America has proven we can produce cleanly, safely, efficiently and effectively.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden is draining our strategic oil reserve while OPEC reduces oil output by 2 million barrels per day. Our reserve is at historic lows, putting the US in a vulnerable position. Our nation's security is in jeopardy by our reliance on foreign countries for our energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1577692249470672900?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americaâs energy problem is an economic crisis and a matter of national security. We must act now to become energy independent. We can no longer afford to buy oil and other resources from our enemies. We need an all-of-the-above approach to energy that aggressively puts America on the fast-track to independence. That includes domestic oil exploration, pipeline construction, fracking, nuclear energy development, solar, wind, coal, and all other forms of energy that America has proven we can produce cleanly, safely, efficiently and effectively.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden is draining our strategic oil reserve while OPEC reduces oil output by 2 million barrels per day. Our reserve is at historic lows, putting the US in a vulnerable position. Our nation's security is in jeopardy by our reliance on foreign countries for our energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1577692249470672900?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's decision to deplete the strategic US oil reserve is short-sighted and detrimental to our energy security. Prioritizing American energy production is essential to safeguarding our nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1688341743765164032?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Special Forces combat Veteran and owner of one of the fastest-growing manufacturers of firearms and firearm components in the country, Pat is keenly aware of the importance of the 2nd Amendment and what it means to us as Americans. He will always fight to protect our right to keep and bear arms, believes in the fundamental right of Constitutional carry, and rejects any attempt to impose red flags on those exercising their Second Amendment rights.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Believe me when I say, the Second Amendment is personal. Some politicians waiver on the Second AmendmentâI never have. As a Green Beret, my life depended on it. In Congress, I'll protect it with the same iron will. #ncpol\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1724413681738428699?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Firearms are a valuable part of our identity as Americans. From firearms, we derive our ability to hunt, defend ourselves and our families, and secure our freedoms.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of securing our borders, Biden has turned a blind eye to the safety of our communities and is literally incentivizing illegal immigration. It's time to build the wall, secure our borders, and outlaw sanctuary cities.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1518620113523593218?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, under President Joe Biden, we donât have a border. And if we donât have a border, we donât have a country. Open borders are a direct threat to our national security. From gang violence to sex trafficking and drug smuggling to terrorism, the open border policy of the Biden Administration threatens all of us.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We also owe it to our Border Patrol agents to provide them with every necessary resource. Only then can they defend themselves, truly secure our frontlines, and ensure our national security. Itâs imperative that we secure our borderâ immediately â and enforce Federal law.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In just 24 hours, over 11,000 illegal immigrants have crossed our border. Each day, as Pres Biden emboldens this crisis, our national security & communities nationwide are under threat. We need to know who is entering our country & their intentions! Our border must be secured NOW!\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1706663845949735366?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of securing our borders, Biden has turned a blind eye to the safety of our communities and is literally incentivizing illegal immigration. It's time to build the wall, secure our borders, and outlaw sanctuary cities.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatHarriganNC/status/1518620113523593218?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We also owe it to our Border Patrol agents to provide them with every necessary resource. Only then can they defend themselves, truly secure our frontlines, and ensure our national security. Itâs imperative that we secure our borderâ immediately â and enforce Federal law.\"",
+          "source": "www.harriganforcongress.com",
+          "url": "https://www.harriganforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:23:22+00:00"
+}

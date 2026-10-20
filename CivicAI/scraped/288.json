@@ -1,0 +1,610 @@
+{
+  "name": "Pete Sessions' Issue Positions (Political Courage Test)",
+  "page_title": "Pete Sessions' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 17, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TX) - District 17",
+  "candidate_id": "288",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/288/pete-sessions",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am happy to accept the nomination of the Texans for Life Committee for my positions on Pro-Life policies in the Tx-17 runoff election. I look forward to working with them in Washington! #Life #RightToLife\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/PeteSessions/status/1279138193858854913?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pete has a 100% lifetime voting record with National Right to Life.\"",
+          "source": "www.petesessions.com",
+          "url": "https://www.petesessions.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"That is why I have consistently voted to limit federal spending, reform entitlement programs, and am a co-sponsor of a bill that calls for the passage of the balanced budget amendment.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1269277/issue-position-fiscal-sanity"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/288/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/288/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's simple, stop inflation by lowering taxes, regulating less, and leading Americans back to work!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1499136498268094473?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the passage of tax reform we are breaking through the shackles of bureaucracy, unleashing the free enterprise system, and ringing in a new era of opportunity and freedom. Proud to vote for this historic reform and proud to get this done on behalf of the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/943224038092046336?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"With the passage of tax reform we are breaking through the shackles of bureaucracy, unleashing the free enterprise system, and ringing in a new era of opportunity and freedom. Proud to vote for this historic reform and proud to get this done on behalf of the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/943224038092046336?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/288/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/288/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâll always back the blue! Thatâs why I support the Justice Actâeffective reform that empowers police to do their job. In fact, this legislation was introduced by a former police officer.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1367285921998061570?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/288/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/288/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/288/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/288/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Irresponsible spending over the last two years has placed our economy in a precarious position â and President Biden and Congressional Democrats are avoiding negotiations to address the debt and deficits. @HouseGOP will pass the Limit, Save, Grow Act as a responsible solution.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1651264179767066632?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The left is all about spending taxpayer money on their socialist agenda. The American people are paying the freight for their reckless behavior.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1379454686642724871?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/288/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm heading to the @HouseFloor to manage the rule on 2 housing bills that will create 1000s of new constructions jobs & boost the economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/588017088641560576?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I had a great discussionthis morning with Dallas City Council members about continuing our strategic partnership, funding for important housing program, and bolstering our N.TX infrastructure.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/973962852531933186?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was proud to support the Military Construction and VA appropriations bill which will enable the @DeptVetAffairs to treat over seven million more #Veterans this upcoming year and help provide housing for 1.4 million active duty military families.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1005158631128600576?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, I spoke with Chairman Powell in a @FinancialCmte hearing. Dems continue to make friends with inflation, blame it on business, and encourage it with wasteful spending. It's simple, stop inflation by lowering taxes, regulating less, and leading Americans back to work!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1499136498268094473?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"What's the result of Democrats' 2-year-long, 3.5 TRILLION dollar spending spree? 40-year high inflation, which has outpaced wages for 21 straight months.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1617570446886551555?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/288/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's student loan forgiveness plan is UNCONSTITUTIONAL and will further bankrupt our country.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1576214855593377793?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"During COVID-19, self-certification was a leading cause of fraud in government programs. Now, Biden is proposing to allow student loan forgiveness applicants to self-certify. The Biden Admin should take greater precautions when using the American taxpayer's hard-earned money.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1651320403837460485?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The President finally recognized what a majority of Americans already knew, the COVID pandemic is over! He has no basis to forgive $500 BILLION in student loan debt via executive order.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1572219056094171137?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs SCOTUS ruling is clearâ The Dept. of Educationâs authority under statute does not allow Biden to defy Congressional intent and create a new student loan forgiveness program from scratch.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1674914928325545985?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/288/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am voting no to H.R. 1 because it...undermines current voter ID laws\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1366803763667886085?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/288/pete-sessions"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden couldn't be more clear on his anti-American oil & gas agenda. He & Democrats are forcing higher energy prices on families. House Republicans must unleash American energy by ending the federal freeze on oil & gas leases.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1590034134541508608?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Energy security is a matter of national security. I support an all-of-the-above energy strategy that stimulates innovation, development, and security. Reliable energy sources allow the entrepreneurial spirit of Texans to thrive and promotes freedom from unstable regions often hostile to the values of America. I believe the free market should choose winners and losers in the marketplace, not radical environmentalist who have constructed this Administration's liberal green energy agenda.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1269276/issue-position-energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"My Republican colleagues and I support expanding the use of hydropower and are working to make all hydropower officially recognized as a renewable energy source by any legal or regulatory standard established by the federal government.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1030584/issue-position-energy-independence"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/288/pete-sessions/29/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden couldn't be more clear on his anti-American oil & gas agenda. He & Democrats are forcing higher energy prices on families. House Republicans must unleash American energy by ending the federal freeze on oil & gas leases.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1590034134541508608?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Energy security is a matter of national security. I support an all-of-the-above energy strategy that stimulates innovation, development, and security. Reliable energy sources allow the entrepreneurial spirit of Texans to thrive and promotes freedom from unstable regions often hostile to the values of America. I believe the free market should choose winners and losers in the marketplace, not radical environmentalist who have constructed this Administration's liberal green energy agenda.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1269276/issue-position-energy"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/288/pete-sessions/29/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Adoption of a gun and ammunition tracking method is a breach of American citizen's constitutional rights!! Visa, Mastercard, and American Express will be held accountable if this new merchant category code is adopted.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1570460256073052162?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/288/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pete is a lifetime member of the Texas Rifle Association and maintained a solid \"A\" rating from the NRA for his votes in Congress. He is endorsed by the National Rifle Association Political Victory Fund.\"",
+          "source": "www.petesessions.com",
+          "url": "https://www.petesessions.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H. Res. 1089 ensures patients with pre-existing conditions are protected from the high costs and limited options they are experiencing now under #ObamaCare. I am fighting for those who need it most to secure their access to affordable #healthcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1047153078485602304?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our country deserves a healthcare system that works for all Americans.Im on the @HouseFloor now discussing my ideas to fix our broken system\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/824042431314350080?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/288/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After three years of urging the Biden Admin to regain operational control of the southern border, time has run out. The Biden border crisis has devolved into complete chaos. Congress must prioritize America's own border before moving to consider funding elsewhere.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1744750879868141938?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a Texan running for Speaker, no other candidate will work harder to solve our crisis on the southern border. We must support federal law enforcement and restore Americaâs Rule of Law.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1716458511649964461?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's lax border policies are leading to RECORD ILLEGAL MIGRATION on the southern border. Yesterday in Eagle Pass, TX, border enforcement urged me and my colleagues to make SERIOUS CHANGES, or the crisis will only worsen. Congress must pass meaningful border policy changes.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1743017794281595208?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by NumbersUSA",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/288/pete-sessions/40/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Texan running for Speaker, no other candidate will work harder to solve our crisis on the southern border. We must support federal law enforcement and restore Americaâs Rule of Law.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1716458511649964461?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Illegal immigration, by itself, creates a circumstance that is not only bad for the country but for rule of law.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1370054080995950608?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our southern border has been abandoned by President Biden. His mishandling has flooded illegal aliens into every major American city, caused human trafficking to rise dramatically, and resulted in the seizure of enough fentanyl to kill every U.S. citizen. Enough is enough.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1623071105060683776?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by NumbersUSA",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/288/pete-sessions/40/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Putin is a brutal thug and I condemn these unsubstantiated attacks. The leader of the free world, the United States of America, must take swift action to enforce stronger sanctions until Russia withdraws. #StandWithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1496810282311729152?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/288/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/288/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/288/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/288/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/288/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/288/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We'll be discussing the latest from House Oversight's hearing holding Big Tech accountable. Be sure to tune in!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteSessions/status/1623366051227439114?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/288/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/288/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:23:37+00:00"
+}

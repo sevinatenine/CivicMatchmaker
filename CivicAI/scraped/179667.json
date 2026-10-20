@@ -1,0 +1,622 @@
+{
+  "name": "Michael Guest",
+  "page_title": "Michael Guest's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MS) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MS) - District 3",
+  "candidate_id": "179667",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/179667/michael-guest",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am the only candidate in the runoff endorsed by National Right to Life for my 100% pro-life voting record. I filed an amicus brief in the Dobbs v. Jackson case at the Supreme Court to overturn Roe v. Wade. I will always be a strong voice for the unborn!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1540794459712913410"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm honored to be endorsed by Rep. Becky Currie who authored the legislation that became the basis for Roe v. Wade being overturned (HB 1510). Thank you, Becky, for your endorsement and for helping make Mississippi the pro-life state that ended Roe v. Wade.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1540824658655662082"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prayers have been answered. The right to life just won a historic victory with Roe being overturned. I was honored to be part of this case by submitting an amicus brief (link below) to the Court laying out the legal precedent for Roe to be overturned.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1540348902947397632"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Survivors Protection Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34026/90338/179667/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest/53/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 826 \"Expressing Disapproval of the Trump Administration's Harmful Actions Towards Medicaid\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27584/70974/179667/expressing-disapproval-of-the-trump-administrations-harmful-actions-towards-medicaid#70974"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The average American now has over $2500 more in disposable income almost two years after the Tax Cut and Jobs Act of 2017! Strong, conservative leadership is the key to growing more jobs and higher wages for hardworking Americans. #TCJA2Year\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1202631778831413249"
+        },
+        {
+          "type": "statement",
+          "text": "\"You cannot tax and spend a nation into prosperity, Mr. President. #SOTUinCrisis\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1498852217687785473"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 74% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 74% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 74% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 76% by Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26112/66405/179667/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/179667/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/179667/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28148/73007/179667/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32973/86809/179667/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32002/83750/179667/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/96799/179667/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28441/76074/179667/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs inflation impacts everything. For the average Medicare beneficiary, premiums will rise. $259.20 & deductibles will rise. Almost 15%. This is what happens when wild, liberal spending is allowed to run rampant. We can reverse course, but only with fiscal responsibility.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1461107302132600834"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Moving Forward Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28221/73177/179667/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31006/83464/179667/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/179667/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/179667/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was good to be at the Rankin County breakfast to discuss the key issues facing our country & why itâs so important for Republicans to retake the US House. Now is the time to restore conservative principles to tackle inflation, end the border crisis, & cut government spending.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1556074191983878144"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs inflation impacts everything. For the average Medicare beneficiary, premiums willâ¬ï¸$259.20 & deductibles willâ¬ï¸almost 15%. This is what happens when wild, liberal spending is allowed to run rampant. We can reverse course, but only with fiscal responsibility.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1461107302132600834"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/179667/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34222/90764/179667/reduce-exacerbated-inflation-negatively-impacting-the-nation-act#90764"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30777/79462/179667/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 11% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179667/michael-guest/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/179667/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/179667/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28907/74931/179667/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26353/67056/179667/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/179667/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34063/90422/179667/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Energy security is national security. Letâs drill American, refine American, and buy American oil.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1501264163619938310"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs drill American, refine American, and buy American oil.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1503448711153786884"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/179667/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34063/90422/179667/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7910 \"Protecting Our Kids Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32751/85843/179667/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30270/77850/179667/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/179667/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32835/86332/179667/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"MORE: Cassidy is now trying to hide his $48 TRILLION new federal spending proposalâthe same \"Medicare for All\" proposal promoted by the radical left. Thereâs nothing conservative about that. Because thereâs nothing conservative about Michael Cassidy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1535032757340016641"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thereâs nothing conservative about forcing a \"Medicare for All\" plan on America. Itâs the same socialist plan promoted by Bernie Sanders and AOC. It would bankrupt the current Medicare system for our seniors.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GuestCongress/status/1538207511043522562"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is not Medicare for All, itâs Medicare for None. Under the Democratsâ plan, the rural hospitals that thousands of Mississippians rely on \"would close virtually overnight.\"'",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1123361387193847808"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/179667/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an original cosponsor of the Lower Costs, More Cures Act, I remain committed to lowering prescription costs. While @SpeakerPelosi's plan would decrease the number of new cures for diseases, the Lower Costs More Cures Act would encourage innovation to find new treatment options\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1204796720158269441"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/179667/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378 \"Lower Costs, More Transparency Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36123/96624/179667/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/179667/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5283 \"Protecting our Communities from Failure to Secure the Border Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36064/96417/179667/protecting-our-communities-from-failure-to-secure-the-border-act#96417"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/179667/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration's open-borders policies.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36296/97342/179667/denouncing-the-biden-administrations-open-borders-policies-condemning-the-national-security-and-public-safety-crisis-along-the-southwest-border-and-urging-president-biden-to-end-his-administrations-open-borders-policies#97342"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/179667/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30330/77979/179667/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/179667/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34930/92230/179667/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A Russian invasion of Ukraine must be met with severe and economically crippling sanctions from the US and our allies. The time for action is now.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1495947271367712771"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340 \"Hamas International Financing Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35940/95972/179667/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35952/96006/179667/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32388/84643/179667/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/179667/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/88795/179667/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House of Representatives is taking an important step towards protecting our cyber security by banning Tik Tok from all House devices. We must remove any pathways available to the CCP to spy on the activities of the U.S. House of Representatives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMichaelGuest/status/1608556430818422785"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:27:46+00:00"
+}

@@ -1,0 +1,658 @@
+{
+  "name": "Scott DesJarlais' Issue Positions (Political Courage Test)",
+  "page_title": "Scott DesJarlais' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TN) - District 4, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TN) - District 4",
+  "candidate_id": "123473",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/123473/scott-desjarlais",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/123473/ensuring-access-to-abortion-act-of-2022#86813"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4712: \"Born-Alive Abortion Survivors Protection Act (2018)\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/123473/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman DesJarlais believes that all life should be cherished and protected. He has received a 100% score by the National Right to Life Committee (NRLC), the oldest and the largest national pro-life organization in the United States.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1241590/issue-position-abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social Security funds, which were originally designated to be untouchable except for beneficiaries, have been raided year after year by short-sighted politicians of every description. If these programs are not reformed, our present day leadership will have irresponsibly failed to address one of the most crucial challenges faced in our lifetime for our countryâs peace and prosperity. We must phase in incremental solutions to give younger generations an opportunity to participate in these programs and to secure their futures, while keeping the promises made to our current seniors 55 and older.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/53/"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"Medicare for All\" crew, proposing trillions in federal spending that would bankrupt the entire government, is blaming Donald Trump for trying to put Medicare on solid financial footing. The biggest threat to programs for seniors is socialist Democratsâ unlimited spending spree!\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1227026369508454400"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman DesJarlais believes that hard working American should keep more of their earnings rather than send it to Washington for unnecessary spending. He supports tax reductions and simplifications for middle class Americans and job creators.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax Cuts and Jobs Act has propelled U.S. economy to new heights: record-low unemployment, rising middle-class income, formerly discouraged Americans rejoining labor force.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1204155134785327112"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\" (2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/123473/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760: \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/123473/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman DesJarlais believes that hard working American should keep more of their earnings rather than send it to Washington for unnecessary spending. He supports tax reductions and simplifications for middle class Americans and job creators.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The economy works best when people and businesses get to keep more of their money and government gets out of the way. Entrepreneurs and hard-working Americans should be rewarded and not punished for their achievements.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\" (2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/123473/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/12/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House will begin consideration of H.R. 1, For the Politicians Act. This bill seeks to weaken our democracy by overhauling our election system. Under this legislation the D.C. swamp will be given sole authority and central control of election regulation, which belongs to the states. It also takes away voter ID laws, gives 16-year-olds the right to vote and government matches campaign donations from your tax dollars. We have a tough fight ahead of us today. Conservative lawmakers will attempt to offer amendments and convince our colleagues on the other side of the aisle to look at how dangerous this will be to our election security. I want my constituents in the Fourth District to know I stand opposed to any legislation that leaves our election system vulnerable.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/ScottDesJarlaisTN04/posts/pfbid0u9yG5z9i7hY4ZQBskNDxjoPp1vZcz5gC2ZquGi2rQJX7PsvGD5Ztd5ZMag7KuMv9l"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/123473/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As always, thank God for the good men and women in law enforcement, who risk their lives every day for all of us - regardless of who we are and what we believe.Stand up and support the majority who are good and decent - and don't associate them with the few who aren't\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1143226592996548609"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/123473/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the House Committee on Armed Services, Scott DesJarlais believes in maintaining a strong national defense, protecting American interests both home and abroad, and providing the necessary resources to our men and women who have volunteered to serve.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâll continue to fight for our U.S. military to be fully funded!\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1441076167843385349"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/22/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/123473/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Hard working, law abiding citizens have to live within their means each year and they should expect their government to do the same.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our government must live within its means and not burden future generations with debts they cannot hope to pay. Our national debt is a tremendous drag on our economy.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/123473/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Releif Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/123473/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735: \"THRIVE Act\" (2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24715/63190/123473/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our government must live within its means and not burden future generations with debts they cannot hope to pay. Our national debt is a tremendous drag on our economy.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"This administration is more focused on jamming through another 2,300 page bill full of political payoffs rather than taking the time to address the economic crisis plaguing our Nation. Inflation is at record highs, gas and grocery prices are skyrocketing and this year will mark the most expensive Thanksgiving in our country's history. Even a generous score from the Congressional Budget Office proved that the bill was not paid for and that it will add hundreds of billions more to our nation's debt - despite President Biden and Speaker Pelosi's claims to the contrary. All the while adding over 87,000 new IRS agents to wage war on middle class families, create tax incentives for millions of illegal migrants and allocate $550 BILLION for the Green New Deal.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1579978/president-bidens-build-back-broke-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/123473/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I introduced legislation to block President Bidenâs efforts to mass cancel federal student debt. Student Loans are a personal responsibility. Canceling these federal loans will only worsen our Biden-induced economic crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1562860092310953990"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now gas prices are at an all-time high and we are seeing record amounts of inflation. Government student loan forgiveness would only make this economic crisis worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1536404805207347204"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/123473/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House will begin consideration of H.R. 1, For the Politicians Act. This bill seeks to weaken our democracy by overhauling our election system. Under this legislation the D.C. swamp will be given sole authority and central control of election regulation, which belongs to the states. It also takes away voter ID laws, gives 16-year-olds the right to vote and government matches campaign donations from your tax dollars. We have a tough fight ahead of us today. Conservative lawmakers will attempt to offer amendments and convince our colleagues on the other side of the aisle to look at how dangerous this will be to our election security. I want my constituents in the Fourth District to know I stand opposed to any legislation that leaves our election system vulnerable.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/ScottDesJarlaisTN04/posts/pfbid0u9yG5z9i7hY4ZQBskNDxjoPp1vZcz5gC2ZquGi2rQJX7PsvGD5Ztd5ZMag7KuMv9l"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/123473/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\" (2020",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/123473/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/123473/climate-action-now-act#67056"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our energy producers should not be overburdened with regulations that drive up prices and limit supply. An \"all of the above\" responsible approach should utilize our domestic oil and gas supplies, nuclear energy capabilities, coal and hydroelectric production as well as renewable energy efforts.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have an abundance of natural and technological resources in our country and should not be held hostage by foreign energy suppliers or by regulatory agencies in Washington. The process for oil exploration should be streamlined and expedited while we open up more regions of our country for domestic production.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must immediately ramp up domestic oil & gas production and make America energy independent!\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1570400236283269126"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1146: \"Artic Cultural and Coastal Plain Protection Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/123473/arctic-cultural-and-coastal-plain-protection-act#68923"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1112: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/123473/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/123473/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "\"The right to bear arms is a constitutionally protected right and we will fight to make sure those rights are not eroded. Congressman DesJarlais has an \"A\" rating from the National Rifle Association (NRA) and will always vote to protect those cherished rights.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans experience the best healthcare at affordable prices when big insurance and big government arenât meddlesome middlemen interfering in the doctor patient relationship. ObamaCare is not the answer to providing better medical care or reducing costs, but rather amplifies the problems with our current system. We can have an immediate impact on improving healthcare by removing state-by-state restrictions and encouraging national competition among insurers, implementing meaningful tort reform, and creating incentives for the use of healthcare savings account so consumers are better informed and have a financial stake in managing their health.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obamacare booted millions from insurance, raised rates, doctors disappeared. Now more empty promises from socialists pushing \"Medicare for All\" terrible for TN seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1059476759899488256"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/123473/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavrius Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/123473/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined the @GOPDoctors in sending a letter to Speaker Pelosi and Senator Schumer warning them of grave impact government drug price control will have on patient care in the reconciliation package.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1556669064432324609"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/123473/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/123473/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Illegal immigration burdens taxpayers, compromises national security, increases criminal activity, and erodes the significance of being an American citizen. We must secure our border with physical barriers to illegal entry and devote resources to enforcing current immigration law, which includes partnering with state and local law enforcement organizations.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We absolutely must fund the border wall and make it clear that those entering our country undocumented will be sent home.\"",
+          "source": "x.com",
+          "url": "https://x.com/search?q=border%20wall%20(from%3ADesJarlaisTN04)&src=typed_query&f=top"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/123473/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Immigration Lawyers Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123473/scott-desjarlais/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/123473/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "statement",
+          "text": "\"Illegal immigration burdens taxpayers, compromises national security, increases criminal activity, and erodes the significance of being an American citizen. We must secure our border with physical barriers to illegal entry and devote resources to enforcing current immigration law, which includes partnering with state and local law enforcement organizations.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"As Congress works through the government funding bill, I promise to not support any proposal that provides amnesty to illegal immigrants.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/540546866442932224"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the House Committee on Armed Services, Scott DesJarlais believes in maintaining a strong national defense, protecting American interests both home and abroad, and providing the necessary resources to our men and women who have volunteered to serve. Our military must always be a top priority of the Congress.\"",
+          "source": "scottdesjarlais.com",
+          "url": "https://scottdesjarlais.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I signed on to Rep. Steubeâs bill to sanction Iranian terror proxies. We must stop these terrorists and protect our U.S. troops who are being targeted in the Middle East and our countryâs greatest ally, Israel.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1780268949906551293"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/123473/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we watch this preventable attack occur our thoughts and prayers are with the people of Ukraine. This administration is failing at home and on the world stage.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1496696754154225668"
+        },
+        {
+          "type": "statement",
+          "text": "\"I stand with the resilient people of Ukraine. Giving them aid and arms to fight their war is appropriate.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1504132471427842057"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/123473/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech must be held accountable. The whistleblower testimony sheds an important light on the inner workings of Facebook operations and the dangers social platforms can cause to our national security, teen mental health and a plethora of other problems.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1445475664010760192"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every day Biden shows that his commitment to being \"tough on China\" was nothing more than campaign propaganda. China poses a serious cyber security threat to the US. There is no need to give them more access to millions of Americans personal information.\"",
+          "source": "x.com",
+          "url": "https://x.com/DesJarlaisTN04/status/1402673468802469889"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:31:35+00:00"
+}

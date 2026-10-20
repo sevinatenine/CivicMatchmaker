@@ -1,0 +1,658 @@
+{
+  "name": "David Rouzer",
+  "page_title": "David Rouzer's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 7, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NC) - District 7",
+  "candidate_id": "102964",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102964/david-rouzer",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats used to proclaim that abortion should be legal but rare. Not anymore. Itâs now an all out assault on life for any reason that suits them. We must uphold the value of every life and I will continue fighting to protect the most vulnerable among us.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1441478252774658048?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am pro-life and will do everything in my power in Congress to fight for the rights of the unborn in our country.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We should reform our welfare programs so that only the invalid can obtain benefits. Everyone who is able-bodied must work. Our welfare programs and entitlement culture are the primary reasons why employers have such a hard time finding people who are qualified and want to work.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We also need to reform our tax code so that it enables those who work hard and do well to keep more of their money, enabling them to reinvest in and grow their business. Profitable, growing businesses is the only way to produce a growing job market.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot tax our way back to prosperity. I fought for lower taxes in Raleigh and I will fight for lower taxes in Washington.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/102964/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We cannot tax our way back to prosperity. I fought for lower taxes in Raleigh and I will fight for lower taxes in Washington.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to lower all taxes so people can keep more of their money in order to help re-invigorate the economy and generate more revenues for the state. Lower taxes encourage innovation and reward the hard work necessary to create economic growth and new innovations that benefit all of society.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/102964/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/102964/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I proudly stand with Americaâs law enforcement officers & remain committed to protecting their ability to carry out their heroic service.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1524404683619639298?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I proudly stand with Americaâs law enforcement officers & will always support their heroic service!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1658588770420047876?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When radical Democrats defund the police and go soft on crime, you get more of it. It is that simple.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1489602560843337728?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/102964/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must maintain a cutting edge military and bolster our intelligence agencies if America is going to remain the dominant force for freedom in this world. We should continue to invest in research and development, so that our soldiers have the technology they need to protect themselves and defend our country.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/102964/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/102964/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families in North Carolina canât afford Washington Democratsâ policies â but weâre certainly paying for them. @HouseGOP will fight the inflation crisis, rein in out-of-control-spending & rebuild the economy to create better opportunities for all Americans. #CommitmentToAmerica\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1585275705641820160?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am a firm believer that less government is best. When you boil it all down, the government is a major part of the reason why we have an energy crisis, a struggling education system, and so many regulations in health care that competition and transparency are significantly impeded. Costs continue to spiral out of control and insurance is unaffordable for many. Families across North Carolina and America are required to live within their means, and the Federal government should be forced to do the same. I will support a balanced budget amendment that requires Washington adhere to these same principles.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While in the state legislature, I helped cut spending, eliminated unnecessary and costly rules and regulations, and stood up to the tax and spend agenda of big-government bureaucracies â including cutting the jobs of unnecessary bureaucrats. I will do the same in Washington. In Washington, we must do the same â cut spending and get the government out of the way so that our farmers, entrepreneurs and small businessmen can grow, prosper, and create jobs. A smaller government that spends less, and a vibrant, growing economy are critical to our ability to start paying down our National debt.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102964/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pleased to join @RepAdams on this bi-partisan effort to address the access to affordable housing and to strengthen communities in Southeastern NC and across the country during a very difficult time for many.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1504454406183571459?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you to the members from @nchousingbuilds for meeting with me last week to discuss ways to increase affordable housing opportunities across NC-07.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1643996370942951425?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bipartisan LIFELINE Act I introduced with @RepAdams & @RepMaloney in the House and @SenatorLeahy & @SenatorCollins in the Senate helped unlock funding for affordable housing developments across the country, including here in Southeastern North Carolina.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1555183937378570240?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation rose to a staggering 7.5% compared to last year. This is the highest increase since 1982. Joe Bidenâs liberal economic policies have made inflation worse and North Carolina families are paying the price.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1491794396420796427?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The tax and spend reconciliation bill is the most expensive piece of legislation in the history of the United States. With the country already drowning in debt and inflation skyrocketing, it is unconscionable to recklessly spend money we simply cannot afford.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1443254264265121797?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While House Democrats continue pushing their crippling tax and spend agenda, take a look at the increasing costs of these essential, everyday items. Skyrocketing inflation is having a real-life impact on every single American family.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1450538557706227715?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/102964/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Todayâs Supreme Court ruling confirms President Bidenâs student loan bailout is unconstitutional. Those who work hard and make sacrifices to pay their debts should not be punished while others get a free ride.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1674838118547988480?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Welcome to Joe Bidenâs liberal utopia. Those who work and pay their bills get punished; those who donât, get a free ride. Student debt doesnât automatically disappear no matter how much debt Biden unilaterally decides the federal government will forgive.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1562564871031377920?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will be among those objecting to the Electoral College votes of several states January 6th. When more than a third of the American public -- including 17% of Democrats based on a recent Reuters poll -- do not believe in the integrity of the election, truth and transparency deserve to be heard,\" said Congressman David Rouzer. \"When there are wide-spread and grave concerns, I do not believe our Founders intended Congress to be an automatic rubber stamp of approval of a state's votes. Election integrity is a foundational matter that needs to be ensured.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1496732/rouzer-statement-on-electoral-college-vote/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support an all-of-the-above energy policy that will enable us to safely tap our energy potential and lessen our dependence on foreign oil. In fact, it should be our goal to be the number one exporter of oil and natural gas. We have the natural resources available to us to reach that goal if we will get serious about it.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today on the House Floor: Democrats will soon ram through a $1.5 trillion down payment on the Green New Deal. Instead of getting something done to improve our infrastructure, @SpeakerPelosi has turned the highway bill into a partisan green energy wish list.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1278370513480560640?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        },
+        {
+          "type": "statement",
+          "text": "\"With less than 6% going to bridges, highways & roads, Bidenâs $2 trillion \"infrastructure\" plan isnât really about infrastructure. Itâs an avenue for job-killing tax hikes to fund the Green New Deal.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1378007596314025994?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's import ban on Russian oil is a crucial first step. Better late than never. He must now take the next step and unleash American energy by green-lighting all projects & pipelines he canceled to ensure the U.S. & our allies have access to affordable & reliable energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1501256095846653956?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support an all-of-the-above energy policy that will enable us to safely tap our energy potential and lessen our dependence on foreign oil. In fact, it should be our goal to be the number one exporter of oil and natural gas. We have the natural resources available to us to reach that goal if we will get serious about it.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration is authorizing permits to drill for oil in Venezuela while sitting on permits to expand energy production here in the U.S. Instead of unleashing American-made energy here at home â President Biden chooses to fund authoritarian dictators.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1598310690267299844?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a proud member of the NRA, and a strong supporter of our Second Amendment rights. The Second Amendment is about much more than the right to hunt, as some seem to suggest. It is about protecting ourselves from enemies foreign and domestic.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Legislation I cosponsored to block the Biden Administration's unconstitutional pistol brace rule just passed the House. This alarming rule infringes on the Second Amendment rights of law-abiding gun owners, including many disabled combat veterans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1668740124379693057?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Obamacare must be repealed, and our healthcare system significantly reformed in order to bring down the cost of individual health care. We must enact free market reforms in order to increase competition among health insurance companies, attract more of the very best and brightest to the health care profession, and increase transparency if we expect to reduce the cost of health care. We must also have medical malpractice reform so that doctors arenât practicing defense medicine by adding unnecessary tests that drive up costs as they guard themselves against potential lawsuit.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no question that our health care system needs to be reformed. Even before Obamacare, we had too much government intervention and control â the very reason why health care costs continue to increase at exponential rates. This is one of the primary threats to long-term economic growth in this country.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With my support, this week the House passed The CHOICE Arrangement Act. With rising healthcare costs, more small businesses are struggling to stay afloat. This bill provides more healthcare choices for employees while increasing affordability for small business owners.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1672235227715092480?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/102964/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/102964/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/102964/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/102964/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Funding for border security -- including a wall -- needs to be a part of any deal - period. I am a NO vote on any Continuing Resolution or other spending bill that falls short of this.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1075797635800412160?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two more individuals on the Terrorism Watch List were apprehended at our southern border. President Biden must take action and treat this escalating crisis for what it is: a national security threat.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1380153274842615810?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must secure our borders using every technological tool available and all the manpower necessary, including use of our military forces. This is critical from a national security perspective â particularly in light of the new threats we face from terrorists organizations.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats in Congress want to spend $2.8 billion in taxpayer money to grant amnesty to illegal immigrants. This funding will worsen the already historic crisis at our southern border and encourage even more illegal border crossings.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1455579982844121095?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I do not support amnesty. No one who has come to this country illegally should be allowed to obtain taxpayer benefits. We have an illegal immigration problem because our legal immigration system is seriously flawed, overly bureaucratic and many of our immigration laws have not been enforced.\"",
+          "source": "davidrouzer.com",
+          "url": "https://davidrouzer.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102964/david-rouzer"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/102964/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/102964/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/102964/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/102964/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Russia's invasion of Ukraine is pure evil & Putin must be resoundingly defeated. The U.S. must bolster our support to Ukraine & unleash American energy production so the U.S. and our allies can have access to affordable and reliable energy without relying on foreign adversaries.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1504828240711532548?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/102964/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/102964/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/102964/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Good government requires a commitment to expose waste, fraud, and abuse as quickly and as transparently as possible. House Republicans will seek immediate accountability on: Big Tech\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidRouzer/status/1578382442515283972?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/102964/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/102964/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:13:13+00:00"
+}

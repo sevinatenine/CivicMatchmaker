@@ -1,0 +1,568 @@
+{
+  "name": "Michelle Fischbach",
+  "page_title": "Michelle Fischbach's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MN) - District 7, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MN) - District 7",
+  "candidate_id": "3882",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3882/michelle-fischbach",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Roe put judges in charge of abortion policy, imposing laws legislated by unelected judges that left Americans without a voice. Now, thanks to this Supreme Court, the American people will be able to decide the issue of abortion through their elected officials.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1540423888999432192"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today's SCOTUS decision that presidents are entitled to immunity for official acts is a win in the battle against Biden's weaponized Justice Department. I'm glad to see the court making the right decision for the future of this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1807864945184251924"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/3882/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must honor our commitment to the brave men and women of our United States military, who make great sacrifices to protect our country and keep America safe. While serving, we must make sure they have the tools they need to complete their mission.\"",
+          "source": "www.fischbachforcongress.com",
+          "url": "https://www.fischbachforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/3882/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/3882/build-back-better-act#83568"
+        },
+        {
+          "type": "statement",
+          "text": "\"I carried the \"Zero Based Budgeting\" Bill while in the Minnesota State Senate, and brought that same philosophy to Washington, D.C. With Zero Based Budgeting, the budget would start from ZERO rather than the current approach of adjusting up or down from existing spending levels. Each department would need to justify the effectiveness of their programs in order to continue to receive funding for them. We need to understand better, not only for transparency but for accountability, whatâs in the sprawling federal budget because Washington has a spending problem.\"",
+          "source": "www.fischbachforcongress.com",
+          "url": "https://www.fischbachforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/3882/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/3882/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We all knew wasteful spending in D.C. would spur inflation. Now that inflation has outpaced wages for 18 months in a row, Dems still donât have a solution. Republicans have a plan to increase take-home pay through pro-growth tax policies & deregulation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1586855477945720836"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4521 \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/3882/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/3882/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student loan cancellation transfers the fee from those who chose college to the everyday taxpayer, including MILLIONS who donât have a college education. They should not have to foot the bill for otherâs personal choice.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1763716096329490882"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student loan policy in a nutshell: Force 210 million Americans without student loan debt to foot the bill for 45 million Americans who willingly took on debt for college. #UnfairToAmericans\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1763300356682076378"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Left keeps finding new ways to increase taxes. This month alone theyâve passed another tax-and-spend Green New Deal bill and asked taxpayers to take on the student loans of others. Donât they realize Americans are struggling just to pay for groceries?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1564399246891270144"
+        },
+        {
+          "type": "statement",
+          "text": "\"The majority of student loan debt is held by the wealthy, but Biden is forcing struggling Americans to pay their bills. Unbelievable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1762998115248828586"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to be an original co-sponsor of the American Confidence in Elections Act, which supports military voters overseas, protects free speech, requires strong voter IDs, and prohibits non-citizen voting.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1680733049619886081"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/3882/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/3882/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/3882/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Left is actively working against the oil and gas industry. We CANNOT abandon the reliable and essential sources of energy we have right here in the United States\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1572306647648706560"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/3882/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must defend our right to keep and bear arms. The United States Constitution is unambiguous: our right to keep and bear arms shall not be infringed. Period. I will stand up to efforts by the radical left to abolish the Second Amendment and confiscate guns from law-abiding citizens. I will defend the Constitution and vote to protect the right of every lawful gun owner in the United States to keep America free.\"",
+          "source": "www.fischbachforcongress.com",
+          "url": "https://www.fischbachforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/3882/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must fix our broken health care system to give American families better access to high-quality, affordable health care plans. Obamacare was a disaster that took important health care choices away from millions of Americans, and has doubled healthcare costs for families, despite its misleading name. I will work to protect the promises we have made to our seniors and pass patient-centered reforms that increase competition and lower costs, without sacrificing protections for individuals with preexisting conditions.\"",
+          "source": "www.fischbachforcongress.com",
+          "url": "https://www.fischbachforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/3882/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finishing the border wall is a key component of stopping the flow of illegal immigration and there are stacks and stacks of material at the ready, but Biden refuses to use common sense, and stopped construction. It's negligent and irresponsible and we need a change.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1755981714159976529"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must secure our borders and finish building the southern border wall. I will stand up to efforts by the radical left to abolish Immigration and Customs Enforcement (ICE) and promote open borders and sanctuary cities. We need to work with law enforcement officials to restore the rule of law and order, and support ICE agents as they remove unlawful entrants and violent gang members from our county to keep America safe.\"",
+          "source": "www.fischbachforcongress.com",
+          "url": "https://www.fischbachforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/3882/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1333 \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/3882/no-ban-act#78993"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by American Civil Liberties Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3882/michelle-fischbach"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/3882/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Freeze funding to Iran.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1711855523362979880"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of being firm against Iranian-sponsored terrorism, Biden actually freed up $6 billion for them...with no way to control how it's spent! Now weâre seeing the consequences. #StandAgainstIranianTerrorism\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1772268449768603663"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/3882/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/3882/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is time for the U.S. to stand up and show leadership so our friends in #Ukraine and #Taiwan and those around the world know America is still committed to supporting their freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1497314092230615044"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/3882/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/3882/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/3882/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In order to have a future built on freedom, we need to confront Big Tech and demand fairness: â Provide greater privacy & data security protections â Equip parents with more tools to keep their kids safe online â Stop companies from putting politics ahead of people\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFischbach/status/1581797639481327617"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/3882/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:19:54+00:00"
+}

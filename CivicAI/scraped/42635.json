@@ -1,0 +1,682 @@
+{
+  "name": "Chris Pappas' Issue Positions (Political Courage Test)",
+  "page_title": "Chris Pappas' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NH) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (NH) - Jr",
+  "candidate_id": "42635",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/42635/chris-pappas",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Reproductive freedom is on the ballot this year. My opponents applauded the overturning of Roe and would all be rubber stamps for a national abortion ban and other restrictions on privacy and personal freedom. We can't let that happen.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1565359634722033665"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I joined Granite Staters to stand against overturning Roe v. Wade and safeguard the right the choose. Letâs be clear: reproductive freedom is on the ballot this November. Itâs on all of us to organize and mobilize to protect the right to safe, legal abortion.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1521656875007324166"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/42635/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâll always fight for our seniors and ensure that they have the support they need - including safeguarding their Social Security and Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1587521829505318914"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is part of the American bargain that New Hampshire seniors depend on. I want to protect and strengthen Social Security. My opponent wants to write the bill to privatize it, putting our seniorsâ retirements at risk. That's incredibly reckless.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1577704634457661440"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâll keep fighting to lower costs, cut taxes for families, and act on climate change, and we must take on the drug companies and special interests celebrating this news.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1472634781909151745"
+        },
+        {
+          "type": "statement",
+          "text": "\"This tax plan is a raw deal for the middle class but par for the course for this Congressâbig corporations and super rich win at the expense of the rest of us. Time to go back to the drawing board.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/930982556861943808"
+        },
+        {
+          "type": "statement",
+          "text": "\"We wonât allow cuts to these vital programs to sustain tax cuts for the super rich and biggest corporations.\"",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Social security is a foundational program - it's part of the American bargain. We've got to make sure it is there for all workers. I don't support raising the retirement age or means testing benefits. If those at the top pay their fair share, the system will be strengthened.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1319333007577260039"
+        },
+        {
+          "type": "statement",
+          "text": "\"This tax plan is a raw deal for the middle class but par for the course for this Congressâbig corporations and super rich win at the expense of the rest of us. Time to go back to the drawing board.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/930982556861943808"
+        },
+        {
+          "type": "statement",
+          "text": "\"We wonât allow cuts to these vital programs to sustain tax cuts for the super rich and biggest corporations.\"",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In order to make America work #ForThePeople, we need to fix our broken campaign finance system. #HR1 does just that, creating stronger statutory coordination rules to shut down candidate-specific Super PACs.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1074423212912640000"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is the 9th anniversary of the Citizens United decision & the transformation of politics as we know it. Enough is enough - now's the time to reform our broken campaign finance system & put the power back in the hands of regular people.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1087481185549340673"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/42635/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is a time for us to listen, learn, understand, and realize constructive change. The #JusticeInPolicingAct makes meaningful reforms that provide accountability, promote equal justice, and move our country forward.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1276319251318571013"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/42635/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/42635/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/42635/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every dollar we invest in infrastructure yields two dollars in economic activity, which is why I am proud to lead the fight for federal investment in New Hampshireâs roads, bridges, and waterways as a member of the House Committee on Transportation and Infrastructure.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/transportation-infrastructure"
+        },
+        {
+          "type": "statement",
+          "text": "\"Heading back in tonight to cast my vote for the bipartisan infrastructure bill that is a big investment in transportation, water, broadband, jobs, and our future.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1456819001011499009"
+        },
+        {
+          "type": "statement",
+          "text": "\"We also need to increase capital for small businesses and address onerous regulations that hamper the ability of our small businesses to thrive. We need to cut the red tape and make interactions between small businesses and federal agencies easier, support continued economic growth with creative solutions, and fight the online sales tax that is burdening New Hampshireâs small businesses.Investing in job training and apprenticeship programs is essential to building a talent pipeline, which trains and matches workers with our amazing local companies looking to hire them. We must also work to make college more affordable, so those who want to pursue post-secondary education have the ability to do so, regardless of their zip code. Together, we can ensure New Hampshire remains a great place for everyone to live and work.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/economy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684: \"Infrastructure Investment and Job Act\" (2021",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/42635/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was great to join @SENHH4H in Middleton today to help them build new affordable housing for Granite State families and further their mission to end the cycle of poverty and homelessness.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1307423190155657222"
+        },
+        {
+          "type": "statement",
+          "text": "\"Key priorities: Invest in job training, CTE, & apprenticeship programs, lower cost of college & burden of student debt, and expand affordable housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1048014131817848834"
+        },
+        {
+          "type": "statement",
+          "text": "\"Solving New Hampshire's housing crisis is vital for our economy and our families. We need bipartisan solutions and federal tools to help our state move forward. That's what I've done and will continue to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1588323010096025600"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/42635/emergency-housing-protections-and-relief-act-of-2020#73172"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House must take action to lower the rising cost of groceries and household goods, cut the gas tax, and address gaps in the supply chain. New Hampshire families can't wait.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1534188777471631360"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act lowers the costs of prescription drugs and health care, jumpstarts domestic energy production, and protects our planet, all while cutting the deficit and without raising taxes on middle-class Granite Staters.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1558211498249428992"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday I voted to address supply chain delays and backlogs at our ports to help ease inflation. This is an important step to help lower costs for Granite State families and businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1536779099628261378"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4521: \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/42635/america-competes-act-of-2022#84296"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Key priorities: Invest in job training, CTE, & apprenticeship programs, lower cost of college & burden of student debt, and expand affordable housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1048014131817848834"
+        },
+        {
+          "type": "statement",
+          "text": "\"New Hampshire has one of the highest rates of student debt in the nation, and I am committed to doing all I can to make college more affordable and limit the burden of college loans. Thatâs why I am working to expand Pell grants, increase consumer protections for borrowers, and support tuition-free education at community colleges and public universities to ensure everyone has the opportunity to get ahead.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/education"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to crack down on predatory, for-profit colleges and also make it easier for students to get debt relief.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1022978738865270784"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/42635/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"John Lewis fought throughout his life for the right to vote, and today Iâll support the John Lewis Voting Rights Advancement Act to ensure everyoneâs voice can be heard. The Senate must follow suit. The future of our democracy depends on it.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1430236339304337410"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/42635/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/42635/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your Representative in Congress, I am committed to combating climate change and making sure that we protect our natural resources for generations to come. On the New Hampshire Executive Council, I worked to secure investments for solar, wind, biomass, hydro, and geothermal projects across New Hampshire. I am focused on maintaining clean energy incentives and tax credits to ensure that the Granite State leads the way in developing a robust clean energy economy.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/energy-environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"Investing in renewable energy is so important to protect our planet, lower costs, and create jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1321932715755773953"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/42635/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your Representative in Congress, I am committed to combating climate change and making sure that we protect our natural resources for generations to come. On the New Hampshire Executive Council, I worked to secure investments for solar, wind, biomass, hydro, and geothermal projects across New Hampshire. I am focused on maintaining clean energy incentives and tax credits to ensure that the Granite State leads the way in developing a robust clean energy economy.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/energy-environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"The largest ever investment in American clean energy will finally allow us to tackle the existential threat of climate change and jumpstart American domestic energy production to lower costs and ensure we are no longer reliant on foreign oil sources.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1558211510383656962"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must refuse to allow for drilling off our shores here in New Hampshire. We must demand that the air we breathe and the water we drink are clean and safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/988147283215704066"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/30/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the first time in thirty years, Congress is acting to address gun violence. Iâm voting for the bipartisan Safer Communities Act. Passing this bill is part of our responsibility to promote public safety and put people first.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1539751395741532161"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm honored to be named a Gun Sense Candidate by Moms Demand Action and earn the endorsement of Brady PAC and Giffords. Iâll continue working to address gun violence by taking common sense steps that will save lives and make our communities safer.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1806437040013144457"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910: \"Protecting Our Kids Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32751/85843/42635/protecting-our-kids-act#85843"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care should be a right, not a privilege, for all Americans. This was a principle I fought for while serving on New Hampshireâs Executive Council and one Iâm fighting for in Washington. That is why I am committed to ensuring that all Granite Staters receive quality, affordable health care. The Affordable Care Act was an important step forward in the fight to improve our countryâs health care system. While it is certainly not perfect, it should be built upon, not torn down, which is why I will fight all efforts to roll back crucial protections like those for people with pre-existing conditions. We should be stabilizing and expanding the ACA as we work to lower the cost of health care for everyone. As we improve upon insurance coverage, we have to ensure access to reproductive health care, improve mental health care access and rural health care access, and lower the cost of prescription drugs. We have much more work to do to focus on the health and well-being of the American people.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ten years ago today the ACA's Patientâs Bill of Rights went into effect â ensuring no one with a pre-existing condition can be denied care. I've stood up to attempts to roll back these protections and I'll keep fighting to protect and expand access to care.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1308856712514985985"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/42635/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For 25 years, the #FMLA has provided key protections for workers. It's time to build on that progress and fight for a comprehensive paid leave program for all working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/960545403295985664"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe workers shouldnât have to choose between caring for themselves or a sick relative and losing out on a dayâs work. Thatâs why Iâm a strong supporter of creating a system of paid family and medical leave, here in NH and across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/989164211015208960"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/42635/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The big pharmaceutical companies fought this bill tooth and nail. But we finally won this fight to allow Medicare to negotiate for cheaper drugs, cap insulin at $35 for those on Medicare, and limit out-of-pocket costs for New Hampshireâs seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1558211505358880769"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should be stabilizing and expanding the ACA as we work to lower the cost of health care for everyone. As we improve upon insurance coverage, we have to ensure access to reproductive health care, improve mental health care access and rural health care access, and lower the cost of prescription drugs. We have much more work to do to focus on the health and well-being of the American people. I will continue to fight for proposals that will expand access, improve health outcomes, and lower the cost of prescription drugs for Granite Staters.\"",
+          "source": "pappas.house.gov",
+          "url": "https://pappas.house.gov/issues/health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/42635/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/42635/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America must be a beacon of democracy, human rights, & hope to the rest of the world, including immigrants & asylum seekers. The graphic scenes from the border are a new low, and we canât be silent when families are tear gassed & our ideals are tarnished. This is not who we are.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1067151835910279172"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can't afford another #GOPShutdown over President Trump's unpopular, irresponsible border wall.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1072526755880153089"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/42635/chris-pappas/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/42635/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America is for Dreamers. Proud to support this bipartisan immigration bill that recognizes the dignity of millions who know no other country than the United States. #DreamAct\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1136053894084276224"
+        },
+        {
+          "type": "statement",
+          "text": "\"America must be a beacon of democracy, human rights, & hope to the rest of the world, including immigrants & asylum seekers. The graphic scenes from the border are a new low, and we canât be silent when families are tear gassed & our ideals are tarnished. This is not who we are.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1067151835910279172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/42635/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/42635/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/42635/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/42635/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "statement",
+          "text": "\"My Republican opponents are so extreme they equivocate on the aid we just delivered for Ukraine. One even called me \"a traitor\" for voting for this bipartisan military and humanitarian support. Freedom and democracy are on the line, and I know which side I am on.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1528013431428763649"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I donât think, as former President Trump does, that Vladimir Putin is a \"genius\" for invading Ukraine. Putin is an autocrat and an enemy of freedom, democracy, and international law. He must face severe consequences. America stands firm on our values and united with our allies.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1496527234240327689"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putin cannot be allowed to succeed in Ukraine. The people of New Hampshire have found common cause with the people of Ukraine, and we stand with them in this fight for their freedom. We must ensure that the world remains safe for democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1588331521923895296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/42635/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "statement",
+          "text": "\"My Republican opponents are so extreme they equivocate on the aid we just delivered for Ukraine. One even called me \"a traitor\" for voting for this bipartisan military and humanitarian support. Freedom and democracy are on the line, and I know which side I am on.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisPappasNH/status/1528013431428763649"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/42635/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/42635/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:54:26+00:00"
+}

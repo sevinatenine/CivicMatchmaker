@@ -1,0 +1,670 @@
+{
+  "name": "Rob Wittman",
+  "page_title": "Rob Wittman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VA) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (VA) - District 1",
+  "candidate_id": "58133",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/58133/rob-wittman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a child of adoption myself, I know choosing life means choosing to honor the infinite potential in us all. To force taxpayers to fund abortion would instead place us all in a moral conundrum and is wholly unacceptable. #HydeSavesLives. We must keep these protections in place.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1415775893721686022"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 48th anniversary of the landmark Supreme Court case of Roe v. Wade (1973). As we near almost fifty years since this ruling, my resolve and dedication to protecting life has only grown stronger.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1352618986798796801"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/58133/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe Medicare and Social Security have served our nation wellâproviding medical benefits and retirement security for millions of Americans. Addressing the challenges facing Social Security, a program created decades ago to help prevent seniors from falling into poverty, is critical to strengthening retirement security for seniors today and generations to come. I am firmly committed to protecting Social Security and Medicare for our seniors. We must honor our commitment to current Social Security and Medicare beneficiaries and those who are nearing eligibility â there should be no change to their plans.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/seniors/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is critical for us to ensure the long-term substantiality of these programs so future generations can have the peace of mind and security these programs provide current seniors. I will continue to look for bipartisan solutions that preserve and strengthen Social Security for todayâs seniors and future generations, while also promoting policies that help Americans at all stages of life save for retirement.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/seniors/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman#collapse4"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman#collapse4"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/58133/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/58133/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman#collapse4"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 76% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman#collapse4"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/58133/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26112/66405/58133/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/58133/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/58133/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28148/73007/58133/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/58133/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28441/76074/58133/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/58133/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/58133/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/58133/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must get our nationâs fiscal house in order and work to address our debt and deficit â or else we will continue to push the problems of today onto our children and grandchildren. The longer we fail to address our nationâs spending problem, the harder it becomes to solve the problem of our countryâs crippling debt, which now stands at over $30 trillion.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/fiscal-accountability/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must take tangible steps to reduce our debt and deficit. While we can certainly start with eliminating duplicative programs, wasteful spending, and fraud, if we donât address Congressâ broken budget and appropriations system producing these spending deals, we wonât ever solve this problem. We need to know where our money is going and work through our funding packages in a responsible, thoughtful, and deliberate way through regular order â not rushed through at the last minute. Returning to regular orderâmoving spending bills through the committee process where we read, debate, and vote on them â will go a long way towards bringing transparency back to the budget and appropriations process.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/fiscal-accountability/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/58133/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must get our nationâs fiscal house in order and work to address our debt and deficit â or else we will continue to push the problems of today onto our children and grandchildren. The longer we fail to address our nationâs spending problem, the harder it becomes to solve the problem of our countryâs crippling debt, which now stands at over $30 trillion.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/fiscal-accountability/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/58133/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/58133/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to cosponsor and vote YES on the REIN IN Act. Hardworking Americans deserve to know exactly how much President Bidenâs excessive spending policies would impact inflation rates. We must get inflation under control and make life more affordable for American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1630989383653285888"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's clear that under President Biden's economy, Americans are spending more while getting less. We must rein in the runaway inflation that's hurting families by implementing sound economic policies that will put more money back into hardworking Americans' pockets.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1694793717843120433"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/58133/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/58133/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must get our nationâs fiscal house in order and work to address our debt and deficit â or else we will continue to push the problems of today onto our children and grandchildren. The longer we fail to address our nationâs spending problem, the harder it becomes to solve the problem of our countryâs crippling debt, which now stands at over $30 trillion.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/fiscal-accountability/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/58133/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/58133/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"Voting Rights Advancement Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27451/70311/58133/voting-rights-advancement-act-of-2019#70311"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/58133/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/58133/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/58133/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/58133/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This legislation also permanently reauthorized the Land and Water Conservation Fund, which channels royalty revenue the federal government receives from offshore oil and gas projects into conservation projects, from expanding national parks, to protecting habitat on private lands, to maintaining Civil War battlefields.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/environment/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/58133/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34063/90422/58133/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a gun owner and strong supporter of Second Amendment rights, I believe that the constitutional right to keep and bear arms must be diligently protected, and throughout my time in Congress I have supported, and will continue to support, policies that uphold our God-given rights enshrined in the Constitution and will continue to do all I can to preserve and protect the Second Amendment.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/second-amendment/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/58133/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/58133/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe The Affordable Care Act shows that government-run health care does not sufficiently address the core challenges facing our health care system; in many cases, physician choice disappeared, and premium costs skyrocketed. I will continue to push back against the Democrats' attempts to institute Medicare For All, a single-payer health care plan run by the federal government that would cost $32 trillion to operate. Single-payer plans would eliminate the private health care market and completely transform the health care system as we know it by implementing socialized medicine. This would require a massive tax increase and would outlaw the choice of private insurance, forcing 158 million Americans who get their health insurance through their employer into a one-size-fits-all government-run plan.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1438388/issue-position-health-care/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/58133/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to support paid family leave in #FY20NDAA, and I appreciate @POTUSâ call for access to affordable childcare. ~40m families are benefiting from the expanded Child Tax Credit, each seeing ~$2k more in their pockets. I will continue to support hardworking Americans. #SOTU\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RobWittman/status/1224889672268206082?s=20&t=gVvO7aZi8tGObfnRR8p2Pg"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is also vital that we increase transparency in the healthcare and prescription drug market and must end surprise billing. A key to lowering costs is removing government barriers that prevent patient access to new drugs and therapies and allowing the option to purchase health care across state lines. All these ideas are centered around the patient, not the government.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/health-care/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/58133/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/58133/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just had a productive conversation with @Jim_Jordan about our shared priorities for this Congress. We both agree on the need to pass a strong NDAA, fund our government, support our troops, and secure our border. Jim has my support for Speaker.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1714021563379446019"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must start by enhancing our border security. A physical barrier would deter those attempting to enter the country illegally, while also helping direct those seeking asylum to the proper points of entry.\"",
+          "source": "robwittman.com",
+          "url": "https://robwittman.com/issues/immigration/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/58133/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/58133/rob-wittman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/58133/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/58133/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/58133/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340 \"Hamas",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35952/96006/58133/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/58133/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/58133/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is exactly why I introduced the Independent and Objective Oversight of Ukrainian Assistance Act â we must account for every American dollar sent to Ukraine. It's unacceptable for the Pentagon to continue failing to comply with these accountability standards.\"",
+          "source": "x.com",
+          "url": "https://x.com/RobWittman/status/1745910088873791673"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/58133/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/88795/58133/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/58133/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/58133/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:02:11+00:00"
+}

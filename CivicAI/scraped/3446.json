@@ -1,0 +1,646 @@
+{
+  "name": "Scott Fitzgerald",
+  "page_title": "Scott Fitzgerald's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WI) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (WI) - District 5",
+  "candidate_id": "3446",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3446/scott-fitzgerald",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Scott will tirelessly defend Wisconsin values like the right to life and the Second Amendment.\"",
+          "source": "scottfitzgeraldforcongress.com",
+          "url": "https://scottfitzgeraldforcongress.com/#issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/3446/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/3446/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 3% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday I was happy to host @protectmyMA seniors in Brookfield to discuss why Wisconsin seniors value their Medicare Advantage plans. MA needs to be protected and I will continue my work to ensure that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1521557920793702400"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 91% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "statement",
+          "text": "\"In POTUSâ 1st 100 days he managed to kill #Keystone, crushing countless good paying jobs in #WI05. He doubled down by burdening taxpayers with trillions of dollars of deficit spending. This is bad leadership, \"cut jobs, raise taxes,\" shouldnât serve as the guiding principle.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1387521938403250176"
+        },
+        {
+          "type": "statement",
+          "text": "\"In President Bidenâs address tonight, I hope he lays out a vision to build a strong economy with lower taxes, restore faith in our government, and address the historic border crisis. This is what Americans want to hear.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1622988374620381186"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the Senate passed a tax cut package that: Cuts income taxes by $250 million. Weâre giving money back to hard-working Wisconsin taxpayers\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1230508807735926784"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As our country recovers from the crushing impacts of the #COVID19 pandemic, tax hikes couldnât be further from the solution to get Americans and our economy back on track.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1381982470430728199"
+        },
+        {
+          "type": "statement",
+          "text": "\"In POTUSâ 1st 100 days he managed to kill #Keystone, crushing countless good paying jobs in #WI05. He doubled down by burdening taxpayers with trillions of dollars of deficit spending. This is bad leadership, \"cut jobs, raise taxes,\" shouldnât serve as the guiding principle.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1387521938403250176"
+        },
+        {
+          "type": "statement",
+          "text": "\"In President Bidenâs address tonight, I hope he lays out a vision to build a strong economy with lower taxes, restore faith in our government, and address the historic border crisis. This is what Americans want to hear.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1622988374620381186"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/3446/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Scott is a proud and loyal supporter of Wisconsin law enforcement and first respondersâalways\"",
+          "source": "scottfitzgeraldforcongress.com",
+          "url": "https://scottfitzgeraldforcongress.com/#issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you to the @MPA_Milwaukee for hosting a wonderful reception to bring together supporters of Wisconsin police officers. I'm proud to back the work you do in standing up for law enforcement.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1639395855202496513"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/3446/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/3446/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/3446/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/3446/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/3446/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation continues to ravage the paychecks of Americans, yet this omnibus bill will increase spending by 13% above current levels. Out of touch.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1605944953095454721"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot negotiate raising the debt ceiling without cutting wasteful spending and putting our country on a more sustainable fiscal path. House Republicans understand this and will not back down.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1646866646882041856"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/3446/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/3446/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/3446/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every serious analysis of the Inflation Reduction Act is bearish. The spending/tax hike proposal is just another shameless Democrat messaging bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1555567237293117440"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation continues to ravage the paychecks of Americans, yet this omnibus bill will increase spending by 13% above current levels. Out of touch.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1605944953095454721"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/3446/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Forcing 87% of Americans who don't have student loan debt to pay for $500 billion in debt (CFRB) held by mostly high-earners is a slap in the face\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1574775801945505794"
+        },
+        {
+          "type": "statement",
+          "text": "\"If the White House cared about what a cost analysis reported, they wouldnât have saddled American taxpayers with $500 billion of debt with the stroke of a pen.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1564699773587931139"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's decision to cancel student loan debt is not only against the law but egregiously unfair to Americans who paid back their loans or pursued careers that don't require a four-year degree.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1562879673192681473"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"S. 1/H.R. 1 will completely undermine public faith in our elections. Pelosi & Schumer want to weaken voter ID laws, steamroll states authority over election procedures, & force Americans to fund politiciansâ campaignsâwhether they support them or not. This bill is a disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1407332355983937541"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/3446/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/3446/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last week, I joined @WILawLiberty to talk about the harmful Green New Deal. Socialists in Washington are pushing an out-of-touch plan that is dangerous for Wisconsin farmers and manufacturers\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1234876934498197505"
+        },
+        {
+          "type": "statement",
+          "text": "\"The so called \"infrastructure\" plan spends just 6 percent on roads, bridges, and highways and about 25 percent on traditional infrastructure. Instead, Democrats are pouring billions of dollars into Green New Deal policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1389990401541615622"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/3446/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/3446/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/3446/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/3446/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/3446/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/3446/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/3446/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm down at the southern border, and I met with border agents this morning to discuss the situation and what solutions they need to alleviate the crisis. Reminder: @HouseGOP passed H.R. 2 the Secure the Border Act last year. The Senate & White House need to pick up the slack.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1789001330729644229"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/3446/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/3446/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over FOUR HUNDRED migrants were smuggled into the U.S. by an ISIS-affiliated network. Instead of helping to get @HouseGOP's H.R. 2 across the finish line, President Biden is signing mass amnesty executive orders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1805981019008282887"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3446/scott-fitzgerald"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/3446/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/3446/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/3446/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/3446/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/3446/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/3446/israel-security-supplemental-appropriations-act-2024#99510"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/3446/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/3446/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/3446/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From record players to iPhones, tech always moves faster than gov't. At @JudiciaryGOP I spoke about the need for a tailored approach to keep Big Tech from de-platforming those w/ beliefs & values different from Silicon Valley. Reforming #Section230 is the necessary remedy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1365294194819031045"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok can be used by the CCP to spy on American citizens, promote propaganda, and facilitate censorship of Western media. Congress must take action.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFitzgerald/status/1638914678301790217"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/3446/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/3446/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:19:33+00:00"
+}

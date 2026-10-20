@@ -1,0 +1,712 @@
+{
+  "name": "Ilhan Omar",
+  "page_title": "Ilhan Omar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MN) - District 5, Democratic/Farmer/Labor",
+  "on_the_ballot": "Running, Democratic/Farmer/Labor for U.S. House (MN) - District 5",
+  "candidate_id": "171628",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/171628/ilhan-omar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Roe v. Wade is a privacy case, a bodily autonomy case & itâs ultimately about the right to make our own decisions about our uteruses. Today, the Supreme Court ruled a person w/ a uterus needs government controlling their decisions and should be treated as less than a full human.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1540502024235655170"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4132 \"Womenâs Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Expand Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1616554882084884487"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the 85th anniversary of Social Security, we must redouble our efforts to protect and expand it for the more than 64 million Americans who depend on it.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1294415383592611840"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Passing tax cuts for corporations and taking away peopleâs healthcare doesnât work for working people.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1233399778505043968"
+        },
+        {
+          "type": "statement",
+          "text": "\"Surprise: Trump's tax cuts have done exactly the opposite of what hesaid they would do. Instead, they have further concentrated wealth in the hands of a wealthy few while working people suffer.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1134203670692859918"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Democratic Action in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If you really wanted to protect Medicare, Medicaid, and Social Security you would EXPAND these programs, and tax the rich to pay for them. Instead you just extend tax cuts for your millionaire friends.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1704948289458635030"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trickle-down economics has only widened inequality and enriched the wealthy at the expense of working people. So yes, absolutely tax the rich.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1340476210657320962"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by The Club for Growth in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End Citizens United (@StopBigMoney) is fighting to end corruption in government, from getting corporate money out of politics to protecting the right to vote. Proud to have their endorsement as we work to achieve fair and clean elections!\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1282336403007905797"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End Qualified Immunity!\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1619156319923212288"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot let up in our fight for justice for Breonna Taylor and every Black and brown person murdered at the hands of police. We will fight to end qualified immunity.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1308835310214807560"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to vote ânoâ on this last week â because we canât keep spending billions on endless wars.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1115655713886539776"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. spends more on the pentagon than China, India, the UK, Russia, France, Germany, Saudi Arabia, Japan, and South Korea spend on defense COMBINED. Imagine if we stopped spending $858 billion+ on pentagon pork and spent it on healthcare, education, & housing instead.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1602455495759085568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/22/defense?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/22/defense?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every agreement brings us closer to passing the Build Back Better agenda. Stay optimistic everyone, transformative investments will soon be a reality and felt by so many people.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1455611504242438151"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Build Back Better Act included provisions based on our Zero Waste Act. It includes $750 million to create a federal grant program to help local cities invest in zero waste initiatives and end toxic landfills. This legislation will create jobs and protect our communities.\" twitter.com",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cancel student debt, invest in affordable housing. This crisis is preventable.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1420434662917292036"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should support those without shelter through guaranteed job and affordable housing programs. Instead, Trump wants to send the police after them.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1174312714241486850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Weâre out here at the White House celebrating the passage of the Inflation Reduction Act!\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1569794047253925892"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cancel student debt, invest in affordable housing. This crisis is preventable.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1420434662917292036"
+        },
+        {
+          "type": "statement",
+          "text": "\"I led the fight to cancel student loan debt. Due in large part to the Progressive coalition we built, President Biden has canceled nearly $144 billion for about 4 million borrowers. I was one of the lone voices calling for student debt cancellation just a few years ago, and it is now a mainstream view within the Democratic Party.\"",
+          "source": "ilhanomar.com",
+          "url": "https://ilhanomar.com/my-record/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democracy only flourishes with more participation not less. Thatâs why we are expanding voting rights and access to the ballot box. #HR1\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1367563092448727041"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs almost as if Republicans who advocate for strict voter ID laws and other barriers to access are intentionally crafting proposals to suppress the power of your ballot.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1044684982139195392"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to reinvest this military spending in healthcare, education, and clean energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1167201804964249601"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\" in 2019",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/30/environment?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have to grow our clean energy economy and fight for climate resiliencyânot double down on our addiction to fossil fuels. Thank you to the Indigenous activists who have built a coalition to fight against Keystone XL and other pipelines. Our children will thank you.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1060922627877990400"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to immediately confront the power of the NRA and ban assault weapons now!\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1666475014395158530"
+        },
+        {
+          "type": "statement",
+          "text": "\"I fought to pass the most significant gun safety legislation in over thirty years. This bill will save lives and help stop the gun violence epidemic that has plagued our communities for far too long. It will also support youth in crisis, improve school mental health resources, protect victims of domestic abuse, and aid in suicide prevention.\"",
+          "source": "ilhanomar.com",
+          "url": "https://ilhanomar.com/my-record/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a champion for Medicare for All to ensure dignity and equality for all people. As the Co-Chair of the Medicare for All Caucus, I am working to make quality healthcare accessible to every single person across the country. I have also dedicated time and resources to getting other members of Congress elected who support Medicare for All to build a coalition that can get this bill passed.\"",
+          "source": "ilhanomar.com",
+          "url": "https://ilhanomar.com/my-record/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm a proponent of Medicare for All. I believe we can have accessible healthcare in a system that holds pharmaceutical companies accountable, lowers the price of prescription drugs, and ensures that Americans donât suffer because they canât afford their medical bills.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1026624598249558016"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every worker deserves a living wage, paid leave, health care, and the right to form a union.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1777818931945766955"
+        },
+        {
+          "type": "statement",
+          "text": "\"I wonât let up in securing a $15+ minimum wage, paid leave, and a union for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1302980802003775489"
+        },
+        {
+          "type": "statement",
+          "text": "\"Outbreak or not â paid sick leave should be guaranteed in this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1237725342380560385"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"How about lowering prescription drugs, one of the most popular policies in the world?\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1453552786172436483"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm a proponent of Medicare for All. I believe we can have accessible healthcare in a system that holds pharmaceutical companies accountable, lowers the price of prescription drugs, and ensures that Americans donât suffer because they canât afford their medical bills.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1026624598249558016"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/91/health-insurance"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to abolish ICE, create pathways to citizenship, and welcome refugees with open arms.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1207073752296706048"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to abolish ICE, create pathways to citizenship, and welcome refugees with open arms.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1207073752296706049"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/171628/ilhan-omar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/40/immigration?p=2"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since I started in the House, I have opposed these broad-based sanctions that end up punishing entire countries for the actions of leaders they have no role in electing. I have also consistently opposed sanctions bills that do not include clear conditions for being lifted â the reality is, the President already has significant authority to create and enact sanctions programs. When Congress mandates or codifies those sanctions programs, we make it much harder to lift them when conditions change. This not only makes it so that programs like the Cuba embargo remain in place decades past their utility, it robs sanctions of the very power theyâre meant to have as an incentive for a government or individual to change their behavior.\"",
+          "source": "ilhanomar.com",
+          "url": "https://ilhanomar.com/my-record"
+        },
+        {
+          "type": "statement",
+          "text": "\"The impact of sanctions are entirely predictable, they never impact their intended target but wage economic warfare on innocent people. Biden officials are talking about it now because people in Washington donât ever consider consequences until consequences arrive at their door.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1536899532226805761"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/32/foreign-affairs?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6968 \"Suspending Energy Imports from Russia Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/32/foreign-affairs?p=2"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have voted for the vast majority of aid packages for Ukraine. I meet regularly with Ukrainian-American community members in my district to discuss and engage on how the U.S. can support Ukraine in Russiaâs war of aggression. I believe in the essential right of Ukraine to defend itself in this war, and in the moral obligation of the United States to support that defense.\"",
+          "source": "ilhanomar.com",
+          "url": "https://ilhanomar.com/my-record/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support giving Ukraine the resources it needs to defend its people, I just have legitimate concerns about the size and scope.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1501229167610044416"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Voted NO on the TikTok bill. Not only are there 1st amendment concerns, this is bad policy. We should create actual standards & regulations around privacy violations across social media companiesânot target platforms we donât like.\"",
+          "source": "x.com",
+          "url": "https://x.com/IlhanMN/status/1767938927686537324"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\" in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/171628/ilhan-omar/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:00:02+00:00"
+}

@@ -1,0 +1,706 @@
+{
+  "name": "Guy Reschenthaler",
+  "page_title": "Guy Reschenthaler's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 14, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (PA) - District 14",
+  "candidate_id": "166004",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/166004/guy-reschenthaler",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/166004/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32974/86813/166004/ensuring-access-to-abortion-act-of-2022#86813"
+        },
+        {
+          "type": "statement",
+          "text": "Politics PA \"I am overjoyed by todayâs historic Supreme Court decision to protect the unborn. This is a tremendous victory for life by rightfully empowering the people.\"",
+          "source": "www.politicspa.com",
+          "url": "https://www.politicspa.com/pa-responds-to-roe-v-wade-decision/109042/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe every life, born and unborn, is precious. The Supreme Courtâs historic ruling today will once again allow the American people to protect the unborn through their elected representatives.\"",
+          "source": "reschenthaler.house.gov",
+          "url": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-statement-us-supreme-court-decision-dobbs-v-jackson-womens"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 20% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler/53/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am committed to protecting Social Security and Medicare for today's seniors and future generations. These programs provide an important safety net to millions of Americans and were promised to recipients who invested in them. I do not support efforts to privatize Social Security or dismantle Medicare. Congress must make it a priority to find real solutions to address the solvency of these programs before it is too late.\"",
+          "source": "reschenthaler.house.gov",
+          "url": "https://reschenthaler.house.gov/issues/seniors-social-security-and-medicare"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler/38/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden claims tax hikes will help the #AmericanWorker - he's lying. @HouseGOP and Trumpâs tax cuts created historic wage growth for lower & middle-income families. Lower taxes = more jobs and better quality of life for Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1372956036018139136"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Tax Cuts and Jobs Act and the work of the Trump Administration, the United States is experiencing an economic resurgence that has resulted in millions of new jobs, historically low unemployment, rising wages, and record-level consumer and business confidence. I will continue to support pro-growth policies that help families and workers in southwestern Pennsylvania achieve the American dream.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1392095/reschenthalers-statement-on-opposing-democrats-tax-break-for-the-wealthy"
+        },
+        {
+          "type": "statement",
+          "text": "\"The tax cuts passed by congress in December of 2017 are creating jobs and putting money directly in the pockets of American workers. Nancy Pelosi and her liberal allies have promised to repeal this bill and raise your taxes. In Congress, I will fight make these tax cuts permanent and stop extreme liberals from raising your taxes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1246453/issue-position-tax-cuts-jobs-acts"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden claims tax hikes will help the #AmericanWorker - he's lying. @HouseGOP and Trumpâs tax cuts created historic wage growth for lower & middle-income families. Lower taxes = more jobs and better quality of life for Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1372956036018139136"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, H.R. 1, which should more appropriately be titled, the for the politicians act, is nothing more than a top-down Federal power grab that nationalizes our elections and empowers the Democratic party to permanently hold on to their majority.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1505733/providing-for-consideration-of-hr-for-the-people-act-of-providing-for-consideration-of-hr-george-floyd-justice-in-policing-act-of-and-for-other-purposes"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26112/66405/166004/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/166004/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democratsâ radical anti-police agenda and soft-on-crime policies are directly responsible for the skyrocketing rise in crime across the country.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1658537563659948032"
+        },
+        {
+          "type": "statement",
+          "text": "Fox News \"It's political pandering. It's a bunch of Democrats pandering to the far-left radical base. The sad irony of this is that if that money is defunded from these police forces, crime rates would actually go up, the communities would suffer because you wouldn't have police in those communities.\"",
+          "source": "www.foxnews.com",
+          "url": "https://www.foxnews.com/media/police-should-be-in-local-or-state-control-not-federal-house-judiciary-panel-member-says"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/166004/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28148/73007/166004/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/166004/guy-reschenthaler/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/166004/guy-reschenthaler/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"The most important responsibility of the federal government is to ensure the safety and security of all Americans. To do that, we must provide our military with the resources they need to defend our values at home and abroad. Prior to coming to Congress, I served in the United States Navy Judge Advocate General's Corps and deployed to Iraq, where I prosecuted terrorists in Iraqi Court. I know firsthand the importance of taking the fight to ISIS, al-Qaeda, and other terrorist organizations and investing in our military to maintain our competitive edge against nations who wish to do us harm.\"",
+          "source": "reschenthaler.house.gov",
+          "url": "https://reschenthaler.house.gov/issues/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"China and Russia rapidly grow in strength and military capabilities, Congress must continue to provide our troops with the resources they need to defend America and protect our allies around the world.\"",
+          "source": "reschenthaler.house.gov",
+          "url": "https://reschenthaler.house.gov/media/press-releases/reschenthaler-supports-defense-authorization-bill-rejects-bidens-reckless-0"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/166004/build-back-better-act#83568"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans put forth a debt limit plan that is reasonable, sensible, and responsible. Limits federal spending. Saves taxpayer money. Grows the economy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1649871192982163456"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31006/83464/166004/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans are committed to an economy thatâs strong. We will fight inflation by reining in Democratsâ reckless tax-and-spend agenda and ending the Biden Administrationâs disastrous \"Build Back Better\" policies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1582741922006765568?s=20&t=-VPgYpByVkelasvFt6Bq_Q"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/166004/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "statement",
+          "text": "\"A Republican majority will curb the wasteful government spending thatâs raising the price of everything from groceries to housing and costing Pennsylvanians $606 a month.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1573796564249763843"
+        },
+        {
+          "type": "statement",
+          "text": "\"Through a combination of hard work and political fortitude, Republicans not only forced Biden to negotiate but also secured the largest federal spending cut in U.S. history â a huge win for the fiscal state of our nation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1664082463742730240"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/166004/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The @WhiteHouse's chart admits the obvious â President Biden caused record inflation.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1668722364127821825"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/166004/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/166004/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans are committed to an economy thatâs strong. We will fight inflation by reining in Democratsâ reckless tax-and-spend agenda and ending the Biden Administrationâs disastrous \"Build Back Better\" policies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1582741922006765568?s=20&t=-VPgYpByVkelasvFt6Bq_Q"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's ridiculous student loan forgiveness proposal was always unconstitutional. Even Nancy Pelosi agreed. Iâm glad to see #SCOTUS reject Bidenâs vote-buying scheme.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1674793707575607296"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs student loan bailout will cost American taxpayers roughly $500 BILLION over the next 10 years.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1565362815392694274"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student loan debt canât be forgiven â it can only be transferred. President Bidenâs student loan bailout will cost American taxpayers $475 BILLION.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1761865149726736630"
+        },
+        {
+          "type": "statement",
+          "text": "\"The majority of student loan debt is held by people with graduate degrees. Biden knows forgiving their debt will supercharge inflation and shortchange Americans who paid their way or don't have a degree entirely. In his eyes, it's a small price to pay to appease his woke base.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1562469983044902915?s=20&t=-VPgYpByVkelasvFt6Bq_Q"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"67% of Americans support voter ID. With Republicans in charge, our election laws will be more secure.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1574163838122938368"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our Constitution grants state legislatures the primary role in establishing election law and administering elections, but H.R. 1 upends that constitutional balance by undermining voter ID laws, forcing states to permanently expand mail-in voting, legalizing ballot harvesting, and stealing federal funding from crime victims to divert it to political campaigns. Additionally, this bill stifles free speech by empowering President Biden's IRS to target conservative organizations and deny them tax-exempt status, and increases our vulnerability for foreign election interference at a time when we should be increasingly vigilant about hostile regimes seeking to undermine our democracy.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1509630/reschenthaler-votes-against-democrats-electoral-power-grab/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Heroes Act is a mess. Dems are trying to force a federal takeover of our election system. They want mail-in voting, same day voter registration & they even want to prevent states from enforcing voter ID laws.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1260631718052102146"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/166004/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs radical energy plan would spend $2 trillion to kill jobs and increase energy prices for hardworking Americans. Is this reckless policy what we have to look forward to? AOC as Energy Secretary? Yikes...\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1283800470218211328"
+        },
+        {
+          "type": "statement",
+          "text": "\"Dems claim thereâs no oversight in the stimulus, but the bill forbids stock buybacks for the duration of the loans and makes sure they maintain existing employees. Dems using a crisis to push their radical agenda by adding tax credits for solar & wind energy is unthinkable.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1242158288353079305"
+        },
+        {
+          "type": "statement",
+          "text": "\"The reason the global temp is rising is due to Chinaâs disregard for the environment and emissions standards. In PA, fracking has shown to cut energy costs for millions of Americans while decreasing air pollution and cutting carbon emissions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1281664989305151490"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28907/74931/166004/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/166004/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "statement",
+          "text": "\"88 percent of Americans believe we should produce oil and gas here in America. We should be energy independent â not begging foreign dictators for help.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1685803459973648384"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin is exploring options for importing more Canadian oil. Think they regret killing the Keystone XL pipeline yet?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1511754871728484360"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/166004/guy-reschenthaler/29/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Constitution declares that gun ownership is not a privilege reserved for a select few, but a protected and fundamental freedom guaranteed for all law-abiding citizens. As a gun owner, I am committed to protecting the rights of law-abiding citizens to purchase, possess, and use firearms. Simply put, I do not support erosion of the Second Amendment.\"",
+          "source": "reschenthaler.house.gov",
+          "url": "https://reschenthaler.house.gov/issues/values"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/166004/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6538 \"Active Shooter Alert Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32976/86825/166004/active-shooter-alert-act-of-2022#86825"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32835/86332/166004/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"1 in 9 Americans are working in the health care industry today. But socialist Congressional Democrats want #MedicareForAll which will not only raise taxes and cut care, but cost hundreds of thousands of Americans their jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1171187039070502915?s=20&t=-VPgYpByVkelasvFt6Bq_Q"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Dems want to take away freedom and choice with a socialist agenda that includes: Eliminating private insurance through Medicare for All. Banning fracking & eliminating the PA jobs that go with it. Increasing electric bills by $3,800 per household with the Green New Deal.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1232400696332423168"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28212/73153/166004/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Specifically, H.R. 6800 would... Force every employer, including small businesses, to provide paid leave for another full year, leaving many with an unfunded mandate.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1428313/reschenthaler-opposes-pelosis-socialist-wish-list/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/166004/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I applaud @realDonaldTrump and @SeemaCMS for lowering insulin prices for American seniors. 1 in 3 Medicare beneficiaries has diabetes & over 3.3 million use insulin. President Trump is fighting for seniors and saving them hundreds of thousands of dollars.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1265664405339078656"
+        },
+        {
+          "type": "statement",
+          "text": "\"Speaker Pelosiâs government takeover of prescription drugs will cost Pennsylvania 45,000 jobs according to @USChamber. Its 95% tax on companies will also destroy innovation, leading to fewer drugs and Americans losing out on life-saving treatments.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1203021042605809664?s=20&t=-VPgYpByVkelasvFt6Bq_Q"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/166004/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/166004/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will fight to secure our border and reform our outdated immigration system to stop the flow of drugs and opioids, crackdown on child sex trafficking, end sanctuary cities nationwide, and protect the jobs and wages of American workers.\"",
+          "source": "www.guyforpa.com",
+          "url": "https://www.guyforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is just not fentanyl. Let's talk about the crisis of immigration. Since Biden took office, over 3.5 million illegal immigrants have been apprehended at the southern border. This CR does nothing to add additional border security; nothing for additional infrastructure; nothing for advanced technology.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/166004/guy-reschenthaler"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the Trump Administration left office, and President Biden entered the Oval Office, illegal immigration was at record lows, inflation was close to zero, and our foreign adversaries feared the United States. Three years later, America is witnessing record-high illegal border crossings, record-high price increases, and a world that is on fire. It didnât have to be this way. Joe Biden and his radical Democrats worked to destroy our nation and the American Dream. The State of our Union can only be strong when our leaders fight for the American people â not themselves and their donors.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1765945336420290790"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/166004/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"617,606 illegal immigrants with known criminal records are roaming freely within the United States. President Biden refuses to deport them.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GReschenthaler/status/1764296168337719668"
+        },
+        {
+          "type": "statement",
+          "text": "\"H.R. 6 provides amnesty to millions of people, placing the interests of those who broke our laws above the interests of those who followed our laws. The bill also has no enforcement provisions and includes loopholes that make gang members and other criminals eligible for green cards. It even requires that U.S. taxpayers fund grant programs to help illegal immigrants obtain green cards.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/166004/guy-reschenthaler"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/166004/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30330/77979/166004/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, let me start by saying that I strongly support this bill, which streamlines existing defense authorities to enable the President to enter into a lend-lease agreement directly with Ukraine and Eastern European countries. I know I speak for my Republican colleagues in expressing my wholehearted support for the people of Ukraine as they defend themselves and their democracy against Vladimir Putin's atrocities. That is why I look forward--and so do so many of my colleagues--to voting for this bill later today.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1598847/providing-for-consideration-of-s-ukraine-democracy-defense-lend-lease-act-of-and-for-other-purposes/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35952/96006/166004/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32388/84643/166004/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32637/85398/166004/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, let me start by saying that I strongly support this bill, which streamlines existing defense authorities to enable the President to enter into a lend-lease agreement directly with Ukraine and Eastern European countries. I know I speak for my Republican colleagues in expressing my wholehearted support for the people of Ukraine as they defend themselves and their democracy against Vladimir Putin's atrocities. That is why I look forward--and so do so many of my colleagues--to voting for this bill later today.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1598847/providing-for-consideration-of-s-ukraine-democracy-defense-lend-lease-act-of-and-for-other-purposes/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/166004/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32637/85398/166004/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32588/85238/166004/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/166004/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/166004/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:02:51+00:00"
+}

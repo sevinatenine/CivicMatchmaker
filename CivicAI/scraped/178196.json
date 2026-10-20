@@ -1,0 +1,586 @@
+{
+  "name": "Andrea Salinas' Issue Positions (Political Courage Test)",
+  "page_title": "Andrea Salinas' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OR) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic, Independent for U.S. House (OR) - District 6",
+  "candidate_id": "178196",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178196/andrea-salinas",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea has been a long-time reproductive rights champion. Sheâs worked as an advocate for NARAL Pro-Choice Oregon and Planned Parenthood Advocates of Oregon where she helped pass the countryâs strongest reproductive rights law. She believes abortion and reproductive health care shouldnât just be legal, but it needs to be affordable and accessible to as many people as possible. In Congress, Andrea will fight to codify the right to choose into law, and she will work to improve access to care for communities of color in particular. Andrea is an unapologetic champion for abortion access because reproductive care is health care. It is more important than ever that we elect a reproductive rights champion to Congress.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want my daughter to grow up with the freedom to make her own health care choices. I want the same for every woman across America. Not just in states like Oregon where reproductive rights are already protected. We've got to restore Roe v. Wade as the law of the land. #SOTU2024\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1765929242477363282?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, the Supreme Court overturned Roe v. Wade and robbed millions of their fundamental right to make deeply personal health care decisions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1672672444031574018?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        },
+        {
+          "type": "statement",
+          "text": "\"As your Congresswoman, Iâll keep fighting to protect and enhance #SocialSecurityânot cut it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1752769342582730787?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, she will fight for a $15 minimum wage, paid family and medical leave, and an even bigger social safety net for our communities.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Working Americans pay into #SocialSecurity with every paycheck â except for the ultra-wealthy, who stop paying this weekend for the rest of the year. Itâs time to #ScrapTheCap and enhance benefits for the first time in over 50 years!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1763274892496015524?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We passed the bipartisan tax deal in the House. Now, itâs time for the Senate to follow suit and get this critical relief out the door and into the pockets of working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1758884009294320106?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Working Americans pay into #SocialSecurity with every paycheck â except for the ultra-wealthy, who stop paying this weekend for the rest of the year. Itâs time to #ScrapTheCap and enhance benefits for the first time in over 50 years!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1763274892496015524?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Working Americans pay into #SocialSecurity with every paycheck â except for the ultra-wealthy, who stop paying this weekend for the rest of the year. Itâs time to #ScrapTheCap and enhance benefits for the first time in over 50 years!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1763274892496015524?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea knows many people are deeply concerned about the state of our democracy right now. Voting rights and our democratic institutions are under attack by people who continue to push lies and false information about the legitimacy and integrity of our elections. As a state legislator, Andrea has supported and championed many bills focused on expanding voting rights and reforming our campaign finance system. She knows our democracy works better when it is centered on the voices of the people, and not special interests. In Congress, she will focus on restoring protections for voting rights and our democratic institutions to ensure that we continue to build a diverse, inclusive, and representative democracy.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the daughter of a cop, I know what itâs like to worry about whether your loved one will return home safely, and I grieve for the families of those who donât. In their honor, Iâm committed to supporting police officers with the resources, funds, training, and care they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1658200643750752256?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/178196/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/178196/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/178196/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea believes government policies need to level the playing field and provide opportunities for a strong working class and good-paying jobs â both critical to the long-term future of Oregon and our country.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Excited to announce that the Pacific Northwest will soon be home to a brand-new hydrogen hub! This historic investment will accelerate the transition to clean energy and create thousands of good-paying jobs in Oregon and across our region.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1712841523421761778?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"GREAT NEWS: Oregon will soon be home to TWO new tech hubs thanks to the CHIPS & Science Act! These hubs will support our state's critical semiconductor and mass timber industries, create thousands of good jobs, and move us toward a better, more sustainable future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1716844655738802180?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I've officially requested more than $36 million in federal government funding for critical public safety, housing, infrastructure, and rural development projects across\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1648794823715897347?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea knows we need to tackle our homelessness crisis head on. She believes itâs time to invest in affordable housing, expand mental health services, fund addiction treatment, and grow economic opportunity. It will take a multi-faceted, multi-level approach to make progress. In Congress, she will deliver funding to get homeless people into housing and is committed to working with local, state and federal entities to find solutions. In order to address this crisis, we need to tackle the root challenges facing our communities, and we need to act with resolve and compassion.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Enjoyed my meeting with Marion County Commissioner Danielle Bethell. We had an insightful discussion about our shared goal of putting an end to youth homelessness and expanding access to affordable housing in #OR06.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1758635453786599691?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In recent years, Oregon has experienced one of the sharpest increases in homelessness in the country. That's why I'm calling on @WaysMeansCmte leadership to immediately pass a bipartisan bill that would expand access to safe, affordable housing for families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1717953196960756031?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here's some good news for your Wednesday: Inflation is down for the twelfth month in a row, falling to the lowest it's been in two years! Getting our economy back on track is one of my top priorities and I will keep fighting to lower costs for Oregonians.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1679232628036100098?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation slowed for the Sixth. Straight. Month. Proof that the Democratic economic plan â one that prioritizes working families, not big corporations and tax cheats â WORKS. #PeopleOverPolitics\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1613633713543254040?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great news! Over 150,000 student loan borrowers across the country who are enrolled in the SAVE plan are receiving the news that their student debt has just been forgiven! This is a big step forward in relieving the burden of student loansâbut there is more work to be done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1760390761625854117?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thousands of public service workers across the country are waking up to the good news that their student debt has just been canceled! This move will help make higher education more accessible for working-class families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1770880180338176296?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea knows many people are deeply concerned about the state of our democracy right now. Voting rights and our democratic institutions are under attack by people who continue to push lies and false information about the legitimacy and integrity of our elections. As a state legislator, Andrea has supported and championed many bills focused on expanding voting rights and reforming our campaign finance system. She knows our democracy works better when it is centered on the voices of the people, and not special interests. In Congress, she will focus on restoring protections for voting rights and our democratic institutions to ensure that we continue to build a diverse, inclusive, and representative democracy.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 4133: \"Authorizes Voter Registration Without State-Issued ID\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32986/86855/178196/authorizes-voter-registration-without-state-issued-id#86855"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an Oregon League of Conservation Voters (OLCV) Board Member and advocate for multiple environmental organizations, Andrea has over a decade of experience tackling our climate crisis in Oregon. In Congress, Andrea will fight for the urgent action we need to protect our planet and natural resources. She knows we need to address climate change, but also focus on the profound and harmful impacts it has on low-income and BIPOC communities. Andrea wants to ensure that marginalized communities are provided with opportunities to prosper in a new, clean energy economy and not further harmed or marginalized by the impacts of climate change. Her approach to fighting climate change is simple: we must take bold steps, while making sure we create living wage jobs and not leave anyone behind in the process. She has a record of standing up to corporate polluters to reduce pollution, protecting clean air and water, and putting Oregon on a path to 100% clean energy.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Excited to announce that the Pacific Northwest will soon be home to a brand-new hydrogen hub! This historic investment will accelerate the transition to clean energy and create thousands of good-paying jobs in Oregon and across our region.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1712841523421761778?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Beyond just its economic impacts, this bill is also toxic for our environment. It heavily tilts the scale toward Big Oil. And, by undoing key climate provisions of the Inflation Reduction Act, this bill hamstrings our efforts to transition to clean energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1651346177038712833?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/178196/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/178196/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a mom, Andrea knows how scary it can be to feel like your children arenât safe at school. She knows we need to take real action to pass common-sense gun legislation in this country and make our communities safer. For years, she has worked alongside Moms Demand Action to make sure their voices have been heard at the state legislature. Andrea played a role in passing historic gun safety legislation in Oregon. At the federal level, she will fight to pass common sense gun legislation like implementing universal background checks on gun sales, enacting a red flag law, disarming domestic abusers, reducing police violence, focusing on decreasing city gun violence, and holding the gun lobby accountable. The majority of Americans support common-sense gun safety legislation, and Andrea will make sure to prioritize the safety of our communities in Congress.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our communities are reeling from gun violence. And it's no secret that Congress has the power to help change that. This month, I'm calling for immediate action to #EndGunViolence. Enough with the thoughts and prayers. Letâs get to work.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1671276616637349890?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Andrea will do whatever it takes to increase access to affordable, high-quality care for as many people as possible immediately. Andrea believes health care is a human right and was a champion for Oregonâs Right to Healthcare Amendment. She supports capping the price of insulin and allowing Medicare to negotiate drug prices to make healthcare more affordable for all families. In the state legislature, Andrea helped lead Oregon through the COVID-19 pandemic as House Health Care Chair. She is focused on taking a science-backed, data-driven approach to improving access to affordable, high-quality health care for all Oregon families.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SJR 12: \"Amends the State Constitution to Establish Healthcare as a Right for All Citizens\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30800/79627/178196/amends-the-state-constitution-to-establish-healthcare-as-a-right-for-all-citizens#79627"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andrea comes from a union family and knows the struggles working families face every day. Andrea will fight for hard-working Oregonians, not big corporations. She helped increase the minimum wage and passed paid family and medical leave.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, she will fight for a $15 minimum wage, paid family and medical leave, and an even bigger social safety net for our communities.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 2005: \"Requires 12 Weeks of Paid Medical Leave\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26746/67942/178196/requires-12-weeks-of-paid-medical-leave#67942"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an advocate for unions and the Chair and Vice-Chair of the House Health Care Committee, Andrea knows what it takes to pass good health care policy that lowers the cost of care while also improving quality and health outcomes. She knows quality and affordable health care continue to be out-of-reach for so many families. When prescription drug prices were getting out-of-control, Andrea held the pharmaceutical industry accountable and passed a bill that lowered drug costs for Oregonians.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Andrea will do whatever it takes to increase access to affordable, high-quality care for as many people as possible immediately. Andrea believes health care is a human right and was a champion for Oregonâs Right to Healthcare Amendment. She supports capping the price of insulin and allowing Medicare to negotiate drug prices to make healthcare more affordable for all families. In the state legislature, Andrea helped lead Oregon through the COVID-19 pandemic as House Health Care Chair. She is focused on taking a science-backed, data-driven approach to improving access to affordable, high-quality health care for all Oregon families.\"",
+          "source": "www.andreasalinasfororegon.com",
+          "url": "https://www.andreasalinasfororegon.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct made historic progress toward lowering the cost of health care and prescription drugs. Thanks to the new monthly cap on insulin, over 2,800 Medicare beneficiaries in #OR06 will now save an average of $570 per year on their insulin costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1691873932335354205?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/178196/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pushing babies and pregnant mothers into the Rio Grande without water isn't \"border security.\" It's shameful, inhumane, and un-American, no matter what side of the aisle you're on. We need to fix the system now.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1681324955202355200?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/178196/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My dad came to this country from Mexico, worked hard, and built a better life for himself and our family. I'm deeply proud of my immigrant roots. And I'll keep fighting to ensure every immigrant family can participate in the American dream.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1666185379383312391?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I stood side-by-side with my @HispanicCaucus colleagues as we rejected calls to bring back Trump-era immigration policies. Immigrants and asylum seekers should not be used as bargaining chips in funding negotiations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1735076503367373205?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178196/andrea-salinas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3265: \"Expands and Strengthens the State's Sanctuary Law\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30960/80641/178196/expands-and-strengthens-the-states-sanctuary-law#80641"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue working to ensure Ukraine gets the financial support they need to defend their democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1708199835344457937?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are millions of people in Israel and Gaza who desperately need humanitarian aid right now. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1720241642278428719?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/178196/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue working to ensure Ukraine gets the financial support they need to defend their democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1708199835344457937?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago, Vladimir Putin launched an unprovoked war on Ukraine. He thought it would weaken democracy. He thought it would divide our allies. He was wrong. The spirit of the Ukrainian people is strong. And we should continue to support them in their hour of need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSalinas/status/1629151076569038849?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/178196/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/178196/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/178196/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:16:59+00:00"
+}

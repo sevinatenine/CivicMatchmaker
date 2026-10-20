@@ -1,0 +1,718 @@
+{
+  "name": "Melanie Stansbury",
+  "page_title": "Melanie Stansbury's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NM) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NM) - District 1",
+  "candidate_id": "180789",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/180789/melanie-stansbury",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today is the perfect day to remind everyone that women's rights are human rights and Congress must codify Roe. Abortion is healthcare!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1677407134781194240"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/180789/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/180789/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "statement",
+          "text": "\"87 years ago yesterday, Social Security was signed into law. Itâs time to expand Social Security and safeguard this crucial program for New Mexicans by passing the Social Security 2100: A Sacred Trust Act!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1559267879584874496"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security has helped seniors across New Mexico make ends meet for decades. Thatâs why Iâm proud to cosponsor the Social Security 2100 Act. Itâs time to put #PeopleOverPolitics and pass this bill to support our elders for generations to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1597291693736591360"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For years, the ultra-wealthy have not paid their fair share in taxes and left the burden to the working class. Time to close tax loopholes and demand they pay.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1767266524253798700"
+        },
+        {
+          "type": "statement",
+          "text": "\"TAX. THE. RICH.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1731435128440942606"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax cuts for corporations and the uber rich donât actually trickle down. They just make the rich richer.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1740432429998080431"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 10% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ahead of tax season: itâs way past time the ultra-wealthy *finally* pays their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1750924700639707323"
+        },
+        {
+          "type": "statement",
+          "text": "\"Justices on the Supreme Court who accept luxury gifts from billionaires shouldnât get to decide if billionaires should be shielded from a wealth tax \"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1712898497517965477"
+        },
+        {
+          "type": "statement",
+          "text": "\"TAX. THE. RICH.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1731435128440942606"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's time to END CITIZENS UNITED and finally get dark money and special interests out of politics.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1753131106784919775"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court opened the floodgates for big money in politics in Citizens United v. FEC. Iâm working in Congress to restore the power of our democracy where it belongs: with the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1616831864240590852"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On this first anniversary of the conviction in George Floydâs murder, we are doubling down on our calls for the Senate to pass the George Floyd Justice in Policing Act and to prioritize community-based public safety.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1516895491463688192"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two years ago, as the world grappled with the murder of George Floyd, our nation committed to passing meaningful police reform. Yet today, the Senate still has not summoned the political will to act. I'm grateful for @POTUS's administrative actions today as the work continues.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1529467890029711360"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"New Mexicans make critical contributions to our national security every day. Today, I voted to pass the #FY23NDAA to send a pay raise to our incredible servicemembers, strengthen housing options for military families, and support investments in our national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1547706342416084992"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/180789/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/180789/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/180789/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In case you missed it, last night we passed the largest bipartisan infrastructure investment in decades. It will create thousands of jobs for New Mexicans building climate resilience and connecting our communities to broadbandânow let's pass the #BuildBackBetterAct!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1457143260883865604"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our rural communities are the backbone of New Mexico. I am proud that we are working together to create thousands of jobs by investing millions in rural roads, bridges, airports, broadband, our electric gridâand life-giving water.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1484219054466424839"
+        },
+        {
+          "type": "statement",
+          "text": "\"The contrast is clear: House Democrats have passed bills to invest in our economy from the bottom up and create good-paying jobs. Extreme MAGA Republicans voted against every. single. one. Democrats are putting #PeopleOverPolitics every day.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1585232272642408449"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/180789/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing is a human right.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1712116919300411697"
+        },
+        {
+          "type": "statement",
+          "text": "\"Just voted to pass a $3.5 trillion blueprint investing in American families & children to address...Affordable Housing\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1430267213718642696"
+        },
+        {
+          "type": "statement",
+          "text": "\"New Mexico is set to receive $16 million from the Biden Administration to combat homelessness. This investment will help fund permanent housing and grant crucial access to programs families need to survive. Letâs go!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1754580651305496948"
+        },
+        {
+          "type": "statement",
+          "text": "\"Safe and stable housing should be a right, not a privilege. Proud to support @RepBeccaB's Community Housing Act to help make this a reality.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1758884006395863303"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over 13 million jobs created since @POTUS took office? Inflation down to 3%? I want to remind everyone that not a single Republican voted for the Inflation Reduction Act. #DemsDidThat\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1680276040617275393"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre putting money back into the pockets of families and seniors across NM! The Inflation Reduction Act makes historic investments in energy and health care â cutting utility bills and prescription drug costs!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1572303294621712390"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/180789/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/180789/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stand firmly behind @POTUSâs plan to relieve up to $20,000 of student loan debt per borrower. Over 210,000 New Mexicans would benefit from this game-changing plan.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1631331326245711872"
+        },
+        {
+          "type": "statement",
+          "text": "\"In October, borrowers can begin their applications for up to $20,000 in federal student loan debt forgiveness. This relief will help our New Mexicans who need it most â with 90% reaching those earning under $70,000 per year.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1566224662744469505"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should be held back because of student loan debt. In NM, student loan borrowers average $30,000 in debtâstopping them from buying a home, starting a business, & following their dreams. I wonât stop until we cancel student debt & provide tuition-free college for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1745561551317184587"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, we will take a historic vote in the House to protect & restore voting rights. I'm deeply proud to co-sponsor of the John Lewis Voting Rights Act, vital to protect the right to vote, especially in states that have been working to undermine voting rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1430200238791434249"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/180789/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/180789/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NM is at the forefront of the clean energy revolution & soon to be home to the largest renewable energy project in the Western Hemisphere. Providing power to 3 million people and countless jobsâthis project will help transform power generation in the West!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1659313127207362560"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, we had a blast attending the dedication of the Western Spirit wind project project â the largest renewable energy project in the US! Projects like Western Spirit help us cut carbon emissions, #ActOnClimate, & build a more sustainable future!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1496597973073113090"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 489: \"Authorizes State Investment in Renewable Energies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26131/68559/180789/authorizes-state-investment-in-renewable-energies#68559"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today the House Natural Resources Committee held a hearing on the Administrationâs decision to protect the greater Chaco Canyon area from oil and gas development. New Mexico's sacred spaces, lands, and communities are not for sale.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1679622772442406912"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/180789/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/180789/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"16 mass shootings happened over the weekend. When will enough finally be ENOUGH? No more cowering to the gun lobby. We need: universal background checks, an assault weapons ban, and a ban on high-capacity magazines\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1676678811293741061"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/180789/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 8: \"Requires Background Checks for Gun Sales\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26106/68523/180789/requires-background-checks-for-gun-sales#68523"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the richest country in the world, it is shameful we donât have universal healthcare. Itâs way past time we pass Medicare for All.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1724878339414888676"
+        },
+        {
+          "type": "statement",
+          "text": "\"New Mexicans deserve top quality, affordable healthcare. Thatâs why at every turn, I will fight for Medicare For All. Nobody deserves to live with crippling financial debt because theyâre sick.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1773013668562616606"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should die because they cannot afford medical care. We need to pass Medicare for All and finally guarantee healthcare as a human right.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1751696648768508116"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should die because they canât afford medical care. We need universal healthcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1717641459980026026"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to expand these protections & establish #PaidLeave for every worker!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1622286431317282817"
+        },
+        {
+          "type": "statement",
+          "text": "\"New Mexicans need #PaidLeave. No one should have to choose between caring for their family & a paycheck-the #BuildBackBetterAct must include paid family leave. Paid leave is the foundation of a just & equitable recoveryâletâs join the rest of the world and put our families first!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1453436276728680448"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the anniversary of the Family and Medical Leave Act, many hardworking families are still unable to take paid time off for sick leave & other family needs. I'm fighting to pass the #BuildBackBetter Act to ensure every worker can benefit from paid leave!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1489993586770862081"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rail workers deserve fair pay, safe work conditions, AND paid sick leave. Full stop.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1705650739656438031"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the U.S. we pay 2-3x what citizens of other countries pay for prescription drugs. Thatâs why we took on Big Pharma and passed the Inflation Reduction Act to cut costs of lifesaving medications for New Mexicans and cap out-of-pocket costs!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1573727508557504512"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the House voted on a bill that directly undermines our progress in lowering prescription drug costs for American families. My constituents sent me to Congress to lower drug prices, not increase them, which is why I voted NO. I'll continue to support meaningful solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1755316042660708684"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre putting money back into the pockets of families and seniors across NM! The Inflation Reduction Act makes historic investments in energy and health care â cutting utility bills and prescription drug costs!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1572303294621712390"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/180789/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BREAKING NEWS: The Supreme Court will grant the Biden Admin's request to remove the razor wire from the southern border. What @GovAbbott did was dangerous and inhumane. We need compassionate immigration policies that keep humanity in mind. This is a step in the right direction.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1749536400578424949"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/180789/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/180789/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"DACA recipients and Dreamers are our neighbors and friends. They are our co-workers and classmates. They are an integral and interwoven part of our country. They pay taxes like everyone else. They deserve a path to citizenship. I stand with Dreamers and will continue the fight!\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1703476413477916729"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nine years ago, DACA was created and made it possible for Dreamers to come out of the shadows, get an education, and work legally. Itâs time for the Senate to pass the Dream and Promise Act and provide Dreamers and essential workers with a pathway to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1404867729786650625"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must build a just, fair, and humane immigration system. The data is clear: a pathway to citizenship for Dreamers, TPS holders, and undocumented immigrants will create more jobs for New Mexicans, grow our economy and keep families together. Letâs get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/Rep_Stansbury/status/1436048911882461190"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180789/melanie-stansbury"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/180789/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/180789/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/180789/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/180789/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/180789/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/180789/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/180789/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/180789/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/180789/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/180789/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:19:18+00:00"
+}

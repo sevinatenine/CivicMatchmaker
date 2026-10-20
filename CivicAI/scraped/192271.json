@@ -1,0 +1,502 @@
+{
+  "name": "Mike Lawler",
+  "page_title": "Mike Lawler's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 17, Republican",
+  "on_the_ballot": "Running, Conservative, Republican for U.S. House (NY) - District 17",
+  "candidate_id": "192271",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/192271/mike-lawler",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As I have said, based on the court ruling, it now falls to the states. I do not support a nationwide ban on abortion.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1569707587058257920"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 9079 \"Expands Legal Protections for Abortion Providers\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32911/86515/192271/expands-legal-protections-for-abortion-providers#86515"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am fully committed not only to protecting Social Security and Medicare for current and near retirees but also strengthening and preserving these programs for future generations. I was proud to sign on to H. Res. 109, which reaffirms this commitment, and to cosponsor H.R. 82, the Social Security Fairness Act, another important measure.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1645661/preserving-social-security-and-medicare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Never supporting any cuts to Social Security, Medicare, or veterans services that violate the sacred promises made to the hard working men and women who built this country, nor those who wore the uniform in defense of our freedoms.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Simply put, we cannot continue to borrow and print new money at the levels this administration has. Republicans and Democrats must come together to rein in spending, protect vital programs like Social Security and Medicare, reduce inflation, and avoid default.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1648554/limit-save-grow-act-of-2023"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Prosperity.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        },
+        {
+          "type": "statement",
+          "text": "\"Introducing both the \"Middle Class Tax Relief Act\" and \"SALT Marriage Penalty Elimination Act\" in an ongoing effort to provide tax relief to middle-class Hudson Valley families who have been negatively impacted by the SALT cap.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The politicians took away qualified immunity from law enforcement, while giving it to themselves. NYers should be allowed to sue every elected official for the idiotic decisions made at the state and city level every day.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1375625261320974339"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34930/92230/192271/police-act-of-2023#92230"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fight the radical \"defund the police\" agenda that endangers the lives of our brave police officers and fuels a growing disrespect and disregard for law and order.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/192271/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This bill, the Limit, Save, Grow Act, is a beginning and puts the President and Senate majority leader on notice: The days of one-party rule are over. The American people elected a House Republican majority to serve as a check and balance on the reckless, out-of-control spending that was the hallmark of the last 2 years: $5 trillion in new spending, $10 trillion total, a 41-year record high on inflation, skyrocketing energy costs, America saddled with over $31 trillion in debt and counting.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1648554/limit-save-grow-act-of-2023"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/192271/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36374/97564/192271/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Lawler understands that the federal government needs to live within its means, just like the Hudson Valleyâs working families, retirees, and small businesses do each day. Thatâs why Congressman Lawler helped lead the charge in supporting the bipartisan \"Fiscal Responsibility Actâ, which: Saves taxpayers $2.1 trillion over the next ten years [and] Caps spending at 1% growth.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Volunteer First Responder Housing Act will help ensure first responders can acquire affordable housing. Taking care of our first responders should always be bipartisan and Iâm proud of the broad bipartisan support for this important measure.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1686169779629936641"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenomics isnât working and Hudson Valley families need relief asap. Thatâs why Iâm fighting like hell to lift the SALT cap, unleash affordable American energy, and reduce our inflation-inducing spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1717977517494087968"
+        },
+        {
+          "type": "statement",
+          "text": "\"Simply put, we cannot continue to borrow and print new money at the levels this administration has. Republicans and Democrats must come together to rein in spending, protect vital programs like Social Security and Medicare, reduce inflation, and avoid default.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1648554/limit-save-grow-act-of-2023"
+        },
+        {
+          "type": "statement",
+          "text": "\"If by \"rescue the economy\" you mean downgrading our credit because of your trillion dollar spending sprees, producing record inflation, and increasing taxes, then heckuva job. Your policies were so bad, even Dems in Brooklyn rejected you after you ran away from the Hudson Valley.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1692980794933797363"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to support H.R. 1, which will restore our Nation's energy independence by increasing the production and export of domestic energy while reducing the regulatory burdens that stifle American energy. We need an all-of-the-above approach that includes gas, nuclear, and renewables. That has been emphatically clear for years. Making America more dependent on foreign energy adds more pollution, not less, to our climate. H.R. 1 unleashes American energy and will drive down inflation, providing Hudson Valley families with the real relief they so desperately need.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1647304/lower-energy-costs-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need a comprehensive energy plan and portfolio that is an all-of- the-above approach. We need clean, cheap, reliable energy. Natural gas plays a critical role in doing that. To try and ban natural gas and force homeowners to convert their home from gas to electric, the average homeowner will pay $35,000 to do that.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1642163/natural-gas-plays-a-critical-role"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/192271/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Independent Petroleum Association of America (IPAA).",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/192271/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Supporting red flag laws, so long as they mandate due process, to keep guns out of the hands of those likely to harm themselves or others.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"if we are going to combat gun violence, we need to enforce our laws and stop with this woke nonsense. Those who use guns in furtherance of crimes, need to be prosecuted, not coddled. Bring back the anti-crime unit today and strike a balance with stop, question, and frisk.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1485339021668724744"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America (GOA).",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9113 \"Expands Red Flag Law Relating to Potentially Violent Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32746/85828/192271/expands-red-flag-law-relating-to-potentially-violent-individuals#85828"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"With title 42 having expired, we are seeing a surge of migrants approaching our border that will add to a crisis in New York State that has seen New York City take in over 60,000 migrants so far. Now, Mayor Eric Adams has resorted to busing migrants into the Hudson Valley, despite previously decrying southern States from doing that to New York City. This is a completely untenable situation and demands immediate Federal action, which is why the House Republican majority passed H.R. 2.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1649777/secure-borders"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/192271/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/192271/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        },
+        {
+          "type": "statement",
+          "text": "\"Helped pass the \"Secure the Border Act\" (H.R.2) through the House of Representatives in an attempt to end President Bidenâs open border policies, while also proposing a measure named the \"Dignity Act\", which is the first serious, bipartisan immigration reform effort in decades.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/192271/mike-lawler"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 1112 \"Denouncing the Biden Administration's immigration policies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37220/100094/192271/denouncing-the-biden-administrations-immigration-policies#100094"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigrants do more than pick vegetables, Jerry â they contribute to our economy, our culture, our community. They are doctors, nurses, home health aides, lawyers, professionals, and yes, ag workers. No one is against immigration â but there must be a process. What is happening at the border is a catastrophe and cannot continue. Secure the border and fix our broken immigration system so that those who want to come here and contribute to our economy can do so, and do so legally.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1745594260865315227"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Therefore, my bill expands the law's definition to ensure that any dealings they have with Iran's sanctioned financial institutions, including the Iranian Central Bank, will lead to the closure of their corresponding accounts in our country. These secondary sanctions complement the SHIP Act, a bill I sponsored that would impose sanctions on ports and refineries that take in petroleum from Iran.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1674448/iran-china-energy-sanctions-act-of-2023"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must crack down on the illicit Iranian oil trade that is bankrolling their regime of terror. Thatâs why I introduced the Iran-China Energy Sanctions Act, my bill which the House just passed in a broad, bipartisan margin targeting the financial institutions that process Iranian petroleum transactions. This legislation is also included in the package we are passing this week to support our democratic allies and deter foreign aggression.\"",
+          "source": "x.com",
+          "url": "https://x.com/lawler4ny/status/1780994449541132572"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033 \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/192271/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4691 \"Iran Sanctions Relief Review Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37086/99576/192271/iran-sanctions-relief-review-act-of-2023#99576"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Taking on members of his own party to support funding of Ukraineâs military operations to combat Vladimir Putinâs unjustified and illegal invasion of Ukraine, which threatens to spill over into neighboring countries in an effort to bring other former Soviet territories and neighboring nations like Moldova back under Russian control.\"",
+          "source": "www.lawlerforcongress.com",
+          "url": "https://www.lawlerforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/192271/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We're not banning TikTok. We're protecting the data privacy and security of Americans on apps tied to governments of foreign adversaries?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeLawler/status/1770129265087938582"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/192271/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:56:44+00:00"
+}

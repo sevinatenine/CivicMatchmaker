@@ -1,0 +1,700 @@
+{
+  "name": "Donald Norcross' Issue Positions (Political Courage Test)",
+  "page_title": "Donald Norcross' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NJ) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NJ) - District 1",
+  "candidate_id": "116277",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/116277/donald-norcross",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted to codify #RoeVWade and I am demanding the Senate to do the same. They can solidify Roe and make sure every American woman, regardless of where they live in our country, has access to reproductive medical care\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1521929930312978433"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is not a drill. 26 states could move to ban womenâs access to reproductive health care if Roe v. Wade is overturned, affecting 36 million women â nearly half of the women age 18-49 in the US. We must protect the freedom of women to make reproductive health decisions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1483828652731215883"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 47th anniversary of Roe v. Wade â A reminder that we must continue to fight to ensure women can control choices regarding their bodies & have access to care. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1220163462225113093"
+        },
+        {
+          "type": "statement",
+          "text": "\"Womenâs reproductive rights are basic human rights. The United Supreme Courtâs decision to overturn Roe v. Wade was disgraceful, and it is up to lawmakers to codify Roe, protecting poor and working-class women who will be harmed as a result of this decision.\"",
+          "source": "www.donaldnorcrossforcongress.com",
+          "url": "https://www.donaldnorcrossforcongress.com/issue/standing-up-for-reproductive-rights/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"87 years of Social Security and the promise hasnât changed: we will protect retirement benefits so Americans can live their golden years with dignity. Politicians who threaten that are nuts. #SocSec87\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1559256406213148672"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will always honor our commitments to seniors and protect the Social Security and Medicare programs that they have worked hard to fund. I oppose voucher schemes and support reforms that will ensure appropriate cost of living adjustments that account for the rising costs our seniors face.\"",
+          "source": "www.donaldnorcrossforcongress.com",
+          "url": "https://www.donaldnorcrossforcongress.com/issue/caring-for-seniors/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The protection & promise of Social Security is needed more than ever as we stare down a looming retirement crisis. The devastating cuts to this program proposed by @HouseGOP are unacceptable. I will always fight to make sure every American can live their golden years in dignity.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1745490757140480311"
+        },
+        {
+          "type": "statement",
+          "text": "\"This guy can't be serious. Somebody please call Senator Ron Johnson and ask why he wants to make America poorer and sicker. Medicare and Social Security must always be protected.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1554896083406430210"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24168/62172/116277/tax-cuts-and-jobs-act#62172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/25275/64436/116277/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377: \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/116277/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct marks the beginning of an era where billionaires pay their fair share in taxes, Medicare negotiates prescription drug prices, and #AmericanMade green energy powers our economy. It lowers costs for working families and invests in a greener future.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1569771952847331328"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Freedomworks",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24168/62172/116277/tax-cuts-and-jobs-act#62172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377: \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/116277/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fair and open elections are the very foundation of our democracy, and I will always fight to strengthen the integrity of our system.I am proud to have the endorsement of @StopBigMoney, a leading organization in the fight to get dark money out of politics! #EndCitizensUnited\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1237477108382871554"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unlimited dark money contributions are influencing our elections -- campaign finance shouldnât be a free-for-all. Itâs time to #EndCitizensUnited!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/997461802689560576"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need transparency & accountability in politics. To do this, we must overturn Citizens United. We can't keep letting dark money contaminate our democracy! Proud to have earned support from @StopBigMoney& @usapromise \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1050014552929251329"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #JusticeinPolicing Act would finally allow for meaningful accountability in cases of police misconduct & it would begin the process of reimagining policing in the 21st Century.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1365058995715629056"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must seize this moment & keep up the momentum in our country. Last weekâs verdict was about accountability. Now, we must continue the fight for JUSTICE & create a future where effective community policing is the norm. #JusticeInPolicing\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1387479222378188803"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by National Association of Police Organizations (NAPO",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2407/rating/13906"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/116277/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One of my top priorities in Congress is to support our armed forces, their families, and our civilian defense workforce.That's why I was proud to advance the #NDAA - Americaâs annual military & defense funding bill - and support a pay increase for our men and women in uniform.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1673732847298031617"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to announce the National Defense Authorization Act (NDAA) advanced with provisions I authored to enhance âBuy Americanâ standards for major defense acquisition programs to bring manufacturing and high-quality jobs back home.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1279072458621038594"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/96799/116277/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct marks the beginning of an era where billionaires pay their fair share in taxes, Medicare negotiates prescription drug prices, and #AmericanMade green energy powers our economy. It lowers costs for working families and invests in a greener future.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1569771952847331328"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit,Save,Grow Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34806/91855/116277/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2617 \"Consolidated Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34000/90241/116277/consolidated-appropriations-act-2023#90241"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/116277/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Coming together to solve problems and support our neighbors is what South Jersey does best. I was proud to work with state and local partners to secure funding to build Cramer Hill Senior and connect our seniors with affordable housing and accessible health care.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1776234640098861505"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everyone deserves a safe, affordable place to call home. This new housing will provide Lawnside families with the foundation they need to #BuildBackBetter, as well as access to public transportation, jobs and quality education.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1407696481461673994"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/116277/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/116277/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats voted to lower gas prices and hold #BigOil accountable a month ago. Senate Republicans, are you going to fight inflation or just talk about it?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1539948889846870017"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm seeing a lot of politicians go on TV during the workday to complain about inflation. Working families donât need reminders during their lunch break. Itâs time my colleagues come to the table and work with Democrats to lower gas prices and grocery bills.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1548314007638908929"
+        },
+        {
+          "type": "statement",
+          "text": "\"If Republicans cared about reducing inflation, they wouldn't whip their caucus to vote against the Inflation Reduction Act. So far, all they've done is fight every single bill we've brought forward that would lower costs for working people. People want solutions, not cheap talk.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1552726586662723584"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is down for the 12th straight month. Policies @HouseDemocrats passed last year, like the Inflation Reduction Act, are strengthening our economy and delivering for our communities.I will keep fighting to lower costs for South Jersey families and put #PeopleOverPolitics\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1679141038194081793"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In New Jersey, the average student loan balance is nearly $40,000. Students need relief now.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1187008272055685120"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have made great strides in boosting higher education in South Jersey and making our local universities and county colleges hubs for business innovation and high-tech job creation. I led the charge to strengthen our stateâs higher education system and increase opportunities and resources for students at Rutgers-Camden and Rowan Universities, paving the way for a medical sciences research hub in our backyard. Likewise, I worked closely with our local county colleges to forge partnerships that make the transition to our universities easier and more affordable. Now, Iâm focused on expanding opportunities for students interested in attending our vocational, technical, and apprenticeship training schools so they can become valued members of our regionâs workforce.\"",
+          "source": "www.donaldnorcrossforcongress.com",
+          "url": "https://www.donaldnorcrossforcongress.com/issue/expanding-opportunities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/116277/donald-norcross/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/116277/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress has the power & the duty to act & restore protections against racial discrimination in voting.Thatâs why Iâm proud to be co-sponsoring #HR4, the John R. Lewis Voting Rights Advancement Act.Itâs time to #RestoreTheVote.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1427698094959902726"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/116277/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to have created the law that has made NJ a national leader in solar energy. Turning superfund sites into solar fields is exactly the type of forward thinking we need. Excited to see SJ lead the way toward a clean energy future and create good-paying jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1528844218663411717"
+        },
+        {
+          "type": "statement",
+          "text": "\"The offshore wind industry will provide long-term, family-sustaining careers for a new generation of workers in #SouthJersey while protecting our environment. Another example of how renewable energy and jobs go hand-in-hand.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/1473672181133582336"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28907/74931/116277/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26353/67056/116277/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been 8 years since the largest oil spill in American history. I cosponsored the #SafeCOASTAct to help #ProtectOurCoast against another catastrophe like #DeepwaterHorizon.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/987364100723363840"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/116277/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/116277/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I wear this \"F\" grade as a badge of honor. I'm proud to stand up for gun safety & against the NRA's dangerous agenda. #EnoughIsEnough\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonNorcross4NJ/status/966731758153732096"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30270/77850/116277/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910 \"Protecting Our Kids Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32751/85843/116277/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30269/77848/116277/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Access to health care is a human right. Period. #MedicareForAll\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1499481430098915341"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States is the richest country in the world, but millions of Americans still canât afford health care. #MedicareForAll will change that â itâs time for a bold change.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1372234535685984267"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/116277/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rail workers keep our economy running with no paid sick leave. We have the opportunity to fix that. Itâs time for the Senate to pass legislation that improves the health of our workers and our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1598371748096970761"
+        },
+        {
+          "type": "statement",
+          "text": "\"Seven days of paid sick leave is the least we can do for the men and women who work the railroads across this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1598412831065513986"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Congress passed the #AmericanRescuePlan, we extended the payroll tax credits for paid sick leave & paid family & medical leave. No one should have to choose between their health & making ends meet. We need #PaidLeave now.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1384165745152589843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/116277/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Insulin costs are now capped at $35 a month for people on Medicare! This is a huge win for South Jersey families & seniors and is the result of the Inflation Reduction Act, which I was proud to pass last year alongside @HouseDemocrats & @POTUS #PeopleOverPolitics\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1676664104625360904"
+        },
+        {
+          "type": "statement",
+          "text": "\"The President promised to negotiate the cost of prescription drugs to save money for American consumers. House Dems passed #HR3 #ForThePeople, which negotiates the cost of prescription drugs & saves money for Americans.The President threatened to veto it. #LowerDrugCostsNow\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1225074604324073477"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to be lowering the cost of prescription drugs â not locking in high prices!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/DonaldNorcross/status/1153726816550608896"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/116277/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13915"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/116277/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4760 \"Securing America's Future Act of 2018\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24733/63246/116277/securing-americas-future-act-of-2018#63246"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24758/63301/116277/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/116277/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "statement",
+          "text": "\"83% of Americans support #DACA #HomeIsHere for #Dreamers, & theyâre just as American as anyone in our communities. We must #ProtectTheDream at #SCOTUS.\"",
+          "source": "x.com",
+          "url": "https://x.com/DonaldNorcross/status/1223327251732844545"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13915"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/116277/no-ban-act#78993"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/116277/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/116277/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/116277/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/116277/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/116277/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/116277/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/116277/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/116277/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/116277/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:17:45+00:00"
+}

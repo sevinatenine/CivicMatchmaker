@@ -1,0 +1,412 @@
+{
+  "name": "Craig Goldman",
+  "page_title": "Craig Goldman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 12, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TX) - District 12",
+  "candidate_id": "138373",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/138373/craig-goldman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by NARAL Pro-Choice Texas",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138373/craig-goldman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As State Representative, I helped pass a ban on a state income tax or wealth tax, and have fought to eliminate the Texas franchise tax.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 1838: \"Increases Oversight of Law Enforcement Intelligence Activities\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33223/88001/138373/increases-oversight-of-law-enforcement-intelligence-activities#88001"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"To protect ballot security, Craig Goldman authored and passed a bill to stop the process of illegal ballot harvesting. When signed into law, it was the strongest election integrity bill in the history of Texas.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last two legislative sessions, Craig has served as Chairman of the Texas House Energy Resources Committee where he has worked to strengthen the Texas oil and gas industry, a bedrock of the stateâs economy.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/about-craig/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 33: \"Establishes the State of Texas as a Sanctuary State for Oil and Gas Companies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35011/92517/138373/establishes-the-state-of-texas-as-a-sanctuary-state-for-oil-and-gas-companies#92517"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 5: \"Establishes Economic Incentives for Oil and Gas Companies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35018/92544/138373/establishes-economic-incentives-for-oil-and-gas-companies#92544"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last two legislative sessions, Craig has served as Chairman of the Texas House Energy Resources Committee where he has worked to strengthen the Texas oil and gas industry, a bedrock of the stateâs economy.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/about-craig/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 33: \"Establishes the State of Texas as a Sanctuary State for Oil and Gas Companies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35011/92517/138373/establishes-the-state-of-texas-as-a-sanctuary-state-for-oil-and-gas-companies#92517"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 3557: \"Increases Penalties for Pipeline Protesting\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26684/67739/138373/increases-penalties-for-pipeline-protesting#67739"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 5: \"Establishes Economic Incentives for Oil and Gas Companies\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35018/92544/138373/establishes-economic-incentives-for-oil-and-gas-companies#92544"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/138373/craig-goldman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 1927: \"Authorizes Permitless Handgun Carry to Adults 21 and Older\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31581/82118/138373/authorizes-permitless-handgun-carry-to-adults-21-and-older#82118"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 2622: \"Prohibits the Enforcement of New Federal Gun Laws\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33311/88395/138373/prohibits-the-enforcement-of-new-federal-gun-laws#88395"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am proud to have voted to expand Second Amendment freedoms during my service as a State Representative. For example, I voted to make Constitutional Carry the law in Texas, ensuring that you have the right to ensure your personal safety without government interference. As a member of Congress, I will continue to fiercely protect your Second Amendment rights and freedoms.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is up to the Federal Government to protect and secure our southern border, but when the politicians in Washington D.C. can't agree how to do that, the Texas State Legislature has stepped up to do what is necessary to protect our citizens. For the third session in a row I am proud to support and vote for the $800 million border security package that sent Texas DPS Troopers to the border full-time to assist in maintaining safety and security.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1457057/issue-position-border-security"
+        },
+        {
+          "type": "statement",
+          "text": "Co-Sponsored SB 3: \"Appropriates $1.5 Billion for the Construction of a Border Wall\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35982/96106/138373/appropriates-15-billion-for-the-construction-of-a-border-wall#96106"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 7: \"Authorizes the Creation of State Border Police\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35004/92499/138373/authorizes-the-creation-of-state-border-police#92499"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 4: \"Increases Criminal Penalties for Immigrant Smuggling or Operating a Stash House\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35843/96653/138373/increases-criminal-penalties-for-immigrant-smuggling-or-operating-a-stash-house#96653"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 4: \"Amends State Criminal Code to Establish Illegal Entry Across the Border as a Class B Misdemeanor\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36131/96659/138373/amends-state-criminal-code-to-establish-illegal-entry-across-the-border-as-a-class-b-misdemeanor#96659"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 4: \"Increases Criminal Penalties for Immigrant Smuggling or Operating a Stash House\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35843/96653/138373/increases-criminal-penalties-for-immigrant-smuggling-or-operating-a-stash-house#96653"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigration is a privilege that should be reserved for those who come here legally and respect our processes and our laws. Illegal immigration makes a mockery of those who follow the law. Rampant, unchecked illegal immigration is an unsustainable burden to American taxpayers who must fund all of the increased costs associated with a porous border: additional law enforcement, health care, and education, not to mention the heartbreak from families subjected to the influx of deadly fentanyl.\"",
+          "source": "www.craiggoldman.org",
+          "url": "https://www.craiggoldman.org/issues/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:17:35+00:00"
+}

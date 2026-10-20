@@ -1,0 +1,388 @@
+{
+  "name": "Troy Downing",
+  "page_title": "Troy Downing's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MT) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MT) - District 2",
+  "candidate_id": "178611",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always defend the child from the point of conception.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support pro-choice or pro-life legislation? \"Pro-Life\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Help grow the economy by lowering taxes & simplifying the complicated tax code\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Help grow the economy by lowering taxes & simplifying the complicated tax code\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of indirect campaign contributions from corporations and unions? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are all concerned about the amount of money spent on campaigns. But, this is a First Amendment issue. I am not willing to deviate from the black and white of the constitution. The further we move from the constitution, the more problems we create.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support reducing defense spending? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The best way to create economic growth and opportunity is to get the government out of our way and allow us to keep more of our earnings.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support federal spending as a means of promoting economic growth? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why student debt? Why not mortgage debt to help people stay in their houses? Why not credit card debt to help those most vulnerable? Why reward those who borrowed and didn't pay on the backs of those who worked hard to pay their debt? It's a ridiculous precedent.\"",
+          "source": "x.com",
+          "url": "https://x.com/TroyDowningMT/status/1562540029351952384"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Board of Land Commissioners, Downing has voted to increase access to public lands and promote agriculture and natural resource development by approving timber sales, oil and gas leases, and agriculture projects that grow our economy and create high paying jobs.\"",
+          "source": "www.troydowning.com",
+          "url": "https://www.troydowning.com/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am an unwavering supporter of the 2nd Amendment of the Constitution. The right to keep and to bear arms shall not be infringed. The 2nd Amendment is about our right to defend ourselves and to stand against tyranny. I am and will always be a vigorous defender of these rights.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The discourse on the ACA has been completely backward. We have been arguing about how to insure a broken system rather than fixing the broken system. We need to focus on \"health care\", not \"health insurance\". Let's fix the problems that make health care in the US expensive. The problems include tort abuse, pharma costs, hospital billing practices, etc. Let's remove the problems causing soaring health care costs, and then allow the markets to prevail in the health insurance industry. Mandates, are fundamentally un-American. Let's allow Americans to choose what coverage they want and then allow insurance markets to compete.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We first need to stop the leaking. Secure our borders! Then, abolish any sanctuary cities or sanctuary states. If you are here illegally and caught breaking the law, you are surrendered to ICE for deportation. Once we stop the leaking and remove the bad actors, we need to agree on a comprehensive immigration plan that sets standards, rules, and requirements to deal with new immigrants and a comprehensive plan for dealing with those here already.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support the construction of a wall along the Mexican border? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We first need to stop the leaking. Secure our borders! Then, abolish any sanctuary cities or sanctuary states. If you are here illegally and caught breaking the law, you are surrendered to ICE for deportation. Once we stop the leaking and remove the bad actors, we need to agree on a comprehensive immigration plan that sets standards, rules, and requirements to deal with new immigrants and a comprehensive plan for dealing with those here already.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/178611/troy-downing"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:10:31+00:00"
+}

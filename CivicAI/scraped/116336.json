@@ -1,0 +1,580 @@
+{
+  "name": "Val Hoyle",
+  "page_title": "Val Hoyle's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OR) - District 4, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. House (OR) - District 4",
+  "candidate_id": "116336",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/116336/val-hoyle",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Following the overturning of Roe v. Wade, reproductive freedoms and access to abortion are at risk. We need leaders in Congress who will prioritize reproductive health â like Val Hoyle. Val has fearlessly defended a womanâs right to choose, and will fight back against anti-abortion extremists who want to take away our rights. She trusts women to make their own health care decisions. Thatâs why, while serving in the state legislature, Val fought to pass a comprehensive womenâs health bill that would require insurance companies to cover contraception, abortion, and postpartum care. In Congress, Val will work to protect reproductive freedoms\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voting to protect womenâs right to an abortion\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protecting the integrity of Medicare and Social Security, so we can keep our promises to older Americans.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is a crucial program for seniors in Oregon and across the country. We can extend its solvency and increase benefits for everyone by $200 a month by ensuring that the wealthiest among us pay their fair share â just like everyone else.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1633595211795374080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first #SocialSecurity check was sent 84 years ago. Social Security must be protected and strengthened, that's why I'm co-leading the #SocialSecurityExpansionAct which will increase benefits, extend solvency, and make sure millionaires and billionaires pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1752742840789025106?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Shift tax policies that subsidize the wealthy toward creating more opportunities for first-time home ownership\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first #SocialSecurity check was sent 84 years ago. Social Security must be protected and strengthened, that's why I'm co-leading the #SocialSecurityExpansionAct which will increase benefits, extend solvency, and make sure millionaires and billionaires pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1752742840789025106?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthy should pay their fair share & reinvest in healthcare, infrastructure, & jobs to support working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1686807729552113676?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Shift tax policies that subsidize the wealthy toward creating more opportunities for first-time home ownership\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is a crucial program for seniors in Oregon and across the country. We can extend its solvency and increase benefits for everyone by $200 a month by ensuring that the wealthiest among us pay their fair share â just like everyone else.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1633595211795374080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthy should pay their fair share & reinvest in healthcare, infrastructure, & jobs to support working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1686807729552113676?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ending Citizens United and cracking down on corporate dark money in our elections.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Passage of the For the People Act to protect voting rights and reduce the influence of money in politics.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/116336/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/116336/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Federal investments in workforce training and expanding the apprenticeship model in areas like construction, fire fighting, and mental health services so Oregon has the workforce it needs to be competitive and more Oregonians can get good-paying, highly-skilled jobs.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pushing for development of a container port in Coos Bay to create thousands of good-paying jobs, reduce shipping congestion, and give Oregon farmers and producers easy access to get their goods to market.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can create good union jobs by repairing roads, tunnels & bridges, investing in passenger rail and building the first green energy deep-water container port at the Port of Coos Bay.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1666083461218865155?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fight for major investments in new public housing in the communities hardest hit by the affordable housing shortage, including workforce housing.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Oregonâs housing crisis has many faces, from homeless encampments in our cities, to families trying to reestablish their lives after being displaced by wildfires, to the less visible but no less urgent reality of people living in a vehicle or on the couches of friends and family. In our coastal communities, short stay rentals from corporations like Airbnb make the problems even worse. The high cost of housing across this district prevents businesses from recruiting workers and pinches working families. A huge part of the problem stems from decades of the federal government having completely abandoned its responsibilities on public and affordable housing.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Shift tax policies that subsidize the wealthy toward creating more opportunities for first-time home ownership\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a working mom who raised her family here, Val Hoyle knows firsthand the impact inflation is having on Oregon families. In Congress, she will work with anyone regardless of party to pass common sense ways to bring prices down and wages up\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats continue to deliver. With the American Rescue Plan and the Inflation Reduction Act, we've lowered health insurance costs for 15 million Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1767274594346451406?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, Oregonians will save money on prescription drugs. Medicare can now negotiate prices directly with drug companies to lower the costs of prescription drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1697659037435957735?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Canceling crippling student loan debt and reforming the predatory student loan industry.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support @POTUSâ student loan forgiveness plan, which has the potential to impact millions by reducing or eliminating their debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1630690673815953411?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the Supreme Court is set to hear two challenges to @POTUSâ student loan debt relief plan. GOP stakeholders have brought two lawsuits against the Administration, attempting to call out the debt relief plan as illegal. This is completely ridiculous.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1630690671781715971?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"58 years ago, the #VotingRightsAct became law, ending many unjust barriers to voting. Since then, SCOTUS has weakened this important law and voting rights are under attack across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1688548934916972544?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Access to democracy is a more urgent issue than it has been in a generation. Increased attacks on voting rights have surged across the country, undermining access to the ballot and fundamental protections of the Voting Rights Act. In the legislature, Val led the effort to pass Oregonâs automatic voter registration law to expand ballot access. She understands the clear role of the federal government in protecting this fundamental right\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"will fight for: Passage of the John Lewis Voting Rights Advancement Act.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change and environmental degradation isnât a future threat: it is an immediate emergency that we are experiencing today in the form of wildfires, extreme heat, drought, contaminated water, and more. In the legislature, Val helped expand Oregonâs Clean Fuels program to reduce carbon emissions, worked to move Oregon off of coal power, and increased renewable energy standards for utilities. In Congress, she will work to reestablish the United States as a global leader in addressing climate change, fight for clean air and water, and protect Oregonâs natural treasures.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Moving America to a 100% Clean Electricity standard\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pushing for the federal investments necessary to make Oregon a leader in renewable energy generation\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change and environmental degradation isnât a future threat: it is an immediate emergency that we are experiencing today in the form of wildfires, extreme heat, drought, contaminated water, and more. In the legislature, Val helped expand Oregonâs Clean Fuels program to reduce carbon emissions, worked to move Oregon off of coal power, and increased renewable energy standards for utilities. In Congress, she will work to reestablish the United States as a global leader in addressing climate change, fight for clean air and water, and protect Oregonâs natural treasures.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Halting new fossil fuel leasing on our federal public lands.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Moving America to a 100% Clean Electricity standard\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's great to be back in DC! We've got a lot coming up this week. On Friday, March 24th I'll be wearing my @AMarch4OurLives pin as I stand with students demanding action on gun safety legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1638276095802855432?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Seven years ago today, 49 innocent lives were taken at the Pulse nightclub in Orlando. We must stay united in condemning hatred, passing common sense gun safety measures, and ensuring the safety of the LGBTQ+ community. Hate will never win. #PulseDayofRememberance\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1668318900029730816?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Passing universal health care legislation to ensure that every American has access to affordable, quality care when they need it.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no question that the Affordable Care Act made significant improvements, but the reality is that our health care system is still not affordable for most Americans, with sky-high deductibles and out of control prescription costs meaning that care is still not universal\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a working mom, Val has seen the struggles Oregon families face. In the legislature, she fought for paid sick leave, increasing Oregonâs minimum wage, and for the largest increase in public education funding in Oregon history.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Comprehensive paid family and medical leave for all workers.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finally allowing Medicaid and Medicare to bargain with Big Pharma on prescription costs, and ensuring those savings are available to all Americans.\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, Oregonians will save money on prescription drugs. Medicare can now negotiate prices directly with drug companies to lower the costs of prescription drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1697659037435957735?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is no question that the Affordable Care Act made significant improvements, but the reality is that our health care system is still not affordable for most Americans, with sky-high deductibles and out of control prescription costs meaning that care is still not universal\"",
+          "source": "valhoyle.com",
+          "url": "https://valhoyle.com/priorities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/116336/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last week, I visited the southern border to see firsthand the issues facing our immigration system. @HouseGOP continues to exploit the border crisis for political gain and reject bipartisan solutions. I am ready to come to the table and get things done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1754618041193668850?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/116336/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/116336/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/116336/val-hoyle"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been two years since Putinâs illegal invasion of Ukraine. The longer we delay sending aid to Ukraine, the more powerful Putin becomes. We cannot abandon Ukrainians in their fight for freedom and democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1761475783053164590?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/116336/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/116336/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been two years since Putinâs illegal invasion of Ukraine. The longer we delay sending aid to Ukraine, the more powerful Putin becomes. We cannot abandon Ukrainians in their fight for freedom and democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1761475783053164590?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/116336/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted no on the bill to force the sale of TikTok. Unlike our adversaries, we believe in freedom of speech and donât ban social media platforms. Instead of this rushed bill, we need comprehensive data security legislation that protects all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepValHoyle/status/1767945983650836611?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/116336/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:20:31+00:00"
+}

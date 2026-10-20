@@ -1,0 +1,592 @@
+{
+  "name": "Mike Carey",
+  "page_title": "Mike Carey's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OH) - District 15, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OH) - District 15",
+  "candidate_id": "196349",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/196349/mike-carey",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today #SCOTUS will hear a major pro-life case regarding the constitutionality of pre-viability bans on abortion. Science shows an unborn child is a human life: 5 weeks: heartbeat 10 weeks: legs, arms, fingers & toes developed15 weeks: brain can process pain\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1466085685220229124?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/196349/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans will not cut social security or Medicare. That lie is pure fear mongering. #SOTU\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1623151685693591557?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 27% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9.1% Highest inflation since 1981 & more than expected. Americans continue to struggle with skyrocketing prices brought on by reckless Democrat spending. Now Democrats want to raise taxes, making things even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1547199926517497866?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As I meet with constituents across #OH15, the Democrat Inflation Expansion Act is top of mind as they continue to struggle with higher prices. Itâs simple - spending hundreds of billions of dollars & raising taxes isnât going to reduce the crippling inflation plaguing Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1559282640859144192?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats have voted to condemn the American people to higher prices and higher taxes at a time in which they can least afford it. I proudly voted NO on this radical, reckless spending package.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1461707854885367811?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9.1% Highest inflation since 1981 & more than expected. Americans continue to struggle with skyrocketing prices brought on by reckless Democrat spending. Now Democrats want to raise taxes, making things even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1547199926517497866?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats have voted to condemn the American people to higher prices and higher taxes at a time in which they can least afford it. I proudly voted NO on this radical, reckless spending package.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1461707854885367811?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the New Year, I hope efforts to pass more reckless tax and spend policies are halted and we get our economy back on track\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1476547197646905347?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Creating a nation thatâs safe means securing our southern border, supporting our police to crack down on dangerous criminals, and saving our children from a bleak future. #CommitmentToAmerica\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1582009862485311491?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must condemn the radical defund the police movement, support those who put their lives on the line everyday to protect our communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1554561447170039812?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The \"alternate universe\" this administration is living in doesnât recognize that soft-on-crime policies and defund the police rhetoric are fueling spikes in crime across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1488221280704909314?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/196349/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/196349/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9.1% Highest inflation since 1981 & more than expected. Americans continue to struggle with skyrocketing prices brought on by reckless Democrat spending. Now Democrats want to raise taxes, making things even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1547199926517497866?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats have voted to condemn the American people to higher prices and higher taxes at a time in which they can least afford it. I proudly voted NO on this radical, reckless spending package.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1461707854885367811?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the New Year, I hope efforts to pass more reckless tax and spend policies are halted and we get our economy back on track\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1476547197646905347?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is no secret that the more than $9 Trillion increase in federal government spending since February of 2021, combined with a radical energy policy, caused one the worst inflation crises our nation has ever seen. Americans continue to struggle with high prices across the board, but Mike Carey is working to stop out of control spending, reduce energy prices, and get our economy back on track.\"",
+          "source": "www.careyforcongress.com",
+          "url": "https://www.careyforcongress.com/priorities"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great to tour Connect Housing Blocks in Columbus this morning with the Mid-Ohio Regional Planning Commission. Connect is helping Ohio overcome its workforce and affordable housing shortage, while providing good paying jobs and skill training!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1687146518506086417?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was honored to attend todayâs groundbreaking ceremony for the Lockbourne Greene development on the South side of Columbus. This public private partnership will bring new, safe, affordable housing to Columbus as the region continues to grow and attract new businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1505964269556408323?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House @WaysandMeansGOP has secured an expansion of the Low-Income Housing Tax Credit and the inclusion of American manufacturing incentives in bipartisan tax negotiations with the Democratic-controlled Senate.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1747329675922113024?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9.1% Highest inflation since 1981 & more than expected. Americans continue to struggle with skyrocketing prices brought on by reckless Democrat spending. Now Democrats want to raise taxes, making things even worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1547199926517497866?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As I meet with constituents across #OH15, the Democrat Inflation Expansion Act is top of mind as they continue to struggle with higher prices. Itâs simple - spending hundreds of billions of dollars & raising taxes isnât going to reduce the crippling inflation plaguing Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1559282640859144192?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I urge my colleagues to vote against the Inflation Expansion Act. In the midst of a recession & the highest inflation in 40 years, this $745 billion package will raise taxes, fund the Green New Deal & hire 87,000 IRS agents to target Americans. It's wrong for America\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1558148720805482501?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of pushing forward with more dubiously constitutional ways to cancel $500B in student debt, President Biden should work with Congress to make education more affordable for everyone.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1675899701701509120?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Courtâs decision is a huge win for blue-collar Americans. Two-thirds of my constituents do not have a college degree, yet under the proposal they would have been responsible for paying back $500B of student debt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1674793137989124096?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/196349/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/196349/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gas prices reach another record high under the Biden Administration. Americans deserve affordable, reliable energy, but this administration has chosen the Green New Deal agenda over American energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1524007683145314304?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of green corporate handouts, America should be focused on exploring our natural resources & creating a regulatory environment to make America energy independent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1648807221449617408?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prioritizing $45 billion in Green New Deal policies while imposing $45 billion in new taxes on domestic energy production is an outrageous proposal. This would make the inflation & energy crises worse for American families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1509909418636460032?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reducing pain at the pump has never been a priority for the Biden Administration. Their Green New Deal agenda will only make things more painful for American families & workers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1528813214116597770?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gas prices reach another record high under the Biden Administration. Americans deserve affordable, reliable energy, but this administration has chosen the Green New Deal agenda over American energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1524007683145314304?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mike has introduced and championed several pieces of legislation to address these problems: The Pay Less at the Pump Act - This bill, passed in a package by the Ways and Means Committee, would terminate a $10.5 billion tax that was recently and unfairly placed on U.S. oil refineries, lowering gas prices for Americans and encouraging more domestic energy production.\"",
+          "source": "www.careyforcongress.com",
+          "url": "https://www.careyforcongress.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mike has introduced and championed several pieces of legislation to address these problems: The Promoting Domestic Energy Production Act - This bipartisan bill brings back tax deductions for energy exploration that were taken away by the so-called \"Inflation Reduction Act\". Bringing back these deductions will not only spark more American energy production, but lead to cost saving for all Americans.\"",
+          "source": "www.careyforcongress.com",
+          "url": "https://www.careyforcongress.com/priorities"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/196349/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/196349/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Creating a nation thatâs safe means securing our southern border, supporting our police to crack down on dangerous criminals, and saving our children from a bleak future. #CommitmentToAmerica\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1582009862485311491?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under a Democrat-controlled Congress, we saw record-breaking illegal border crossings. Under a new Republican majority, weâll hold the Biden Administration accountable for their mismanagement of our southern border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1592162504406630400?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/196349/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "\"In its current state, our southern border is threatening our national security, but according to Biden, \"there are more important things.\" Iâm curious to know whatâs more important than the safety and security of the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1600243533956362240?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A record breaking number of illegal immigrants were caught crossing the border in May - a 33% increase from last year. Our borders are wide open, our border agents are not getting the support they need, and the Biden Administration does not care. #BidenBorderCrisis\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1537445968253095938?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Oct. brought a 128% surge in border apprehensions from a year ago. Clearly amnesty & $450k payments to illegals are not deterrents. The Biden Administrationâs border policies have failed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1460653817616338944?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/196349/mike-carey"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On sanctions, we cannot wait \"to have a conversation in a month or so to see if they're working,\" as President Biden stated. We need the strongest sanctions possible now. Today's announcement does not include sanctions on: Putin, Russian energy, or Banning Russia from SWIFT\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1496941500508295178?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two weeks ago I called for immediate sanctions to deter further Russian aggression. Now that Russia has invaded Ukraine, devastating sanctions must be implemented to deter further invasion. Iâm glad to hear some action has been taken, but more should be done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1496253358209966080?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36415/97653/196349/israel-security-supplemental-appropriations-act-2024#97653"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/196349/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats are spending YOUR tax dollars to protect other countries' borders but not our own.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMikeCarey/status/1605696220990738432?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/196349/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/196349/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/196349/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/196349/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/196349/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:04:52+00:00"
+}

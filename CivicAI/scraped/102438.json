@@ -1,0 +1,700 @@
+{
+  "name": "Dan Meuser",
+  "page_title": "Dan Meuser's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 9, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (PA) - District 9",
+  "candidate_id": "102438",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102438/dan-meuser",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by Susab B. Anthony Pro- Life America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1946/rating/13750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 8297- Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32974/86813/102438/ensuring-access-to-abortion-act-of-2022#86813"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I was happy to join thousands of pro-life advocates in Washington for the 51st annual #MarchForLife. Together we serve as a voice for the voiceless as we fight to protect the unborn and defend the sanctity of life.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1748512243233247523"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/252/rating/13894"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@SpeakerMcCarthy met with POTUS weeks ago on the debt ceiling & it's been crickets from the White House ever since. We have a plan to prevent a default, save tax-payers trillions, make us less dependent on China, & curb inflation â all without touching Social Security/Medicare.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1648329465947357187"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 9051- Caring for Americans with Supplemental Help (CASH) Act of 2020- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/29528/76383/102438/caring-for-americans-with-supplemental-help-cash-act-of-2020#76383"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31998/83742/102438/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Tax Relief for American Families and Workers Act is pro-growth, pro-small business, and pro-America. I was happy to vote in favor of the legislation last night to ensure Main Street has the tools they need to thrive. Check out my full statement on the legislation below:\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1753117962536391011"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 5377- Restoring Tax Fairness for States and Localities Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27510/70555/102438/restoring-tax-fairness-for-states-and-localities-act#70555"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 7024- Tax Relief for American Families and Workers Act of 2024 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36374/97564/102438/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am strongly in favor of the Tax Cut legislation! It will reduce average family in 11th District federal taxes by $1300 a year, and will create an environment for job growth and wage increases. My focus for tax reform has always been to increase PA families' income!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Meuser4Congress/status/936301766076968963?s=20&t=wcAQEiZmH38xJQd7xW7lLg"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Meuser Plan for Relieving the Tax Burden for Families 1. Make the Tax Cuts Permanent. Congress needs to act immediately to make the 2001 and 2003 tax cuts permanent. The Democrats in Congress have proposed rolling back many of these tax cuts, which would hurt working families, costing the average Pennsylvania family more than $3,000 a year.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/326735/issue-position-keeping-taxes-low"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 80% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/102438/dan-meuser"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Meuser Plan for Relieving the Tax Burden for Families 1. Make the Tax Cuts Permanent. Congress needs to act immediately to make the 2001 and 2003 tax cuts permanent. The Democrats in Congress have proposed rolling back many of these tax cuts, which would hurt working families, costing the average Pennsylvania family more than $3,000 a year.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/326735/issue-position-keeping-taxes-low"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/102438/dan-meuser"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/102438/dan-meuser"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/102438/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Late last night, Democrats voted to impose millions of dollars in new regulations on police departments without providing any funding for them to comply. Instead of working towards a solution on commonsense reforms, they are more concerned with appeasing their far-left base.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMeuser/status/1367536274832318471?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are real concerns throughout our cities and communities about the violence in our streets. There has clearly been a failed social experiment on the part of the left that has resulted in high levels of crime. Democrats have defunded and discredited police forces across the country, as well as appointed and elected liberal prosecutors who arenât prosecuting. We must correct course, and the American people deserve a president who will make national security and public safety job one.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMeuser/status/1765802494041407567?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted against the Justice in Policing Act, partisan legislation that was advanced by Speaker Nancy Pelosi with no input from Republicans and fails to offer solutions towards meaningful police reform.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMeuser/status/1276339315866513408?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/102438/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The NDAA passed in the House today strengthens our military and makes certain the United States continues to have the most dominant fighting force in the world. It protects our national security, supports our troops, & counters China â among much more. I was happy to support it\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMeuser/status/1679957522852237313?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/102438/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/102438/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/102438/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After three months of delay on a Transportation and Infrastructure vote, in the final hours before voting on nearly 5,000 pages of legislation totaling $5 trillion in spending, progressive and moderate Democrats cut a deal. Moderates would vote for reconciliation, progressives would vote for T&I, and Republicans were not invited. As these two bills are inextricably linked, if T&I had been defeated, reconciliation would have likewise failed. I have strongly supported a standalone transportation, infrastructure, and revitalization bill for months and I worked hard with my colleagues on a bill that would benefit Pennsylvanians and the American people. I could not, however, support spending $5 trillion of taxpayer dollars when I support only the 20% dedicated to hard infrastructure and I believe most of the other 80% would be detrimental to our economy, national security, and global competitiveness. The American people don't want us to make government bigger, they want us to make our country better.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1573910/meuser-statement-on-democrats-spending-bills"
+        },
+        {
+          "type": "statement",
+          "text": "\"We will work to develop and pass a transportation infrastructure bill to keep our roads and bridges safe, to modernize our highway system, and build America for the 21st century. Finally, we will be fiscally responsible with the people's money on all spending and work to reduce our deficit. On the district level, we plan to maximize Opportunity Zones to revitalize our small cities, focus on workforce development to match the enhanced demands of the 21st century workplace, maximize the economic opportunities of our area which will create good-paying jobs, improve our flood mitigation without putting it on the backs of our taxpayers, supporting police and first responders to maintain a high level of public safety, and continue to work to wipe out the terrible epidemic of drug addiction.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1395312/2020-resolution"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/102438/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/102438/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 7301- Emergency Housing Protections and Relief Act of 2020- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/102438/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act,2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/102438/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation JUMPED 7% in December, the fastest rate we have seen in 40 years. This is Joe Biden's economic crisis that is affecting the American people every day.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MyVWSucks/status/1481288760449024002"
+        },
+        {
+          "type": "statement",
+          "text": "\"The @HouseGOP is keeping its Commitment to America. HR 1 will increase domestic energy production, reduce regulatory burdens, and reform permitting across all sectors of the economy. The bill will unleash American energy, curb inflation, and create hundreds of thousands of jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1646896491766620160"
+        },
+        {
+          "type": "statement",
+          "text": "\"The last thing they need are additional roadblocks, particularly from institutions like the Federal Reserve, that limit their access to capital and ability to succeed\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1748019431454687352"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 5376- Inflation Reduction Act of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/87785/102438/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will join Liz McDonald and Liz Peek on @EveningEdit on @FoxBusiness after 6. We will discuss The Biden Administration's student loan forgiveness announcement, which is costly and confusing.\"",
+          "source": "x.com",
+          "url": "https://x.com/repmeuser/status/1564365899221684226?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why pay off your self imposed debt if Biden Democrats can get a hard working American to do it for you? Forgiving self induced student debt is a moral hazard for our country & will enhance inflation. Another out of touch and wasteful policy from Biden-Pelosi-Schumer Democrats.\"",
+          "source": "x.com",
+          "url": "https://x.com/repmeuser/status/1562446648491458560?s=46&t=SAi_mZQObOqW4xFeE1O8Vw"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102438/dan-meuser"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/102438/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For The People Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/102438/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2722 \"Securing America's Federal Elections (SAFE) Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26707/67803/102438/securing-americas-federal-elections-safe-act#67803"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/102438/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Democrat's Upside-Down Logic: â Voter ID â COVID tests for migrants at our southern border â Vaccine proof to eat and workout\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1422601077283766272?s=20&t=H_kk_cvkDHcQscGA5ZzSCQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/102438/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin's continued war on coal & devastating energy policies hinder America's energy independence & dominance.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1760728855168602457"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pennsylvania is actively advancing an all of the above and below energy approach for the greater good of our nation. That includes nuclear, solar, natural gas, hydro, coal, thermal, and wind. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1747763095970169307"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin's continued war on coal & devastating energy policies hinder America's energy independence & dominance. The Congressional Coal Caucus applauds the Ninth Circuit for its ruling ending the injunction on all federal coal leases in the U.S.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1760728855168602457"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I attended a meeting hosted by the Washington Coal Club, where leaders in the coal industry from around the country gathered to hear from my friend Congressman Andy Barr who shared his efforts within the Financial Services Committee to address discriminatory lending practices tied to the ESG movement. He emphasized the crucial role of coal in powering America's electricity grid and expressed concerns about ESG standards threatening energy projects nationwide. In Congress, I will continue to oppose unfair ESG lending practices, while working towards creating a supportive environment for the growth of our domestic energy industry.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1752755330637762756"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I spoke on the House Floor tonight demanding Joe Biden reverse this inexplicable decision, which will significantly limit Americaâs ability to regain the energy dominance we secured under President Trump. Bidenâs continued assault on American energy, including on the natural gas industry, is an assault on Pennsylvaniaâs businesses and workforce. This Administration needs to check its extreme ideology at the door and focus on outcomes. They need to wake up and woke down.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1754673326549574079"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Sustainable Political Project",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/3130/rating/12496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/102438/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, once again, Democratic leadership is proposing legislation that would do nothing to prevent criminals from accessing firearms while greatly restricting the Second Amendment rights of law- abiding citizens.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1509267/bipartisan-background-checks-act-of-2021"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 1446- Enhanced Background Checks Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30270/77850/102438/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 1808- Assault Weapons Ban of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/102438/assault-weapons-ban-of-2022"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 2377 - Federal Extreme Risk Protection Order Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32752/85845/102438/federal-extreme-risk-protection-order-act-of-2021#85845"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/102438/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, during our Small Business Committee markup, I spoke in favor of my colleague @RepGregLandsman's bill H.R. 6156, the Child Care Small Business Insight and Improvement Act. Accessible and affordable childcare is crucial for parents in the workforce, allowing them to focus on their careers and entrepreneurial endeavors while ensuring the safety and development of their children.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1752741426561945991"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against \"HR 7027- Child Care is Essential Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28461/73968/102438/child-care-is-essential-act#73968"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7027 \"Childcare is Essental Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28461/73968/102438/child-care-is-essential-act#73968"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/102438/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"WATCH: I spoke with @WBREwyou regarding the partisan impeachment process, lowering prescription drug costs, and @realDonaldTrumpâs swift action against the Iranian-backed forces in Iraq.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1213105395335598080"
+        },
+        {
+          "type": "statement",
+          "text": "\"Watch my floor speech below on why this impeachment inquiry is a sham. Democrat leadership has prioritized politics over the people, instead of bringing the USMCA to the floor, lowering prescription drug costs, and passing an infrastructure bill.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1195342988978855941"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/102438/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"The Affordable Insulin Act-- HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/102438/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/102438/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/102438/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From Joe Bidenâs self-induced crisis at our southern border to the repeated assault on American energy, to foreign policy blunders, this Administrationâs policies have been a disaster for our country. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1757926082576081151"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now Democrats are introducing H.R. 6, which only exacerbates the Biden policies at the border by creating the incentive of amnesty with no discussion of border security.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1512281/american-dream-and-promise-act-of-2021"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H Res 957- Denouncing the Biden Administration's open- borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration's open borders policies- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36296/97342/102438/denouncing-the-biden-administrations-open-borders-policies-condemning-the-national-security-and-public-safety-crisis-along-the-southwest-border-and-urging-president-biden-to-end-his-administrations-open-borders-policies#97342"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"HR 5525- Continuing Appropriations and Border Security Enhancement Act, 2024- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/102438/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden ended Remain in Mexico, halted border wall construction, loosened asylum requirements, and issued a moratorium on deportations â essentially telling the world our border was and is wide open. And since that time, there have been more than 8.5 million illegal border crossings, as well as an estimated 1.7 million got-aways.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1763255434603909344"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H- Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety crisis along the southwest border, and urging President Biden to end his administration's open-borders policies. - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36296/97342/102438/denouncing-the-biden-administrations-open-borders-policies-condemning-the-national-security-and-public-safety-crisis-along-the-southwest-border-and-urging-president-biden-to-end-his-administrations-open-borders-policies#97342"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6678 \"Consequences for Social Security Fraud Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/36373/97562/102438/consequences-for-social-security-fraud-act#97562"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks for your question! I agree with the SCOTUS decision on enforcement of travel ban, that we should enforce immigration law, stop sanctuary cities, believe we must secure our borders and support building a wall!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Meuser4Congress/status/938411481498087425"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs Deputy Special Envoy to Iran insisted Iran is not to be trusted. Yet, this Administration takes Iran at its word that they wonât use the billions of dollars in aid Biden is trying to give them to finance terror. We need to put American interests first, not Iranâs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1735025820895219744"
+        },
+        {
+          "type": "statement",
+          "text": "\"In February 2021, just three weeks into the fiasco that is the Biden Administration, the President delisted Yemenâs Houthi rebels as a \"foreign terrorist organization.\" This gave them time to recruit and grow, while forming a dangerous relationship with Iran. Now, because of Bidenâs appeasement, the Houthis are stronger than ever and attacking American commercial and military ships at Iranâs direction. As former Defense Secretary Robert Gates said of Joe Biden, \"he has been wrong on nearly every major foreign policy and national security issue over the past four decades.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1747391189215555948"
+        },
+        {
+          "type": "statement",
+          "text": "\"President @ZelenskyyUa delivered a powerful message to Congress this morning and again asked for MiG jets to defend Ukraine's skies. The U.S. can and must facilitate the delivery of these planes ASAP.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1504155841171275778?s=20&t=H_kk_cvkDHcQscGA5ZzSCQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/102438/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Res 956 \"Supporting the People of Ukraine- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32369/84593/102438/supporting-the-people-of-ukraine#84593"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32418/84733/102438/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "statement",
+          "text": "\"President @ZelenskyyUa delivered a powerful message to Congress this morning and again asked for MiG jets to defend Ukraine's skies. The U.S. can and must facilitate the delivery of these planes ASAP.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMeuser/status/1504155841171275778?s=20&t=H_kk_cvkDHcQscGA5ZzSCQ"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/102438/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/102438/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:15:37+00:00"
+}

@@ -1,0 +1,694 @@
+{
+  "name": "David Kustoff",
+  "page_title": "David Kustoff's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TN) - District 8, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TN) - District 8",
+  "candidate_id": "48997",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/48997/david-kustoff",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, the U.S. Supreme Court took a historic step overturning Roe v. Wade. This will rightfully return the authority to regulate abortion back to the states and to our elected representatives. Abortion laws should be debated and decided by the American people, not dictated by judges. I will always remain committed to advocating for strong Pro-Life policies and upholding the sanctity of life,\"",
+          "source": "kustoff.house.gov",
+          "url": "https://kustoff.house.gov/media/press-releases/rep-kustoff-issues-statement-supreme-court-dobbs-decision"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe that life begins at conception and that abortion is wrong. As your representative, I will back Pro-Life policies, vote to protect the lives of unborn children and support a Pro-Life agenda from the executive branch.\"",
+          "source": "kustoff.house.gov",
+          "url": "https://kustoff.house.gov/issues/protecting-life"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 9% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, @sanuzis. President of the @60PlusAssoc, presented me with the Guardian of Seniorsâ Rights Award for my work in Congress to protect seniors and key programs such as Medicare and Social Security. I will always be a strong voice in Congress for our West Tennessee seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1509612653194653698"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Administrator for the Centers for Medicare and Medicaid Services: We write to express strong bipartisan support for the Medicare Advantage program, which 40 percent of eligible Medicare beneficiaries, more than 22 million people, choose to enroll in.[1] We appreciate your ongoing commitment to preserving and strengthening the Medicare Advantage program for current and future Medicare beneficiaries. As the Administration considers updates to the program for plan year 2021, we urge you to ensure that the Medicare Advantage program will continue to offer affordable, high-quality, patient-centered coverage options for the diverse populations the program serves, including beneficiaries with End Stage Renal Disease who for the first time will be able to choose a Medicare Advantage plan. Millions of seniors depend on Medicare Advantage plans to provide comprehensive, affordable health care as they age. , average premiums are expected to decline by 14 percent to their lowest point in the last 13 years while enrollment is projected to increase to more than 24 million. Further, the average number of plan choices has continued to increase; , 93 percent of individuals on Medicare have access to a Medicare Advantage plan that includes prescription drug coverage for no additional premium.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1404173/letter-to-the-hon-seema-verma-administrator-for-the-centers-for-medicare-and-medicaid-services-guthrie-cardenas-blumenauer-kelly-lead-bipartisan-effort-to-secure-medicare-advantage/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs reckless spending led to the record-high inflation that's hurting all Americans today. In his proposed budget, he doubles down on this & calls for trillions in new spending & $4.7 trillion in new taxes.Families cannot afford the Democrats' tax and spend agenda anymore.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1637880612634742785"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\" (2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/48997/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 - Protecting Family and Small Business Tax Cuts Act of 2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/48997/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs reckless spending led to the record-high inflation that's hurting all Americans today. In his proposed budget, he doubles down on this & calls for trillions in new spending & $4.7 trillion in new taxes. Families cannot afford the Democrats' tax and spend agenda anymore.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1637880612634742785"
+        },
+        {
+          "type": "statement",
+          "text": "\"For years, our country has felt the burdens of a difficult, outdated tax code, and we listened when Americans said enough was enough. We took huge steps last year in passing the historic Tax Cuts and Jobs Act to grow the American economy and lead to better jobs and bigger paychecks. Here in West Tennessee, we have seen significant growth in just the past year, but our progress is far from over. Now we have voted to put permanent cuts in place to keep our businesses growing and our people thriving. The money earned by hard-working Americans belongs in their pockets, and I am glad we could take these steps this week to ensure that happens.\"",
+          "source": "kustoff.house.gov",
+          "url": "https://kustoff.house.gov/media/press-releases/permanent-tax-cuts-american-people"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by The Club For Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "statement",
+          "text": "\".@SpeakerPelosi's bill, H.R. 1, is not for the American people. The bill would use taxpayer dollars to fund campaigns, it limits free speech, and it would dictate how states run their elections. This legislation is for Washington politicians, not Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1368260590096052225"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/48997/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Police officers need the proper protections to do their jobs & safeguard our communities. That is why I cosponsored the Qualified Immunity Act, introduced by @RepJimBanks. This bill protects our brave law enforcement officers from frivolous lawsuits meant to disrupt their duties.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1528883328119713792"
+        },
+        {
+          "type": "statement",
+          "text": "\"With increased violence against officers and growing calls by the left to defund the police, we must protect our brave law enforcement officers.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepDavidKustoff/posts/pfbid0rsw2o5ZP168w6jm8cxicHpvkPY8wbdTaNaiaqMPSk7DsRfJapcNEwwW9QxuWo1Zbl"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/48997/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support growing our nation's military so that they are able to answer the call of duty. Further, we need to make sure our servicemen and women have the assets needed to protect them while engaging in combat and provide them with the services they deserve when they return home.\"",
+          "source": "kustoff.house.gov",
+          "url": "https://kustoff.house.gov/issues/national-security-and-defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Democrat's highly partisan NDAA bill undermines America's security by shortchanging the defense budget, weakening our border security, and impairing our service member's readiness. I was proud to vote against it.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepDavidKustoff/posts/pfbid02etGCrrzqrVeD9CDN11mx22R7DSLtWoLota9mKNguxPoM92PyuTRibJhrCDj5dYzHl"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government's number one priority is ensuring the safety and security of the American people. I am proud to support vital funding to increase the size of our armed forces, modernize military equipment and supply new aircraft, ships and other essential vehicles. These resources are necessary for our operations in Afghanistan, Iraq and Syria to combat ISIS and other terrorist organizations. Most importantly, this legislation gives our servicemen and women a deserved 2.4 percent pay raise, which is the largest in eight years, as well as improved medical care for service members and their families. I look forward to President Trump signing this legislation, so our troops have the tools they need to fulfill important missions and defend our nation.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepDavidKustoff/posts/pfbid02etGCrrzqrVeD9CDN11mx22R7DSLtWoLota9mKNguxPoM92PyuTRibJhrCDj5dYzHl"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/48997/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs reckless spending led to the record-high inflation that's hurting all Americans today. In his proposed budget, he doubles down on this & calls for trillions in new spending & $4.7 trillion in new taxes. Families cannot afford the Democrats' tax and spend agenda anymore.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1637880612634742785"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/48997/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 648 \"Consolidated Appropriations Act, 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27507/70545/48997/consolidated-appropriations-act-2020#70545"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\" (2020",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/48997/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/48997/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 95% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs reckless spending led to the record-high inflation that's hurting all Americans today. In his proposed budget, he doubles down on this & calls for trillions in new spending & $4.7 trillion in new taxes. Families cannot afford the Democrats' tax and spend agenda anymore.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1637880612634742785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act (Inflation Reduction Act of 2022)\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/82/economy-and-fiscal"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student loan forgiveness will cost taxpayers roughly $400 billion. There is no such thing as canceling or forgiving student loan debt. This debt will be paid for by hardworking Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1575133623384248323"
+        },
+        {
+          "type": "statement",
+          "text": "\"I applaud the Supreme Courtâs decision to block President Bidenâs $400 billion student loan forgiveness plan. 87% of Americans without student loans should not be forced to pay for the 13% who do.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1674804772384264196"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association -24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/12/elections"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week, I joined over 100 of my Republican colleagues in sending a letter to President @JoeBiden opposing his Executive Order banning oil and gas leasing on federal lands. This policy must be reversed as it will destroy American jobs and severely hurt our economy. #BidenBan\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1359583349535350787"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In an assault on your Second Amendment rights, Democrats just voted in favor of universal background checks & further gun control. I will never stop fighting for our Constitution & urge my Senate colleagues not to bring this bill to the floor for a vote.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1100864419343544322"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud we repealed the Obamacare Individual Mandate Tax. This means you are no longer forced by the government to buy insurance you donât want or need. I will continue to work to dismantle Obamacare once and for all so we can offer the best healthcare in the world.\"",
+          "source": "www.kustoffforcongress.com",
+          "url": "https://www.kustoffforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/91/health-insurance"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, the @HouseDemocrats are holding the first ever hearing on #MedicareForAll legislation. Under their government-controlled healthcare plan, 3,112,200 people in Tennessee would lose their health insurance.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDavidKustoff/status/1123266223997894658?s=20&t=aNjsUfsDpzENLJzLtEsEmg"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/38/health-and-health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"Americans pay too much for prescription drugs & that is why I support the Lower Costs, More Cures Act. This legislation offers a bipartisan solution to prescription drug reform by lowering costs on patients, providing access to new medicines & cures, & creating more transparency.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDavidKustoff/status/1205189126405971969?s=20&t=aNjsUfsDpzENLJzLtEsEmg"
+        },
+        {
+          "type": "statement",
+          "text": "\"West Tennesseans continue to pay too much for their prescription drugs. That's why I cosponsored the Lower Costs, More Cures Act. It will lower drug costs, enable the continual development of new treatments, & ensure the fed gov does not have control over our healthcare choices.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDavidKustoff/status/1437496358521425928?s=20&t=aNjsUfsDpzENLJzLtEsEmg"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There have been over 9.5 million illegal crossings of our borders since 2021. Border security is national security. The #BidenBorderCrisis continues to jeopardize the security and safety of every American citizen.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1802756578929471776"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4760 \"Securing Americaâs Future Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24733/63246/48997/securing-americas-future-act-of-2018#63246"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/48997/david-kustoff"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/40/immigration?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/40/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"By shielding violent criminals from law enforcement, sanctuary cities put American lives at risk. I am pleased the House passed legislation that will allow our federal law enforcement officers to rightfully detain and deport illegal aliens who have engaged in unlawful activity. In addition, Kateâs Law will reinforce penalties for deported felons who continue to re-enter the country and commit violent crimes. While there is much more work to be done in improving our immigration system, these two important bills are steps in the right direction.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepDavidKustoff/posts/pfbid0HmULjvuTnUKdnrqF7ZMvn7hyuZyjzNbgmXBUhvRLWSJ7t8dv7BfzXNLiR7vQB8sVl"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs failed leadership has created chaos around the world. Russia, China, & Iran have formed a new axis of evil to threaten the U.S. & our allies.That's why I voted to send emergency assistance to Israel, the Indo-Pacific, & Ukraine, & to strengthen our national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1781757694191260156"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must increase pressure on Iran to stop its dangerous nuclear advancements. I joined @RepMcCaul in sending a letter to @SecBlinken urging @JoeBiden to end current Iran talks. Instead, we must enforce existing sanctions, particularly between Iran & China.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1481368304652541955"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/48997/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/48997/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs failed leadership has created chaos around the world. Russia, China, & Iran have formed a new axis of evil to threaten the U.S. & our allies.That's why I voted to send emergency assistance to Israel, the Indo-Pacific, & Ukraine, & to strengthen our national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1781757694191260156"
+        },
+        {
+          "type": "statement",
+          "text": "\"I cosponsored @RepRichHudson and @RepSpartz's bill, The American Ammo in Defense of Ukraine Act. This bill will fast track American ammunition to Ukraine. Ukrainian President Zelenskyy asked for more ammunition, and it is vital that the United States quickly answer his call.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDavidKustoff/status/1502023990654783490?s=20&t=aNjsUfsDpzENLJzLtEsEmg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I attended President Zelenskyy's powerful address to Congress. President Zelenskyy has demonstrated extraordinary strength, bravery, and resilience as Putin continues his evil and reprehensible invasion of Ukraine. The U.S. and our allies must stand strong with Ukraine and deliver President Zelenskyy the necessary equipment and resources he needs to defend his country. It is essential we continue to implement maximum and crippling sanctions on Russia and help protect the core values of democracy and freedom that we share with the Ukrainian people,\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1611103/kustoff-issues-statement-following-president-zelenskyys-address-to-congress/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/48997/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans are dedicated to a Future Thatâs Built On Freedom. Our #CommitmentToAmerica is this: ð´ Ensure every student can succeed and give parents a voice ð´ Empower Americans to live longer, healthier lives ð´ Confront Big Tech and demand fairness\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1579520257496350720"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I voted to pass the Protecting Americans from Foreign Adversary Controlled Applications Act. This legislation requires TikTok to divest from its parent company, ByteDance, which is under the influence of Communist China. It is important to protect our national security, and to ensure Americans are not improperly targeted, surveyed, or influenced by any foreign adversary.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavidKustoff/status/1767930029307019721"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/48997/david-kustoff/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:12:53+00:00"
+}

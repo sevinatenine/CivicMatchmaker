@@ -1,0 +1,700 @@
+{
+  "name": "Jim McGovern",
+  "page_title": "Jim McGovern's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MA) - District 2, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MA) - District 2",
+  "candidate_id": "552",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/552/jim-mcgovern",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe reproductive care is health care. When the Supreme Court overturned Roe v. Wade, it ripped away a woman's right to make her own health care decisions. Because of this ruling, American women today have fewer rights than their mothers. And some Republican lawmakers are even plotting a nationwide ban to criminalize abortion in every stateâincluding here in Massachusetts. I will not stand by and allow this to happen. My colleagues and I have introduced crucial legislation such as the Womenâs Health Protection Act, Abortion is Health Care Everywhere Act, Ensuring Womenâs Right to Reproductive Freedom Act, and the Equal Access to Abortion Coverage in Health Actâand we will continue fighting until they are the law of the land.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120521"
+        },
+        {
+          "type": "statement",
+          "text": "\"Overturning Roe v. Wade left millions without essential health care. I'm proud to stand with the @ProChoiceCaucus in the fight to re-establish a nationwide right to abortion, enshrine the protections of Roe into law, and safeguard abortion access for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1749478205784768516"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It should be a national scandal that middle-and working-class families have to pay Social Security taxes on all of their income, but millionaires and billionaires donât. I will always fight like hell to protect the sacred trust that is Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1732414844614135854"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since 1965, MILLIONS of seniors and low-income Americans have relied on Medicare and Medicaid for quality, affordable health care. Now letâs protect & #ExpandMedicare by covering dental, vision and hearing so that even more Americans can benefit in the years to come. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1421177510860099590"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Democratic Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 - Protecting Family and Small Business Tax Cuts Act of 2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/552/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Trump Republicans told America a 2-trillion-dollar tax cut for their billionaire donors & rich friends would \"pay for itself\" but donât think hardworking middle class families deserve help with student loansâ¦\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1564038023406288900"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 - \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/552/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From housing, health care and hunger, think about how many problems we could tackle if wealthy Americans paid their fair share in taxes. Iâm not talking more taxesâjust their fair shareâso we can move every family forward.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1740047350314488066"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans want to balance the budget on the backs of working families. Instead of making the wealthy pay the taxes they owe, they're trying to gut vital programs that working families depend on.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1644064726236778504"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time greedy special interests got out of the way of the American people. Iâm standing with @RepAdamSchiff, @RepDeanPhillips, and @RepJayapal to get big money out of politics and overturn Citizens United.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1616116080069451780"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two disastrous Supreme Court decisions â Citizens United v. FEC and McCutcheon v. FEC â have opened up the floodgates and allowed wealthy insiders and corporate special interests to drown out the voice of the American people through nearly unlimited campaign donations. Thatâs why I am working with colleagues from across the country to overturn these disastrous court decisions and return power back to the people of this countryâwhere it belongs. Together, weâve been fighting to pass a bipartisan Constitutional Amendment called the Democracy for All Amendment, which affirms the right of states and the federal government to pass laws that regulate spending in elections, reversing the concentration of political influence held by the wealthiest Americans and large corporations capable of spending millions of dollars in our elections.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120514"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/552/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Qualified immunity creates a permanent procedural roadblock for Americans whose civil rights and civil liberties have been violated. Those who suffer injustice must not be denied their day in court.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1268576970637479937"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/552/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead of making billionaires pay their fair share of taxes or cutting some of the bloated defense budget, the GOP are focused on the most vulnerable. Hereâs a radical idea: try listening to people living in poverty instead of those on Wall Street who control the GOP agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1662551779421179908"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today Congress passed an $858 billion defense budgetâ$45 billion got added in the Senate, even though the Pentagon still canât pass a single audit. No other U.S. agency would be allowed to operate this way. Itâs too much for me to support. I voted no.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1600994638277795840"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/552/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/552/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A key reason that our economy has left the middle class behind is that too many politicians have spent decades demonizing funding for public investment in all the things that help folks get aheadâthings like schools, libraries, roads, bridges, internet access, clean air and water, building a strong manufacturing base and giving families the tools they need to get ahead. Public investment in our economy used to be 7% â today, itâs less than half that. Thankfully, that is changing. In Congress, Iâve helped bring to the floor and pass critical pieces of legislation to reverse this decades-long trend\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120515"
+        },
+        {
+          "type": "statement",
+          "text": "\"I also believe we need to invest in our economy here in Massachusetts. My team and I have helped dozens of innovative small businesses in Central and Western Massachusetts, including companies that produce solar panels, high-energy lasers, fuel cells, medical devices, and high-tech prosthetics for returning soldiers.I voted to provide essential support for local restaurants, which were some of the hardest-hit businesses during the COVID pandemic, by creating the Restaurant Revitalization Fund and then advocating for an additional $42 billion in funding to make sure local restaurant owners had the resources they need to survive the pandemic.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120515"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/552/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/552/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every person deserves a place to call home. I secured $1.6 million in federal funding to help Worcester Community Housing Resources create 90 new units for people who were formerly without housing. This project will break barriers and empower families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1777804028765757505"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe that each and every American family deserves to find stable, affordable, quality housing. I have worked hard during my time in Congress to support laws and funding for programs that encourage affordable housing and promote home ownership, and I know that if work together, we can find solutions that revitalize our communities, support renters and create paths towards homeownership, and eliminate homelessness in America once and for all.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120523"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/552/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/552/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"FIRST: Democrats passed the Inflation Reduction Act. NOW: The U.S. has the lowest inflation and strongest economic growth of all G7 nations. Republicans are big mad because Democrats and @POTUS Biden deliver on our promises.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1680576237595402247"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4521 \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/552/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/552/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"All Americans have access to affordable higher education. I've worked to end the wasteful subsidies to banks in the student loan program and to increase funding for the Pell Grant program so that middle class families can afford to send their kids to college. I've also voted for plans like Income-Based Repayment, which offer student loan borrowers manageable payments plans, and Public Service Loan Forgiveness, which allows borrowers who enter into public service the chance to have their loans forgiven after 120 payments.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Canceling student loan debt is the right thing to do & the smart thing to do. First, itâs a matter of racial justice â after decades of discrimination, Black and brown students have less wealth to draw on to pay for college and are disproportionately saddled with student debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1393262904275869708"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm joining my colleagues to call on the Biden Administration to extend the pause on federally held student loan payments and to provide meaningful student debt cancellation. Addressing the student debt crisis is a racial and economic equity issue and itâs time to act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1511372071766564866"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Trump Republicans told America a 2-trillion-dollar tax cut for their billionaire donors & rich friends would \"pay for itself\" but donât think hardworking middle class families deserve help with student loansâ¦\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1564038023406288900"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dr. King's power came not just from his wordsâbut from his actions. Voting rights are still under attack & honoring his legacy means taking actionâorganizing, marching, mobilizing & legislating.The Senate must abolish the filibuster & protect the freedom to vote. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1483141185745080328"
+        },
+        {
+          "type": "statement",
+          "text": "\"Driven by the Big Lie, states across the country are ramping up efforts to restrict the right to vote. The need for federal oversight is urgent, & it's why Iâm proud to support HR4, the John R. Lewis Voting Rights Advancement Act. We must #RestoreTheVote!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1427791144419725312"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/552/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/552/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On this #EarthDay, I remain committed to seeking a future where our children can thrive. That means taking steps to reduce our reliance on fossil fuels and create good-paying jobs in the renewable energy sector. We can fight the climate crisis and grow the economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1517547171616329729"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/552/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/552/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americaâs energy future canât be defined by drilling. Itâs not sustainable & isnât healthy for ourselves or our planet. Democrats are working with President Biden to move to clean energy because itâs stable, affordable & generated entirely here at home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1508401262106095620"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted YES on H.R. 1146, the Arctic Cultural and Coastal Plain Protection Act. It's time to #ProtectTheArctic from big oil and stop Republicans from opening up Alaskaâs pristine Arctic National Wildlife Refuge to drilling. We need to act before it's too late.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1172275946809958401"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Virginia Tech. Sandy Hook. Aurora. Las Vegas. Parkland. The list grows longer each year. Each life taken from us due to gun violence is more than another name on a list â itâs someoneâs mom or dad, someoneâs son or daughter. We cannot go on like this. As a country, thoughts and prayers are no longer enough â we need legislation and change. I don't believe in the false choice presented by too many politicians in Washington: that we must pick between the Second Amendment rights of gun owners or the safety of our communities. In fact, I believe that passing commonsense, wildly popular gun safety laws is the best way to protect responsible gun owners and address the epidemic of gun violence that has torn so many of our communities apart. We can and must do both.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120520"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Brady Campaign to Prevent Gun Violence",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/552/jim-mcgovern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/552/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud that as Chairman of the Rules Committee, I'm proud that we held the very first ever hearing on Medicare for All every in Congress ever. Because the truth is that we are all just one diagnosis away from bankruptcy. And in the United States of America, that is unacceptable and should be a crime. It is not radical to say that a person shouldnât die because they canât afford medicine. And it is not radical to say that your net worth shouldnât determine how long you live.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120521"
+        },
+        {
+          "type": "statement",
+          "text": "\"I strongly believe that we need to pass #MedicareForAll. In the richest country in the history of the world, high quality health care is a fundamental human right.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1771630037457866847"
+        },
+        {
+          "type": "statement",
+          "text": "\"There must be a better way to keep everyone healthyâand there is: Medicare for All.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1750886435790422041"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"During this pandemic, weâve learned that paid leave is absolutely vital for all workers. It's time for #PaidLeaveForAll\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1292067030711930896"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/552/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats are taking on special interests to lower costs for your family. For the first time ever, the price of insulin is capped at $35 a month and Medicare can finally negotiate lower prescription drug prices on the most expensive drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1703875006235602985"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today in the Rules Committee, I was proud to bring forward on behalf of @HouseDemocrats the Affordable Insulin Now Act, which caps out-of-pocket costs for insulin at $35 or less per month for Americans with diabetes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1509235902056435714"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/552/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/552/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman McGovern feels that immigration laws need to be tough at the border, and that American workers and immigrants who came to the country legally should not be punished for businessesâ exploitation of cheap and illegal labor. However, the Congressman also feels that there needs to be a path to citizenship for illegal immigrants who are already here, and the federal government should take bold steps to require them to pass background checks, learn English, and pay a fine. Congressman McGovern supports immigration reform with four key components: First, we must improve the effectiveness of our border security to prevent people from crossing the border illegally. Second, we must crack down on employers who recruit, hire and exploit illegal workers. Third, we must develop a common-sense approach to people who are already here illegally, to bring them out of the shadows and onto a path to citizenship. And fourth, we must have an effective and efficient system in place to process, in a timely manner, the large volume of requests to legally visit or immigrate to the United States.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120525"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24758/63301/552/border-security-and-immigration-reform-act-of-2018#63301"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/552/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR: 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/552/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman McGovern feels that immigration laws need to be tough at the border, and that American workers and immigrants who came to the country legally should not be punished for businessesâ exploitation of cheap and illegal labor. However, the Congressman also feels that there needs to be a path to citizenship for illegal immigrants who are already here, and the federal government should take bold steps to require them to pass background checks, learn English, and pay a fine. Congressman McGovern supports immigration reform with four key components: First, we must improve the effectiveness of our border security to prevent people from crossing the border illegally. Second, we must crack down on employers who recruit, hire and exploit illegal workers. Third, we must develop a common-sense approach to people who are already here illegally, to bring them out of the shadows and onto a path to citizenship. And fourth, we must have an effective and efficient system in place to process, in a timely manner, the large volume of requests to legally visit or immigrate to the United States.\"",
+          "source": "mcgovern.house.gov",
+          "url": "https://mcgovern.house.gov/issues/issue/?IssueID=120525"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigrants sustain our economy. Iâm working to ensure Dreamers, TPS holders, and others are given a fair chance at achieving the American Dream.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1436027107675627521"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1333 \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/552/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1603 \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/552/farm-workforce-modernization-act-of-2021#77981"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Reports of at least 7 killed & 60 injured by Sudanese security forces & live ammo fired at peaceful, unarmed protestors. Military leaders are using violence to hold power as the Sudanese people call for freedom & civilian rule. The U.S. must condemn & sanction coup leaders, now!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1483268707392667649"
+        },
+        {
+          "type": "statement",
+          "text": "\"Russian oligarchs are scrambling to hide yachts, divert private planes & evade the financial consequences of Putinâs war. President Bidenâs targeted sanctions are working & pressuring Putin & his corrupt regime to find a diplomatic off-ramp from this conflict.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1501191647920631813"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/552/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/552/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's been two years since Putin's unprovoked assault on Ukraine. We can't abandon them in their fight for freedom. Not today, not tomorrowânever.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1761361833351696879"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/552/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/552/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/552/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Data privacy and misinformation concerns aren't unique to TikTok. Congress should pass comprehensive legislation to address these challengesânot bills that ban apps. Suppressing free speech doesn't help us stand up to China; it makes us more like China.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMcGovern/status/1770873903394566373"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/552/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:28:03+00:00"
+}

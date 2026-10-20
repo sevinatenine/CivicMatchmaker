@@ -1,0 +1,562 @@
+{
+  "name": "Peter Stauber",
+  "page_title": "Peter Stauber's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MN) - District 8, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MN) - District 8",
+  "candidate_id": "159954",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/159954/peter-stauber",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was an honor to attend the @WaysandMeansGOP portrait unveiling for my friend and roommate @RepKevinBrady. Kevin authored and was key to passing the historic Tax Cuts and Jobs Act, the biggest tax cut since President Reagan. His leadership in DC will be missed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1552732947773538304"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's astonishing that the Democrats want to continue their disastrous tax & spend agenda while Americans are just scraping by to afford basic needs in Biden's Recession. Could they be any more out of touch?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1554175539497390080"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's simple: the historic Trump Tax Cuts have provided relief to hard-working middle class Americans, spurred economic growth, & created jobs. That's why I am proud to support @RodneyDavis's bill to make these tax cuts permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1493279531129524229"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was an honor to attend the @WaysandMeansGOP portrait unveiling for my friend and roommate @RepKevinBrady. Kevin authored and was key to passing the historic Tax Cuts and Jobs Act, the biggest tax cut since President Reagan. His leadership in DC will be missed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1552732947773538304"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's simple: the historic Trump Tax Cuts have provided relief to hard-working middle class Americans, spurred economic growth, & created jobs. That's why I am proud to support @RodneyDavis's bill to make these tax cuts permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1493279531129524229"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/159954/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/159954/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/159954/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in against H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/159954/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/159954/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Right now, 1 in 3 Americans say their family is falling behind financially. @HouseGOP is ready to provide relief to working families, starting with bringing responsible spending back to Washington!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1594747217386037258"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under Democrat control, Washington is recklessly spending money it doesnât have causing inflation to rise and the cost of living to skyrocket for Minnesota families. Thanks to Joe Biden and Nancy Pelosi, the average working family is spending an extra $5,200 this year. With our nation now surpassing $30 Trillion in the red, there has never been a more urgent time to stop spending money we donât have. Our nation is drowning in trillions of dollars of debt while millions of Americans are still struggling. We need to change course. We should consider passing a constitutional balanced budget amendment.\"",
+          "source": "petestauberforcongress.com",
+          "url": "https://petestauberforcongress.com/about/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/159954/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3746 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/159954/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/159954/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/159954/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Under Democrat control, Washington is recklessly spending money it doesnât have causing inflation to rise and the cost of living to skyrocket for Minnesota families. Thanks to Joe Biden and Nancy Pelosi, the average working family is spending an extra $5,200 this year. With our nation now surpassing $30 Trillion in the red, there has never been a more urgent time to stop spending money we donât have. Our nation is drowning in trillions of dollars of debt while millions of Americans are still struggling. We need to change course. We should consider passing a constitutional balanced budget amendment.\"",
+          "source": "petestauberforcongress.com",
+          "url": "https://petestauberforcongress.com/about/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5376 \"Build Back Better Act (Inflation Reduction Act of 2022)\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/159954/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/159954/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's unconstitutional plan to cancel student loan debt was a slap in the face to the majority of Americans who did not go to college or already paid off their debt. Americans should not be forced to subsidize someone elseâs tuition through their hard-earned tax dollars.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1674806755732094976"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A majority of Americans support voter ID, yet Senate Democrats are trying to pass legislation that would ban simple ID checks at the ballot box. I voted against this bill in the House and my Senate colleagues must do the same!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1407443830031503373"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/159954/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/159954/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "statement",
+          "text": "\"When Biden says \"climate\" I think of how he chooses Chinese solar panels made with slave labor and no environmental protection while he tries to ban clean, domestic mining in my district.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1537156603895599105"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/159954/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gas prices are rising in MN and across the nation because of President Bidenâs harmful actions, like killing the Keystone XL pipeline and banning drilling on public lands. This is the last thing Americans need as we work to recover from the COVID crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1371849456145027072"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"Lower Energy Costs Act",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/159954/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners Of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a victim of two-violent gun crimes, I know that criminals don't care about gun laws. Thatâs why I will never vote for bills that will erode the 2nd Amendment & prevent law-abiding Americans from exercising their right to self-defense.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1370073217910591498"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/159954/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/159954/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/159954/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"COVID-19 has had a devastating effect on Minnesota workers. DOL has awarded over $9.8 million in emergency unemployment grants to help mitigate those effects. In addition, I voted for legislation that expanded paid sick, family, and medical leave during this crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1255562827940745216"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/159954/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/159954/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/159954/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs policies have crippled border patrolsâ ability to keep communities safe. -Withdrew from the Remain in Mexico agreement. -Reinstated catch and release. -Halted construction of the border wall. The materials are ready, we must resume construction of the border wall!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1755702415402422482"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Bidenâs historic border crisis allows violent criminals to traffic humans and dangerous fentanyl freely across our borders. Border security is national security, and under Biden, we have neither. We must enforce our laws, increase border security, and get rid of Bidenâs borderless approach.\"",
+          "source": "petestauberforcongress.com",
+          "url": "https://petestauberforcongress.com/about/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by Federation for American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/159954/peter-stauber"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/159954/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Bidenâs historic border crisis allows violent criminals to traffic humans and dangerous fentanyl freely across our borders. Border security is national security, and under Biden, we have neither. We must enforce our laws, increase border security, and get rid of Bidenâs borderless approach.\"",
+          "source": "petestauberforcongress.com",
+          "url": "https://petestauberforcongress.com/about/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1333 \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/159954/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1603 \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/159954/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/159954/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/159954/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/159954/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/159954/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/159954/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/159954/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The censorship of speech by these mega Silicon Valley tech companies should alarm all those who hold dear the First Amendment of our Constitution. No matter where you are on the political spectrum, stifling free speech is a grave danger to our Republic.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepPeteStauber/status/1349015410625179657"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/159954/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:13:08+00:00"
+}

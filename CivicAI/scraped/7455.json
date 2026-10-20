@@ -1,0 +1,460 @@
+{
+  "name": "Mike Rounds' Issue Positions (Political Courage Test)",
+  "page_title": "Mike Rounds' Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (SD) - Jr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (SD) - Jr",
+  "candidate_id": "7455",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/7455/mike-rounds",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm pro-life.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/921430/were-south-dakotans-first#.XZTSmEE3kfJ"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds#.XZTUt0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It will provide more jobs, bigger paychecks and a fairer tax system, especially to lower- and middle-income Americans who haven't seen a pay raise in nearly a decade.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210813/rounds-statement-on-senate-passage-of-tax-cuts-and-jobs-act#.XZTr00E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XZTTe0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I do believe tax cuts are an important step to controlling our debt\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1196076/20-trillion-reasons-to-reform-taxes-and-mandatory-payment-programs"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/53#.XZTU6UE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The long-term driver of our federal debt and deficit remains the rapid, unchecked growth of mandatory payments, including Social Security, Medicare and Medicaid. Already, spending on these mandatory payments, as well as interest on our debt, account for 70 percent of all federal spending. And, according to the latest budget outlook, this level is expected to rise to nearly 80 percent within the next ten years.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1241698/working-hard-to-advance-pro-growth-economic-policies"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I do believe tax cuts are an important step to controlling our debt, the biggest driver of our debt is the rapid, unchecked growth of mandatory payments on safety net programs including Medicare, Medicaid and Social Security. If we continue down our current path, in less than ten years 99 percent of all federal revenue will have to be spent on mandatory payments and interest on our sky-high debt. No amount of cuts to defense and other programs such as crop insurance, education, highways and bridges will have a meaningful effect on debt reduction without also controlling the cost of these mandatory payment programs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1196076/20-trillion-reasons-to-reform-taxes-and-mandatory-payment-programs"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/12#.XZTVCEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The JUSTICE Act seeks to address bad behavior within our law enforcement community through reasonable, commonsense reforms that improve training, transparency and accountability. The overwhelming majority of police officers are upstanding citizens who risk their lives every day to keep our communities safe. We must stand with our law enforcement professionals, but also hold them accountable. We can do both and the JUSTICE Act helps us get there.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1438731/rounds-supports-police-reform-bill-in-senate"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At a time of increased global uncertainty and unrest, it is critical that our men and women in uniform are in the best position possible to defend our great nation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1196084/strengthening-our-armed-forces#.XZTscUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is our duty to provide funding stability and avoid arbitrary budget caps that constrain defense spending below that which is required to protect our Nation. Failure to provide adequate, stable funding disrupts planning, impacts responsible obligation of critical funding resources, degrades readiness, and inhibits modernization, and there have been disturbing real-world consequences.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1251489/national-defense-authorization-act-for-fiscal-year-2019#.XZTsOUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/22#.XZTVJ0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A healthy economy is dependent on a strong, safe and vibrant transportation system that allows us to move people, goods and commerce with ease.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1002325/rounds-applauds-committee-passage-of-six-year-highway-bill#.XZTtCUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 22 - Fixing America's Surface Transportation (FAST) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/54061#.XZTTyUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It helped businesses by cutting the corporate tax rate to 21 percent from 35 percent, taking the U.S. from one of the highest to one of the lowest corporate tax rates in the world. Tax reform helped small businesses by creating the first-ever 20 percent deduction for pass-through business income.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1340916/working-to-improve-south-dakotas-small-businesses"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lowering tax rates would incentivize companies to repatriate that money and invest it back into our economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1196076/20-trillion-reasons-to-reform-taxes-and-mandatory-payment-programs#.XZTW-UE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XZTTe0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"U.S. Sen. Mike Rounds (R-S.D.) today issued the following statement after voting in favor of emergency COVID-19 relief legislation. It now must be passed by the House of Representatives, before being sent to President Trump for signature. As a nation, we're all feeling the effects of this unprecedented crisis. I'm glad we were able to come together to provide immediate, direct relief to South Dakota families and businesses, while at the same time taking steps to stabilize our economy. It is not a perfect bill, but it gets resources to state and local governments, who know the needs of their communities better than anyone else. It also removes regulatory barriers so businesses can get people the help they need during this time of crisis.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1414814/rounds-supports-covid-19-relief-legislation#.XozMgchKg2w"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XodqK5NKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mike believes in local control of education, and while standards are important, a \"one size fits all\" directive from the federal government does not serve our children well.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/921580/issue-position-on-the-issues#.XZTWDEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/27#.XZTVWkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"All forms of domestic energy should be pursued. Mike does not believe in higher taxes on energy producers.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/921580/issue-position-on-the-issues#.XZTWDEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Good energy policies include an \"all of the above' approach that will strengthen our economy, create jobs and enhance our energy independence. I am pleased with the president's decision today to leave the misguided Paris Climate Agreement.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1168007/rounds-statement-on-presidents-decision-to-exit-paris-climate-agreement#.XZTtRkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/29#.XZTVdkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"However, I believe the best way to address the changing climate is through American innovation, not by unrealistic, unaffordable government mandates.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1340911/green-new-deal-is-a-bad-deal-for-south-dakota"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/30#.XZTVmUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We write in support of EPA's proposal to repeal the so-called \"Clean Power Plan\" (CPP), published in the Federal Register on October 16, 2017.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1216777/letter-to-administrator-pruitt-epa-clean-power-plan-repeal#.XZTtnEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Green New Deal is an extreme proposal introduced earlier this year by a number of our Democrat colleagues in a misguided attempt to reduce carbon emissions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1340911/green-new-deal-is-a-bad-deal-for-south-dakota"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue to fight against the president's endless attack on our 2nd amendment rights.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1056817/rounds-statement-on-president-obamas-gun-control-announcement#.XZTujkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/37#.XZTVtkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mike opposes Obamacare and would work to repeal and replace it with market-based, patient-centered solutions. \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/921580/issue-position-on-the-issues#.XZTWDEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Obamacare needs to be repealed and replaced by a patient centered, market driven solution, that focuses on quality care for our loved ones. Obamacare threatens Medicare. We owe it to our seniors to make sure we have a solvent Medicare program\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/910719/dysfunction-in-washington#.XZTS5EE3kfJ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 667 - Health Care Freedom Act of 2017.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/60869#.XZTUfEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XodpgpNKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border security is national security. Glad to see @realDonaldTrump âs border wall system is working.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenatorRounds/status/1237795489938112513"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joined @JimInhofe @SenTedCruz @SenJohnKennedy to introduce the WALL Act, which would fully fund the southern border wall & identifies specific funding sources to pay for it.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenatorRounds/status/1070692763220492293"
+        },
+        {
+          "type": "statement",
+          "text": "\"The primary responsibility of the federal government is the defense of our nation, which includes strong border security,\" said Rounds. \"The WALL Act will provide full funding for construction of a physical barrier along our southern border to protect against illegal immigration and stop those who wish to do us harm, such as terrorists, gang members and drug dealers, from entering the United States from the south. It pays for the wall by closing existing loopholes that allow illegal immigrants to receive federal benefits and increasing fines for illegal border crossings and visa overstays.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1318963/rounds-colleagues-reintroduce-bill-to-fully-fund-border-wall"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The fact that state and local governments release dangerous criminals who are here illegally should be of great concern to all Americans, whether or not they live near a sanctuary city,\" said Rounds. \"This bill would protect American families by strengthening our borders and would make it easier for the federal government to deport criminals who are here illegally.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1018776/rounds-votes-to-protect-american-families-strengthen-immigration-enforcement#.XZTvfEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By imposing strong, enforceable sanctions against these nations, we are sending a strong message that the U.S. will not tolerate these acts of aggression. I thank President Trump for signing these sanctions into law today.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1186500/rounds-statement-on-president-trump-signing-sanctions-bill-into-law"
+        },
+        {
+          "type": "statement",
+          "text": "\"Once again the Administration is loosening sanctions on Iran in a way it told Congress it would not do,\" said Rounds. \"The JCPOA was bad enough but providing Iran with further access to US dollars is simply wrong. It will only provide further opportunities to enrich this terrorist state.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1090175/rounds-statement-on-administration-move-to-loosen-sanctions-on-iran"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/22#.XZTVJ0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The North Korean regime continues to threaten the U.S. and our allies with violence, weapons of mass destruction and cyberattacks. Such actions must not be tolerated. Increasing sanctions will apply pressure on the North Korean regime.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1104467/rounds-supports-new-north-korean-sanctions#.XZTwikE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 93% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/22#.XZTVJ0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"During his time in office, ISIL rose to prominence due to the administration's determination to withdraw all U.S. forces from Iraq.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1142045/obamas-failed-foreign-policy-legacy"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I urge Speaker Pelosi to take a vote on the USMCA, which is supported by a majority of Americans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1365776/time-for-congress-to-pass-the-us-mexico-canada-trade-agreement"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/7455/mike-rounds/63#.XZTV4kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The best way to strengthen our negotiating position with China is to re-engage with trading partners in that region, specifically those in the TPP. This will give us a tremendous advantage as we seek the best deal for South Dakota producers.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1236109/rounds-statement-on-china-tariff-proposal#.XZTwP0E3kfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:02:41+00:00"
+}

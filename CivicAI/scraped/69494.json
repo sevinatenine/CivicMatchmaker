@@ -1,0 +1,465 @@
+{
+  "name": "Bill Cassidy",
+  "page_title": "Bill Cassidy's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (LA) - Sr, Republican",
+  "candidate_id": "69494",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/69494/bill-cassidy",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cassidy strongly supports the right to life, and will defend the rights of the unborn in the House of Representatives.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/850053/issue-position-faith-and-family-values#.Xbg8y0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/75#.Xbg7bUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 3967 - Senator Rand Paul's Amendment to H.R. 6157.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/63962#.Xbg5pUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.Xbg58kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"You deserve to keep more of your own money. This plan will cut taxes for working families in Louisiana, grow our economy, and help keep American jobs from moving overseas.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206156/high-praise-from-committee-republicans-on-senate-tax-plan#.Xbg9LUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Bill Cassidy, M.D. today voted against raising the debt ceiling. The legislation to raise the debt ceiling provided no new cuts in spending or reforms to save Medicare and Social Security. Dr. Cassidy released the following statement: \"The budget deficit is above $500 billion and our national debt is over $17 trillion. We can't just talk about cutting spending, we need to do it.\"\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/845540/cassidy-opposes-debt-ceiling-increase-without-spending-reforms"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare and Social Security are incredibly important programs, which we learned today are in extreme jeopardy,\" said Dr. Cassidy. \"If we wish to preserve these programs for those who are on them, and strengthen them for those who have paid into them and rightly expect to receive benefits, we must modernize them and address the underlying fundamentals that are so broken.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1257792/cassidy-we-must-get-serious-about-saving-medicare-and-social-security-from-bankruptcy#.Xcxc1kFTkfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/53#.Xbg7mEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax Cuts & Jobs Act, the largest overhaul of the tax code in 3 decades\".",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenBillCassidy/status/1224879538871635968"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here is what Senate Democrats blocked when they decided against allowing deliberation of the JUSTICE Act, if you will, addressing the demands of the people who are calling for reforms of policing. They denied stronger accountability measures for the police departments. The JUSTICE Act requires reporting of use of force and no-knock warrants. It increased penalty for false police reports. It institutes penalties for failing to properly use body cameras. It requires sharing of disciplinary records so that departments will know whether an applicant has the history of bad behavior in another law enforcement department.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1437869/the-justice-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"What happened to George Floyd, Breonna Taylor and so many others should never happen again. Policing procedures, especially the use of deadly force, must be reviewed and changed accordingly. I thank Senator Scott for introducing this bill and look forward to working with him to see that it passes,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1440282/cassidy-joins-scott-in-introducing-justice-act"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/22#.Xbg7yEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are keeping our promise to rebuild our military and support our men and women in uniform,\" said Dr. Cassidy. \"We were able to give troops a deserved pay increase and secure millions in needed funding to improve our military bases in Louisiana. I thank the president and the rest of the Louisiana congressional delegation for making this a priority.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1273959/cassidy-defense-bill-funds-improvements-at-military-bases-in-louisiana-increases-troops-pay#.Xbg_YEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now is the time to invest in infrastructure. Louisiana ports are the gateways to the world. This grant allows the Port of New Orleans to increase its storage ability so that more goods will flow through the port and onto the global marketplace.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenBillCassidy/status/1270104689951064064"
+        },
+        {
+          "type": "statement",
+          "text": "\"This federal aid assures the people of Louisiana that more help is on its way,\" said Dr. Cassidy. \"Repairing our damaged infrastructure represents a crucial step in our recovery. The entire Louisiana delegation continues to work to ensure that our state has every resource it needs to rebuild and prosper.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1167873/louisiana-delegation-announces-10-million-grant-from-the-us-department-of-transportation#.Xbg_u0E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 22 - Fixing America's Surface Transportation (FAST) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/54061#.Xbg6UkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.Xbg58kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"You deserve to keep more of your own money. This plan will cut taxes for working families in Louisiana, grow our economy, and help keep American jobs from moving overseas.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206156/high-praise-from-committee-republicans-on-senate-tax-plan#.Xbg9LUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"\"By providing administrative clarity and regulatory relief, the SAVE Jobs Act would help protect energy businesses and workers who are vital to our national and economic security but have been significantly hamstrung by the shutdowns caused by COVID-19,\" said Cramer. \"The bill would also extend the 45Q carbon capture tax credit, ensuring current and future carbon capture projects can keep moving forward. We should include this legislation if we take up an additional relief package.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1437410/lankford-colleagues-introduce-bill-to-help-protect-us-energy-jobs\n"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reassured today, members of Congress set aside differences to pass legislation for the betterment of workers, small businesses and all Americans struggling during these challenging times. Our work is not complete. We must be proactive to slow the spread of this virus.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/BillCassidy/status/1243603694261800960"
+        },
+        {
+          "type": "statement",
+          "text": "\"States and local governments have lost much of their tax base due to the #COVID19 lockdown. My SMART Fund delivers relief to local governments to pay police, firefighters, teachers and sanitation workers to get our economy back on track.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenBillCassidy/status/1275787004249288704"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XpC4FMhKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Empowering parents, teachers and students starts by tailoring learning curriculums to students' needs, not government demands.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/965350/cassidy-stops-common-core-pushes-for-education-reform#.Xbg_-EE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/27#.Xbg8AkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bill is also a strong supporter of alternative energy technologies, like solar power, biofuels, and ultra-efficient vehicles, which will improve the environment and contribute to America's energy security.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/850046/issue-position-energy-and-environment"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We write in support of the Title XVII Innovative Technology Loan Guarantee Program (Title XVII). We believe Title XVII is successful and continues to provide valuable contributions to American innovation in the energy sector, and we respectfully request that you work with us to find ways to continue to fund this vital program within the Department of Energy (DOE).\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1335712/letter-to-chairman-shelby-vice-chairman-leahy-chairman-alexander-and-ranking-member-feinstein-senator-manchin-and-group-of-senators-urge-full-funding-for-doe-loan-guarantee-program"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\" Cassidy successfully blocked a package of Democrat-passed bills that would decimate the U.S. energy industry, strip states of future environmental protection funds, and threaten the environment by opening the door for foreign countries with worse environmental standards to take the lead in global energy production. H.R. 205, H.R. 1941 and H.R. 1146 would ban energy production in the Eastern Gulf of Mexico, the Pacific Ocean, the Atlantic Ocean and the Arctic National Wildlife Refuge. They would also deprive future funds from going to the Land and Water Conservation Fund, Historic Preservation Fund and states that receive dollars under the Gulf of Mexico Energy Security Act, all of which fund projects to protect historic sites, the environment, and provide outdoor recreation access across the country.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1404460/cassidy-year-in-review-legislative-accomplishments"
+        },
+        {
+          "type": "statement",
+          "text": "\"CO2 emissions are steadily decreasing in the U.S. because of the low cost of natural gas, not due to Obama era regulations. Investing in energy infrastructure in the U.S., instead of American companies moving their plants to China and elsewhere, is good for the environment and good for American workers,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1201379/cassidy-comments-on-repeal-of-clean-power-plan#.XbhAakE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed by National Rifle Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/37#.Xbg8I0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Second Amendment guarantees law-abiding citizens the right to keep and bear arms. I am proud to have an \"A\" rating from the National Rifle Association (NRA) because I have and will continue to fight for Louisianans rights that are protected by the Constitution.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/989944/issue-position-second-amendment-rights#.XbhBEkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 667 - Health Care Freedom Act of 2017.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/60869#.Xbg7MEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"If given the opportunity to start replacing Obamacare with patient-centered solutions, Republicans need to be ready--King v. Burwell might be that opportunity. Affordable, accessible health care that gives patients the power must be a reality.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1003827/cassidy-statement-on-obamacare-rate-increases#.XbhBakE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XpC368hKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proud to support the WALL Act, legislation to fully fund a wall along our country's southern border,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1314192/cassidy-inhofe-rounds-kennedy-cruz-reintroduce-bill-to-fully-fund-border-wall"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/40#.Xbg8U0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\" released the following statement after voting today in support of the End the Shutdown and Secure the Border Act, legislation providing $5.7 billion for physical border barriers. The bill was a compromise proposed by President Trump in good faith, and it included immigration provisions Democrats have supported in the past, as well as disaster recovery resources. \"I voted for President Trump's proposal to re-open government, put 800,000 federal employees back to work, and secure our border,\" said Dr. Cassidy. \"President Trump has made multiple offers to Democrats. I hope they will soon negotiate.\" Last week, Cassidy announced his support for the Shutdown Fairness Act (S. 113), legislation ensuring essential federal workers are paid during government shutdowns.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1324047/cassidy-urges-democrats-to-negotiate-to-end-the-shutdown-secure-the-border"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress, by the Constitution, has a right to oversee how the Obama administration spends taxpayer money. The administration should not be spending money on executive amnesty.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/953492/cassidy-votes-to-stop-executive-amnesty-in-homeland-security-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"I oppose amnesty.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/989926/issue-position-border-security"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/40#.Xbg8U0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iran is a great threat and cannot be allowed a pathway to obtain or create a nuclear weapon. Congress needs to review and approve the deal to ensure it is in the best interest of Americans. Until Congress can confirm these negotiations meet our standards, and those of our allies, I will reserve judgement.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1003926/cassidy-statement-on-iran-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iran's actions represent the death throes of a dying regime. The Iranians would like nothing more than for us to attack so they can unite their people behind a theocracy which no longer represents the people. The pressure we have placed on Iran's evil regime is working.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenBillCassidy/status/1141748979409084416"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/22#.Xbg7yEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Introduced a resolution stating: \"declares that the death of Qasem Soleimani represents a measure of justice and relief for the families and friends of the hundreds of American men and women who lost their lives in Iraq and Afghanistan, the men and women around the world who have been killed by other IRGC?QF?sponsored attacks, the men and women of the United States Armed Forces and the intelligence community who have sacrificed their lives pursuing Qasem Soleimani and the IRGC?QF; (2) commends the men and women of the United States Armed Forces and the United States intelligence community for the tremendous commitment, perseverance, professionalism, and sacrifice they displayed in disrupting Qasem Soleimani's planned imminent terrorist attacks; (3) commends the men and women of the United States Armed Forces and the United States intelligence community for committing themselves to defeating, disrupting, and dismantling the IRGC QF; (4) commends the President for ordering the successful operations to locate and eliminate Qasem Soleimani; and (5) reaffirms its commitment to disrupting, dismantling, and defeating the IRGC QF and affiliated organizations around the world that threaten United States national security and bringing terrorists to justice.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1394408/cassidy-introduces-resolution-praising-successful-mission-to-eliminate-soleimani"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/22#.Xbg7yEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"USMCA, a signature deal between the U.S., Canada and Mexico that will benefit American farmers, manufacturers and energy workers\".",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenBillCassidy/status/1224878483127644160"
+        },
+        {
+          "type": "statement",
+          "text": "\"Louisiana is home to five of the top 15 U.S. ports by tonnage, making Louisiana essential in exporting American goods around the world. Securing this deal is a major victory for Louisiana's economy and workers. I thank Mexico and Canada for working with us to secure a more fair and beneficial trade deal for all.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/SenBillCassidy/posts/2183941021874370"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/69494/bill-cassidy/63#.Xbg8nEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"U.S. Senator Bill Cassidy, M.D. (R-LA), a member of the Senate Finance Committee, released the following statement applauding the Trump administration's success in securing a new trilateral trade deal with Canada and Mexico. \"I applaud the president for standing up for American workers,\" said Dr. Cassidy. \"Louisiana is home to five of the top 15 U.S. ports by tonnage, making Louisiana essential in exporting American goods around the world. Securing this deal is a major victory for Louisiana's economy and workers. I thank Mexico and Canada for working with us to secure a more fair and beneficial trade deal for all.\" Cassidy recently conducted meetings with foreign heads of state and senior government officials in Mexico and Guatemala focused on trade as well as strengthening border security, fighting drug trafficking, improving trade, and creating Louisiana jobs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1288711/cassidy-new-trade-deal-with-canada-and-mexico-is-a-major-victory-for-louisiana-workers"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:55:59+00:00"
+}

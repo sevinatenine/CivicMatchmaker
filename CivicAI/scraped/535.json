@@ -1,0 +1,460 @@
+{
+  "name": "Mark Warner",
+  "page_title": "Mark Warner's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (VA) - Sr, Democratic Majority Conference Vice Chair",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (VA) - II",
+  "candidate_id": "535",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/535/mark-warner",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the father of three daughters, I believe that a woman's health, not politicians in Washington, should drive important medical decisions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1017522/pain-capable-unborn-child-protection-act-motion-to-proceed#.XY5VwkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sen. Warner believes that women have the right to make their own health and reproductive decisions. He understands it is vital to increase women's access to health care, education and legal contraception, and opposes efforts to restrict or criminalize reproductive health decisions.\"",
+          "source": "votesmart.org",
+          "url": "http://votesmart.org/public-statement/887754"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nonpartisan analyses released yesterday confirm the final Trump-Republican tax bill will hike taxes on millions of middle-class Americans in order to pay for massive cuts for corporations and the wealthiest Americans. By 2027, under the Trump-Republican tax bill, families earning under $75,000 would pay more in taxes than they do today -- while the top 1 percent would enjoy the largest tax breaks, according to the Joint Committee on Taxation (JCT).\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1217218/statement-on-senate-passage-of-gop-tax-bill#.XcHaeEFTkfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner#.XcHZ-kFTkfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 83% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/53#.XY5cx0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sen. Warner believes Medicare and Social Security are among the most effective government programs ever created. He recognizes that we must follow through with our promises to our seniors, and work together to strengthen these programs for today's seniors and reform them so they will still exist for the next generation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887756/issue-position-seniors#.XY5n_UE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"The lack of proper disclosure undermines the very campaign finance system envisioned by the Court. For seven long years, companies have had free rein to solidify their influence in politics and maximize their impact on elections. As the magnitude of the problem and the potential for abuse has skyrocketed, investor demand for this information has greatly intensified.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1171225/letter-to-chair-and-ranking-member-of-the-senate-financial-services-appropriations-subcommittee-reject-efforts-to-block-corporate-political-spending-disclosure/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"The Supreme Court's 2010 decision in Citizens United v. FEC fundamentally changed our nation's campaign finance laws by allowing unlimited and unchecked corporate spending on campaign ads and various other political communications--a decision with which we fervently disagree. However, notwithstanding our disagreement with the Court's holding, the decision clearly recognized shareholder and public interest in the disclosure of political spending. In fact, Justice Kennedy wrote:\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1129676/letter-to-the-honorable-mitch-mcconnell-senate-majority-leader-reject-efforts-to-block-corporate-political-spending-disclosure/"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to move quickly to pass the #JusticeInPolicing Act, which would help address police brutality, hold police accountable, and create meaningful, structural change. Americans canât afford to keep waiting, the Senate must act on this bill NOW.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1298695432118374400"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's been a tough fight, but I'm pleased we have emerged with a bill that includes many of the Virginia priorities that are vital to our nation's defense, especially full funding for our shipbuilding programs and ship repair accounts. These will help bring needed stability to the Hampton Roads workforce and industrial base,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/836236/warner-and-kaine-announce-provisions-to-fully-fund-shipbuilding-and-ship-repair-included-in-omnibus-appropriations-bill/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for a Livable World.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/22#.XY5dCEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/22#.XY5dCEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Warner believes that we must increase investment to reduce traffic congestion for Virginia commuters, boost worker efficiency, and help get U.S. manufactured goods and services to the world market, ensuring America's global competitiveness in the 21st century.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1035622/issue-position-infrastructure/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sen. Warner is committed to upgrading our nation's infrastructure through the 2013 Building and Upgrading Infrastructure for Long-Term Development (BUILD) Act. This bipartisan initiative will create thousands of jobs through innovative financing tools to help states and localities launch or rebuild bridges, rails and roads.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887747/issue-position-jobs-and-the-economy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 22 - Fixing America's Surface Transportation (FAST) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/54061#.XY5aNEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to cosponsor this important legislation to help bring back jobs to states like Virginia,\" Sen. Warner said. \"This bill, along with my America Recruits proposal to boost state and local economic development incentives to encourage onshoring of advanced manufacturing jobs, will help strengthen our economy and create jobs here in the Commonwealth.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/897585/warner-walsh-stabenow-and-pryor-bill-closes-corporate-tax-loophole-and-brings-jobs-back-to-america/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nonpartisan analyses released yesterday confirm the final Trump-Republican tax bill will hike taxes on millions of middle-class Americans in order to pay for massive cuts for corporations and the wealthiest Americans. By 2027, under the Trump-Republican tax bill, families earning under $75,000 would pay more in taxes than they do today -- while the top 1 percent would enjoy the largest tax breaks, according to the Joint Committee on Taxation (JCT).\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1217218/statement-on-senate-passage-of-gop-tax-bill#.XcHaeEFTkfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner#.XcHZ-kFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"I donât know about you, but Iâm pretty angry about this. Thanks to the GOP tax bill, CEOs are cashing out instead of investing in their companies or giving their workers a raise. Itâs not right. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1024024455457263616"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XoeJEMhKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"I strongly urge the House of Representatives to pass the CARES Act without delay, so that we can get this urgently-required relief to those who so badly need it.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1243024063657885700"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every child deserves a high-quality education, regardless of where they live or how much money their parents make. That means it is vitally important to do all we can to make sure we target public resources in the smartest, most effective way possible,\" said Sen. Warner. \"I'm pleased that this significant reform legislation includes initiatives I have championed since I was Virginia's Governor to make sure that federal education dollars are allocated into the classroom instead of toward administrative, \"back office\" operations. In addition, this legislation reflects efforts to give states and schools the tools they need to prepare students for success from early learning all the way into the workforce. The Every Student Succeeds Act is an investment in our nation's economic future, and I'm pleased to have played a role in strengthening this bipartisan legislation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1061675/congress-sends-k-12-education-reform-bill-to-presidents-desk/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/27#.XY5f1kE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Only by maintaining and improving traditional energy sources, while encouraging development of new forms of clean energy, can Virginia and the nation secure its energy future.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887762/issue-position-energy#.XY5mN0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/29#.XY5gCkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sen. Warner has taken a lead role in urging the federal government to continue making investments in Virginia's clean energy economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887762/issue-position-energy#.XY5mN0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is appropriate that the U.S. is leading in efforts to address carbon pollution, and I am hopeful that we will be able to work with our international partners to agree to global reductions in carbon emissions later this year.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1005401/warner-on-clean-power-plan/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/30#.XY5gSEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Senate Intelligence Committee, I know the challenges we face every day in dealing with the threat of violent terrorists determined to do our nation harm. Given those challenges, it makes absolutely no sense to me that the Senate would refuse to take these commonsense steps to strengthen our background check system and close a dangerous loophole that allows suspected terrorists to legally purchase guns.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1095105/sen-warner-statement-on-failed-gun-votes#.XY5nQUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 4750 - Fix Gun Checks Act of 2016.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/56962#.XY5ax0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the tragic rate of gun violence today, I simply cannot support efforts âto further weaken our nation's gun laws. That includes renewed efforts this Congress to relax the standards for issuing concealed carry permits or to establish a national system that would further erode state-level concealed carry standards.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1173784/sen-warner-statement-on-concealed-carry-gun-legislation#.XY5ntkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"With key bipartisan fixes and improvements, the ACA can help deliver higher quality, more affordable health care to Virginians. Senator Warner believes we need to keep the good parts of the ACA and fix the parts that aren't working, and he will continue to work with his colleagues on both sides of the aisle to implement any ideas that improve the law.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887750/issue-position-healthcare#.XY5ocEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"After 7 years of \"Repeal Obamacare\" campaign rhetoric, the Senate just rejected a bill to repeal the ACA & kick 32m off their insurance.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/890319632623710209"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XoeJNchKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"If weâre going to do coronavirus tax relief, it canât just be about shoring up companiesâ bottom line. Weâve got to help workers whoâve been furloughed, lost their jobs, or had their hours cut. Weâve got to look out for gig workers and others who donât have paid leave.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1237398268260253696"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm for additional border security. But that border security ought to be driven by the experts, not by the political whims of a campaign promise, where Trump said the wall was going to be built and it was going to be paid for by Mexico.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1320267/cnn-state-of-the-union-transcript-interview-with-virginia-senator-mark-warner/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Presidentâs decision to fund a border wall by diverting more than $77 million from military projects here in Virginia, and billions more from other projects around the world, only makes our country less safe.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1169348153772052491"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H J Res 46 - Relating to a national emergency declared by the President on February 15, 2019.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/66490#.XY5b6kE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sen. Warner is a strong supporter of comprehensive immigration reform, including DREAM Act support for responsible young people brought to this country through no fault of their own.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/887741/issue-position-education"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In particular, I will pay close attention to the dismantling of Iran's illegal nuclear weapons program; ensuring an intrusive and reliable verification process; and ensuring a graduated process of sanctions relief entirely dependent upon Iran's compliance, along with a process for re-imposing U.S. and international sanctions if Iran violates terms of the agreement.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1005381/warner-on-iran-nuclear-agreement/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/22#.XY5dCEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The sanctions announced today help ensure Iran pays a price for their continued belligerence, but it's imperative that the Administration develop and communicate with Congress a broader, well-informed strategy for dealing with Iranian misbehavior that is coordinated in partnership with our allies. Iran continues to jeopardize stability through its testing of ballistic missiles and support of extremist groups. I urge the Administration to bring clarity to their overall strategy towards Iran, and to refrain from ambiguous rhetoric -- or provocative tweets -- that will exacerbate efforts to confront those challenges.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1151826/vice-chairman-warner-on-iranian-sanctions/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/22#.XY5dCEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. must work with our European allies and regional partners to decrease the risk of violence from terrorism and Iranian proxies while ensuring that we do not launch ourselves into a disastrous Middle East war.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MarkWarner/status/1174450478589108225"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1 - Strengthening America's Security in the Middle East Act of 2019.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/65683#.XY5cekE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/535/mark-warner/63#.XY5gtkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The trade war that President Trump created moves us further away from a solution, punishes American workers, and raises prices on the products families rely on. President Trump needs to resolve this irresponsible dispute quickly before he does irreparable damage to Virginia's agricultural industry and economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1259691/warner-kaine-statement-on-president-trumps-trade-war#.XY5sF0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trade is key to Virginia's economy, with exports from Virginia companies totaling more than $19 billion in goods last year. A trade deal will open additional markets for Virginia farmers, manufacturers, and small businesses, creating jobs and leveling the playing field in our increasingly global economy. We must also ensure that America plays a role in setting and enforcing labor, environmental and human rights standards with our trading partners, and that workers have the opportunity to learn job skills that will help them compete in the 21st-century economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1005255/warner-statement-on-trade-legislation#.XY5r0UE3kfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:53:59+00:00"
+}

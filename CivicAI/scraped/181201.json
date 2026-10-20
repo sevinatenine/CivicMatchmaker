@@ -1,0 +1,628 @@
+{
+  "name": "Sharice Davids' Issue Positions (Political Courage Test)",
+  "page_title": "Sharice Davids' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (KS) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (KS) - District 3",
+  "candidate_id": "181201",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/181201/sharice-davids",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year ago, the Supreme Court overturned Roe v. Wade and upended lives across our nation. Here in Kansas, we turned our anger into action â but extreme efforts to take away our right to choose have not relented.We wonât quit standing up to them, either.\"",
+          "source": "x.com",
+          "url": "https://x.com/sharicedavids/status/1672613548394987521"
+        },
+        {
+          "type": "statement",
+          "text": "\"Without Roe to protect us, our right to choose is on the ballot this fall. Iâm proud to be the only candidate for #KS03 who will fight to protect your freedoms.\"",
+          "source": "x.com",
+          "url": "https://x.com/sharicedavids/status/1564968917243756551"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/181201/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Politicians with extreme views have unveiled a proposal that would slash Social Security benefits for 2.3 million Kansans. Iâll keep fighting against attempts to rip these Social Security benefits away from people who have earned them.\"",
+          "source": "x.com",
+          "url": "https://x.com/sharicedavids/status/1777341993854656519"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/53/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/181201/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why should the ultrawealthy get away with paying next to nothing in income taxes, while hardworking Kansans pay their share? We can save taxpayer money by going after folks who are cheating the system.\"",
+          "source": "x.com",
+          "url": "https://x.com/sharicedavids/status/1420760273179365376"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why should the ultrawealthy get away with paying next to nothing in income taxes, while hardworking Kansans pay their share? We can save taxpayer money by going after folks who are cheating the system.\"",
+          "source": "x.com",
+          "url": "https://x.com/sharicedavids/status/1420760273179365376"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26112/66405/181201/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/181201/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over the past year, millions have joined together, raised their voices, and said his name to demand change and accountability. The Senate must answer the call and pass the George Floyd Justice in Policing Act. No single law can deliver justice, but we can make a start.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1397215877767045121"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 40% by National Association of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/181201/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28148/73007/181201/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/181201/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28441/76074/181201/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/181201/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/181201/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I shared my position on the bipartisan infrastructure bill this weekend in the @KCStar. We have the opportunity to come together and pass legislation that creates jobs, boosts our economy and invests in our community. Itâs not absolutely perfect. But itâs absolutely necessary.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1429830128008314881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/181201/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/181201/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/83568/181201/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In 2021, Kansas faced a shortage of 55K affordable rental homes for low-income renters. That's why I'm supporting @repcleaverâs Choice in Affordable Housing Act to expand access for KS families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1768306667324661887"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm supporting the bipartisan bill Choice in Affordable Housing Act â to make sure all hardworking folks across Kansas can afford the adequate, safe housing they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1566556209578213376"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protection and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/181201/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/181201/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fighting inflation takes more than words - it takes action. Thatâs why I worked with the @NewDemCoalition to release a comprehensive blueprint on how to strengthen our global supply chain and make gas, groceries, and housing more affordable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1538895697390469121"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to be named to the conference committee and continue advancing legislation to fix our supply chains, reduce inflation, and make more here at home. I look forward to working with my House and Senate colleagues from both parties to get this done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1512450279572127748"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Chips and Science Act will help fix our supply chains, create good-paying jobs, tackle inflation, and improve Americaâs competitiveness.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1574064968521207808"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/181201/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/181201/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/181201/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Because Kansas is perfectly situated to take advantage of renewable energy sources like solar and wind power, a new law will help lower your energy bills and create good-paying, green jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1563530270912962560"
+        },
+        {
+          "type": "statement",
+          "text": "\"Legislation I supported one year ago is already creating clean-energy manufacturing jobs, lowering folksâ utility costs, and reducing climate pollution.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1696259859895758947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/181201/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/181201/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 97% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146 \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26930/68923/181201/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941 \"Coastal and Marine Economies Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26929/68921/181201/coastal-and-marine-economies-protection-act#68921"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/181201/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"How many mornings will we wake up to news of another mass shooting? How many families have to be ripped apart by gun violence? This can't be our new normal. In honor of the lives lost in Indianapolis and across the country to gun violence, the Senate must pass gun reforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1383057531292037120"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs been 161 days since the House passed H.R. 8, a bipartisan, common sense bill to institute universal background checks on gun purchases. And it's been 161 days of no action from Mitch McConnell. 161 days of more lives being cut short by gun violence. No more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1159170469641314309"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181201/sharice-davids/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/181201/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#PaidLeave is not a luxury - it is an economic necessity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1301155578186788865"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/181201/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Kansans shouldnât have to pay 3x what people in other countries pay for prescription drugs. A new law will put money back in your pocket by lowering the cost of medication. Today, I spoke with folks about what that relief means to them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1567564258661076993"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one should have to choose between paying for the prescriptions they need or paying for food or rent. We must allow Medicare to negotiate prescription drug prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1467510321694740482"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prescription drug costs are too high. Thatâs why I helped pass a new law that allows Medicare to negotiate with Big Pharma for lower drug prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1584310195370565639"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"While I continue to urge @POTUS to use all available resources to secure the southern border, we must continue pushing for bipartisan, comprehensive immigration reform. That is the only long-term, real solution to the challenges we are seeing at our borders.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1802449822357827662"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/181201/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dreamers, TPS, and DED holders are our neighbors, colleagues, and classmates. They contribute to our economy and make America stronger, more united, and more enriched. I am proud to vote for the bipartisan Dream Act today.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1372635703843119107"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/181201/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/181201/no-ban-act#78993"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/181201/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am heartbroken at the horrific attacks perpetuated by Hamas terrorists in Israel today. I unequivocally condemn this violence. I have always supported security assistance for Israel, our close ally in the Middle East.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDavids/status/1710724912447398141"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/181201/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/181201/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/181201/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/181201/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/181201/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/181201/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:03:44+00:00"
+}

@@ -1,0 +1,688 @@
+{
+  "name": "Joaquin Castro",
+  "page_title": "Joaquin Castro's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 20, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (TX) - District 20",
+  "candidate_id": "49227",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/49227/joaquin-castro",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Texans deserve the right to make their own health care decisions. Not the government. This evening, Team Castro marched in solidarity with our city to condemn the Supreme Courtâs egregious decision to overturn Roe v. Wade.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1540524010995433472?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Texas GOP banned all abortions after about 6 weeks, before many even know theyâre pregnant, and the Supreme Court allowed the law to go into effectâeffectively ending Roe v. Wade protections in Texas. Congress must act. All women have a constitutional right to full health care.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1433084927940104198?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/49227/joaquin-castro#.XZUT5kE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3755 \"Women's Health Protection Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31780/82919/49227/womens-health-protection-act-of-2021#82919"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On top of new drug savings, the Biden admin announced a 8.7% increase in Social Security checks â the biggest in decades. If Republicans take the House, they will slash benefits & leave folks to struggle. Seniors worked hard for their Social Security & they deserve better.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1580678396279156741?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 83rd anniversary of the first-ever #SocialSecurity check, and Republicans are celebrating by trying to cut this vital program. I will keep fighting to protect and expand Social Security benefits for San Antonio's seniors and people with disabilities.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1620470268400644096?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/49227/joaquin-castro/53#.XZUUBUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, the House has given final approval to an unpopular bill that mostly benefits corporate America and the wealthiest among us, and explodes the deficit by $1.5 trillion. It didn't have to be this way. Republicans could have worked with Democrats to develop tax reform legislation that actually promotes economic and wage growth, protects working families and is fiscally responsible.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1217521/castro-statement-on-passage-of-gop-tax-bill"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/49227/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#BuildBackBetter framework is a transformational investment in America's future. Preschool for every child. Tax cut for middle-class families. Expands affordable health care. Combats climate change. Creates good-paying jobs. Fully paid for by the wealthy and corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1454175030842204160?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While big corporations and the ultra wealthy get huge tax breaks, the #GOPTaxScam will raise taxes on 86 million middle-class Americans. #TaxDay\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/986341975044558851?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/49227/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Much of the American public believes that the corruption racket in politics revolves around campaign finance. I think more of it revolves around personal corruption, like this example.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JoaquinCastrotx/status/1240759334038114305?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"They were fired up about ending #citizensunited in this country. Corporate dark money has no place in our politics. Period.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Castro4Congress/status/1014934290239574016"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/49227/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support ending qualified immunity.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JoaquinCastrotx/status/1268025857165099008?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I reintroduced the PRIDE Act with Sen. @CoryBooker which requires state & local law enforcement to track use of force incidents between civilians and officers, report it @TheJusticeDept and then make it public. We must hold police officers accountable for excessive force.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/JoaquinCastrotx/status/1268610079709958144?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/49227/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/49227/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/49227/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6395 \"National Defense Authorization Act for Fiscal Year 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28441/76074/49227/national-defense-authorization-act-for-fiscal-year-2021#76074"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/49227/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States is at our best when we strengthen the Infrastructure of Opportunity at home and set an example of leadership and diplomacy around the world,\" said Congressman Castro. \"The bipartisan America COMPETES Act will accelerate our economic recovery from the pandemic by tackling inflation and creating good jobs while advancing our position on the global stage. I'm proud to have authored provisions of this bill that will protect our national security, reignite our alliances, and create the workforce development opportunities Americans deserve.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1588820/congressman-castro-votes-to-create-jobs-strengthen-the-supply-chain-and-advance-us-global-leadership-through-the-america-competes-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/49227/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/49227/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/49227/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today I joined @CommishJRod, @SAAFdn, and @TXCapitalBank to celebrate the first home completed through @ProsperWest's Casa Bella project, which transforms neglected homes into affordable, modern housing for moderate-income families on the Westside. Last year, my office got $1 million to fund the next 20+ Casa Bella homes. As San Antonio grows, Iâll keep working to make sure affordable housing is within reach for the families and seniors who call the Westside home.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1664733925401321480?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I voted to pass the 2023 government funding bill with over $15 million for community projects in San Antonio. Here's how this money will protect affordable housing, prevent domestic violence, support small businesses, advance education & more\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1606369747767001110?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I'm glad to announce that Iâve submitted over $60 million in federal funding requests for San Antonio community projects. These investments would help improve housing, workforce initiatives, public services & more across our community.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1648442678944894978?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States is at our best when we strengthen the Infrastructure of Opportunity at home and set an example of leadership and diplomacy around the world,\" said Congressman Castro. \"The bipartisan America COMPETES Act will accelerate our economic recovery from the pandemic by tackling inflation and creating good jobs while advancing our position on the global stage. I'm proud to have authored provisions of this bill that will protect our national security, reignite our alliances, and create the workforce development opportunities Americans deserve.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1588820/congressman-castro-votes-to-create-jobs-strengthen-the-supply-chain-and-advance-us-global-leadership-through-the-america-competes-act/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I voted to pass the #InflationReductionAct to create good-paying jobs, lower health care & energy costs and cut prescription drug prices for seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1558214530827796480?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/49227/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A college education shouldnât come with a lifetime of debt. Student loan forgiveness will transform the lives of millions of Texans, freeing them to buy their first homes, launch small businesses & chase their dreams. This is good for our economy and itâs the right thing to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1562478995681472512?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden should immediately start looking at other possible ways to cancel student debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1674812339688726529?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is the right move and gives millions of Americans breathing room. While the Biden Administration continues to fight baseless Republican lawsuits to block student debt forgiveness, the loan repayment pause will extend through June 30, 2023.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1595489834084306944?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Once again, a federal court has found Texas' voter ID law to be discriminatory and in violation of the Voting Rights Act. Republican state leaders' transparent efforts to make it harder and less likely that some Texans will vote are disgraceful.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1194758/castro-statement-on-texas-voter-id-law-ruling/"
+        },
+        {
+          "type": "statement",
+          "text": "\"States with a history of denying and blocking the right to vote, like my home State of Texas, are no longer held in check by the preclearance requirement of the Voting Rights Act. Worried that changing demographics erode their political power, Texas leaders continue to make voting more difficult for Latinos and other communities of color. For example, since the Shelby case, the Texas secretary of state attempted to purge nearly 100,000 foreign-born U.S. citizens from voter rolls; the Texas Legislature restricted mobile voting sites designed to make voting more convenient; at least 750 polling locations have been closed, more than any other State; a voter ID law went into effect that a Federal judge later ruled was enacted to intentionally discriminate against Black and Latino voters.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1388087/voting-rights-advancement-act-of-2019/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/49227/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#EarthDay is a great occasion to celebrate Texasâ renewable energy leadership.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/855792345010380801?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am proud of the strides #SanAntonio and #Texas have made in #solar energy, clean water, and electric vehicles. Protecting our #environment benefits all of us and creates a safer, cleaner future for generations to come. #EarthDay2018\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/988039722105786368?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/49227/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud of the strides #SanAntonio and #Texas have made in #solar energy, clean water, and electric vehicles. Protecting our #environment benefits all of us and creates a safer, cleaner future for generations to come. #EarthDay2018\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/988039722105786368?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last night, I introduced an amendment to stop new oil leases on federal lands with high concentrations of orphaned oil wells. Taxpayers are already paying to cap the wells that oil companies abandoned. Congress needs to take a stand to keep our communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1619018695908495377?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. now stands alone as the only country outside the Paris Agreement. Climate change is real and happening all around us. For our kids and our future, itâs time to act, rejoin our allies and friends, and save our planet.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1191831066962800640?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/49227/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm deeply saddened and troubled by todayâs mass shooting in El Paso. It is another tragic, gruesome reminder of the cost of inaction against gun violence. The people of Texas and our nation deserve a Congress that will take action to help prevent this.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1157747452327464960?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"My heart goes out to the victims and their families of the mass shooting in Odessa. More innocent people will lose their lives if we do not change our lax gun laws. The time is now. #DoSomething\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1167947650550751240?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446 \"Enhanced Background Checks Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/49227/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/49227/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Through my cancer diagnosis, Iâve seen the costs of the American healthcare system firsthand - and Iâm lucky enough to have insurance. No American should have to forgo the treatment they need to fight cancer because of the cost.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1676044978231947265?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/49227/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Historically, women legislators have been the champions for paid leave, child care, and other policies that support working families. It's time for Dads to do our part. Glad to be a founding member of the Dads Caucus and looking forward to the work (and parenting tips) ahead.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1618990495866421248?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to support the #FamilyAct to create a comprehensive and inclusive national paid family and medical leave program. Especially amid COVID, workers must not be forced to choose between earning a paycheck and taking care of themselves or a family member.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1357407716168380418?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Railroad companies paid out nearly $200 billion to their shareholders over the last 12 years. They can afford to give their workers a decent quality of life. Today, I voted to force the nationâs biggest railroads to accept a deal to give workers 7 days of paid sick leave\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1598019872285659136?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Reponse Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/49227/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans want lower prescription drug prices. Too many people struggle to afford medication like insulin.In areas like San Antonio, where the diabetes rate is higher than most, this can be the difference between life and death. Congress must listen to the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1447996964331786244?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I voted to pass the #InflationReductionAct to create good-paying jobs, lower health care & energy costs and cut prescription drug prices for seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1558214530827796480?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Nows Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/49227/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/49227/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border crossings are down 50%, but Republicans are still fearmongering about migrants to distract from their failure to make progress on issues that matter most.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1678227843489099777?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everyone needs to see what I saw in Eagle Pass today. Clothing stuck on razor wire where families got trapped. Chainsaw devices in the middle of buoys. Land seized from US citizens. Operation Lone Star is barbaric â and @GovAbbott is making border communities collateral damage.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1689015922202132480?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yeah...Kids in cages. Babies separated from their mothers. 20K+ border patrol agents. Federal troops. State troopers. Countless drones...definitely not enough border security. Btw, did you get permission from @realdonaldtrump before writing this tweet?\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1318214170089848835?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Dreamers are our teachers, our servicemembers, our students, and our nationâs future. On the 6th anniversary of #DACA today, we must continue forging a path forward for our nation's #Dreamers that is not tied directly to funding for a border wall.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1007639801573593089?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, a federal district court in #Texas will hold a preliminary injunction hearing to decide whether the #DACA program can continue. It is critical that Congress pass a permanent solution for #Dreamers so they can cease living from court case to court case.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1027192037580460033?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/49227/joaquin-castro"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/49227/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly agree with @POTUSâs decision to levy severe sanctions against Russia. These sanctions will target Russiaâs financial institutions and oligarchs and show Putin the severe consequences of invading a sovereign nation. Make no mistake: Americans #StandwithUkraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1496605534891433987?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/49227/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/49227/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Zelenskyyâs message to Congress was clear: Ukraine needs steadfast support from the United States to defend its sovereignty against Russian aggression. The people of Ukraine are fighting for their future and I stand with them.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1605743756241682435?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/49227/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/49227/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/49227/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech has consistently failed to stop the spread of Spanish disinformation online. This week, I introduced the LISTOS Act with @RepCardenas and look forward to working with @SenatorLujan to strengthen content moderation standards and protect online safety for everyone.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1666550100590469122?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs @facebook announcement demonstrates that #Russia continues to sow division in our country ahead of 2018 midterms. We must harden our defenses and improve election security so we can protect our #democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/JoaquinCastrotx/status/1024455612976033792?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/49227/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/49227/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:31:50+00:00"
+}

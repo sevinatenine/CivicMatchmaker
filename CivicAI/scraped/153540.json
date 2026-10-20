@@ -1,0 +1,412 @@
+{
+  "name": "Tom Barrett",
+  "page_title": "Tom Barrett's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MI) - District 7, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MI) - District 7",
+  "candidate_id": "153540",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/153540/tom-barrett",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will always firmly stand on the side of protecting innocent human life. This afternoon I stood with dozens of others in defense of life on the steps of our state Capitol.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1483964240105025543"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to rein in inflation once and for all. That means cutting government spending, lowering taxes, and putting America First in our trade policies. Michigan families continue to be plagued by high gas prices, high food prices, and high home heating prices.\"",
+          "source": "tombarrettforcongress.com",
+          "url": "https://tombarrettforcongress.com/agenda"
+        },
+        {
+          "type": "statement",
+          "text": "\"On Tax Day, April 15th, I signed @taxreformer's Taxpayer Protection Pledge - my commitment to fight for lower taxes for Michiganders. I challenge my opponent, @CurtisHertelJr, to join me. It's time to reduce spending, lower inflation, and give taxpayers a break.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1780961807626117312"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden-Slotkin inflation tax is costing Americans an extra $5,200 a year. Mid-Michigan families are struggling due to reckless Democrat policies. We need leaders who will cut taxes, reduce spending, and unleash American energy to give Michiganders the relief they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1511417637384777730"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to rein in inflation once and for all. That means cutting government spending, lowering taxes, and putting America First in our trade policies. Michigan families continue to be plagued by high gas prices, high food prices, and high home heating prices.\"",
+          "source": "tombarrettforcongress.com",
+          "url": "https://tombarrettforcongress.com/agenda"
+        },
+        {
+          "type": "statement",
+          "text": "\"On Tax Day, April 15th, I signed @taxreformer's Taxpayer Protection Pledge - my commitment to fight for lower taxes for Michiganders. I challenge my opponent, @CurtisHertelJr, to join me. It's time to reduce spending, lower inflation, and give taxpayers a break.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1780961807626117312"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden-Slotkin inflation tax is costing Americans an extra $5,200 a year. Mid-Michigan families are struggling due to reckless Democrat policies. We need leaders who will cut taxes, reduce spending, and unleash American energy to give Michiganders the relief they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1511417637384777730"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to #BackTheBlue and will always stand alongside our men and women in law enforcement.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1787639899409039820"
+        },
+        {
+          "type": "statement",
+          "text": "\"Years of attacks on our law enforcement and under-funding of our police has led to the highest crime in decades. Soft-on-crime prosecutors are letting violent criminals back on the street and our communities are less safe. Itâs time to make our streets safe again.\"",
+          "source": "tombarrettforcongress.com",
+          "url": "https://tombarrettforcongress.com/agenda"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Tax Day, April 15th, I signed @taxreformer's Taxpayer Protection Pledge - my commitment to fight for lower taxes for Michiganders. I challenge my opponent, @CurtisHertelJr, to join me. It's time to reduce spending, lower inflation, and give taxpayers a break.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1780961807626117312"
+        },
+        {
+          "type": "statement",
+          "text": "\"Record inflation is due to govt spending so what do @ElissaSlotkin and @JoeBiden do? More government spending! The \"Inflation Reduction Act\" does not reduce inflation but at least we get 87k new IRS agents harassing small businesses and taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1559492159438462977"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden-Slotkin inflation tax is costing Americans an extra $5,200 a year. Mid-Michigan families are struggling due to reckless Democrat policies. We need leaders who will cut taxes, reduce spending, and unleash American energy to give Michiganders the relief they deserve.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1511417637384777730"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I held an attainable housing roundtable with industry leaders in mid-Michigan. We discussed how government interference & runaway inflation are leading to skyrocketing housing costs. I will fight to rein in out-of-control policies to make the American Dream attainable again.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1516846661422747652"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@ElissaSlotkin has voted for more than $10 TRILLION in new spending in her 3 terms in Congress, accounting for 1/3 national debt. This phony Inflation Reduction Act is just more spending masked by an Orwellian title.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1557678876540764160"
+        },
+        {
+          "type": "statement",
+          "text": "\"Record inflation is due to govt spending so what do @ElissaSlotkin and @JoeBiden do? More government spending! The \"Inflation Reduction Act\" does not reduce inflation but at least we get 87k new IRS agents harassing small businesses and taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1559492159438462977"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since the beginning of his presidency, @joebiden and @ElissaSlotkin's solution to everything is spend, spend, spend. We now have a $30 TRILLION debt and Biden's latest indefensible pander will cost us $1 trillion.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1564582252981485571"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Trump Administration, the U.S. was the largest producer of oil in the world. Today, the @JoeBiden Admin is punishing working class families by cutting production and raising prices. We can do better.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1688881365222109184"
+        },
+        {
+          "type": "statement",
+          "text": "\"@JoeBiden and @ElissaSlotkin have vowed to end our domestic oil supply, now OPEC is cutting production, which is going to drive up costs to Americans even more. We don't have to live this way.\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1577970496137822211"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Michigan Coalition for Responsible Gun Owners",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/153540/tom-barrett"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/153540/tom-barrett"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Monday, Title 42 expires, opening the flood gates on our southern border. Over her 5 years in Congress, @ElissaSlotkin has done nothing to stop illegal immigration, earning her an F- from NumbersUSA. I didn't know you could do worse than an F!\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1527620023413530624"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our Southern Border is out-of-control and has been for too long. The last few years have seen record numbers of people entering the country illegally, some on the terrorist watch list, and the flow of fentanyl into our communities is now the #1 killer of Americans age 18-45.\"",
+          "source": "tombarrettforcongress.com",
+          "url": "https://tombarrettforcongress.com/agenda"
+        },
+        {
+          "type": "statement",
+          "text": "\"THOUSANDS of 'special interest aliens' have crossed our southern border from countries that promote terrorism or pose a threat to our national security. What is it going to take for the Biden Administration to wake up and secure our border?\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1711768506969051243"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the Army, I stood toe to toe against radical terrorists and I know how committed they are to destroying America. Tragically, my opponent, @curtisherteljr supports sanctuary citiesâ¦making it easier for suspected terrorists like these to roam free and plot their next attack. Does that sound like someone whoâs serious about securing our border and keeping Americans safe?\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1800891961517171130"
+        },
+        {
+          "type": "statement",
+          "text": "\"THOUSANDS of 'special interest aliens' have crossed our southern border from countries that promote terrorism or pose a threat to our national security. What is it going to take for the Biden Administration to wake up and secure our border?\"",
+          "source": "x.com",
+          "url": "https://x.com/tombarrettmi7/status/1711768506969051243"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:58:21+00:00"
+}

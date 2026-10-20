@@ -1,0 +1,682 @@
+{
+  "name": "Chuck Fleischmann",
+  "page_title": "Chuck Fleischmann's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TN) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TN) - District 3",
+  "candidate_id": "123456",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/123456/chuck-fleischmann",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"All human life has value and is sacred, and Chuck believes that life begins at conception. He strongly opposes using taxpayer money to fund abortions, and Planned Parenthood. He is deeply troubled by the radical Leftâs promotion of abortion, and even infanticide. Chuck will always stand up for our most vulnerable.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/123456/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/123456/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The federal government should be prohibited from spending more money than it collects each year, and a constitutional amendment is needed in order to force Congress to live within its means. Our country is drowning in a sea of debt with uncontrolled government spending and a tax system that fails to support the continued growth that our nationâs economy needs. Clear and concise legislation is needed in order to hold the federal government accountable for the abuse, fraud and waste that they expect the American taxpayer to subsidize.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chuck will continue to fight for policies that promote business investment, lower taxes, and reduce the regulatory burdens on businesses to create the strong economic force.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2017, Chuck led the fight alongside President Donald Trump to implement the first historic tax reform in decades. The Tax Cuts and Jobs Act simplified our tax code, making it more fair. While this was significant progress, our current tax code remains too complex. We must continue to overhaul the tax code so that American taxpayers keep more of their own money instead of having the federal government spend it for them. Modernizing our tax code will also make America more competitive in the global economy. Chuck believes that taxation is an invasion of privacy, and heâll keep fighting to lower taxes.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"You cannot tax and spend your way out of a recession. Raising taxes and forcing hundreds of billions in new spending will only make inflation worse and drive our economy off a cliff.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1552719990071201793"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\" (2017",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/123456/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chuck will continue to fight for policies that promote business investment, lower taxes, and reduce the regulatory burdens on businesses to create the strong economic force.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must continue to overhaul the tax code so that American taxpayers keep more of their own money instead of having the federal government spend it for them.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"You cannot tax and spend your way out of a recession. Raising taxes and forcing hundreds of billions in new spending will only make inflation worse and drive our economy off a cliff.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1552719990071201793"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/123456/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On behalf of all of East Tennessee, thank you to every police officer and law enforcement member. As long as I am in Congress, I will always #BacktheBlue!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1524835714625589257"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can never forget the bravery it takes to be part of law enforcement. These men and women are among the best of us and will always have our gratitude and support.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1780683135040016784"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/123456/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My staff and I enjoyed meeting with Ray from the Military Officers Association on how Congress can continue to support a strong national defense and improve benefits for service members and veterans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1522249797566140419"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must continue to work closely with our longstanding allies, especially Israel, and we must always remember our enemies seek to do us harm. Chuck will do everything he can to ensure our brave men and women in uniform have the tools they need to defend freedom.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must responsibly use limited taxpayer funds to rebuild our defenses. I'm proud that my Energy & Water bill invests in critical upgrades to strengthen America's nuclear defense.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1765084934367293615"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/123456/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chuck owned a small business in the Tennessee Valley for years. He knows firsthand that the government does not create jobs; small businesses create jobs. Thatâs why heâs committed to getting government out of the way so that our Tennessee business can continue to grow. Chuck will continue to fight for policies that promote business investment, lower taxes, and reduce the regulatory burdens on businesses to create the strong economic force.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tennessee is growing because of our talented workforce, belief in hard work, and less overreach from big government.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1630676517989539842"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government should be prohibited from spending more money than it collects each year, and a constitutional amendment is needed in order to force Congress to live within its means. Our country is drowning in a sea of debt with uncontrolled government spending and a tax system that fails to support the continued growth that our nationâs economy needs.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Moving Forward Act\" (2020",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/123456/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nothing pains me more than to see people in our great state of Tennessee suffering from inadequate housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1476621617979604994"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/123456/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735: \"THRIVE Act\" (2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24715/63190/123456/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is soaring, gas prices are at record highs, and our economy is in recession. The last thing we need is more borrowing and spending, Green New Deal subsidies, and a weaponized IRS to go after taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1556661278105534466"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is taxation and robs hardworking Tennesseans of their money. Our economy is teetering on the edge of a recession because of inflation caused by DC Democrats' out-of-control spending and anti-free market policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1509578781228417033"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jobs and economic opportunities are growing here in East Tennessee because of our outstanding workforce, low taxes and regulations, and commitment to free market capitalism.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1583505484468060160"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/123456/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/123456/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/27/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's student loan handout is unfair to the 66% of Americans who don't have college degrees and those who paid off their debt on their own.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1664690727715065862"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden never had the authority to force the vast majority of Americans, who either didnât attend college or already paid off their debt, to pay for the student loans that other people took out. Iâm glad that the Supreme Court struck down this unconstitutional scheme.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1674805006850043904"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"DC Democrats' \"voter rights\" bill is a federal takeover of each state's right to run its elections.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1481654912291196942"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/123456/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/123456/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Robust, abundant, American-made nuclear energy is the only way to meet our future energy needs, secure prosperity for future generations, and protect our environment. We must make America's New Nuclear Future a reality!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1778862153274925114"
+        },
+        {
+          "type": "statement",
+          "text": "\"When it comes to energy policy, Chuck supports an all-of-the-above approach. It is imperative to our national security that the United States becomes energy independent. He also believes that nuclear power constitutes a safe, effective, and environmentally friendly way to produce energy for our country.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/123456/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted agaisnt HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\" (2020",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/123456/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We can be energy independent again by cutting crippling regulations, allowing new drilling, restarting the Keystone Pipeline, and expediting new pipeline construction.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1578416566126845953"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can lower fuel costs. Increase domestic drilling, allow leases in Alaska and the Gulf, restart Keystone XL, and remove regulations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1532053171983589378"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1146: \"Artic Cultural and Coastal Plain Protection Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/123456/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1941: \"Coastal and Marine Economies Protection Act\" (2019",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/123456/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gun control always restricts the rights of law-abiding, responsible Americans from exercising their rights enshrined in the Constitution and never takes away guns from criminals who are set on breaking the law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1534933355493482498"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gun control proponents across the country are trying to limit and take away the rights of individuals to possess firearms. Such actions are both unconstitutional and a threat to our liberty. Chuck strongly opposes any legislation that threatens the Second Amendment rights of Tennesseans and Americans.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/123456/chuck-fleischmann/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/123456/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The health care system in our country is broken. Too many Americans are currently living without health insurance, which has become too expensive because of rising health care costs. It has become a terrible cycle. A government run health insurance program is not the answer. It would take control away from the doctors. It would threaten employer sponsored health insurance. But, most importantly, it would limit individual choices. Government run health insurance does not work. It doesnât work in the countries that have it. It wonât work in America.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/123456/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare for All is more like health care for none. #DemDebate\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/chuck4congress/status/1197339152670482443"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/123456/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chuck will continue to fight for a health care system lower costs and provides patients with the care that they need, want and deserve.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâll always support strong community health centers and expanding access to affordable prescription drugs so all Tennesseans can have high-quality health care!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1757827251960225927"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/123456/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/123456/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every day that our borders remain open makes America less safe. Fentanyl is pouring in, drug cartels & human traffickers operate unchecked, & people on the terrorist watch list keep attempting to sneak into our country. Border security IS national security. Secure the border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1749849325692137846"
+        },
+        {
+          "type": "statement",
+          "text": "\"Open border policies are causing the largest humanitarian and national security crisis in our history. We cannot handle these levels of illegal immigration. It's past time to secure the border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1704939996493324556"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our countryâs border security is paramount to our nationâs security. Chuck strongly opposes amnesty for illegal immigrants, and he believes immigration reform begins with building the wall on our southern border. He's visited the border, where he met with Border Patrol Officers and saw first hand the challenges they face. This only increased his resolve to build the wall. Heâll continue to work to keep illegal immigrants out of Tennessee and out of this country.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/123456/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats' spending spree includes mass amnesty & taxpayer-funded benefits for over 6 million illegal immigrants. This will only incentivize more illegal border crossings & create a perpetual open border crisis. We must stop rewarding illegal immigration.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1465786817748295682"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our countryâs border security is paramount to our nationâs security. Chuck strongly opposes amnesty for illegal immigrants, and he believes immigration reform begins with building the wall on our southern border. He's visited the border, where he met with Border Patrol Officers and saw first hand the challenges they face. This only increased his resolve to build the wall. Heâll continue to work to keep illegal immigrants out of Tennessee and out of this country.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BidenBorderCrisis is a direct outcome of Democrats stopping construction on the Border Wall, restarting catch-and-release, and promising mass amnesty and free healthcare for anyone who comes to the US.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1440406171978850327"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/123456/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today on the House Floor, I voted to support stronger sanctions against Russia, more defensive military assistance for Ukraine, and steps to make the US energy independent once again. America is united against Putin's aggression and standing with Ukraine in their hour of need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1499150110063833095"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must continue to work closely with our longstanding allies, especially Israel, and we must always remember our enemies seek to do us harm. Chuck will do everything he can to ensure our brave men and women in uniform have the tools they need to defend freedom.\"",
+          "source": "www.chuckforcongress.com",
+          "url": "https://www.chuckforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must give more financial support and military equipment to Ukraine to defend itself, heed Ukraine's call to level strong sanctions on Russia's oil and natural gas production, and cut off the Russian government's ability to access international credit and banking.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1496945995015499783"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/123456/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's unacceptable that Ukraine has been invaded by Russia. We must stand united as Americans against tyranny, against aggression, and be heard loud and clear that this will not stand.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1496237109459435523"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today on the House Floor, I voted to support stronger sanctions against Russia, more defensive military assistance for Ukraine, and steps to make the US energy independent once again. America is united against Putin's aggression and standing with Ukraine in their hour of need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1499150110063833095"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must give more financial support and military equipment to Ukraine to defend itself, heed Ukraine's call to level strong sanctions on Russia's oil and natural gas production, and cut off the Russian government's ability to access international credit and banking.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepChuck/status/1496945995015499783"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/123456/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/123456/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/123456/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:10:15+00:00"
+}

@@ -1,0 +1,413 @@
+{
+  "name": "Kristin Hook",
+  "page_title": "Kristin Hook's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. House (TX) - District 21",
+  "candidate_id": "214428",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/214428/kristin-hook",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Texan woman, I am deeply concerned by how our stateâs abortion ban is harming women in need of life-saving healthcare. As a scientist, I am deeply concerned by how our stateâs abortion ban undermines and threatens to criminalize medical experts for treating their patients. I trust Texans to make their own reproductive health decisions and believe you and your doctor are smart enough to make the best decisions for you and your family.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe family planning decisions are deeply personal and should be made by patients and providers, not politicians. Making sure every Texan family has access to the life-saving healthcare they need, including abortions, is at the heart of why I am running for Congress.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"If elected to serve, my first priority will be to introduce, co-sponsor, and support legislation that restores the right to an abortion nationwide. I believe this is how we help Texan families, empower women in the workforce, and help our economy grow.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Texan woman, I am deeply concerned by how our stateâs abortion ban is harming women in need of life-saving healthcare. As a scientist, I am deeply concerned by how our stateâs abortion ban undermines and threatens to criminalize medical experts for treating their patients. I trust Texans to make their own reproductive health decisions and believe you and your doctor are smart enough to make the best decisions for you and your family.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe family planning decisions are deeply personal and should be made by patients and providers, not politicians. Making sure every Texan family has access to the life-saving healthcare they need, including abortions, is at the heart of why I am running for Congress.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"If elected to serve, my first priority will be to introduce, co-sponsor, and support legislation that restores the right to an abortion nationwide. I believe this is how we help Texan families, empower women in the workforce, and help our economy grow.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support legislation that: Protects Social Security and Medicare so that everyone can retire in dignity\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support legislation that: Reforms our tax code so billionaires and corporations pay their fair share\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am also committed to fighting the corrupting influence of money in politics so that our country works for working people, not just the rich and powerful.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support legislation that: Continues investing in our nationâs infrastructure to support the rapid growth in our district and create jobs\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support legislation that: Makes housing more affordable, such as by capping rent increases\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is harder to register to vote than to get a gun in the state of Texas. A 30-day waiting period for your voter registration to take effect is just one of many ways Texas lawmakers have suppressed our right to vote. Other suppression tactics include restricting polling locations and mail-in voting, un-registering voters quietly without notification, requiring county-by-county certification to register voters, threatening felonies for unintentional mistakes when registering people to vote, confusing ID requirements, and drawing our electoral maps so that corrupt and power-hungry officials can choose their voters instead of us choosing our leaders. These tactics are designed to protect incumbents like my opponent while limiting the power of our vote.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our democracy is at stake. I am committed to getting money out of politics and will support legislation that protects voting rights to make sure that every Texan voice is heard.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Restore the protections in the Voting Rights Act\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your next Congresswoman, I am committed to forward-thinking legislation that puts our communityâs future first. I will defend the important role of science in our global fight to reverse the trends of climate change and will fight for: Advancing clean energy technologies, investments, and incentives\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Furthermore, solar systems can be larger and lots of people have more than one vehicle. Further, not only could that combo give more peace and security during outages but the rest of the year you're producing your own power!! Lots of people could possibly disconnect from the grid if they wish to.\"",
+          "source": "nathanlewis4congress.wixsite.com",
+          "url": "https://nathanlewis4congress.wixsite.com/ind-tx19/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As your next Congresswoman, I am committed to forward-thinking legislation that puts our communityâs future first. I will defend the important role of science in our global fight to reverse the trends of climate change and will fight for: Protecting public lands, wild lands, and open spaces\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Defending and strengthening the Affordable Care Act, Childrenâs Health Insurance Program, and Medicare\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am committed to supporting more targeted and cost-effective policies that reduce our federal health care spending â a primary cause of our long-term budget deficits. I will fight to make sure that all Texans have access to reliable, affordable, and quality healthcare.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe healthcare is a human right and will fight to make healthcare affordable and accessible so that Texans don't have to worry about getting their medical needs met.\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support legislation that: Provides access to affordable childcare and paid family and sick leave\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protecting Medicaid funding and access and fighting restrictive eligibility requirements sighting excessive prescription drug costs and protecting and expanding Medicare drug price negotiations\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enhance border security and enforcement\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"If elected, I will support bipartisan efforts for comprehensive immigration reform and evidence-based border solutions that curbs illegal crossings and addresses safety concerns while supporting hardworking and law-abiding immigrants\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Advocates for new legal pathways to citizenship\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Growing up near the border, I know firsthand the value that immigrants bring to our communities. I believe a more just immigration system is possible and am dedicated to supporting long-term bipartisan solutions to address the border crisis and fix our broken immigration system so that everyone feels safe\"",
+          "source": "www.drkristinhook.org",
+          "url": "https://www.drkristinhook.org/issues"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:35:22+00:00"
+}

@@ -1,0 +1,580 @@
+{
+  "name": "Andy Harris' Issue Positions (Political Courage Test)",
+  "page_title": "Andy Harris' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MD) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MD) - District 1",
+  "candidate_id": "19157",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/19157/andy-harris",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NARAL Pro-Choice America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1016/rating/13796"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1578/rating/13874"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8269 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/19157/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/19157/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/959/rating/13814"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Secuirty and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Sargent Shriver National Center on Poverty Law",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1781/rating/7700"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/19157/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs ask states to contribute their fair share to federal programs and grants so that we can maintain those programs while putting us on a path to a balanced budget.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyHarrisMD/status/1641106333528104960"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 98% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/23/rating/10947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/19157/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 67% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1734/rating/12756"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/2568/rating/12358"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/19157/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 93% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/13/rating/13689"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/83568/19157/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/19157/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will continue advocating for reduced government regulations to ease the unnecessary burdens on business. I will continue to support tax cuts that enable our businesses to invest in their growth and new hires\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/19157/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing, and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/19157/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24715/63190/19157/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"\"Especially as Russia actively wages war in Eastern Europe, we cannot shortchange our defense spending, but we have to address our out of control non-defense spending that is fueling the inflationary crisis. I voted against Speaker Pelosi's latest bloated social spending bill, which was laden with pork and left-wing policy priorities -- believe it or not, it even increased the Congressional budget by nearly 12%! Until we learn to spend within our means, everyday Americans will continue to feel more pain at the pump, to put food on the table, and to heat their homes.\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/media/press-releases/harris-issues-statement-latest-bloated-spending-package"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is taxation!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyHarrisMD/status/1498096380228911105"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 93% by Council for Citizens Against Government Waste",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/19157/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We write to you concerned with the massive executive overreach by President Joseph R. Biden to illegally cancel federal student loan debt. On Wednesday, August 24, President Biden announced that he would cancel $10,000 in federal student debt for individual Americans earning $125,000 or less per year or married couples making less than $250,000 a year. In addition, those who receive federal Pell Grants and make less than $125,000 a year would be eligible for total forgiveness of $20,000. Unfortunately, this policy will cost us over $300 billion and establishes a terrible precedent that will drive up the cost of higher education, exacerbating the very problem President Biden pretends to address.\"",
+          "source": "webster.house.gov",
+          "url": "https://webster.house.gov/_cache/files/4/b/4ba6ff38-9a8a-4be7-a808-6d9a45e80477/462FE46E5C361CE237EF7882B619FCDE.letter-to-pelosi-biden-student-debt-plan-8.26.22-final.pdf"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1015/rating/13907"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/19157/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 25% by Public Citizen",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1461/rating/12339"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/19157/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/19157/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"American energy policy should include exploring and obtaining the vast amounts of natural gas and oil reserves within our own borders in an environmentally safe and conscientious manner. We also need to find new and clean alternative sources of energy.\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/19157/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/19157/climate-action-now-act#67056"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/19157/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/19157/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pro 2nd Amendment:Our right to self-preservation is given to us by God. The Bill of Rights protects our God given rights from the overreach of government. I am proud to be a strong believer and protector of the 2nd Amendment.\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1112 \"Enhanced Background Checks Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26063/66249/19157/enhanced-background-checks-act-of-2019#66249"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/19157/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30269/77848/19157/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a physician who has cared for patients for over 35 years, I have seen firsthand the critical impact health care has on the daily lives of Americans. Thatâs why I supported giving states more control over health care, to be able to make physical and mental health care decisions based on local needs. I supported bipartisan legislation to improve health care accessibility and affordability, and provide more federal funding, particularly for our children\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"However, real reforms are necessary to make quality health care coverage more affordable and accessible. Tort reform will do away with frivolous lawsuits and reduce health care costs for everyone. Everyone should be able to purchase insurance across state lines Â competition always provides the best possible product at the lowest possible price. And finally, we must preserve and strengthen the doctor-patient relationship. Physicians, not government bureaucrats, should provide guidance on medical decisions that affect you and your family.\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/issues/health"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House is holding its first ever hearing today on #MedicareForAll, which we all know provides Medicare-for-None, and it looks like this:-New taxes costing trillions-Losing your private insurance (even if you like it)-Long waits & rationed care from doctors you didn't choose\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyHarrisMD/status/1123235699510120448?s=20&t=AvZ_it40Lz1xTyYg3cxQAg"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/19157/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tort reform will do away with frivolous lawsuits and reduce health care costs for everyone.\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/issues/health"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/19157/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the child of immigrants, I recognize that legal immigrants have always been important to America. However, porous borders and inefficient bureaucrats enable undocumented aliens to enter our country illegally and even legal temporary visa holders to overstay their visas. Illegal immigration undermines the American workforce and creates real national security risks for the United States.\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/issues/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"More migrant crime in Montgomery County.This illegal alien was deported twice and charged with multiple sex crimes but was RELEASED from jail because MD law allows Montgomery County to be a sanctuary city. Praying for the victims and their families. Close the border NOW!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyHarrisMD/status/1768309053883662721"
+        },
+        {
+          "type": "statement",
+          "text": "\"Respecting Americaâs laws should be the first step towards becoming an American and giving back to our country. We should fully support enforcing existing immigration laws, securing our borders, and denying criminal, illegal immigrants safety in sanctuary states.\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Securing our border is the first step to ending illegal immigration into the United States, and can be accomplished through increasing and empowering our border patrol, using advanced technology, and building physical barriers where necessary. Maintaining a secure border also requires better tracking of immigrants' visas to cut down on the number of visa overstays.\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/issues/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/19157/police-act-of-2023#92230"
+        },
+        {
+          "type": "statement",
+          "text": "\"To protect our families, I continue to support legislation that will impose tougher penalties, as well as deport dangerous gang members and traffickers who are in this country illegally.\"",
+          "source": "www.andyharris.com",
+          "url": "https://www.andyharris.com/issues"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/19157/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Frustratingly, the Biden Administration could have prevented much of this bloodshed had they kept the Trump-era sanctions on Nord Stream II (rather than removing them), instituted severe economic sanctions including exclusion from the SWIFT system earlier, and stepped up American energy production to bring down the price of oil that funds the Russian economy\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/media/press-releases/harris-continues-advocate-support-ukraine"
+        },
+        {
+          "type": "statement",
+          "text": "\"Together, the United States and our allies must unleash crippling sanctions against Russia, and swiftly bolster Ukraine's military capabilities. The security and stability of Europe -- and the preservation of global liberty -- are all on the line.\"",
+          "source": "kaptur.house.gov",
+          "url": "https://kaptur.house.gov/media-center/press-releases/congressional-ukraine-caucus-statement-russias-attack-ukraine"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nevertheless, I remain steadfastly supportive of Ukraine in the face of this illegal, immoral, and unprovoked Russian invasion, and I fully support the continued provision of lethal military aid to the country, enabling them to defend their sovereign territory\"",
+          "source": "harris.house.gov",
+          "url": "https://harris.house.gov/media/press-releases/harris-continues-advocate-support-ukraine"
+        },
+        {
+          "type": "statement",
+          "text": "\"Together, the United States and our allies must unleash crippling sanctions against Russia, and swiftly bolster Ukraine's military capabilities. The security and stability of Europe -- and the preservation of global liberty -- are all on the line.\"",
+          "source": "kaptur.house.gov",
+          "url": "https://kaptur.house.gov/media-center/press-releases/congressional-ukraine-caucus-statement-russias-attack-ukraine"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Personal data privacy, as well as national security, should be a concern to everyone, and any temporary inconvenience in a change of ownership outweighs the risk of the Chinese Communist Party using TikTok to spy on American citizens. The Chinese Communist Party is no friend.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyHarrisMD/status/1767929360193900702"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/19157/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:11:13+00:00"
+}

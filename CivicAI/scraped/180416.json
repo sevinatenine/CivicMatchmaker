@@ -1,0 +1,706 @@
+{
+  "name": "Alexandria Ocasio-Cortez",
+  "page_title": "Alexandria Ocasio-Cortez's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 14, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. House (NY) - District 14",
+  "candidate_id": "180416",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/180416/alexandria-ocasio-cortez",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Overturning Roe and outlawing abortions will never make them go away. It only makes them more dangerous, especially for the poor + marginalized. People will die because of this decision. And we will never stop until abortion rights are restored in the United States of America.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1540354815477293056"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/180416/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/180416/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 98% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our country subjects people in need of food assistance to a litany of conditions to qualify, yet refuses to place a *single* condition on billions of public funds to prevent enabling an atrocity. It is appalling. Thousands of children, dead. This is the result of \"no red lines.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1720833838224445456"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am open to taking a look at SALT and addressing concerns for families put under the squeeze in high cost of living areas. But a full 100% SALT repeal means major tax breaks for extremely high-net worth individuals and billionaires. Why do that?\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1438904020828045313"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 22% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "statement",
+          "text": "\"You know why all this backlash happens when we say \"Tax the Rich?\" Because the unquestionable norm is to tax the poor & working class. Maybe instead of taxing people who need baby formula and essential goods, we tax those who have profited billions from a global pandemic?\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1336347666117259276"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 22% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "statement",
+          "text": "\"After a year where frontline workers were thrown into harmâs way (many w/o hazard pay or adequate healthcare) while billionaires hoarded another $4 TRILLION, members of both parties have tried to halt taxing the wealthiest in our society. Itâs unacceptable. We must Tax the Rich\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1437811214344757252"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax the Rich\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1354536756033572864"
+        },
+        {
+          "type": "statement",
+          "text": "\"You know why all this backlash happens when we say \"Tax the Rich?\" Because the unquestionable norm is to tax the poor & working class. Maybe instead of taxing people who need baby formula and essential goods, we tax those who have profited billions from a global pandemic?\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1336347666117259276"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have a plan 4 publicly funded elections and repealing #CitizensUnited, which opened the floodgates of corruption in gov. It ends with us.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/869955299679105026"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/180416/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#GeorgeFloyd should be alive. Instead, he was killed as he begged police for his life. The impunity of police violence is a systemic problem we must face to save lives. Police brutality is now a leading cause of death for young Black men in the US. The status quo is killing us.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1265416004483629061"
+        },
+        {
+          "type": "statement",
+          "text": "\"That a family had to lose a son, brother and father; that a teenage girl had to film and post a murder, that millions across the country had to organize and march just for George Floyd to be seen and valued is not justice. And this verdict is not a substitute for policy change.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1384630276593180674"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/180416/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/180416/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/180416/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/180416/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/180416/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy to announce creation of a US Civilian Climate Corps is now in the Build Back Better Act. Estimated to create 300k+ public jobs w/ Dept of Labor + Americorps to combat the climate crisis & enviro injustices.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1456038006884900864"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/180416/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/180416/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/180416/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to advance a movement that champions healthcare, education, justice, and affordable housing for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/988491681132634113"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we reintroduced the Green New Deal for Public Housing, which will create up to a quarter million US jobs modernizing our public housing stock.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1384299921054994434"
+        },
+        {
+          "type": "statement",
+          "text": "\"The reason \"affordable\" housing is too expensive in NYC is largely bc real estate devs give a LOT to politiciansâ campaigns, & consequently have undue influence in housing policy. Cost of living is a campaign finance + corruption issue. Politicians donât want you to know that.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/987090861757468674"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/180416/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "statement",
+          "text": "\"If you are worried about inflation, itâs important to understand why itâs happening: supply chain, labor, and healthcare complications. We can address these issues by investing in infrastructure, wages, healthcare &benefits. AKA signing BBB/BIF into law as absolute, bare minimum\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1456283845230317572"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/180416/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"And for folks saying \"we have inflation because we printed a bunch of money last year\"â if you want to trim down needless spending in these bills to addressing inflationary issues, the answer isnât to cut basic benefits for people. Itâs to target the massive corporate giveaways.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1456295086136889348"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Additionally, the Senate blockages make Bidenâs unwillingness to act on student loan debt- something he can do *without* Congress but hasnât yet- all the more glaring. #CancelStudentDebt is 1 of the few, rare opportunities Biden has to go big w/o the Senate. He needs to take it.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1402717790402977796"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now would be a great time to cancel student loan debt, take significant climate action, and pass voting rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1509626453155098625"
+        },
+        {
+          "type": "statement",
+          "text": "\"The fact that Biden has the power to provide student debt relief to millions, had to be forced into extending the eviction moratorium,& has yet to aggressively campaign against the filibuster shows us he has more power than heâs using. Itâs time to take off the gloves & govern.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1472719589486301189"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now would be a great time to cancel student loan debt, take significant climate action, and pass voting rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1509626453155098625"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/180416/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/180416/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy to announce creation of a US Civilian Climate Corps is now in the Build Back Better Act. Estimated to create 300k+ public jobs w/ Dept of Labor + Americorps to combat the climate crisis & enviro injustices.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1456038006884900864"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now is the time to create millions of good jobs building out the infrastructure and clean energy necessary to save our planet for future generations. For our economy, our planet, and our future, we need a #GreenNewDeal.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1252323476234481668"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/180416/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now would be a great time to cancel student loan debt, take significant climate action, and pass voting rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1509626453155098625"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/180416/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/180416/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/180416/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/180416/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/180416/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If we had a universal system, the huge sums we pay for their insurance could just go into their pocket in form of potentially $1000s in raises. The answer canât continue to be subsidizing the ACA more & more as premiums go up & up. Itâs single payer healthcare: Medicare for All.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1510343065600409604"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare for All is so essential\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1661041586413748224"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is power in a union! Thank you @APWUnational and our postal workers for having me to discuss the fight for democracy, postal banking, Medicare for All, combating the climate crisis, and more. Together we can win it all \"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1559549523860619269"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/180416/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"COVID outbreaks are happening in Amazon warehouses in NYC & across the country. Itâs more important than ever to fight for essential workersâ rights incl. hazard pay, paid leave, & COVID-safe workplace conditions. That means delivery drivers, too.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1244075678150074368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/180416/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you for speaking up and leading, Fran Marion. You deserve paid sick leave, and any multi-billion dollar corporation telling you they \"canât afford it\" is wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1241724947229224960"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/180416/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sometimes it still stops me in my tracks that because I believe insulin should be free, workers shld be paid justly, we shld house the homeless and not cage families, & that all people should be free to pursue education as they wish,for THAT we are treated as radical & dangerous.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1248084654873329664"
+        },
+        {
+          "type": "statement",
+          "text": "\"our ability to get insulin or see a doctor shouldnât depend on how generous a billionaire is feeling today. Employers stripping healthcare, either by taking it away or worsening it, is just part of the casual dehumanization of working people to increase returns for the rich.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1172944408469225472"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/180416/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/180416/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/180416/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gotta love how the same folks who tolerate+ acquiesce to building a medieval wall along the entire US southern border as a (non-evidence based) solution for a \"crisis\" that doesnât exist are now suddenly concerned that pursuing a natâl response to climate change is \"unrealistic.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/AOC/status/1109469491547779072?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 4% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180416/alexandria-ocasio-cortez"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/180416/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/180416/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/180416/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7108 \"Suspending Normal trade Relations With Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/180416/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/180416/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/180416/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/180416/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/180416/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/180416/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/180416/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm voting NO on the TikTok forced sale bill. This bill was incredibly rushed, from committee to vote in 4 days, with little explanation. There are serious antitrust and privacy questions here, and any national security concerns should be laid out to the public prior to a vote.\"",
+          "source": "x.com",
+          "url": "https://x.com/AOC/status/1767901983292162398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/180416/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/180416/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:53:48+00:00"
+}

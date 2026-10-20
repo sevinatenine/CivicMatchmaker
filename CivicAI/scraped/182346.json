@@ -1,0 +1,453 @@
+{
+  "name": "Shri Thanedar",
+  "page_title": "Shri Thanedar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MI) - District 13, Democratic",
+  "candidate_id": "182346",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/182346/shri-thanedar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"However, on June 24, 2022, Roe v. Wade was overturned, putting women's reproductive freedoms at risk. But I've been on the front lines, tirelessly working to protect these rights, pushing for change to ensure every woman's choice is respected. #WomensRights\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1749501777068634411"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans want you to forget about their proposed $1.5 trillion cut to your Social Security and Medicare. Fiscal responsibility isnât about reckless cuts that endanger vulnerable Americans. Instead, we should use taxpayer money to keep the promises made to our communities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1800633730110763088"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Republicans want to slash Social Security benefits to pay for another tax cut for the wealthy, I'm proudly co-sponsoring #SocialSecurity2100 with @RepJohnLarson to expand and protect this crucial program and the people of MI-13.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1679888573867196416"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans want to hand their billionaire friends tax break after tax break â and they are planning to cut Social Security and Medicare to do it. They are relentless in their effort to put the wants of the wealthy and well-connected over the needs of working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1788672739617714425"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Conservatives are pushing for budget cuts that could raise the cost of living and devastate our economy. @POTUS FY25 budget shows Democrats are fighting to lower costs for families, protect vital programs, AND cut the deficit by making the wealthy finally pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1768341047229186476"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support efforts to ban Congress people from trading stocks. No one in Congress should be able to use information received as part of their office to enrich themselves. I also support other solutions like a ban on Congress people becoming lobbyists after they leave office, overturning Citizens United, getting money out of politics, and more.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End qualified immunity: Qualified immunity essentially acts as a \"get out of jail free\" card for many police officers. Officers that commit acts of police brutality should be held personally responsible and liable for their actions and should not be able to hide behind this outdated policy.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/182346/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By supporting Michiganâs small businesses, together we can help grow our economy and create more jobs around the state. I know firsthand the large impact small businesses have on our economy, and how they help to decrease unemployment in our communities. We need representation in Congress that will fight to bring investment into our small businesses and provide economic opportunity for everyone in our district.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"See how the #InvestingInAmerica agenda is revitalizing Michigan's 13th District on With more than $144.3 million allocated to projects in MI-13, we're seeing historic job creation and infrastructure upgrades. In total, $5.7 billion is coming to Michigan.\"",
+          "source": "Invest.gov!",
+          "url": "http://Invest.gov!"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Exciting update from the #SOTU: @POTUS has bold plans to boost affordable housing! Cutting unnecessary fees, saving homeowners big money on refinancing, and putting a stop to unfair rent increases. We're building 2 million affordable homes â making the American dream accessible for all in #MI13. Big moves for better living! #HousingVictory\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1765941251868709222"
+        },
+        {
+          "type": "statement",
+          "text": "\"The housing crisis is real. When young people think of the American dream, it no longer includes owning a house. Under the current conditions, it's completely out of reach for so many people. We need Congress to pass @RepBeccaBâs Community Housing Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1758514402666443212"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"December saw the addition of 216,000 jobs, surpassing expectations and marking a strong end to 2023. With 22 months of sub-4% unemployment, the longest stretch since the late 60s, and wage growth at 4.1%, outpacing inflation, it's clear our efforts are paying off. #bidenomics\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1743296822456582593"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is cooling off, and it's not by accident. Strategic economic policies are making a real difference. Lower energy and grocery prices are a relief for families!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1730597593434980839"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Extreme MAGA Republicans, led by @RepBobGood, want to use the Congressional Review Act to deny student debt relief for 43 million student loan borrowers. We need to help our children not force them into more debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1661411106378612756"
+        },
+        {
+          "type": "statement",
+          "text": "\"Starting this month, if you took out less than $12,000 in federal loans and have been in repayment for 10 years, ALL of your debt will be canceled. Lifting the weight of these loans will promote incredible amounts of economic growth and improve the lives of so many!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1755954409110962598"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have very little time left to mitigate the effects of climate change and need aggressive policies to do so. The UAW Local 58 is leading the way for green energy in Detroit with its Net Zero Energy hall. Net Zero Energy means creating enough energy through green alternatives such as solar power and geothermal energy, to meet energy needs without contributing to carbon emissions. I will work to secure funding for existing businesses to make similar updates and sponsor legislation that requires any new construction to meet stringent emissions standards.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Sierra Club Michigan Chapter",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must: 1. Require background checks on every single gun purchase and transfer, closing the gun show loophole. 2. Implement a 3 day cooling off period after purchasing a gun. 3. Reinstate the assault rifle ban for civilians, without a sunset clause. 4. Pass Red Flag laws to allow family or police to petition the court to temporarily remove guns from a person who is believed to be a threat to themselves or others. \"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I would like to see a single-payer healthcare system, commonly called \"Medicare for All\". I think thatâs the best way to weed out inefficiencies in health insurance and provide the most coverage to the most people at a lower out of pocket cost. In the short-term, I think Medicare should cover dental care. Then start to gradually lower the eligibility age for Medicare to 60, 55, 50, until we ultimately allow everyone to have Medicare. I would also let Medicare negotiate prescription drug prices.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I had the honor of visiting Planned Parenthood - Detroit Health Center, where I listened to the inspiring stories of courageous women who shared how extended paid maternal leave would profoundly improve their lives and bring them closer to their families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1726644853705265386"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The US has the highest prescription drug prices in the world. As a former pharmaceutical drug analyst, I know this is done out of greed. I have introduced legislation in the Michigan State House to cap out of pocket prescription co-pays at $30 per month (including insulin). In Congress, Iâll fight to allow Medicare to negotiate drug prices and put a cap on out of pocket costs for medication. No one should have to choose between paying for their life saving medications and buying food or paying rent.\"",
+          "source": "shriforcongress.com",
+          "url": "https://shriforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The MAGA border wall won't stop drugs from entering our country. We need smarter, more effective solutions that target the root causes of drug trafficking. It's time for real change, not more fear and division. #ImmigrationSolutions\"",
+          "source": "x.com",
+          "url": "https://x.com/RepShriThanedar/status/1656767266803838978"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted Against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/182346/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/182346/shri-thanedar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted Against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/182346/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 - \"POLICE Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34930/92230/182346/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/182346/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/182346/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/182346/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:07:27+00:00"
+}

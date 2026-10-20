@@ -1,0 +1,586 @@
+{
+  "name": "Hillary Scholten",
+  "page_title": "Hillary Scholten's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MI) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MI) - District 3",
+  "candidate_id": "191584",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191584/hillary-scholten",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A year ago today, Roe v Wade was overturned and the state of womenâs health care as we knew it for 50 years was changed. Even as weâve protected womenâs reproductive freedoms here in Michigan, we still have so much to be done to ensure that this right can never be taken away.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1672584271276437504"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a woman, a mother, and a person of deep faith, I approach the issue of reproductive healthcare and freedom with the utmost reverence, thoughtfulness, and respect for the issues involved. Thatâs why I fundamentally believe that the choice of when and how to become a mother, or how to handle a complicated or life-threatening pregnancy belongs with women themselves, and not detached politicians. I will always protect a womanâs right to choose.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"For the first time in our lifetimes we have watched the Supreme Court take rights away. Now that Roe v. Wade has been overturned, weâre seeing every day exactly what that right protected for the last 50 yearsâ a 10-year-old rape victim being denied the healthcare her doctors recommend, women forced to go into sepsis with a miscarriage, individuals with autoimmune disorders not being able to access the gold standard medication they need. In Michigan, in particular, our healthcare is uniquely vulnerable. Over the last year weâve gone through a whiplash of watching our protections be taken away, and then reinstated in the courts here in Michigan. Protecting reproductive health care choices is fundamentally a matter of privacy and freedom from government control. It is a kitchen table issue, a workerâs rights issue, a child welfare issue, and a healthcare worker protection issue. As the first mom and woman to ever represent this district in Congress, I promise that I will always be a steadfast supporter of a womanâs God-given ability to make her own healthcare decisions.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the daughter of a public school teacher and local newspaperman, I donât have to look far to see a generation of Michiganders who worked a lifetime paying into Social Security and Medicare expecting the benefits to be there when they needed them. We have to live up to that promise. I oppose efforts to raise the retirement age, or to cut or privatize our social safety net. Instead, I advocate for making these programs more efficient by cracking down on waste, fraud, and abuse, and letting Medicare negotiate the cost of drug prices.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Happy 88th birthday, Social Security! While some of my colleagues across the aisle are ready to cut and privatize benefits for seniors, I remain committed to enhancing and expanding these critical benefits.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1691129732379693075"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sick of unchecked spending and lopsided tax cuts that leave us more in debt every year? Me too. That's why I cosponsored a bill to establish a bipartisan, bicameral fiscal commission to ensure that Congress engages in long-term responsible spending and smart revenue decisions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1724570613124075704"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Three years ago, George Floyd was murdered in Minneapolis. Three years later, Black Americans continue to die at the hands of law enforcement. We must combat the abuse of power, and we must restore trust through accountability and transparency, which will keep us all safer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1661779151030824973"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans are putting our service members at risk by stuffing the NDAA full of hyper-political amendments. I'm determined to support our troops and fund our military. Political games shouldn't play a part in our national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1801683537076359606"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/191584/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/191584/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Building an economy that works for everyone means investing in the small businesses that fuel our West Michigan economy, especially as they work to recover from the devastating impact of COVID-19. It means investing in our infrastructure, making sure Michigan gets its fair share of road money, and fixing our roads the right way. And it means fighting for fair wages and the right for workers to collectively bargain.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am so thrilled to see these clean energy investments that will create thousands of jobs and a more sustainable future. The next generation is counting on us, and Michigan is delivering!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1730241097425649907"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our roads and bridges are critical for travel efficiency, transporting goods, and connecting our communities. Iâm thrilled to highlight the nearly $1.5 billion coming home to Michigan to invest in rebuilding and repairing this vital infrastructure.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1712903081774440584"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Affordable housing opportunities benefit everyone in the community â theyâre great for our economy, and a critical resource for some of our most vulnerable neighbors. Iâm thrilled to see Breton Grove breaking ground to create over 30 new units for low-income residents!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1714389873350582360"
+        },
+        {
+          "type": "statement",
+          "text": "\"Almost every time I talk with constituents, concerns around housing availability and affordability come up. In #MI03, we are seeing a massive growth in population and demand for housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1659642589182566402"
+        },
+        {
+          "type": "statement",
+          "text": "\"West Michigan is one of the fastest growing parts of the stateâwe need infrastructure to keep up with the expanding population. Iâm committed to working with local officials and organizations to address the housing shortage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1643248002176364545"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was so grateful to take part in this weekendâs climate roundtable as we celebrate incredible investments from the Inflation Reduction Act & Michiganâs role as a leader in implementing them. The future of clean energy in Michigan is bright!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1703516817577156650"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, over $150M from @EPA is coming home to expand solar power in Michigan! This will create thousands of jobs and help low-income households save on energy costs & reduce greenhouse gas emissions.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1782874098768527515"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre saving 4,100 West Michiganders money on their insulin thanks to the Inflation Reduction Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1756687985423130818"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In 2013, SCOTUS gutted the Voting Rights Act, unleashing a wave of discriminatory voting laws. @RepTerriSewell has helped lead the fight to protect access to the ballot box, and I am proud to stand beside her as a cosponsor of the John R. Lewis Voting Rights Advancement Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1805750669858521260"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Voting Rights Act remains just as important now as when it was signed into law 58 years ago. The right to vote is sacred, and I will always fight to ensure that everyone is guaranteed equal access to the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1688320213560053760"
+        },
+        {
+          "type": "statement",
+          "text": "\"The right to vote and the integrity of our electionsâthe very foundations of our democracyâare under attack. It has never been of greater consequence that we stand up against these attacks by passing federal legislation to secure our democracy and defend the right to vote, including: ending voter suppression and expanding vote-by-mail and early-vote nationwide; ending partisan gerrymandering; and protecting against attempts to subvert or overturn the results of our elections.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The right to vote is a fundamental pillar of our democracy â that's why I co-signed 3 critical voting rights bills this week. While many Republicans are working to restrict access to the ballot box, I remain steadfast in my commitment to protect and expand this sacred right.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1695845766089027678"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Part of what makes Michigan so great is our Great Lakes, great outdoors, and beautiful natural resources. I come from a long line of conservationists, and we are a camping, hiking, and fishing family. Being good stewards of the environment means both creating jobs and keeping our state â and our families â safe from dangerous pollution. In Congress, protecting our drinking water from PFAS and other toxic chemicals is a top priority. I am fighting to curb climate change before itâs too late, and I stand firmly in defense of our Great Lakes. I am proud to lead the charge to invest in a new energy economy with tax credits for renewable energy innovations to create good paying jobs while reducing our reliance on foreign oil and lowering the cost of energy for all of us.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Inflation Reduction Act, @usdaRD is creating opportunities for rural communities across the country to invest in clean energy!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1750971874912186721"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to invest in renewable energy\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/191584/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/191584/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/191584/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe that the primary role of a Member of Congress is to represent the American people. While the vast majority of Americans support common-sense gun reform measures, we continue to see no action from Republican leaders. Our elected officials have the power to take action â itâs time they use it. As a mother of two young boys, I wonât accept this new normal of active shooter drills in our schools and senseless gun violence in our country. Iâm proud to have been recognized by Moms Demand Action as a Gun Sense Candidate for my commitment to common-sense gun safety reforms like universal background checks, safe gun storage laws, and red flag laws.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The effects of the horrific tragedy at Columbine High School 25 years ago are still felt to this day. I mourn the 13 lives lost that day and every life lost to gun violence since then. It's time to end the gun violence epidemic and save lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1781786090610823442"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"85 MILLION Americans rely on CHIP and Medicare. This affordable access is life-changing! I joined @ProtectOurCare today because we can't afford to roll back the clock on healthcare. It's time to increase access to and expand these essential resources!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1786072209758240943"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I am hard at work to find common-sense solutions to bring down the costs of healthcare and lower the cost of prescription drugs. I support policies that will ban insurance companies from raising rates on people when they get sick, denying people coverage for having a pre-existing condition or dropping them when they get sick. I am committed to preventing insurance companies from increasing premiums and deductibles while reducing coverage. I will continue to fight for paid family and medical leave, so when someone is sick, they stay home and keep us all safe. I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I am hard at work to find common-sense solutions to bring down the costs of healthcare and lower the cost of prescription drugs. I support policies that will ban insurance companies from raising rates on people when they get sick, denying people coverage for having a pre-existing condition or dropping them when they get sick. I am committed to preventing insurance companies from increasing premiums and deductibles while reducing coverage. I will continue to fight for paid family and medical leave, so when someone is sick, they stay home and keep us all safe. I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of today, insulin costs are officially capped at $35/month for people on Medicare Part B. Too many seniors have had to decide between putting food on the table or purchasing this life-saving drug. Iâm proud to work with a coalition that shows up for working Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1675243596046270464"
+        },
+        {
+          "type": "statement",
+          "text": "\"As the daughter of a public school teacher and local newspaperman, I donât have to look far to see a generation of Michiganders who worked a lifetime paying into Social Security and Medicare expecting the benefits to be there when they needed them. We have to live up to that promise. I oppose efforts to raise the retirement age, or to cut or privatize our social safety net. Instead, I advocate for making these programs more efficient by cracking down on waste, fraud, and abuse, and letting Medicare negotiate the cost of drug prices.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, I am hard at work to find common-sense solutions to bring down the costs of healthcare and lower the cost of prescription drugs. I support policies that will ban insurance companies from raising rates on people when they get sick, denying people coverage for having a pre-existing condition or dropping them when they get sick. I am committed to preventing insurance companies from increasing premiums and deductibles while reducing coverage. I will continue to fight for paid family and medical leave, so when someone is sick, they stay home and keep us all safe. I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.\"",
+          "source": "hillaryscholten.com",
+          "url": "https://hillaryscholten.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâre saving 4,100 West Michiganders money on their insulin thanks to the Inflation Reduction Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1756687985423130818"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined my @NewDemCoalition members in a letter calling on our Senate colleagues to bring a bipartisan border security package to the House Floor.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1719361898804646032"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/191584/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/191584/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For Dreamers, America is often the only home theyâve ever known. These children and their families are vital parts of our economy and our communities â we cannot eliminate this critical pathway to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1704169397789569031"
+        },
+        {
+          "type": "statement",
+          "text": "\"I came to Congress to pass the bipartisan immigration reform that our country deserves. I'm proud to co-sponsor the bipartisan American Dream and Promise Act to build on DACA's legacy and protect Dreamers and immigrant families while they apply for equal and fair citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1724136065030602798"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigrants contribute so much to West Michigan and our country. In Congress, Iâm proudly working on legislation that honors their dignity and humanity as we work to repair our deeply broken immigration system.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1730991447967416674"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/191584/hillary-scholten"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/191584/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/191584/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/191584/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/191584/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We cannot abandon Ukraine in its war against authoritarianism. I urge my Senate colleagues to deliver the aid package that Ukraine deserves and help our democratic partner defend itself. Weâre with you, Ukraine!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1737154655816421409"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/191584/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/191584/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just voted YES on the Protecting Americans from Foreign Adversary Controlled Applications Act. Misinformation abounds, but let's be clearâ this is NOT a ban on TikTok. Itâs a necessary step to keep Americans' data out of the hands of the Chinese Communist Party and protect our kids from foreign influence. TikTok can still continue in the United Statesâ¦but not under the control of a foreign adversary.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScholten/status/1767928586852323649"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/191584/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/191584/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:08:39+00:00"
+}
