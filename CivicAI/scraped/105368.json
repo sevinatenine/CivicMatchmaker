@@ -1,0 +1,706 @@
+{
+  "name": "Rashida Tlaib",
+  "page_title": "Rashida Tlaib's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MI) - District 12, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MI) - District 12",
+  "candidate_id": "105368",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Courtâs dangerous reversal of #Roe turns back the clock nearly 50 years, and jeopardizes the health, well-being, and autonomy of women and those who can get pregnant nationwide. Congress can and must ensure the right to #AbortionAccess by passing #WHPA today\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1548058050317062146"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Naral Pro-Choice America in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We will not negotiate with MAGA extremists on cuts to Social Security, Medicare, or Medicaid. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1620421170796589057"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Americans for Democratic Action in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Remember this: It's\"$3.5 trillion\"âover *10 years* and paid for by taxing the ultra wealthy who have yet to pay their fair share. 60% of Americans support this plan because the result will be every day folks struggling to make ends meet getting help.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1443338070875594759"
+        },
+        {
+          "type": "statement",
+          "text": "\"When CEOs in this country make over 350x more than their average workerâthatâs exploitation. Tax the rich.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1593980822306144262"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 1% by The Club for Growth in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support the regulation of indirect campaign contributions from corporations and unions? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by End Citizens United in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End qualified immunity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1621520992937062402"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must dismantle our nationâs racist policing system, end qualified immunity, and invest in the basic needs of our communities to build lasting public safety.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1623367730769367047"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rashida is one of the few Congresspeople who consistently votes NO to the annual National Defense Authorization Act (NDAA), because she canât justify Congress continually rubber stamping annual increases to our bloated military budgetâespecially while our own communities are struggling to get by. Because the NDAA does pass every year, Rashida does consistently secure amendments to the bill to support veterans and servicemembers.\"",
+          "source": "rashidaforcongress.com",
+          "url": "https://rashidaforcongress.com/issues/human-rights-around-the-world/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This record-breaking $858 billion so-called defense budget is impossible to justify when our neighbors are struggling to put food on the table, fighting to keep a roof over their heads, and rationing their medication. I voted NO.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1600971162548195328"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support reducing defense spending? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/22/defense?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is only the beginning. We must continue to make major federal investments in struggling communities to allow everyone to live with a good roof over their head, which many faced the threat of having to go without even before the #COVID19 pandemic.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1357745129977692162"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support federal spending as a means of promoting economic growth? Yes",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Housing is a human right, not a privilege. We need to invest in affordable housing in our communities and end the decades of gentrification and displacement.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1640720323233435662"
+        },
+        {
+          "type": "statement",
+          "text": "\"The rent is too damn high. We need affordable housing for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1630339531638554624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since 2009, the federal minimum wage has been $7.25 an hour. If the minimum wage kept up with inflation and productivity since 1968, it would be more than $23 today. Itâs time for Congress to raise the wage!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1701947274778010092"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/41/technology-and-communication"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/90/government-budget-and-spending?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Also, letâs cancel student loan debt. #JointAddress\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1387592166457978880"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will not stop fighting until we relieve the heavy burden of student loan and education debt. @POTUS can help millions of our neighbors across the country get out of student debt with the stroke of a pen. #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1519799423383003138"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Asociation in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now more than ever, we must pass the #ForthePeople Act and advance a positive democracy agenda that eradicates unfair and racist voting laws, gives voice to the voiceless and respects American voters.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1410979463530176512"
+        },
+        {
+          "type": "statement",
+          "text": "\"On this day in 1965, the Voting Rights Act was signed into law, a monumental step to end racially discriminatory practices in voting. Amid Republican attacks, I will continue the fight against voter suppression and racial discrimination at the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1688175338956947456"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\" in 2019",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/30/environment?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@POTUS pledged to end new drilling on federal lands. This disastrous decision to approve the Willow Project in Alaska, one of the largest oil development projects in decades, will have devastating consequences on our planet, frontline communities, and wildlife.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1635333109507063808"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Guns now have more rights in this country than women do. It's sick. Congress must move with urgency to address our countryâs gun violence crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1779948982355059051"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"Yes\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Co-sponsored the Medicare For All Act of 2021 (and previous versions), and co-led a virtual rally to unveil the legislation.\"",
+          "source": "rashidaforcongress.com",
+          "url": "https://rashidaforcongress.com/issues/healthcare-for-all/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our profit-driven health care system is killing us. In the richest country in the history of the world, no one should have to die because they are unable to afford the care they need. We need #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1661418661242863627"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Care Act was signed into law 14 years ago today, bringing affordable health care to millions of families. Health care is a human right. Now we need to go further and pass Medicare for All.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1771524548153733489"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every worker in America deserves paid sick leave. I was proud to join rail workers in their fight and vote for the inclusion of paid sick leave in their contract today.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1598036364452241408"
+        },
+        {
+          "type": "statement",
+          "text": "\"I hosted a Special Order Hour in honor of Motherâs Day. Congress must do more to uplift our mothers and their families. From ending child poverty to paid leave for all, childcare, Black maternal health, and reproductive freedom, we need to center mothers in our policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1789000242408333790"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mothers of color face unjust maternal and infant health disparities along with economic disparities, and are leaders in the fight for reproductive justice and policies such as affordable childcare and paid leave.\"",
+          "source": "rashidaforcongress.com",
+          "url": "https://rashidaforcongress.com/issues/healthcare-for-all/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the first six months of 2019, more than 3,400 prescription drugs raised their prices. Whatâs the use of lifesaving medication if the people who need it canât afford it? Itâs time for Congress to take action to #LowerDrugCosts!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1175074447813951488"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We cannot continue to fail our immigrant neighbors. No matter what the parliamentarian says, Congress must remain committed to only moving forward with a reconciliation package if it includes a pathway to citizenship for millions of people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1471918217752944641"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mayors, Governors, and Presidents will come and go but the power of organizing changes the world. Dreamers deserve permanent protections and a dignified pathway to citizenship. No human being is illegal. #HomeIsHere\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1603483578419101696"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"No\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/political-courage-test/105368/rashida-tlaib"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/105368/rashida-tlaib"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/40/immigration?p=2"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Boycott. Divest. Sanction.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRashida/status/1394718697831424000"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/32/foreign-affairs?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Did not vote on HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\" in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/41/technology-and-communication"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/105368/rashida-tlaib/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:07:32+00:00"
+}

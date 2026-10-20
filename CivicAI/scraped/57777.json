@@ -1,0 +1,580 @@
+{
+  "name": "Pete Ricketts' Issue Positions (Political Courage Test)",
+  "page_title": "Pete Ricketts' Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (NE) - Jr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (NE) - II",
+  "candidate_id": "57777",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/57777/pete-ricketts",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Over 50 million unborn children have been killed by abortion in the U.S. since the U.S. Supreme Court issued their Roe v. Wade decision. In Nebraska, January 22, 2020 will be a Statewide Day of Prayer to end abortion.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1214994864770863104?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Roe v. Wade took away the statesâ right to regulate abortion and cost millions of babies their lives. Todayâs Supreme Court decision restores the rights of the people, and as a result our future generations will have a chance at life.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1540371510107463681?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/57777/pete-ricketts"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm proposing cutting federal taxes on Social Security so Americans can keep more of their benefits.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1704865885595312542?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security benefits should be tax-free.â¯We did it at the state level in Nebraska when I was Governor, we should do it at the federal level.â¯The Social Security Check Tax Cut Act I introduced this week in the Senateâ¯helps us get there in a fiscally responsible way.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1702329101959491746?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Vetoed LB 108: \"Expands SNAP Eligibility\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30827/79795/57777/expands-snap-eligibility#79795"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It has been 6 years since the Tax Cuts & Jobs Act was enacted into the law. Wages & income grew nationwide. Unemployment dropped to record lows. Americans kept more of their hard-earned money. Pro-growth policies work, Bidenomics doesnât.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1738263884933574811?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rising costs of living continue to hurt Nebraskans. Despite this, President Biden is tripling down on his failed policies. Just last week, he proposed raising taxes and even more needless spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1635641772654186498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since before he took office, Governor Ricketts has focused on the need for tax relief. In 2022, he worked to pass LB 873 which is the biggest tax relief package in Nebraska history. It provides 12 times more annual tax relief than other tax bill and senior citizens, families, ag producers, and small businesses will all see major tax savings. Since taking office in 2015, Ricketts worked with the Legislature to deliver over $4 billion of property tax relief. LB 873 provides an additional $3.4 billion of overall tax relief to Nebraskans through tax year 2027. When fully implemented, LB 873 will deliver nearly $1 billion of annual tax relief above and beyond what Nebraskans currently receive.\"",
+          "source": "petericketts.com",
+          "url": "https://petericketts.com/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed LB 873: \"Reduces Tax Rates\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32815/86095/57777/reduces-tax-rates#86095"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rising costs of living continue to hurt Nebraskans. Despite this, President Biden is tripling down on his failed policies. Just last week, he proposed raising taxes and even more needless spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1635641772654186498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since before he took office, Governor Ricketts has focused on the need for tax relief. In 2022, he worked to pass LB 873 which is the biggest tax relief package in Nebraska history. It provides 12 times more annual tax relief than other tax bill and senior citizens, families, ag producers, and small businesses will all see major tax savings. Since taking office in 2015, Ricketts worked with the Legislature to deliver over $4 billion of property tax relief. LB 873 provides an additional $3.4 billion of overall tax relief to Nebraskans through tax year 2027. When fully implemented, LB 873 will deliver nearly $1 billion of annual tax relief above and beyond what Nebraskans currently receive.\"",
+          "source": "petericketts.com",
+          "url": "https://petericketts.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Washington, D.C. should pay for infrastructure with existing resources. No tax increases - people are taxed too much already!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1400194244451651586?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Signed LB 873: \"Reduces Tax Rates\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32815/86095/57777/reduces-tax-rates#86095"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"DC's anti-police bill has resulted in hundreds of officers leaving the city's police force. Congress voted to block the bill with bipartisan support â but it was vetoed by the White House. Biden's veto is making our nation's capital less safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1705211434383139074?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have seen the video of former Officer Chauvin killing George Floyd, and I am appalled and angry. Events like this break the trust between law enforcement and communities of color. Justice must be served.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1266760303162818560?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is disgusting and vile. Our men and women in blue who put their lives on the line deserve our respect and support. We are a law and order state and will work to stop anti-cop movements that want to defund the police. #BackTheBlue\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1396587480179163142?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This year's National Defense Authorization Act is a strong, bipartisan bill that will improve pay for our military, invest in our defense against China, and ensure oversight of aid to Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1690011729562836992?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96788/57777/national-defense-authorization-act-for-fiscal-year-2024#96788"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans need Congress and the President to prevent a default. We must also get this administrationâs runaway spending under control. House Republicans passed a bill to address both spending and default. Senate Republicans support them.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1656057852241358851?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm fighting Bidenâs overregulation & reckless spending, working to fix bad government with Proven Nebraska Solutions, and holding the federal government accountable for failing at its job of keeping Americans safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1749827778319397207?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rising costs of living continue to hurt Nebraskans. Despite this, President Biden is tripling down on his failed policies. Just last week, he proposed raising taxes and even more needless spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1635641772654186498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Americans are still struggling with rising costs of living, President Biden wants to raise taxes on hardworking Americans to fund the same kind of reckless spending spree that landed us in this inflation mess in the first place.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1634223203693342721?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is always great to have Nebraskans in Washington! Met with the Southeast Nebraska Development District and talked about ways to provide more affordable housing options to Nebraskans.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1768738439489560944?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâve passed significant funding for projects in North & South Omaha for economic development, housing, financial literacy efforts, and crime prevention. These investments will have an impact on these communities for generations to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1516811908317425666?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation cost Nebraskans an extra $11,550 in 2023 for the same goods and services. The Biden administration's reckless spending caused inflation to skyrocket â and prices remain high. #Bidenomics is hurting Nebraskans.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1742266318286393690?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rising costs of living continue to hurt Nebraskans. Despite this, President Biden is tripling down on his failed policies. Just last week, he proposed raising taxes and even more needless spending. The trillions of dollars heâs blown through these past two years caused this never-ending inflation. Hard-working Americans are struggling. Necessities are costing hundreds of extra dollars a month. We cannot keep adding fuel to this already raging fire.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1635641772654186498?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration's trillion-dollar spending bills have led to unaffordable prices. Inflation is still too high â and wages aren't keeping up. Nebraskans can't afford #Bidenomics.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1709559502578606205?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Americans are still struggling with rising costs of living, President Biden wants to raise taxes on hardworking Americans to fund the same kind of reckless spending spree that landed us in this inflation mess in the first place.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1634223203693342721?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden continues pushing his unfair and illegal plan to transfer student loan debt onto taxpayers. As both governor and Senator, I've fought against this unconstitutional plan and I will continue leading the fight on behalf of working Nebraskans.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1763227694081114509?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The top 20% of earning households hold $3 in student debt for every $1 held by the bottom quintile, generating a lopsided reality where the wealthy benefit at the expense of the working. Simply put, @POTUS's plan rewards the rich and punishes the poor\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1569344410025967619?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Make no mistake: The cancelation of the #KeystoneXL pipeline will only make America more dependent on overseas oil. President Joe Biden needs to stop doing the bidding of far left Green New Deal activists!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1393685114375245826?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration continues to push radical environmental policies straight from the Green New Deal at the expense of American energy security. OPECâs cuts in production show just how vulnerable Bidenâs war on domestic energy has left us.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1578022247612047361?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is the economy you get when you have a President who consistently imposes a radical green agenda and progressive policies over the needs of the American people. #Bidenflation\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1551337027215540224?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/57777/pete-ricketts"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here in America, @POTUS must not let its pursuit of green policies get in the way of our ability to produce oil and gas at a rate that meets demand â in America and abroad. He can start by reinstating the permit for the Keystone XL pipeline.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1497250389586059265?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Make no mistake: The cancelation of the #KeystoneXL pipeline will only make America more dependent on overseas oil. President Joe Biden needs to stop doing the bidding of far left Green New Deal activists!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1393685114375245826?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under the Biden Admin, gas prices have nearly doubled. These prices are not the \"Putin Price Hike\". Putin did not cancel the Keystone XL or end drilling n federal land. Biden did that. And we've been feeling pain at the pump ever since\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1545120464699269123?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just signed LB 902 into law to help protect gun rights in Nebraska!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/986253240986726400?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nebraska is a pro-Second Amendment state. I signed LB 236 to strengthen gun rights in Nebraska. Thank you to the senators who support this important #2A bill!\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1397705180548898824?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The White House and U.S. Congress have announced their intention to pursue measures that would infringe on the right to keep and bear arms. Nebraska will stand up against federal overreach and attempts to regulate gun ownership and use in the Good Life.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1382360629667856386?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/57777/pete-ricketts"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Any border legislation must force Biden to secure our border, stop his mass parole of illegal aliens, and end the national security and humanitarian crisis he created.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1754891112567677374?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every single year that Biden has been in office, the Border crisis has continued to get worse. Record numbers of crossings each month. Yesterday, I introduced a comprehensive Border Package in order to get this under control.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1717244920451277020?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"When President Biden took office, he reversed successful policies of the Trump administration and has created a humanitarian crisis at our southern border.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1758238502766977416?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 98% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/57777/pete-ricketts"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every state is now a border state, the influx of illegal aliens and deadly drugs are hurting livelihoods and killing innocent people. If addressing this crisis isnât our job in the United States Senate, I donât know what is.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1638985212624338944?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"More people than the entire population of Lincoln tried to cross our border illegally in December. Biden could end this insanity today if he wanted to! He wonât though because Democrats just want more votes to fill the sanctuary states and cities Americans are fleeing.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1751045069006606604?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Sanctuary states and cities that refuse to enforce the law make Americans less safe. Adding incentives for cooperation with ICE will get dangerous criminals off our streets. These two bills would bring needed accountability to those who facilitate illegal immigration and bring justice for the victims of sanctuary policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1767659261981606251?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 98% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/57777/pete-ricketts"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America cannot let Putinâs invasion of Ukraine go unchecked. We need to issue a swift response that will isolate Russia like we did during the Cold War. Direct sanctions will make it clear that the free world will not tolerate global aggressors.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1497249810348490752?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Attended this yearâs NATO conference w/ my colleagues to ensure our allies pay their share & reiterate we must work together to combat the growing threats of our adversaries. We are arming Ukraine to fight Russia so we donât have to. A strong, effective NATO is essential.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1679136795961720832?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden Administrationâs appeasement-first foreign policy is making America and our allies around the world less safe. We must not bail out a regime that murders its own, supports Russiaâs war on Ukraine, and funds terrorist attacks abroad.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1669440631695986714?s=20"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Attended this yearâs NATO conference w/ my colleagues to ensure our allies pay their share & reiterate we must work together to combat the growing threats of our adversaries. We are arming Ukraine to fight Russia so we donât have to. A strong, effective NATO is essential.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1679136795961720832?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vladimir Putin is a dictator. Dictators don't stop unless you defeat them. If Putin wins in Ukraine, he will continue his warpath until American lives are in harm's way. We can't let that happen.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1716530679570399610?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was the first governor to ban TikTok on state devices because allowing our adversaries to access Americans' data is a serious national security threat. It's time for the Senate to act on this bill blocking TikTok from operating in the US under their CCP-aligned parent company.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1769735566671638950?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2020, we banned Tik Tok from state-owned devices in NE. Weâve long known that the CCP can pull Americansâ data from the app. And itâs become increasingly clear they are doing just that. Glad to see other states & Congress taking similar action.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1603539861427916800?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The CCP's spy app Tiktok is suddenly pushing Osama Bid Laden's decades-old terrorist propaganda on Americans. It's appalling anyone would believe these anti-semitic, anti-American lies.\"",
+          "source": "x.com",
+          "url": "https://x.com/SenatorRicketts/status/1725241346787512449?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"To maintain the security of data owned by the State of Nebraska, and to safeguard against the intrusive cyber activities of Chinaâs communist government, weâve made the decision to ban TikTok on State devices.\"",
+          "source": "x.com",
+          "url": "https://x.com/PeteRicketts/status/1293551165007958017?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:55:49+00:00"
+}

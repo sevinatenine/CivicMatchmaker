@@ -1,0 +1,718 @@
+{
+  "name": "Rick Larsen",
+  "page_title": "Rick Larsen's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WA) - District 2, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (WA) - District 2",
+  "candidate_id": "56231",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/56231/rick-larsen",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For nearly 50 years, Roe v. Wade guaranteed the right to choose. #SCOTUSâs decision to strike down Roe is wrong, but we are not powerless to fight back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1540340627010977797"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by Alliance for Retired Americans in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have long been committed to supporting care for our seniors and to strengthening Social Security and Medicare. I voted to close a longstanding coverage gap in Medicaid that locks out 4 million people nationwide, to expand Medicare to cover hearing benefits, and to lower out-of-pockets costs for Medicare Part D beneficiaries. I oppose the privatization of Medicare and have called for stricter accountability for private Medicare Advantage plans. I also oppose the privatization of Social Security and sponsored \"Scrap the Cap\" legislation which would no longer exempt income earned above $147,000 from Social Security taxes to strengthen the Social Security fund.\"",
+          "source": "www.ricklarsen.org",
+          "url": "https://www.ricklarsen.org/priorities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by Americans for Democratic Action in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/111/taxes"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\" in 2017",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/111/taxes"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by The Club for Growth in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted \"NO\" on a GOP bill designed to help the wealthiest Americans & the richest corporations avoid audits & not pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1612638951247908864"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"I will protect and strengthen Social Security and make the wealthy pay their fair share!\" - @POTUS ð ð ð ð ð ð ð ð\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1765938421577453772"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have proudly voted for landmark legislation to end partisan gerrymandering, require disclosure of dark money, expand opportunities to vote, and restore voting rights protections.\"",
+          "source": "www.ricklarsen.org",
+          "url": "https://www.ricklarsen.org/priorities/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United in 2024",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The George Floyd #JusticeInPolicing Act is a landmark next step toward holding police accountable, building confidence in law enforcement & keeping communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1364785774751850496"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government must promote a culture of accountability for all law enforcement organizations. #BlackLivesMatter\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1268249571068645379"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just voted to override the presidentâs veto of the #FY21NDAA to support the women & men of the military & strengthen national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1343715667548250117"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/22/defense?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/22/defense?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I also support @RepBillFoster's legislation to get rid of the debt ceiling & end the unnecessary brinksmanship that puts the full faith & credit of the United States at risk while having no impact on reducing spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1448068825296080897"
+        },
+        {
+          "type": "statement",
+          "text": "\"Read about the $10+ million I secured in @AppropsDems spending bills to help #WA02 communities build & strengthen vital infrastructure, improve health outcomes, provide basic services to the homeless & mitigate the harmful effects of climate change â¬ï¸\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1419775754091511810"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit, Save, Grow Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am working to increase the availability of high-quality, affordable housing for people in #WA02.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1521170367703920640"
+        },
+        {
+          "type": "statement",
+          "text": "\"I introduced 18 bills this Congress & supported 370+ bills introduced by my colleagues to lower costs for working families, create jobs, invest in education & affordable housing, & support veterans & military families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1609379916784582656"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great news for #WA02: Thanks to the Bipartisan Infrastructure Law & the Inflation Reduction Act, @NOAA is recommending $37+ million for eight local projects to combat climate change, boost resilience, restore wildlife habitat, reduce flooding & create more green jobs!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1649471305861742592"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act will benefit Washingtonians by making health care and prescription drugs more affordable, creating jobs, lowering energy costs, combating climate change and much more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1558216775757611016"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H2R 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/41/technology-and-communication"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tonight, @POTUS laid out his strong economic record that is helping Americans make progress on good jobs, cheaper prescription drugs, student loan forgiveness, & a major investment in Americaâs roads, bridges & highways. #SOTU\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1765953842259099752"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #VotingRightsAct kept democracy's promise alive by preventing states & localities from restricting citizensâ right to vote. I'm proud to cosponsor the John R. Lewis Voting Rights Advancement Act to #RestoreTheVote & guarantee every Americanâs voice is heard at the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1427708394039824389"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two years ago, I supported the John R. Lewis Voting Rights Advancement Act to honor Johnâs legacy & break down barriers to guarantee every Americanâs voice is heard at the ballot box.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1694804540749385765"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue to support smart investments in renewable energy, including tax credits for #solar & #wind.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1145867466234585089"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\" of 2019",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/30/environment?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#OffshoreDrilling is risky business â wherever there is drilling, you can bet there will be a spill. The US must #ProtectOurCoasts by investing in renewable energy sources & in lower-emission fuels.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/949437860591042566"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\" in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support the #ProtectingOurKidsAct to enforce existing regulations & fix broken laws that have allowed gun violence to devastate communities across the country. #EndGunViolence\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1534612828522524679"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America in 2023",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1801 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe health care is a right, and I support universal, affordable coverage. That is why I am working to expand access to high-quality health care that fits familiesâ budgets. I voted to reduce prescription drug costs: by letting Medicare negotiate drug prices; by imposing a tax penalty if drug companies increase their prices faster than inflation; and by capping the price of insulin at $35 per month. I also voted to reduce premiums for 9 million Americans who buy insurance through the Affordable Care Act Marketplace.\"",
+          "source": "www.ricklarsen.org",
+          "url": "https://www.ricklarsen.org/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, thx to the #AffordableCareAct, nearly 1 million people in WA have enrolled in an affordable health plan, including 34,000 #WA02 residents in 2024 alone.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1776356888109621615"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue to stand with Americaâs working women & men to fight for a livable wage, the right to collectively bargain, paid leave & an end to pay disparities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1303020649833783297"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will continue to stand with the 600,000+ working women & men in WA & millions more across the country to fight for a livable wage, the right to collectively bargain, paid leave, a safer workplace & an end to pay disparities.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1566811711356780544"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\" in 2020",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week, I toured the newly remodeled #Everett-Central Clinic & met with CEO Joe Vessey & his team to discuss how the #InflationReductionAct will help more patients access affordable health care & prescription drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1557390173616447489"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thx to the #InflationReductionAct, @HHSGov will be able to directly negotiate the price of prescription drugs w/drug companies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1696624782614069367"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/38/health-and-health-care?p=1"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted for the #NoBanAct to repeal the presidentâs previous travel bans & reform immigration law to prevent future discriminatory bans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1286050911161397261"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I stand with Dreamers and will continue working to ensure DACA recipients can continue to live and work in the United States, including the more than 14,700 Dreamers who call Washington state home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1578059527232135183"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the 10th anniversary of #DACA, I stand with 16,000+ DREAMers who call Washington state home. The Senate must pass the #DREAMAct to provide DREAMers with a path to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1537105982249218049"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Civil Liberties Union in 2021-22",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA in 2023-24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/56231/rick-larsen"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\" in 2019",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/32/foreign-affairs?p=3"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/32/foreign-affairs?p=2"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress & the U.S. will continue to support Ukraine with defense & humanitarian aid & work with @natopapress allies & partners to cripple the Russian economy with devastating sanctions against Russian banks, oligarchs & its autocratic president, Vladimir Putin. #StandWithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1497803625036492802"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\" in 2022",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress & our @NATO allies must stand by our values & reaffirm that we will support Ukraine as long as it takes for the young democracy to control its own borders, select its own leaders & determine its own future. 3/3\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1775985626149421241"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will be joining many Democrats today in voting for a procedural motion that allows us to move forward on debate on the National Security bill. Aid to Ukraine is already on life support and we cannot wait any longer\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1781322941109571863"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress can address the challenges posed by TikTok & protect Americansâ digital privacy by developing & passing comprehensive legislation that is consistent with our constitutional right to freedom of expression.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1768295486459388169"
+        },
+        {
+          "type": "statement",
+          "text": "\"My \"no\" vote on the TikTok bill reflects my concerns about the U.S. government deciding what information Americans may or may not see or hear.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1768295484412539141"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted NO on the 21st Century Peace through Strength Act but not because the name is ridiculous. It includes the TikTok ban I already voted against and requires some of the economic aid to Ukraine to be a loan when it most needs our help.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRickLarsen/status/1781734193149489199"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\" in 2024",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/56231/rick-larsen/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:12:42+00:00"
+}

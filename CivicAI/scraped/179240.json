@@ -1,0 +1,670 @@
+{
+  "name": "Summer Lee",
+  "page_title": "Summer Lee's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 12, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (PA) - District 12",
+  "candidate_id": "179240",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/179240/summer-lee",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm a proud member of Pro-Choice Caucus and am fighting to: Pass the Women's Health Protection Act to restore Roe and guarantee the federally protected for professionals to administer and patients to receive abortion care across the country, free from bans and unnecessary restrictions\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trumpâs right-wing extremists on the Supreme Court have gutted our constitutional right to abortion care, and Congress must do everything in its power to restore and expand our fundamental freedom to control our bodies and our futures. In Pennsylvania, the only thing stopping Republican extremists like Doug Mastriano in the state legislature from criminalizing abortion care is our narrow State House majority and Governor Shapiroâs veto. But the reality is that the same PA Republicans working to criminalize abortion have long shut out Black, brown, poor, working class, and rural folks from reproductive careâlong before Trumpâs SCOTUS overturned Roe\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With Roe gone and Trumpâs Supreme Court now preparing to decide a case to ban medicated abortion nationwide, including in Pennsylvania, we cannot rely on a patchwork of state-level rights. We need to protect abortion rights and guarantee access to reproductive health care at the federal level.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that as of Saturday, millionaires won't contribute to Social Security for the rest of the year? That's why I'm proud to cosponsor the Social Security 2100 Act, ensuring the wealthy contribute all damn year! It's time to #ScrapTheCap.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1763299289680277748?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"No cuts to Medicare. No cuts to social security. No cuts to food stamps. No cuts to Medicaid. No cuts to childcare. No cuts to Pell grants. No tax-breaks for their billionaire donors. Weâll NEVER let McCarthy hold our economy hostage playing politics with peopleâs lives\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1648052643707645955?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the 88th anniversary of the Social Security Act, we are still fighting to protect Social Security from Republicans who want to tear away our right to retire with dignity. I'm proud to be an original cosponsor of the Social Security 2100 Act to strengthen this crucial program!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1691110783797874688?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The budget proposed by President Biden would lower costs for families, make the mega rich pay their fair share & strengthen & safeguard Medicare and Social Security. When Republicans oppose this, they are directly putting their own power + profits over the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1633912792041287680?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I co-sponsored the For the 99.5 Percent Act to finally pass a wealth tax and reverse the continuous wealth transfers from working families to the top half of 1% wealthiest people in this country.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It seems like just a few days ago Republicans were demanding budget cuts to the poor to lower our debt. Now, they introduce a tax bill that would increase our national debt JUST to cut taxes for their rich donors who write them large checks. Disgusting.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1669034953357549587?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs not get it twisted. Nearly 3/4 of Americans - Democrats, Republicans and independents - want the wealthiest to pay higher taxes. The only resistance we face is from politicians who are scared their billionaire donors will get mad and stop bankrolling their campaigns.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1684248835697016836?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans plan to gut IRS funding would cost $90 billion taxpayer $'s & prevent audits for the ultra-rich who account for the majority of tax evasion. Their ONLY goal here is to shield their wealthy donors at the expense of middle class, working class & Black & brown Americans\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1720105338442031374?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Did you know that as of Saturday, millionaires won't contribute to Social Security for the rest of the year? That's why I'm proud to cosponsor the Social Security 2100 Act, ensuring the wealthy contribute all damn year! It's time to #ScrapTheCap.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1763299289680277748?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I co-sponsored the For the 99.5 Percent Act to finally pass a wealth tax and reverse the continuous wealth transfers from working families to the top half of 1% wealthiest people in this country.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, our economy works for the wealthy few and corporations at the expense of the working poor. Corporate tax breaks, unregulated Wall Street and Big Tech companies, and handouts to corporate polluters as social services continue to be underfunded have only reinforced the deep systemic inequalities that we continue to face as a nation. Economic growth has left behind marginalized communities and itâs time we center working people in our economic policies.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The budget proposed by President Biden would lower costs for families, make the mega rich pay their fair share & strengthen & safeguard Medicare and Social Security. When Republicans oppose this, they are directly putting their own power + profits over the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1633912792041287680?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve cosponsored more than 20+ bills to strengthen voting rights and safeguard democracy, including the following: Freedom to Vote Act to improve access to the ballot for Americans, advance commonsense federal election standards and campaign finance reforms, and strengthen our democracy.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve cosponsored more than 20+ bills to strengthen voting rights and safeguard democracy, including the following: We the People Amendment to end corporate constitutional rights after the Supreme Court's flawed ruling in Citizens United which established political spending as protected speech, further prevented limits on campaign spending, and allowed outside groups to accept unlimited political donations\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve cosponsored more than 20+ bills to strengthen voting rights and safeguard democracy, including the following:Democracy For All Amendment - to overturn Citizens United, granting Congress and the States the ability to limit the raising and spending of money in campaigns for public office.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Across our commonwealth, people are crying out for justice, for reason, for equality â and we would not have had this hearing today if not for them. Their voices call out for change and I commit that we will not rest until the Republican majority â which controls which bills are brought to the floor â opens debate and allows votes on serious, meaningful reforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1272558334810488833?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Co-sponsored the Ending Qualified Immunity Act to end the doctrine of qualified immunity that shields police from accountability when they break the law.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tyre Nichols should be alive. So should Atatiana Jefferson, Antwon Rose, Mike Brown, and Philando Castile. Police violence is crime. We cannot say that we care about crime, but then do nothing over and over and over when the crime is committed by a police officer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1622306869829148672?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Me: How much did the Department of Defense spend on snow crab and Alaskan king crab in 2018? DoD: I donât have that amount Me: $2.3 million. Do you know how much Pgh spends each year on our unhoused folks? Only $1.2 million & theyâre not being served gourmet seafood.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1679570825572151296?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Me: How much does the military spend on Viagra each year? Director of Defense Contracts: I donât have that figured out. Me: about $41.6 million. Do you know how many bridges in my District of Pittsburgh could be repaired with that amount?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1679567782914957312?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/179240/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/179240/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A critical component of the Green New Deal is its focus on a jobs guarantee, a guaranteed living wage, and strengthening the U.S. labor movement. Transitioning American society to 100% clean and renewable energy will create millions of good-paying union jobs. We have a moral obligation to make that transition to save our planet and ensure that all fossil fuel workers are fully equipped with the skills and training necessary to thrive in a green energy economy. No worker will be left behind.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Glad to see @POTUS wants to boost funding for the Civilian Climate Corps! While climate change may seem overwhelming, it also presents an incredible opportunity to create thousands of clean energy jobs while we ALL enjoy cleaner air and water.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1767604226702573569?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"UPDATE: I am so proud to announce that in my first year in Congress, I brought home *over $1 billion* to build infrastructure, clean our air + water, lower costs, create good-paying jobs, affordable housing & more. Feeling renewed energy to continue fighting for PA-12 in 2024!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1745136438750978216?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Western Pennsylvania has been ground-zero in dealing with our nationâs crumbling infrastructureâwith insufficient public transit with infrequent service, continued traffic congestion issues that keep us from our loved ones, sources of energy that continue to pollute our air and water, and public spaces in need of rehabilitation. Iâm proud that, through the Inflation Reduction Act and the Infrastructure Investment and Jobs Act, our office has helped secure grants to ensure projects\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In my 1st year in Congress, my team & I worked passionately to secure over $1B for infrastructure, affordable housing, STEM, clean air & water, good-paying jobs, and much more in W PA. Families deserve leaders in Congress who understand their struggles & work as hard as they do.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1744836165868380511?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâve Secured $50 million HUD Choice Housing grant to revitalize Bedford Dwellings and the Hill district neighborhood, righting past wrongs of racist development decisions by funding much needed rehabilitation and building new affordable housing units.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"On Saturday, President Biden signed the 2024 federal budget into law, which means $12 million for 14 community projects we secured for #PA12 are coming home. As housing costs continue to rise in Western PA, I'm so proud that $2.2 million will go to building affordable housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1767286731458412639?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Secured $500,000 in upcoming Community Project Funding for the TRI-COG Land Bank to revitalize disinvested, abandoned land in McKeesport and build affordable housing.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Growing up in the Mon Valley with some of the worst air quality in the nation, my fight for #ClimateJustice is personal. Here's how the Inflation Reduction Act will clean our air, hold polluters accountable, lower energy bills & create thousands of good paying union jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1636453593665482757?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the $35/month cap on insulin in the Inflation Reduction Act, nearly 4,700 folks receiving Medicare in my district are saving an average of $510 each year on insulin! Now, Iâm fighting for #MedicareForAll so no one has to go into debt for ANY medicine or treatment!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1691819642728141140?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a working-class Black woman with a mountain of student debt, I know firsthand that the massive burden of student debt is not only keeping us from being able to afford even the basics, starting families, opening up small businesses, and building generational wealth â but itâs hurting our entire economy. Public colleges and universities and vocational programs should be tuition-free and ALL existing student loan debt should be canceled - period.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Extreme wealth inequality is blocking climate justice, racial justice, Medicare for All, student loan forgiveness, worker power, fully funded public schools, fair pay, & reflective democracy. The #OLIGARCHAct will give power back to the People where itâs always belonged.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1684244427701727240?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS put Wall Street's predatory loan schemes over the lives and futures of 40 million working Americans & our families. As a Black woman in hundreds of thousands of dollars of student debt, I'm right there with you. Angry & exhausted by a system that's failing us miserably.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1674795022913511424?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve cosponsored more than 20+ bills to strengthen voting rights and safeguard democracy, including the following: Freedom to Vote Act to improve access to the ballot for Americans, advance commonsense federal election standards and campaign finance reforms, and strengthen our democracy.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve cosponsored more than 20+ bills to strengthen voting rights and safeguard democracy, including the following: John R. Lewis Voting Rights Advancement Act of 2023 to protect voting rights against attacks by Republican state legislatures and right wing judges by restoring and revitalizing the Voting Rights Act of 1965 and strengthen legal protections against discriminatory voting policies and practices.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout our nationâs history, we have never delivered on the promises of democracy. The legacies of slavery and Jim Crow have carried on through voter disenfranchisement, gerrymandering, and voter suppression making the ballot box inaccessible, especially for poor, Black and brown people across the country. Fixing our democracy goes beyond stopping Trump, elected Republicans, and right-wing judges from engaging in voter suppression and abusing their power to overturn the results of free and fair elections. It also includes working to end racist voter ID and suppression laws, restoring the full power of the Voting Rights Act, and ending gerrymandering.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A critical component of the Green New Deal is its focus on a jobs guarantee, a guaranteed living wage, and strengthening the U.S. labor movement. Transitioning American society to 100% clean and renewable energy will create millions of good-paying union jobs. We have a moral obligation to make that transition to save our planet and ensure that all fossil fuel workers are fully equipped with the skills and training necessary to thrive in a green energy economy. No worker will be left behind.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Cosponsored the CLEAN Energy Act + NOW Act - to advance clean energy development on our public lands and waters by repealing harmful ties to fossil fuel leasing requirements\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve fought tirelessly for a Green New Deal to transition to a 100% clean and renewable energy economy and create thousands of good-paying, union jobs in Western Pennsylvania. This includes ending fracking, which poses a disproportionate threat to communities like ours. The Green New Deal allows us to center our frontline and marginalized communities facing the brunt of environmental racism. Communities with poisoned water, high rates of asthma, etc. Communities like ours.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A critical component of the Green New Deal is its focus on a jobs guarantee, a guaranteed living wage, and strengthening the U.S. labor movement. Transitioning American society to 100% clean and renewable energy will create millions of good-paying union jobs. We have a moral obligation to make that transition to save our planet and ensure that all fossil fuel workers are fully equipped with the skills and training necessary to thrive in a green energy economy. No worker will be left behind.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Cosponsored the CLEAN Energy Act + NOW Act - to advance clean energy development on our public lands and waters by repealing harmful ties to fossil fuel leasing requirements\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Iâve fought tirelessly for a Green New Deal to transition to a 100% clean and renewable energy economy and create thousands of good-paying, union jobs in Western Pennsylvania. This includes ending fracking, which poses a disproportionate threat to communities like ours. The Green New Deal allows us to center our frontline and marginalized communities facing the brunt of environmental racism. Communities with poisoned water, high rates of asthma, etc. Communities like ours.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I helped introduce legislation to open the Office of Gun Violence Prevention within the Department of Justice's Office of Legal Policy. The Biden administration listened, and opened the office months later â which is now beginning the work of coordinating various gun violence prevention efforts that are administered by the Department of Justice, recommending policy options to promote evidence-based gun violence prevention strategies, and promote related data collection.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined the Congressional Gun Violence Prevention Task Force so members of the House of Representatives from various backgrounds can come together to create concrete solutions to the gun violence epidemic that has afflicted Western Pennsylvania and continues to take our loved ones across the country.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Like communities across the country, Western Pennsylvania is facing a gun violence epidemic. In Congress, Iâve helped lead the fight to pass an assault weapons ban, expanded background checks, end protections for corporate gun manufacturers and bold gun-safety legislation to stop the mass shootings that have become all too common across schools, synagogues, churches, mosques, stores and cities across America.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I continue to believe that healthcare is a fundamental human right. No one in this country should fear losing coverage because of preexisting conditions, their employment status, their immigration status, daring to start their own business, or aging off of their parentâs insurance. Our healthcare system is fundamentally broken. Medicare For All wouldnât just save money, it would save lives.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joined 112 House Democrats in introducing the Medicare for All Act to expand Medicare to provide comprehensive benefits to every person in the United States, free of copays, premiums, and deductibles.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare for All would eliminate fees and expand coverage, which means no one has to live in fear of bankruptcy in the event of a medical emergency or even just seeking preventative care. No more copays, deductibles and premiums. It would include not just medical, but also vision, dental, reproductive, mental health, and long-term care coverage. In too many cities like ours, we see mental health care and addiction crises criminalized through mass incarceration instead of supported in our healthcare system--Medicare for All would ensure a federal investment in mental healthcare and addiction services at the scale our communities need. Medicare for All will also lower prescription drug prices by allowing the government to negotiate drug prices and allowing consumers to buy directly from cheaper markets, forcing Big Pharma back to the negotiating table.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While we continue the fight for Medicare for All to ensure everyone has health care, there are also several parts of the health care system that need to be fixed, whether fighting Medicare and Medicaid to cover ALL medical care, including vision and dental, or addressing staffing issues and funding concerns in our health care systems. Ensuring we improve all of our standard of living and quality of life requires a comprehensive approach.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This is a big deal! This reversal of Trumpâs anti-worker policy gives power (and benefits like health care, paid leave, higher wages) back to the workers â and itâs why lobbyists for Uber and Lyft fought so hard to against Julie Su as Secretary of Labor.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1744759875240890654?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Whatâs good for our workers is paid leave and dignity on the job.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1633486602595909636?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We pay more for prescription drugs than any major country on Earth. Big Pharma has been unfairly charging people hundreds of dollars â and making record profits.\" It's time to hold big pharma accountable. Health care is a human right. We need health care access for ALL.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1623147864997199873?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the $35/month cap on insulin in the Inflation Reduction Act, nearly 4,700 folks receiving Medicare in my district are saving an average of $510 each year on insulin! Now, Iâm fighting for #MedicareForAll so no one has to go into debt for ANY medicine or treatment!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1691819642728141140?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/179240/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No human being is illegal. Our immigration system is a broken web of xenophobic policies that seek to punish brown and Black people and treat them as political pawns instead of building pathways to citizenship. Here in Pittsburgh, where we face declining population growth, our immigrant families are not only essential to our communities, but also our economy. Immigrants in Western Pennsylvania are essential to our ability to meet our labor force demands, meeting rising needs in key industries, contributing to taxes, and growing our manufacturing sector so that our economy can thrive.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/179240/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/179240/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No human being is illegal. Our immigration system is a broken web of xenophobic policies that seek to punish brown and Black people and treat them as political pawns instead of building pathways to citizenship. Here in Pittsburgh, where we face declining population growth, our immigrant families are not only essential to our communities, but also our economy. Immigrants in Western Pennsylvania are essential to our ability to meet our labor force demands, meeting rising needs in key industries, contributing to taxes, and growing our manufacturing sector so that our economy can thrive.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, our immigration system is built like our broken criminal legal system - it is punitive, relies on private prisons for detention, has built up an over-militarized border, and has turned ICE into a violent policing agency. All of that must end for us to prioritize the people getting lost, abused, and deported by our current immigration system. Iâve cosponsored legislation in Congress that helps ensure immigrants are treated with the dignity and respect they deserve, and fix our backlogged and deliberately overburdened immigration system.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to restore humanity in our immigration system by ending the separation of families and reversing roadblocks for asylum-seekers and refugees. Millions of undocumented immigrants, from Dreamers to people with Temporary Protected Status (TPS), deserve a pathway to citizenship because their home is here.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/179240/summer-lee"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I refuse to spend more money on weapons of war and tax breaks for the ultra-wealthy at the expense of children in Pennsylvania, Gaza, and Israel when what is needed now is investment in American families, de-escalation of violence, diplomacy, and humanitarian aid.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1720193258674921958?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2766: \"Uyghur Policy Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36481/97797/179240/uyghur-policy-act-of-2023#97797"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/179240/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/179240/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/179240/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/179240/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Right now, our economy works for the wealthy few and corporations at the expense of the working poor. Corporate tax breaks, unregulated Wall Street and Big Tech companies, and handouts to corporate polluters as social services continue to be underfunded have only reinforced the deep systemic inequalities that we continue to face as a nation. Economic growth has left behind marginalized communities and itâs time we center working people in our economic policies.\"",
+          "source": "summerforpa.com",
+          "url": "https://summerforpa.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to hold ALL social media companies accountable for protecting the privacy, security, safety of users, but banning TikTok for creators, organizers & businesses is NOT the answer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepSummerLee/status/1643235257594834951?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:20:20+00:00"
+}

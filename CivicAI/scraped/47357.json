@@ -1,0 +1,712 @@
+{
+  "name": "Brendan Boyle",
+  "page_title": "Brendan Boyle's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 2, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (PA) - District 2",
+  "candidate_id": "47357",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/47357/brendan-boyle",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Roe was not the start of abortions, it was the end of women dying from them. This decision will have dangerous consequences for patients across the nation. No matter where a person lives, what they look like, or what they do, everyone should have the freedom to decide what is best for themselves and their families, including when it comes to abortion care.\"",
+          "source": "boyle.house.gov",
+          "url": "https://boyle.house.gov/media-center/press-releases/boyle-statement-supreme-court-decision-overturning-roe-v-wade"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-Alive Survivors Protection Act\".",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34026/90338/47357/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/47357/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1578/rating/13874"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 99% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/959/rating/13813"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want to be able to look my daughter in the eye and tell her that Social Security will be there for the rest of her lifetime and beyond. We can do that by making the top 1% pay their fair share into Social Security\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1729924917808767393?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31998/83742/47357/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% By FreedomWorks",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/23/rating/10947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24168/62174/47357/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/25275/64436/47357/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans are pushing to cut Social Security benefits for over 250 million Americans. I've got a better idea â I just introduced a bill with @SenWhitehouse that will extend Social Security solvency for generations to come by making the ultra-rich pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1678812871319224330?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I want to be able to look my daughter in the eye and tell her that Social Security will be there for the rest of her lifetime and beyond. We can do that by making the top 1% pay their fair share into Social Security\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1729924917808767393?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13649"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by The Club for Growth",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1734/rating/12757"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"8 years ago today, what has now become known as the #CitizensUnited decision became law of the land. A law that has taken the power of elections away from the people and put it into the hand of the wealthy few. It must be overturned.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/955150489418719233?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/47357/brendan-boyle"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"For the People Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/47357/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been 5 weeks since House Democrats passed the George Floyd #JusticeInPolicing Act. Thatâs 5 weeks that Senate Republicans have ignored this critical issue.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1288896357311356928?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by National Association of Police Organizations (NAPO",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2407/rating/13906"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/47357/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great news! My successful fight to even the bidding process for a military helicopter contract resulted in two local (NE Philly & Delco) aero manufacturers winning a $325 million bid. Even betterâthis means new jobs coming to Philly and surrounding burbs!\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1045100825343926272?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We know that democracies around the world are facing challenges we havenât seen for generations. Iâm proud that this yearâs defense bill includes investments in the alliances America needs right now\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1547278704170205189?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32973/86809/47357/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/47357/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans deserve better than crumbling roads and toxic water pipes. Thatâs why as Vice Chair of @HouseBudgetDems, Iâm happy to see that the FY22 #BidenBudget proposes historic investments that will revitalize our nationâs infrastructure and create good-paying jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1403311297446436865?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"As @POTUS Biden likes to say, the middle class built America, and unions built the middle class. With this investment, we're going to create union jobs deploying clean hydrogen right here in Pennsylvania â growing our economy and growing the middle class.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1712922093954699612?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit Save, Grow Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34806/91855/47357/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/47357/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Glad that there are resources for local college students in need of a meal. But higher wages and more affordable tuition and housing would address this issue at the source. We must fight for solutions.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1030827946959949824?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Philadelphia's seniors have spent their lives making our city run. They deserve a dignified retirement â and that includes stable, affordable housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1086366386740445187?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/47357/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/47357/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The word historic might be overused at times â but not about the #InflationReductionAct.I was proud to vote for this law one year ago and I'm even prouder today as we see the historic impacts of new clean energy jobs and lower health care costs across America.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongBoyle/status/1691872856978690445"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/13/rating/13689"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/47357/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/47357/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Too many #millennials are crushed by #StudentDebt, but all @realDonaldTrump has done is tried to kill the Public Service Loan Forgiveness program â a step in the entirely wrong direction.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/958037550505119744?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Public Service Loan Forgiveness program helps dedicated public servants manage the burden of student debt & makes their careers possible\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/895380149616730112?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30777/79462/47357/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/47357/brendan-boyle/27/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#HR4, the John R. Lewis Voting Rights Advancement Act, would restore key provisions of the #VotingRightsAct gutted by SCOTUS. Now more than ever, we must strengthen federal oversight and prevent states from restricting the right to vote. I will be voting YES to #RestoreTheVote!\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1430218902714388487?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/47357/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to vote: John R. Lewis Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/47357/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 94% by League of Conservative Voters",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1012/rating/13931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/47357/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28907/74931/47357/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26353/67056/47357/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The GOP budget lays the groundwork to open the #ArcticRefuge up to oil drilling. We must defend this ecological treasure.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/922930151670808577?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by League of Conservative Voters",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1012/rating/13931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/47357/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have a gun violence epidemic in America that has gone on for far too long. It wonât end until our laws change On #NationalGunViolenceAwarenessDay -- I want you to know that I will not waiver in my efforts to pass common-sense legislation that will save lives and end this crisis\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongBoyle/status/1400829455220805633"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/47357/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910 \"Protecting Our Kids Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32751/85843/47357/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "statement",
+          "text": "\"I stand with @POTUS, It is time to finally bring common sense to our insane gun laws.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrendanBoyle/status/1532511343353397273"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Iâve said going way back to my very first campaign for office, healthcare is a human right, not a privilege. #MedicareForAll\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepBrendanBoyle/status/1720293267286233421"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/47357/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to support the #FamilyAct, which creates a comprehensive and inclusive national paid family and medical leave program. Workers should not be forced to make the impossible choice between earning a paycheck and taking care of themselves or a family member. #FMLA28\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongBoyle/status/1359663943908790278"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/47357/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm one of the House Democrats thatâs been fighting to keep paid sick leave and paid family leave in the legislation. I'm hoping that we will ultimately prevail on that.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CongBoyle/status/1464944679896723459"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great news!! Last night we passed landmark legislation that will cap insulin costs for Pennsylvanians with diabetes at $35 per month. Too many Americans struggle to afford this drug and last night Congress said enough is enough.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1509906395319123974?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over the past fifteen years, the price of insulin has quadrupled. We must get prescription drug costs under control so Americans can access the medications they need. Proud to introduce and pass out of committee HR 2115.\"",
+          "source": "x.com",
+          "url": "https://x.com/CongBoyle/status/1116080643950227456?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/47357/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/47357/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/47357/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform (FAIR",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/300/rating/13823"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13914"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/47357/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform (FAIR",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/300/rating/13823"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13914"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/47357/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/47357/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/47357/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/47357/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/47357/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/47357/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/47357/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/47357/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/47357/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/47357/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/47357/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/47357/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:09:44+00:00"
+}

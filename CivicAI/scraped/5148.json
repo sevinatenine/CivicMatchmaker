@@ -1,0 +1,628 @@
+{
+  "name": "Morgan Griffith",
+  "page_title": "Morgan Griffith's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VA) - District 9, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (VA) - District 9",
+  "candidate_id": "5148",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/5148/morgan-griffith",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Roe v. Wade was a constitutional error that has produced decades of tragedy. The Supreme Court got the law right today in Dobbs. The Court has returned to the individual states the ability to make their own decisions on this issue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1540348480337723393"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith/2/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to be recognized as a 2022 Medicare Advantage Champion for my work to ensure Medicare beneficiaries have quality and affordable health care coverage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1573041103665864710"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Especially in tough economic times, tax policy should seek to let hard-working Americans keep more of their money. Thatâs why I cosponsored legislation to make the 2017 tax cuts permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1507008384783962121"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 77% by the Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/5148/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 77% by the Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "statement",
+          "text": "\"Especially in tough economic times, tax policy should seek to let hard-working Americans keep more of their money. Thatâs why I cosponsored legislation to make the 2017 tax cuts permanent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1507008384783962121"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/5148/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated F by End Citizens United",
+          "source": "endcitizensunited.org",
+          "url": "https://endcitizensunited.org/scorecard/?state=VA&chamber=house"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/5148/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/73007"
+        },
+        {
+          "type": "statement",
+          "text": "\"I look forward to working with the Trump Administration and my colleagues in Congress on further reforms. We must instill confidence in all citizens that their civil rights will be protected, while assuring police officers, the great majority of whom do their jobs with dedication and responsibility, that they are supported in carrying out their vital work.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1436542/griffith-statement-on-president-trumps-policing-executive-order"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/5148/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/5148/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In fact, it helped cause the problem in the first place by driving through big-spending legislation that flooded the economy with cash and encouraged people not to work. Even liberal economists such as Larry Summers, an official in the Clinton and Biden Administrations, warned that freely spending federal tax dollars would overheat the economy, but their warnings went unheeded.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593017/congressman-griffiths-weekly-e-newsletter-22522/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It provides hundreds of billions to states and local governments, some of which have made poor financial choices for decades. While relief to states and local government in response to the coronavirus may be called for, bailouts for bad budgeting are not.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1427105/griffith-opposes-speaker-pelosis-3-trillion-wish-list/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over the past two years, the federal government has been spending taxpayer dollars like Monopoly money. The Oversight and Investigations Subcommittee is set on holding the Biden Administration accountable for its spending practices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1645849978282057728"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/39/housing-and-property"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Under the misleading and inaccurate title of the \"Inflation Reduction Act,' Democrats put together a wrongheaded wish list that will raise taxes, unleash the IRS, implement the Green New Deal, and impose cure-killing price controls in medicine. This bill will not help Americans struggling with high prices. By raising taxes, subsidizing unreliable energy sources, and penalizing affordable fossil fuels, it will make the cost-of-living crisis worse. And thanks to the $80 billion this bill sends to the IRS to hire 87,000 new agents, more middle-income earners can expect a time-consuming and expensive audit.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1627564/griffith-reconciliation-bill-will-make-cost-of-living-crisis-worse/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/84296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/90/government-budget-and-spending"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/votes/85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For a breakfast meeting today, I was required to show photo ID and proof of vaccination due to the leftist D.C. government. Meanwhile, Sen. Schumer is putting on the Senate floor a bill that would block state voter ID laws. ID for eggs, no ID to vote. This is madness.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1483824637171716097"
+        },
+        {
+          "type": "statement",
+          "text": "\"It seizes control of administering elections from the states and forbids voter ID.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1427105/griffith-opposes-speaker-pelosis-3-trillion-wish-list/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/12/elections"
+        },
+        {
+          "type": "statement",
+          "text": "\"Morgan supports commonsense solutions to secure our elections, such as requiring voter ID, clearing the deceased from voter rolls, and requiring proof of citizenship to register to vote.\"",
+          "source": "www.morgangriffithforcongress.com",
+          "url": "https://www.morgangriffithforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the underlying bill, $2.994 billion is appropriated for energy efficiency and renewable energy, while only $857.9 million is appropriated for fossil energy and carbon mitigation. I am advocating with this amendment that we should be closer to parity between the amount of money appropriated for fossil energy and carbon mitigation research and DOE's Office of Energy Efficiency and Renewable Energy. My amendment increases the fossil energy and carbon mitigation account by $600 million, along with a reduction of $1.1 billion from the renewables account.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1663158/energy-and-water-development-and-related-agencies-appropriations-act-2024/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats again just blocked the American Energy Independence from Russia Act on the House floor. Iâm a cosponsor of this bill to approve the Keystone XL pipeline, lift liquid natural gas export restrictions, and restart oil and gas leasing on federal land.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1504186745792905219"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/5148/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/5148/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 1446 would allow the government to delay background checks. When people are purchasing guns for self-defense, these delays could put them in danger. I am strongly opposed to both bills. The constitutional right to bear arms must be protected.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1370044956237238281"
+        },
+        {
+          "type": "statement",
+          "text": "\"The assault weapons ban is an unconstitutional infringement on the rights of law-abiding gun owners. I will always stand up for the Second Amendment, so I voted no on this gun ban.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1627566/griffith-opposes-assault-weapons-ban"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith/37/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe we can make progress without resorting to the heavy-handed, high-tax government meddling that would come with leftist proposals such as Medicare for All. One of the virtues of our system is constant medical innovation delivering new cures or ways to deliver treatment. Fixes for the problems in our health care system must not destroy its benefits at the same time.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593006/congressman-griffiths-weekly-e-newsletter-21122/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In this Congress, I am a cosponsor of the Lower Costs, More Cures Act. This bill would encourage lower drug prices by instituting more transparency in the system. It would provide a limit on what seniors in Medicare Part D pay out of pocket and also limit what they pay for insulin, a product which has been available for a century but has soared in price these past few years. The approach taken by this bill would make a difference in what people pay for prescription drugs without limiting the development of new treatment options.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593006/congressman-griffiths-weekly-e-newsletter-21122/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/5148/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An unsecure border permits smuggling of deadly substances such as fentanyl, undermines the rule of law, allows into our country individuals of unvetted background, and makes a mockery of the legal immigration process. These problems are serious, and even if they do not rise to the immediate urgency of what is happening in Ukraine, they are happening here in our country, and under the Biden Administration, they continue to worsen.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593035/congressman-griffiths-weekly-e-newsletter-31822/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to increase the number of border agents that we have, particularly at the southern border. We need to give them the tools they need. We need to give them more drones for electronic surveillance in the air. We need to give them more dogs to help them figure out what's going on, to sniff out the drugs when they can. It's coming across in small amounts -- here you see it. Two milligrams, lethal dose for most Americans. There it is compared to the penny. They need more dogs at the border. They need more horses, because some of that terrain is not suitable for motor vehicles. And last but not least, Mr. Speaker, we need to finish building the wall.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593004/griffith-speaks-on-house-floor-about-stopping-the-fentanyl-crisis/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/40/immigration"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the Federation of American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Immigration Lawyers Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by the Federation of American Immigration Reform",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/40/immigration?p=2"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted today in favor of the Securing America's Future Act, also known as the \"Goodlatte 1 bill,' which did not pass the House. It would have authorized money for border security, ended the visa lottery program, cut funds for sanctuary cities, and mandated E-Verify to ensure a legal workforce. The bill also would have protected Deferred Action for Childhood Arrival (DACA) recipients. Today's results are disappointing, as the House had a chance to strengthen border security, reform legal immigration, protect DACA recipients, and amend the laws to allow for immigration enforcement while respecting families.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1266200/griffith-statement-on-goodlatte-bill-to-reform-immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"Morgan sympathizes with the plight of DACA recipients who are here through no fault of their own. Most of them were brought here at a very young age and had no choice in the matter. However, any solution for them must recognize the need to enforce our laws. Morgan supports a tough but fair solution for DACA recipients that does not incentivize further illegal immigration. The United States is a nation of immigrants, and Morgan recognizes the positive contributions immigrants have provided us since our country's founding. While Morgan takes a tough stance on illegal immigration, he supports rolling back undue regulations and red tape to make the legal immigration process easier and to bring productive and talented people into the country.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1439727/issue-position-immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The financial sanctions levied by the United States and our allies are an important measure to make Vladimir Putin pay a price for his war of aggression, but more can be done. Russian oil and gas are the lifeblood of the country's economy. They provide leverage over European powers and finance Putin's war machine. Russian energy should be extensively covered by sanctions as well.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1593020/griffith-statement-on-russian-sanctions/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/5148/morgan-griffith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/5148/morgan-griffith/32/foreign-affairs?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/5148/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Russian government recently imposed sanctions on me for supporting Ukraineâs right to defend itself. I can live with that. It wonât stop me from voting for and cosponsoring bills such as ending Russian energy imports and arming Ukraine as it fights back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGriffith/status/1516836342839324689"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32637/85398/5148/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/5148/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/5148/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the bill, if an app is determined to be owned by a company controlled by a foreign adversary, the app must be divested (i.e. sold off) by the foreign adversaryâs company or the app will be prohibited in the United States. But, once sold, the app would be allowed for use in the United States. I attended security briefings on the legislation. Also, at a previous public hearing before a different committee, former U.S. National Security Agency Director Paul Nakasone testified about TikTok. He stated the app \"â¦provides a foreign nation a platform for information operations, a platform for surveillance...\" Before the bill was introduced, I was asked to review the draft language and helped to craft the final product. We wanted to make it clear we do not want to ban TikTok, we just want its ties to the CCP severed permanently and irrevocably.\"",
+          "source": "morgangriffith.house.gov",
+          "url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=403036"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/5148/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/5148/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:15:16+00:00"
+}

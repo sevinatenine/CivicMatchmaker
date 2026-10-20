@@ -1,0 +1,471 @@
+{
+  "name": "Christina Bohannan",
+  "page_title": "Christina Bohannan's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. House (IA) - District 1",
+  "candidate_id": "191056",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191056/christina-bohannan",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"49 years ago today, #SCOTUS ruled in favor of women in Roe v Wade. But the battle over womenâs reproductive freedom continues. The radical right is working to restrict access to safe abortions. We need leaders who fight for women, not against them.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1484908714968633347"
+        },
+        {
+          "type": "statement",
+          "text": "\"Codify Roe. Respect our freedoms. Itâs time for real representation.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1778486617583345732"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks the 51st anniversary of Roe v Wade. Letâs understand where @millermeeks wants to take us: back. Back to when women had no agency, no freedom to control their bodies, no way to get safe and necessary reproductive care. We will not go back. #RoeVWade\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1749543436447834376"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HJR 5 \"Amends the State Constitution to Repeal the Right to an Abortion\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30481/78581/191056/amends-the-state-constitution-to-repeal-the-right-to-an-abortion#78581"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After some events in Davenport, my team stopped by Wendyâs for Frosties. And I spent a few more minutes talking with one more voter about the importance of protecting Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1578858083278721024"
+        },
+        {
+          "type": "statement",
+          "text": "\"Even though we have nursing shortages in Iowa, and rural hospitals are closing, and some in Southeast Iowa have to drive 90 minutes to see a doctor, @RepMMM Miller-Meeks voted this week to allow massive and immediate cuts to Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1469045939885285379"
+        },
+        {
+          "type": "statement",
+          "text": "\"We also talked about Medicare, and about how hard it is for small-town hospitals to retain doctors. Iowans deserve quality, accessible health care--and I will work hard to be sure we get it.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1539696806162042881"
+        },
+        {
+          "type": "statement",
+          "text": "\"When @RepMMM voted to shut down the gov't this week, she voted against social security, Medicare, and veterans benefits. And she voted against families getting that last child tax credit payment before the holidays.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1467179127253913602"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HF 2317 \"Reduces the Income Tax Rate to a 4 Percent Flat Tax by 2026\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32307/84444/191056/reduces-the-income-tax-rate-to-a-4-percent-flat-tax-by-2026#84444"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2/2 \"Back the Blue\" also imposes severe penalties for vague crimes, and allows broad immunity for police misconduct.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1382474521920217090"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats support law enforcement AND the right to protest for racial justice. Many @iowahousedems are voting against the \"Back the Blue\" bill because it limits law enforcement discretion not to enforce minor violations of law in order to de-escalate violence\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1382474319373082624"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Now our military members are not getting paid. @millermeeks if you care about Iowaâs service members, tell McCarthy to pass the bipartisan senate CR NOW.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1707839329458884886"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As reported this a.m. by @KCRG, Iowa leads the nation for structurally deficient bridges. ( I have something to say about that: #infrastructure = safety = economy\"",
+          "source": "kcrg.com",
+          "url": "https://kcrg.com/2021/11/10/iowa-leads-nation-most-structurally-deficient-bridges/)"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iowa deserves a Congresswoman who will say YES to the infrastructure that will improve our state, our communities, our economy. @RepMMM said no.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1484523501709152256"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iowa's bridges and roads are crumbling; our internet access and speed are some of the worst in the country. The bipartisan #Infrastructure plan will benefit Iowa as much as or more than any other state in the country. And @RepMMM voted against it.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1457041598244589577"
+        },
+        {
+          "type": "statement",
+          "text": "\"When running for Congress, @RepMM told Iowans her top priority would be an infrastructure bill, saying \"we really need [it].\" But this week she voted the way her party bosses told her to and opposed critical infrastructure investments for Iowa.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1457820760467296257"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Yesterday I had a great conversation with voters at the Coal Palace Cafe in Ottumwa. We talked affordable housing, childcare, and the local city council race. Onward in Wapello County!\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1449449258072018944"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"2/2 CHIPS will fix our supply chain on thousands of products, reduce inflation, protect national security, & create good manufacturing jobs in states like Iowa. There's no good reason for @RepMMM's vote: she's obeying her party bosses instead of doing what Iowans need her to do.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1553030194646188032"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday during my stop in Jasper County, we talked about the wind blade manufacturing plant reopening. It's huge for Newton, and it is happening thanks to the Inflation Reduction Act, which my opponent voted against.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1588640897595764736"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today I can vote, work, and (at least theoretically) be paid the same as a man for the same work. I am so grateful that I was able to have both a family and a career. Through strong public education, affordable college, and student loans, I got an engineering degree and later became a lawyer.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1766264494458577169"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@millermeeks has taken $151,000 from Big Oil & expects us to believe she cares about our planet. Ensuring future generations inherit a healthy, thriving plant is why I became an environmental engineer & itâs why I will fight to make Iowa a renewable energy superpower #EarthDay\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1782572245765722255"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iowa already leads the nation in renewable wind and solar energy. Looking forward, we can become a superpower in energy, create jobs in Iowa, and protect ourselves from extreme weather events by investing in the the green economy of the future. Thank you @LCVoters\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Iowa leads the nation in wind and solar production. My opponent denies that climate change is a real threat requiring immediate action. When in Congress, I will fight to secure our childrenâs future AND make Iowa a superpower in renewable energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1705027873919131834"
+        },
+        {
+          "type": "statement",
+          "text": "\"Next stop! Not surprising that #Iowa is a leader in clean energy! On a beautiful, windy day in Mahaska County the wind turbines are really moving! #20Counties #Onward\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1588238110877700096"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@millermeeks has taken $151,000 from Big Oil & expects us to believe she cares about our planet. Ensuring future generations inherit a healthy, thriving plant is why I became an environmental engineer & itâs why I will fight to make Iowa a renewable energy superpower #EarthDay\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1782572245765722255"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iowa leads the nation in wind and solar production. My opponent denies that climate change is a real threat requiring immediate action. When in Congress, I will fight to secure our childrenâs future AND make Iowa a superpower in renewable energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1705027873919131834"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thank you for your support, Holly! I look forward to working for gun safety in Iowa in the legislature.\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I #WearOrange to honor the lives lost and the survivors of preventable gun tragedies. I will continue to fight every day for common sense gun safety measures. #NationalGunViolenceAwarenessDay\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you for your support, Holly! I look forward to working for gun safety in Iowa in the legislature.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1258591144012849152"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I #WearOrange to honor the lives lost and the survivors of preventable gun tragedies. I will continue to fight every day for common sense gun safety measures. #NationalGunViolenceAwarenessDay\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1532770810028609536"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The situation at Case in Burlington is worse than I thought. Most people I met have no sick leave. None. One single mom of 4 kids had worked there for 12 years but she canât take off work if her kids are sick without risking her job. This is why we stand strong with unions.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1524384140094750720"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If Miller-Meeks fought 1/10 as hard for her constituents who need prescription drugs as she does for drug company profits, I would drop out of this race today. #IA01\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1705344744602136743"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last year @millermeeks sided with Big Pharma companiesâvoting against legislation to cap the price of insulin & lower drug prices. Now MM is siding with her special interest friends on Wall Street by trying to gut protections for Iowa familiesâ retirements. Shameful.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1745581984745734618"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HF 263 \"Limits the Out of Pocket Cost for an Insulin Prescription at $100\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30035/77339/191056/limits-the-out-of-pocket-cost-for-an-insulin-prescription-at-100#77339"
+        },
+        {
+          "type": "statement",
+          "text": "\"Amazing that you continue to be so outspoken against lowering drug prices. To heck with regular Iowans who rely on things like insulin to stay alive, right? I guess itâs hard to pay attention to your constituents when the Pharma \"industry\" gave you a hefty donation this year.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1704520675866673184"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If the US had stood by while Putin attacked Ukraineâs democracy, other authoritarian rulers wouldn't hesitate to do the same in other parts of the world. We responded swiftly and decisively, and now authoritarian regimesâlike Chinaâ will think twice before they go down this path.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1499109104446488589"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putinâs unprovoked and brutal attack on Ukraine is an attack on freedom and democracy everywhere. Glad to hear in the #SOTU that the US will make sure Putin and his wealthy oligarch enablers are living in a world of hurt.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1499060055546769413"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If the US had stood by while Putin attacked Ukraineâs democracy, other authoritarian rulers wouldn't hesitate to do the same in other parts of the world. We responded swiftly and decisively, and now authoritarian regimesâlike Chinaâ will think twice before they go down this path.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1499109104446488589"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putinâs unprovoked and brutal attack on Ukraine is an attack on freedom and democracy everywhere. Glad to hear in the #SOTU that the US will make sure Putin and his wealthy oligarch enablers are living in a world of hurt.\"",
+          "source": "x.com",
+          "url": "https://x.com/BohannanIowa/status/1499060055546769413"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:57:00+00:00"
+}

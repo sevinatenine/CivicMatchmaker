@@ -1,0 +1,646 @@
+{
+  "name": "Tim Burchett",
+  "page_title": "Tim Burchett's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TN) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TN) - District 2",
+  "candidate_id": "24379",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/24379/tim-burchett",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim is proudly Pro-Life and earned a 100 percent rating with Tennessee Right to Life. In the state legislature, he sponsored legislation to amend the state constitution to protect unborn life. As your next congressman, he will defend life and make sure your taxpayer dollars are not used to support abortions.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/life/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee -24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 30% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America is not under taxed, Washington is over fed.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1556665344642752512"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our federal government already taxes and spends too much. The last thing we need to do is raise more taxes and spend more of Americaâs hard-earned money.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/taxes-and-spending/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tim has been an anti-tax champion throughout his time in public office. As a state legislator, he earned the \"Tax Ax\" award for fighting off the state income tax.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/taxes-and-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 95% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tim has been an anti-tax champion throughout his time in public office. As a state legislator, he earned the \"Tax Ax\" award for fighting off the state income tax.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/taxes-and-spending/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our federal government already taxes and spends too much. The last thing we need to do is raise more taxes and spend more of Americaâs hard-earned money.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/taxes-and-spending/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support the women and men in law enforcement that protect us. Retweet if you agree.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1271944102007971840"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Organization of Police Officers",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We ask â¦@RepThomasMassie whatâs wrong with the Defense Authorization Act? To start with 407 amendments adding $Millions to it.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1285691911047700482"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/22/defense?p=1"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/22/defense?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our federal government already taxes and spends too much. The last thing we need to do is raise more taxes and spend more of Americaâs hard-earned money.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/taxes-and-spending/"
+        },
+        {
+          "type": "statement",
+          "text": "\"What kind of pinko garbage is this? Inflation is caused by government over spending. We take in $5 trillion and spend $7 trillion.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1764469556863455362"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Build Back Better Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/39/housing-and-property"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"What kind of pinko garbage is this? Inflation is caused by government over spending. We take in $5 trillion and spend $7 trillion.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1764469556863455362"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/41/technology-and-communication"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/90/government-budget-and-spending"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The debt didnât go away, it was just transferred to the tax payers.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1447958184753307657"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why should hard working taxpayers have to pay for someone elseâs college? Freeze tuition and make schools live within their means and possibly get back to educating folks.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1328377441312776199"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association -24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\" in 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/93/higher-education"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Taxpayer funded campaigns? No voter IDâs? Federal takeover of Tennessee elections? No thank you!\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1481661454994530308"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voter fraud is not a conspiracy theory. It is real.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1263815252178874368"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/12/elections"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"FAA reauthorization is loaded with pork, DEI, and Green New Deal and we didnât have the guts to remove it. Wall Street wins and Main Street loses.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1682043689949089792"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/30/environment?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Letâs lift the restrictions on offshore drilling so Americans can enjoy the jobs and the energy we have here at home.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/energy-independence/"
+        },
+        {
+          "type": "statement",
+          "text": "Open the pipelines, start drilling, and quit buying Russian oil @POTUS\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1499870796214325250"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/29/energy"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tim is an avid gun owner with a handgun carry permit. In the state legislature, he sponsored legislation to expand gun rights, including co-sponsoring legislation eliminating political patronage in the permitting process, and protecting lawful carry permit holdersâ right to carry legally in the state. As a lifetime NRA member, you can count on Tim to protect our Second Amendment rights.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/guns/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress promised to repeal Obamacare and replace it with a system that actually lowers prices and increases access to care, but the politicians in Washington canât seem to find the guts to get the job done.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/health-care/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs allow folks to buy health insurance from any provider in any state they want. Letâs get rid of the mandates and coverage requirements that drive up prices.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/health-care/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/91/health-insurance"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/83/entitlements-and-the-safety-net"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Supporting government-mandated insulin prices wonât help the many House Democrats who are desperately trying to shed their socialist image. Capping the price of insulin does nothing to address the reasons why it is so expensive in the first place. Instead, this scam shifts costs to seniors and working Americans in the form of higher insurance premiums and increased prices for other prescription drugs.\"",
+          "source": "burchett.house.gov",
+          "url": "https://burchett.house.gov/media/press-releases/burchett-opposes-government-insulin-price-fixing-scheme-raises-healthcare"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/38/health-and-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA -24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/40/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden flew this illegal dirtbag into our Country. No border no budget. Shut it down.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1768622476211204451"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tim believes itâs high time we enforce the laws on our books, and secure our southern border.\"",
+          "source": "www.burchettforcongress.com",
+          "url": "https://www.burchettforcongress.com/issue/immigration/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rep. Jim Jordan responds after Biden says he will hire more Dreamers to curb inflation: 'Hire Americans' AMEN!\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1605914314245869569"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA -24",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/24379/tim-burchett"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/40/immigration?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/40/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/22/defense?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/89/foreign-aid?p=1"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/89/foreign-aid"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why is the Biden Administration working to lift sanctions on Iran's murderous regime as part of a revived nuclear agreement? They just fired rockets at a U.S. consulate in Iraq last weekend. President Biden needs to quit trusting our enemies. They will always stab us in the back.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepTimBurchett/status/1504905107338629130?s=20&t=6IoYbJ55o5345Lqa7qxCkg"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/24379/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted against spending $1.2 trillion, including: $27 billion increase for the Pentagon, $880 million for Middle Eastern countriesâ borders (but not our own!), and $300 million more for Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1771214602761609675"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to pull the $300 million for Ukraine from the military spending bill. We need to take care of our own.\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1702388344926163379"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/89/foreign-aid"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/89/foreign-aid"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The TikTok ban is not a ban. Why would we want the Communist Chinese to control a major information source? #ccp\"",
+          "source": "x.com",
+          "url": "https://x.com/timburchett/status/1767930511018647740"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/24379/tim-burchett/41/technology-and-communication"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:08:23+00:00"
+}

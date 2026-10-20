@@ -1,0 +1,670 @@
+{
+  "name": "Jim Jordan",
+  "page_title": "Jim Jordan's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OH) - District 4, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OH) - District 4",
+  "candidate_id": "8158",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/8158/jim-jordan",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Stand for Life. Overturn Roe!\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1466071539896487945?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The most powerful moment of the #SOTU was when President Trump defended the sanctity of human life.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1093177938252574721?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/8158/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden says Republicans want to take your Social Security and Medicare. That is not true. But the media blames Republicans for calling him out. Ridiculous.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1623435988566675457?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Donât be fooled. President Bidenâs tax hikes and spending plans will kill jobs in Ohio. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1374502796116905986?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"No new taxes. Ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1452665405110108166?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/8158/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/8158/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Donât be fooled. President Bidenâs tax hikes and spending plans will kill jobs in Ohio. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1374502796116905986?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"No new taxes. Ever.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1452665405110108166?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/8158/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Principles Americans know: 1. What happened to George Floyd was terrible and should never happen again. 2. The vast majority of police are good and risk their lives for us daily. 3. Defunding the police is insanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1270454109070639104?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Wednesdayâs events show that supporting law enforcement is needed now more than ever. We must ensure that officers have the tools they need to keep America safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1347590814151671812?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/8158/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fund the police and the military. Defund the teachers' unions and Dr. Fauci.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1392135807503306754?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reduce spending outside of defense\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1023993124136181761?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/8158/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/8158/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/8158/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress should #DoWhatWeSaid. We said we'd cut spending... So let's do it.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1022532326042075137?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Donât be fooled. President Bidenâs tax hikes and spending plans will kill jobs in Ohio. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1374502796116905986?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While you were sleeping, Congress unveiled a $1.7 trillion spending package without any real way to pay for it. Only in The Swamp.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1605223303303634945?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/8158/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Left spent record amounts of your tax dollars and gave us record inflation. Just reminding you.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1584589985147105280?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation isnât getting better until gas prices go down. And how do you get gas prices down? Drill DOMESTICALLY. Sadly, Joe Biden and the Democrats refuse to.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1547692766624223234?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation isnât going away. Food, gas, and shelter costs are all rising. And Americans have rarely seen things so expensive. Joe Bidenâs economy isnât working.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1625997775388258304?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Why should a machinist in Ohio pay for the student loans of a jobless philosophy major in Los Angeles?\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1562863806316814340?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Canceling student loan debt is stupid.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1519310644239085569?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Who will ultimately pay the price of Joe Bidenâs student loan handout? The 87% of Americans who donât have student loans!\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1562514541715410951?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats are ignoring inflation and crime in your neighborhood. Because today theyâre working on legislation that gives the federal government power to prohibit states from having voter ID laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1481658959027048448?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"H.R. 4 is a radical and unconstitutional power grab that will politicize commonsense election integrity efforts, and give the Biden Administration veto authority over voter ID laws implemented by states.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1430255356303876097?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/8158/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/8158/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/8158/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump is right. Chuck Schumerâs infrastructure \"plan\" is the beginning of the Green New Deal. No one should support it.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1425172272424292357?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration is now quietly admitting that canceling the Keystone Pipeline cost THOUSANDS of American jobs.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1611496039697244161?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "statement",
+          "text": "\"Canceled drilling leases. Canceled pipelines. Limited domestic production. Imposed needless regulations. Discouraged energy investments. Gas prices aren't high because of the war in Ukraine. They're high because of Joe Biden!\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1542276594504433669?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Keystone Pipeline. American oil leases. ANWR. Thereâs no shortage of oil. Only common sense.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1501277021292269569?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"First, they wonât protect your border. Now, they want to take your guns.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1380195306575441923?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/8158/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/8158/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Todayâs Left supports the most radical positions in American history. In 2013, Bernie Sandersâ socialized healthcare bill got ZERO cosponsors. In this Congress, the same bill has SEVENTEEN.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1047234025843314688?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs Left wants to take away your private healthcare\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1173646254217342977?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/8158/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/8158/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress should focus on lowering prescription drug prices, NOT on companies' stock prices.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1118589905519640583?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/8158/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/8158/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/8158/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Border Patrol seized enough fentanyl to kill the entire US population this fiscal year. What arenât they catching? Whatâs making it to your community? God Bless these Border Patrol agents for acting while Joe Biden continues to hide.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1707168480942756168?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans passed H.R. 2, the strongest border security bill in history, to prevent illegal immigration and protect Americans. Joe Biden is intentionally allowing the lawlessness and chaos we see at the southern border.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1740920942618931532?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/8158/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to pass an immigration bill thatâs consistent with the mandate of the 2016 election: Secure our borders. Build the wall. End chain migration. End the visa lottery. Stop sanctuary cities. Reform asylum laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1007667303289368576?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to secure the border, build the wall, end chain migration, reform the visa lottery, and stop sanctuary cities. Once we have that, we can talk about DACA. DACA recipients should go through the same process as legal immigrants. They shouldn't get a special pathway.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1005157511303839744?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/8158/jim-jordan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/8158/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/8158/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/8158/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/8158/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/8158/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/8158/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/8158/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/8158/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech claims they arenât biased against Conservatives. So why are they suppressing speech to help the Democrats? Section 230!\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1316461293377933313?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Big Techâs bad. Big Mediaâs bad. Big Governmentâs bad. Donât give them more power. Break them up.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1407829769023000577?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Big techâs out to get conservatives. Itâs time they face the consequences.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1288531314166190080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"If big tech wants to censor conservatives like @SenTomCotton, @RepMattGaetz, and @realDonaldTrump, then they can't expect there will be no consequences.\"",
+          "source": "x.com",
+          "url": "https://x.com/Jim_Jordan/status/1274001247486586894?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:01:19+00:00"
+}

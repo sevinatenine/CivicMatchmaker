@@ -1,0 +1,388 @@
+{
+  "name": "Herb Conaway, Jr.",
+  "page_title": "Herb Conaway, Jr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NJ) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NJ) - District 3",
+  "candidate_id": "24716",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/24716/herb-conaway-jr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a physician and a 26-year legislator, advocating for women's reproductive rights has been a cornerstone of my time as a public servant. As your next Congressman, my priority is clear: stopping right-wing extremists from dictating what individuals do with their own bodies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1775255305003127197"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's crystal clear that we need to restore the protection we had under Roe. As your next Congressman, I'm committed to making sure we win that fight.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1778174944083362256"
+        },
+        {
+          "type": "statement",
+          "text": "\"The AZ SCOTUS decision to restore an abortion law from 1864 is disgraceful and will cause harm to many women and families. This law was passed before women had the right to vote AND before AZ was a state if that tells you anything about how far back they are trying to take us.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1778174942078533898"
+        },
+        {
+          "type": "statement",
+          "text": "\"The SCOTUS decision on Roe will allow states to wrongly force a woman to maintain a pregnancy even at the cost of her own life. Abortion bans donât stop abortions. They merely move abortions to unsafe settings that are hazardous to a womanâs life and a threat to public health.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1540750988461543424"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My bill, A4485, would greatly expand current health insurance network adequacy requirements. We must guarantee that health insurance networks are easily accessible and readily available all across New Jersey--providers should never be too far away.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1583551107262922753"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor A 10:\"Increases Gross Income Tax Rate for Millionaires- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28918/74956/24716/increases-gross-income-tax-rate-for-millionaires#74956"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2430: \"Expands Political Contribution Restrictions- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/19523/51330/24716/requires-disclosure-of-political-contributions#51330"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2866: \"Establishes the Elections Transparency Act - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34612/91404/24716/establishes-the-elections-transparency-act#91404"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1163: \"Requires Law Enforcement to Wear Body Cameras- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/29106/75813/24716/requires-law-enforcement-to-wear-body-cameras#75813"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 5415: \"Establishes a Zero-Interest Forgivable Loan Program to Provide Down-Payment Assistance for First-Time Homebuyers - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35588/94739/24716/establishes-a-zero-interest-forgivable-loan-program-to-provide-down-payment-assistance-for-first-time-homebuyers#94739"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2340: \"Prohibits Eviction of Tenants During a Pandemic- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28641/74215/24716/prohibits-eviction-of-tenants-during-a-pandemic#74215"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SJR 70: \"Authorizes Funding for Affordable Housing Out of Appropriations in the Build Back Better Act - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33906/89975/24716/authorizes-funding-for-affordable-housing-out-of-appropriations-in-the-build-back-better-act#89975"
+        },
+        {
+          "type": "statement",
+          "text": "Votes in favor of S 1055: \"Prohibits Rent Controlled Units From Being Converted into Condominiums - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28051/73934/24716/prohibits-rent-controlled-units-from-being-converted-into-condominiums#73934"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 2014: \" Authorizes Automatic Voter Registration at More Locations - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24523/62702/24716/authorizes-automatic-voter-registration-at-more-locations#62702"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2756: \"Authorizes Registered Voters to Receive Mail-In Ballots Automatically - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/13509/35405/24716/authorizes-registered-voters-to-receive-mail-in-ballots-automatically#35405"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 4559: \"Reducing Greenhouse Gas Emissions- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/6076/16820/24716/reducing-greenhouse-gas-emissions#16820"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3926: \"Authorizes Offshore Wind Projects- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31828/83108/24716/authorizes-offshore-wind-projects#83108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2576: \"Relating to a One-Year Moratorium on Fracking - New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/13906/36872/24716/prohibits-hydraulic-fracturing#36872"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1204: \"Expands Requirements for Firearm Registration- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33295/88329/24716/expands-requirements-for-firearm-registration#88329"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 873: \"Extending Family Leave Benefits- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/6496/17975/24716/extending-family-leave-benefits#17975"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an Assemblyman, I brought health insurance within reach for hundreds of thousands of New Jerseyans by establishing our ACA health insurance marketplace, Get Covered. I established the New Jersey program that provides prescription drugs to low-income seniors...\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1771202821737611379"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 5207: \"Prohibits State, Local Entities, and Private Detention Facilities from Signing Contracts to Detain Non- Citiizens- New Jersey Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31755/82807/24716/prohibits-state-local-entities-and-private-detention-facilities-from-signing-contracts-to-detain-non-citizens#82807"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I fully support the Ukraine aid bill that just passed the house. We have a responsibility to support our democratic allies abroad. Thank you Leader @RepJeffries for your steadfast support for the Ukrainian people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/herbconaway/status/1781750763850498414"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:26:24+00:00"
+}

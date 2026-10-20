@@ -1,0 +1,652 @@
+{
+  "name": "Ronny Jackson",
+  "page_title": "Ronny Jackson's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 13, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TX) - District 13",
+  "candidate_id": "188325",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/188325/ronny-jackson",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am Pro-Life and I will staunchly defend the life of the unborn. Every life is a blessing from God, and we must treat all life as sacred and do everything possible to protect it.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm OVERJOYED about what happened yesterday. The pro-abortion movement is DISGUSTING - but thanks to President Trump, we are BEATING them. Every life is a sacred gift from GOD! I hope we continue to end abortion in EVERY state in the country!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1540722902097707008?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"OUR PRAYERS HAVE BEEN ANSWERED! This is the moment weâve been waiting DECADES for - Roe v. Wade is OVERTURNED! THANK YOU to every Pro-Life activist who has helped make this victory possible, and THANK YOU to President Trump for nominating 3 FANTASTIC Pro-Life justices. HUGE win!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1540338766967148544?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans protected veteransâ benefits, social security, Medicare, and our national defense while cutting TRILLIONS in unnecessary spending. Biden needs to come to the table and negotiate IMMEDIATELY. He WILL NOT get a blank check from us!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1654124016062586885?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden PROMISED not to raise taxes on the middle class. Now he plans to end Trumpâs tax cuts. Get ready for higher taxes and more LIES.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1400516351375163395?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats will use YOUR tax dollars to incentivize the FLOOD of illegal immigrants into our country. Free healthcare, free education. ANYTHING illegals want they GET. This is going to be an unmitigated DISASTER for our country if Democrats continue with this open-border insanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1362961986288553985?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every idea Sleepy Joe has will DRASTICALLY raise our taxes. Not on my watch!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1388165054059753477?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 81% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden PROMISED not to raise taxes on the middle class. Now he plans to end Trumpâs tax cuts. Get ready for higher taxes and more LIES.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1400516351375163395?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats will spend $500 BILLION of YOUR tax dollars to buy votes from people with college degrees. This will blowback in Biden's face. Hard-working Americans DO NOT want to pay for some rich kid's law degree. Democrats will PAY for this at the polls!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1564695239343964161?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats will use YOUR tax dollars to incentivize the FLOOD of illegal immigrants into our country. Free healthcare, free education. ANYTHING illegals want they GET. This is going to be an unmitigated DISASTER for our country if Democrats continue with this open-border insanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1362961986288553985?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/188325/for-the-people-act-of-2021#77710"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If Democrat lawmakers HATE our police so much, then they should REFUSE any special police protection. Funny how theyâll badmouth our law enforcement until they actually need them. Hypocrites!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1385971800568258561?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unlike our President, I will ALWAYS stand by our countryâs police officers. BACK THE BLUE!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1388933316921987073?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/188325/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"Crime is out of CONTROL and Democrat \"defund the police\" policies are to blame. Theyâre putting American families in DANGER with their anti-cop agenda - we need to BACK THE BLUE!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1419326548331700231?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden wants to CUT defense spending rather than stick to growth called for in the NDS, forcing DoD to make difficult budget cuts. I was glad to hear from the Air Force that #TX13 is a priority! I will be working to ensure that our service members have the resources they need!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepRonnyJackson/status/1407026477447720964?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am in favor of a strong national defense and will work to protect and maintain our military dominance. We have the greatest, strongest, and most capable military on the planet. This fact alone serves as powerful deterrence to those who would do us harm. We must support our military.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Russia & China are preparing for war and what is our military doing? Weâre busy teaching CRT HATE and kicking out unvaccinated troops. Weâre getting WEAKER under Biden!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1478160352407924742?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/188325/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats are attempting to FORCE a vote on their outlandish $1.75T spending package filled with nothing but Socialist BAILOUTS and liberal pet projects. We must hold strong and vote NO!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1455964311122333705?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am fiscally conservative, and I will work to limit government spending and reduce our national debt.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The MASSIVE omnibus bill prohibits ANY funding from going to improve border security. Thereâs an INVASION at our border, and this bill will make it WORSE! In addition, it is FULL of disgusting, liberal, wasteful spending!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1605354968848138240?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will be voting NO on the trillion dollar \"Build Back BROKE\" liberal spending package Pelosi is trying to FORCE through Congress. I will be voting NO on any \"reconciliation\" package. I wonât bankrupt our future to fund Pelosi & Bidenâs WOKE agenda!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1456621939255033859?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/188325/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will vote NO on the Inflation Expansion Act. I will vote NO on 87,000 more IRS THUGS. I will vote NO on a MASSIVE tax increase during a recession. This bill is a slap in the face to EVERY American!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1558106390073335808?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The horrific Omnibus bill going through the Senate MUST be defeated. It will leave our border WIDE OPEN. It will cause inflation to spiral OUT OF CONTROL. It will make our communities LESS SAFE. This bill puts AMERICA LAST!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1606002848734609408?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/188325/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Absolutely BRUTAL inflation numbers today. A FORTY YEAR HIGH! When you combine destructive socialist policies with a cognitively compromised \"commander in chief\" THIS is what happens. A change is needed and needed NOW!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1547224409525608450?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student-loan handout plan is a DISASTER! Rich liberals with graduate degrees are getting FREE handouts from the government. The fact is, every dollar they receive was EARNED by a working-class American. DEMOCRAT ELECTION BRIBES!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1582750490823008258?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats will spend $500 BILLION of YOUR tax dollars to buy votes from people with college degrees. This will blowback in Biden's face. Hard-working Americans DO NOT want to pay for some rich kid's law degree. Democrats will PAY for this at the polls!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1564695239343964161?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. Biden, I know youâre FREQUENTLY confused, but your unconstitutional taxpayer funded student loan handout DID NOT pass Congress by \"a vote or two.\" This reckless spending of hardworking blue collar taxpayerâs money is ALL ON YOU!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1584595336743555086?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats want illegals voting to steal this election. DEMAND VOTER ID!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1274084540449820672?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"It absolutely blows my mind how Democrats think voter ID is \"racist\" then demand for Americans to show proof of 3 shots to enter a restaurant or go on an airplane.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1475180034688225280?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Robert Francis \"Beto\" OâRourke is a clown. He wants to seize your firearms, open our borders, and eliminate voter ID. Heâs a left-wing radical - but the good thing is that heâll NEVER be governor of Texas!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1534307854781497345?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Faulty, renewable energy sources are the cause of MASSIVE power outages all across Texas. The far-left wants to leave America with only the WORST energy sources imaginable.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RonnyJacksonTX/status/1362801851029221376?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our reliance on renewable energy needs to be revisited IMMEDIATELY. Providing huge government subsidies to build made-in-China \"green\" infrastructure IS a national security RISK.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RonnyJacksonTX/status/1362160273784598533?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reliable Texas oil & gas had to BAIL OUT our \"renewable\" energy sector during this weather crisis. We simply cannot abandon Americaâs proven energy solutions, for Chinese \"renewable\" alternatives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1363246299169120257?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will protect the industry of this district and work tirelessly to support farmers, ranchers, the oil and gas industry, Bell Helicopter, Sheppard Air Force Base, Weber Aircraft, Pantex, and other industries critical to the economy of the 13th congressional district. All these industries are not only important to the district but are also directly related to our national defense and to a strong national economy. I will pledge to promote and grow these industries in the district.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Make America PUMP Again. Make America DRILL Again. Make America ENERGY DOMINANT Again!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1503412612318613505?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reliable Texas oil & gas had to BAIL OUT our \"renewable\" energy sector during this weather crisis. We simply cannot abandon Americaâs proven energy solutions, for Chinese \"renewable\" alternatives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1363246299169120257?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The D.C. Swamp is doing everything it can to try and take your gun rights away. I will work night and day, if thatâs what it takes, to prevent them from OVERRIDING our 2nd Amendment rights.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1358490714594701313?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Democrat gun control bills would do NOTHING to stop crime. All they'll do is ROB law-abiding American citizens of their RIGHT to own a firearm. Democrats want to take ALL of our rights, and they want our 2nd Amendment MOST.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1370238672633798657?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Radical Left is set on destroying our Country. That starts with defunding the police and taking away our guns so that average Americans are scared to death to even step outside. If youâre a law abiding citizen, we MUST re-elect @realdonaldtrump\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1305219697302962177?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will defend our right to keep and bear arms. I believe that law abiding citizens of this country should be able to have guns in their homes and carry them in public. I am a member of the NRA and have been a gun owner my entire life. I will work to ensure that no one can take away or limit our ability to defend ourselves or our constitutional right to our guns. In Congress, I successfully helped lead the charge to remove any \"Red Flag Law\" provisions in the NDAA, as well as lead other initiatives to defend our right to keep and bear arms.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats will use YOUR tax dollars to incentivize the FLOOD of illegal immigrants into our country. Free healthcare, free education. ANYTHING illegals want they GET. This is going to be an unmitigated DISASTER for our country if Democrats continue with this open-border insanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1362961986288553985?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I will work hard to lower healthcare cost. Health insurance, medical care, and the drugs that Americans rely on for their health and well-being are all far too expensive. The cost of healthcare is far outpacing the income for most people in this country. I will work to eliminate the monopolies in healthcare, continue to promote transparency in billing, reform pharmaceutical pricing and bring down the cost of drugs, and protect Americans from the liberal agenda and the socialist healthcare plans of the left.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We MUST defend our healthcare industry from the destruction of the radical Left. They will make it worse for EVERYONE!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1366070982767706115?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will work hard to lower healthcare cost. Health insurance, medical care, and the drugs that Americans rely on for their health and well-being are all far too expensive. The cost of healthcare is far outpacing the income for most people in this country. I will work to eliminate the monopolies in healthcare, continue to promote transparency in billing, reform pharmaceutical pricing and bring down the cost of drugs, and protect Americans from the liberal agenda and the socialist healthcare plans of the left.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/188325/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's push for open border policies and amnesty for all illegal immigrants has created and continues to bolster the worst border crisis in history. The current situation at our southern border is a public health crisis, a haven for criminal activity, and a threat to our national security.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1585046/rep-jackson-introduces-legislation-to-hold-border-czar-kamala-harris-biden-administration-accountable-for-border-crisis-failures/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support strong protected borders. I will work hard to push serious and strong immigration reform that limits the number of immigrants and refugees that can legally enter our country. Only those that are vetted, screened, and go through the legal process should be allowed to enter. I will work tirelessly to prevent anyone from entering our country illegally. I have spent time on the southern border while working as a Senior Advisor for President Trump and I understand the issues and I know the answers. Additionally, I support the border wall. The men and women of Customs and Border Protection, the Border Patrol, and Immigration and Customs Enforcement (ICE), need the wall in place to effectively do their job and protect us from criminals, gang members, drug smugglers, and human traffickers that continue to cross our border every day. Immigration is a national security issue and should not be used as a political tool by the left.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The MASSIVE omnibus bill prohibits ANY funding from going to improve border security. Thereâs an INVASION at our border, and this bill will make it WORSE! In addition, it is FULL of disgusting, liberal, wasteful spending!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1605354968848138240?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's push for open border policies and amnesty for all illegal immigrants has created and continues to bolster the worst border crisis in history. The current situation at our southern border is a public health crisis, a haven for criminal activity, and a threat to our national security.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1585046/rep-jackson-introduces-legislation-to-hold-border-czar-kamala-harris-biden-administration-accountable-for-border-crisis-failures/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats will use YOUR tax dollars to incentivize the FLOOD of illegal immigrants into our country. Free healthcare, free education. ANYTHING illegals want they GET. This is going to be an unmitigated DISASTER for our country if Democrats continue with this open-border insanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1362961986288553985?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support strong protected borders. I will work hard to push serious and strong immigration reform that limits the number of immigrants and refugees that can legally enter our country. Only those that are vetted, screened, and go through the legal process should be allowed to enter. I will work tirelessly to prevent anyone from entering our country illegally. I have spent time on the southern border while working as a Senior Advisor for President Trump and I understand the issues and I know the answers. Additionally, I support the border wall. The men and women of Customs and Border Protection, the Border Patrol, and Immigration and Customs Enforcement (ICE), need the wall in place to effectively do their job and protect us from criminals, gang members, drug smugglers, and human traffickers that continue to cross our border every day. Immigration is a national security issue and should not be used as a political tool by the left.\"",
+          "source": "ronnyjacksontx.com",
+          "url": "https://ronnyjacksontx.com/on-the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188325/ronny-jackson"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/188325/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trudeau should move to China. Like a true communist, heâs using the full might of the government to attack ANYONE who dissents. If this gets any worse, Cuba-style sanctions need to be considered. This is TERRIBLE!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1494743836576432131?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/188325/hamas-international-financing-prevention-act#95972"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last night I once again voted to STOP sending another CENT to Ukraine. Our Border is collapsing right in front of our eyes, Americans can BARELY afford to live, we're becoming a 3RD WORLD country and we're STILL funding a WAR with NO END!! ENOUGH!! NO MORE AMERICAN MONEY!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1707426679604326482?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/188325/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/188325/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Delete Tik Tok off your phone. Delete it off your childrenâs phones. The Chinese Communists are STUDYING YOU like a Fauci lab-rat. Get rid of the Chinese SPY APP!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1608576687780032512?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tik Tok has GOT TO GO. This app is a NATIONAL SECURITY THREAT, stealing our secrets & undermining the moral values of our country. Both parties in Congress agree. What's the inept Biden Admin doing about it? Aiding and abetting the cause of the Chinese Communist Party YET AGAIN!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1597719965918199809?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tik Tok needs to be BANNED across the country. This app is a textbook intelligence operation designed to harvest your data and put anti-American propaganda in front of our kids. Tik Tok needs to GO!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1598762451763617793?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok is a THREAT to our nation. China is using it to SPY on MILLIONS of American citizens. This canât be allowed to go on for ANY longer. It needs to be sold or BANNED immediately!!\"",
+          "source": "x.com",
+          "url": "https://x.com/RonnyJacksonTX/status/1636805332016955415?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/188325/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:03:12+00:00"
+}

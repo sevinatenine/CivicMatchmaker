@@ -1,0 +1,640 @@
+{
+  "name": "Nicole Malliotakis' Issue Positions (Political Courage Test)",
+  "page_title": "Nicole Malliotakis' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 11, Republican",
+  "on_the_ballot": "Running, Conservative, Republican for U.S. House (NY) - District 11",
+  "candidate_id": "127929",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/127929/nicole-malliotakis",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pelosi's radical abortion bill allows abortions to take place up until birth. Democrats wouldnât even support requiring medical attention for babies born alive during failed abortions. Itâs barbaric but thankfully it doesnât look like Senate will take it up.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMalliotakis/status/1441497800684945421"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/127929/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nicole was honored to be named a 2024 Guardian of Seniors' Rights by the @60PlusAssoc for her work in Congress to protect the rights of our senior citizens and preserve critical programs like Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMalliotakis/status/1776343661028037050"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Government does not know how to spend your money better than you do. Instead of more tax & spend, let hardworking taxpayers keep the fruits of their labor to support their families and live their lives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/NMalliotakis/status/1387802699727613966?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the State Assembly, Nicole proudly voted against tax increases 336 times and, in her campaign for New York City Mayor, she fought against inequity in city property taxesâleading to the creation of a property tax commission to review the entire system. She was a strong supporter of President Trumpâs Tax Cuts and Jobs Act and, in Congress, Nicole has opposed efforts by House Democrats to repeal it.\"",
+          "source": "nicolemalliotakis.com",
+          "url": "https://nicolemalliotakis.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With President Trumpâs tax cuts set to expire in 2025, Americans literally canât afford Joe Biden in the White House next year.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMalliotakis/status/1787853410676494601"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Government does not know how to spend your money better than you do. Instead of more tax & spend, let hardworking taxpayers keep the fruits of their labor to support their families and live their lives.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/NMalliotakis/status/1387802699727613966?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the State Assembly, Nicole proudly voted against tax increases 336 times and, in her campaign for New York City Mayor, she fought against inequity in city property taxesâleading to the creation of a property tax commission to review the entire system. She was a strong supporter of President Trumpâs Tax Cuts and Jobs Act and, in Congress, Nicole has opposed efforts by House Democrats to repeal it.\"",
+          "source": "nicolemalliotakis.com",
+          "url": "https://nicolemalliotakis.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With President Trumpâs tax cuts set to expire in 2025, Americans literally canât afford Joe Biden in the White House next year.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMalliotakis/status/1787853410676494601"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/127929/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Assaults against police officers have dramatically increased every year since the 2020 Defund the Police movement. New York Democrats have implemented policies that have made our NYPD officers less safe and, when our police are not safe, not of us are.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1759714099359797435"
+        },
+        {
+          "type": "statement",
+          "text": "\"From standing up against the Defund the Police movement to working to stop anti-police legislation in Washington, I appreciate and support our law enforcement and thank them for their service on this National Thank a Police Officer Day.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/NMalliotakis/status/1439284107935158273?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/127929/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans were extremely successful in pushing back on the attempts by President Biden, Nancy Pelosi & the Socialist Squad to cut national security & defense spending in the National Defense Authorization Act passed today.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1441220560764108806"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/127929/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/127929/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/127929/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats irresponsibly added $10 TRILLION in new spending in the two years they had control but did NOT raise the debt limit to pay for it. Republicans are the responsible adults in the room who voted to PAY our bills, PREVENT a default & CUT unnecessary, inflationary spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1654498765380747267"
+        },
+        {
+          "type": "statement",
+          "text": "\"With USA approaching an unsustainable $32 trillion debt thatâs larger than our ENTIRE economy (120% of our GDP) and threatens the future of Medicare & Social Security, getting our fiscal house in order is @HouseGOPâs priority to protect our nation, our seniors & our future!\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1661766310651363330"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/127929/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/127929/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If you think this is bad, wait to see what happens if Democrats jam thru their $3.5 trillion socialist spending spree. They want to borrow more money to dole out, driving up inflation & the cost of everything for you & your family. They give with one and take with the other\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/NMalliotakis/status/1425475093535277067?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of helping, Bidenâs policies are hurting families with inflation & higher interest rates and putting more pressure on our small community banks.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1636000744267563009"
+        },
+        {
+          "type": "statement",
+          "text": "\"So, our Treasury Secretary doesnât agree that printing & spending more money causes inflation. Remember when she also said inflation is transitory?\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1634273430731214871"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/127929/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans should not have to pay off the student loans of antisemitic Hamas sympathizers at Columbia University, @POTUS\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1782180989688483954"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nicole believes that reforms are required that make it easier to vote and harder to cheat. This includes voter identification, regular maintenance of state voter rolls, stringent safeguards to prevent manipulation and abuse of absentee ballot voting and a streamlined process to ensure that credible claims of election fraud receive a thorough hearing before a judge. In Congress, Nicole has cosponsored the HR 322 the Save Our Democracy Act. She is also a leading plaintiff in the pending lawsuit to stop New York City from allowing non-citizens to vote in our municipal elections.\"",
+          "source": "nicolemalliotakis.com",
+          "url": "https://nicolemalliotakis.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/127929/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/127929/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After Nicoleâs State Assembly district was the hardest hit by Superstorm Sandy on October 29, 2012, Nicole worked to combat beach erosion and prevent residential development in sensitive area wetlands, wrote a law requiring some neighborhoods destroyed by the storm to be returned to their natural state and supported a new law requiring state agencies to consider future climate risk due to rising sea levels and storm flooding. In the State Assembly, she also voted to establish goals for New York to reduce greenhouse gas emissions and expand the use of renewable energy.\"",
+          "source": "nicolemalliotakis.com",
+          "url": "https://nicolemalliotakis.com/the-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to have voted for multiple pieces of legislation in Albany to encourage & incentivize use of alternative sources/ renewable energy\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/918204095185473536"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need diversification. We can pursue clean and renewable energy but canceling traditional energy sources like oil and gas then importing Russian oil from Putin, funding inhumane war, makes zero sense.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1500095300865863684"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need diversification. We can pursue clean and renewable energy but canceling traditional energy sources like oil and gas then importing Russian oil from Putin, funding inhumane war, makes zero sense.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1500095300865863684"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 86% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/127929/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/127929/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/127929/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/127929/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the State Assembly, I voted to PROTECT coverage for pre-existing conditions. Send me to Congress & I'll do the same nationally. We deserve a Representative who will preserve this coverage and work to improve quality and access to healthcare for every American.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/NMalliotakis/status/1309526689786068993?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Assembly Aging Committee, I was happy to speak with @AARPNY members about our work to end prescription drug gouging, protect coverage for those with pre-existing conditions, preserve spousal refusal protections for caregivers and funding for our senior centers.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1218210868464439297"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/127929/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/127929/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the daughter of immigrants, Nicole understands the promise of the American Dream and has advocated for Washington to fix the broken immigration system that has left so many in the shadows. Nicole strongly supports strengthening our border security to stem the tide of illegal immigration, as well as increased investment in U.S. Customs and Border Protection and U.S. Customs and Immigration Enforcement. She has also helped dozens of law-abiding New Yorkers, who followed the rules but got stuck in bureaucratic red tape, become American citizens.\"",
+          "source": "nicolemalliotakis.com",
+          "url": "https://nicolemalliotakis.com/the-issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/127929/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/127929/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats' pro-criminal, open-border & sanctuary policies at the city, state & federal level have proven to have deadly consequences, & this is just one of many examples where they've come to a head to deteriorate quality of life & public safety for American citizens. I spoke with @ICEgov & I'm thankful they are doing everything they can to detain & deport these individuals.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMalliotakis/status/1775943239930892732"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/127929/nicole-malliotakis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/127929/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/127929/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/127929/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/127929/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/127929/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/127929/israel-security-supplemental-appropriations-act-2024#99510"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/127929/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/127929/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/127929/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/127929/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Communist Chinese own Tik Tok and are using it to spread misinformation, indoctrinate our youth & obtain Americansâ personal information. Thatâs why Congress is taking action to get its owner ByteDance to divest.\"",
+          "source": "x.com",
+          "url": "https://x.com/NMalliotakis/status/1766465531824013742"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/127929/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/127929/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:06:56+00:00"
+}

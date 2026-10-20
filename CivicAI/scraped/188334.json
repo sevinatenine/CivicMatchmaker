@@ -1,0 +1,579 @@
+{
+  "name": "Troy Nehls' Issue Positions (Political Courage Test)",
+  "page_title": "Troy Nehls' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 22, Republican",
+  "candidate_id": "188334",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/188334/troy-nehls",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3755 \"Women's Health Protection Act of 2021.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/188334/troy-nehls/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans prefer choices and that's why in Congress, I will work to increase healthcare offerings while protecting those with preexisting conditions, protecting Medicare and Social Security, protecting Medicaid, and protecting private insurance. We need more healthcare options, not less and that's what I'll work to build bipartisan support for.\"",
+          "source": "nehlsforcongress.com",
+          "url": "https://nehlsforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/188334/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to get back to deregulation, lower taxes, and greater economic freedom.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepTroyNehls/status/1394636474587492357?s=20&t=OUB794xAiGk7nxeYMW4fXA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Freedom Works",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to get back to deregulation, lower taxes, and greater economic freedom.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepTroyNehls/status/1394636474587492357?s=20&t=OUB794xAiGk7nxeYMW4fXA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by Freedom Works",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/188334/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Anti-law enforcement zealots on the left are pushing to abolish the police but we BACK THE BLUE in this country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1392583357096136706?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats are defunding the police and emptying out prisons. As a result, crime is skyrocketing in cities throughout the country. Our brave officers need our support more than ever. #BackTheBlue\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1569411939297624065?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/188334/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to vote in favor of the NDAA, and in turn, vote in favor of a strong national defense,\" said Congressman Nehls. \"This bill provides a 2.7% pay increase for our servicemembers, reverses President Biden's reckless cuts to military readiness, and restores critical funding for shipbuilding, procurement, and missile defense. I am pleased that this bill will NOT include harmful provisions such as requiring women to register for the Selective Service, \"Red Flag\" laws that prohibit firearm possession, requiring DOD contractors to pay a $15 per hour minimum wage, and removing the President as the Commander in Chief of the D.C. National Guard--all provisions that woke Leftists in Congress tried and FAILED to put in this bill.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1576794/rep-nehls-releases-statement-after-voting-in-favor-of-ndaa"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Pentagon is asking U.S. forces in South Korea to give military equipment to Ukraine. The Strategic Petroleum Reserve is at its lowest level since 1984. Our ammunition reserves are significantly depleted. What the hell are we doing?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1616109720477237248?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/188334/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation has increased every month since Bidenâs inauguration in January. His liberal tax and spend model is hurting everyday Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1414985731504840710?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is higher than it's ever been in over a decade. It's up 5.4%. This is a tax on EVERY American. You are paying more for goods and services every time you check out and it's directly due to Democrat's liberal, wasteful spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1417466836950700035?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government has spent more than $6 Trillion on COVID response, w/ the Biden admin proposing trillions more in additional spending. This liberal tax and spend agenda is clearly failing. We need to get back to deregulation, lower taxes, and greater economic freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1394636474587492357?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation has increased every month of Joe Bidenâs presidency and Democrats are STILL trying to spend more of your money. Americans cannot afford their reckless tax and spending spree!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1441808603661357062?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation has increased every month since Bidenâs inauguration in January. His liberal tax and spend model is hurting everyday Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1414985731504840710?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is higher than it's ever been in over a decade. It's up 5.4%. This is a tax on EVERY American. You are paying more for goods and services every time you check out and it's directly due to Democrat's liberal, wasteful spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1417466836950700035?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I canât believe this has to be said, but transferring billions of dollars in student loan debt to taxpayers in the middle of a recession is a terrible idea\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1562446323265064961?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden's illegal student loan bailout will cost taxpayers $400 billion and adds $1 trillion to the national debt. This is officially the most expensive executive order in American history. What a deal!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1574858852025176079?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS has struck down Joe Bidenâs $400 billion student loan handout. Want to take out a loan? Pay it back.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1674791918025461760?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/188334/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/188334/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "statement",
+          "text": "\"Energy independence does not come from closing down pipelines.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SheriffTNehls/status/1470452052769841154?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Green\" and socialist policies were fueling this inflation long before Russia invaded Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1503747320659197954?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hundreds of thousands of Texas jobs rely either directly or indirectly on the energy industry. Some in Congress are pushing for a complete ban on fossil fuels. This would be a travesty not only to Texas' economy but the entire country. We can be good stewards of our environment, ensure clean air and water, and protect energy jobs. In Congress, I will stand strong to protect our Texas energy industry and jobs.\"",
+          "source": "nehlsforcongress.com",
+          "url": "https://nehlsforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Energy independence does not come from closing down pipelines.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SheriffTNehls/status/1470452052769841154?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hundreds of thousands of Texas jobs rely either directly or indirectly on the energy industry. Some in Congress are pushing for a complete ban on fossil fuels. This would be a travesty not only to Texas' economy but the entire country. We can be good stewards of our environment, ensure clean air and water, and protect energy jobs. In Congress, I will stand strong to protect our Texas energy industry and jobs.\"",
+          "source": "nehlsforcongress.com",
+          "url": "https://nehlsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our oil and gas workers are under attack from an administration that's putting politics before hardworking Americans. I was proud to join @GOPLeader and several of my GOP colleagues today to fight for the millions of hardworking Americans whose livelihoods depend on oil and gas.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepTroyNehls/status/1356726538683764736?s=20&t=OUB794xAiGk7nxeYMW4fXA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a former county sheriff, I know firsthand how important gun ownership is. When someone lives in a remote part of the country, they can't afford to wait for a 20-minute law enforcement response time in the event of a home invasion. That person needs quick access to a firearm to defend themselves and their loved ones. And that is exactly what legal gun ownership is about, defending one's liberty from would- be attackers.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1540572/defending-right-to-bear-arms"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans prefer choices and that's why in Congress, I will work to increase healthcare offerings while protecting those with preexisting conditions, protecting Medicare and Social Security, protecting Medicaid, and protecting private insurance. We need more healthcare options, not less and that's what I'll work to build bipartisan support for.\"",
+          "source": "nehlsforcongress.com",
+          "url": "https://nehlsforcongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/188334/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration has FAILED to secure our southern border for the past 3 years, and itâs all by design. Itâs simple: the Senate needs to pass, and Joe Biden needs to sign H.R. 2 into law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1745436081695162710?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, House Republicans will pass the strongest border legislation in American history. How many Democrats will vote against it?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1655987469651783680?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden didnât have to do anything to secure our border when he took office. He just had to keep his mouth shut and leave President Trumpâs policies in place. Over 5 million illegal aliens have invaded our country since Biden took office, and itâs only getting worse. House Republicans are fighting like hell to secure the border, and the Democrats are nowhere to be found.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1656733745368408064?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'll fight to secure the border, finish President Trump's wall, deport criminal aliens, and end sanctuary cities.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1445178/issue-position-border-security#.X3s6S2hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden didnât have to do anything to secure our border when he took office. He just had to keep his mouth shut and leave President Trumpâs policies in place. Over 5 million illegal aliens have invaded our country since Biden took office, and itâs only getting worse. House Republicans are fighting like hell to secure the border, and the Democrats are nowhere to be found.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1656733745368408064?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/188334/troy-nehls"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/188334/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Biden eases sanctions on Venezuela, but wonât ease his sanctions on our oil and gas industry.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1526656324578205701?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/188334/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/188334/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats would rather give billions to Ukraine than clean up their streets.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1584929440135405568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"If this Ukraine funding bill passes, we will be spending 8 times the annual budget of the U.S. Border Patrol on a foreign country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1526575833095233538?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"You can support Ukraine without adding another $40 BILLION to our National Debt in the middle of multiple crises at home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1524169805481324547?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Any elected official with a TikTok account supports Communist China. Prove me wrong.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1638568866132504576?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protect Our Children. Ban TikTok.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1638987892738478080?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok is a national security threat owned by the Chinese Communist Party. Just like Joe Biden and his entire corrupt family.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepTroyNehls/status/1639281042509922306?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:34:09+00:00"
+}

@@ -1,0 +1,658 @@
+{
+  "name": "Ritchie Torres' Issue Positions (Political Courage Test)",
+  "page_title": "Ritchie Torres' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 15, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NY) - District 15",
+  "candidate_id": "161718",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/161718/ritchie-torres",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court has held that women in 2022 should have less liberty and privacy and equalityâless control over their own lives and bodiesâthan they did before 1973. The reversal of Roe is a dangerous and disgraceful decision that will turn the clock back a half a century.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1540348144289927168"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/161718/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/161718/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of the New Year, Social Security recipients will receive the largest boost in four decadesâan 8.7% increase. House Democrats are on guard as House Republicans set out to defund the social safety net, including Social Security. We wonât let them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1612153915268644865"
+        },
+        {
+          "type": "statement",
+          "text": "\"The State of the Union is strong because of Social Security and Medicareâboth of which are under threat from MAGA Republicans like Marjorie Taylor Greene. I stand with President Joe Biden in opposing any and all cuts to Social Security and Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1623172583037313025"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tax cheats cost the United States one TRILLION dollars a year in unpaid taxes. Yet extreme MAGA Republicans want to defund enforcement against tax cheating while pretending to reduce the debt? Gimmie a break!\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1663992328409825280"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Contrary to the @FoxNews narrative, the Inflation Reduction Act includes no new taxes on the middle class or working class. Enhancing IRS enforcement is about closing the 7.5 trillion dollar tax gap, which is driven by the wealthiest individuals and corporations.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RitchieTorres/status/1564359408267689991?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax cheats cost the United States one TRILLION dollars a year in unpaid taxes. Yet extreme MAGA Republicans want to defund enforcement against tax cheating while pretending to reduce the debt? Gimmie a break!\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1663992328409825280"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/161718/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The purpose of the George Floyd Justice in Policing Act is not to second guess officers who act in good faith. The objective is to hold liable officers who repeatedly abuse their power and who rarely, if ever, face consequences for their repeat abuses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1367938121824940051"
+        },
+        {
+          "type": "statement",
+          "text": "\"We as a country have a choice: We can either choose police accountability, or choose qualified immunity, but we cannot choose both,\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RitchieTorres/status/1367937757541175296?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/161718/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/161718/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/161718/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/161718/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4346: \"Supreme Court Security Funding Act of 2022 (CHIPS and Science Act of 2022)\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31469/87780/161718/supreme-court-security-funding-act-of-2022-chips-and-science-act-of-2022#87780"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/161718/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a product of public housing, Ritchie stands as living proof that investment in affordable housing can bring stability and opportunity. Yet, the Republican Party, from Nixon to Reagan to Trump, systematically starved public housing of federal funding for decades. Today, the New York City Housing Authority (NYCHA), which is home to a half-million predominantly Black and Brown New Yorkers, is in dire need of approximately $40 billion in necessary capital repairs. In addition to supporting these investments, Ritchie believes we must end the criminalization of homelessness and eradicate the stigma thatâs too often attached to housing insecurity.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Federal housing policy disproportionately benefits homeowners and higher-income Americans. Ritchie supports investing more in federal rental assistance programs, such as the Section 8 program, and capping rent at 30% of a renterâs income. Section 8 housing vouchers are a vitally important lifeline to more than 2 million American families. Ritchie believes in assisting more families by protecting and expanding Section 8. States and localities must be required to implement desegregation plans, and landlords should be banned from discriminating against renters with federal assistance.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I would not be here were it not for the stability that affordable housing gave me and my family. I owe it to my neighbors. I owe it to my fellow tenants in the Bronx to ensure that the affordable housing stock endures for the next generation of Americans.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The answer to the housing affordability crisis is not only greater rental assistance, we also need to greatly increase our investments to build new affordable and public housing. Restrictive zoning requirements and regulations at the state and local levels perpetuate segregated communities and inhibit development of affordable housing. Ritchie believes the federal government should require state and local governments to eliminate these barriers and encourage the development of the affordable housing stock.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act and the Bipartisan Infrastructure Law have led to the creation of 27,000 jobs in the 15th Congressional District in the Bronx.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1729701196720439570"
+        },
+        {
+          "type": "statement",
+          "text": "\"The South Bronx has among the highest rate of diabetes in the city and in the country. Capping the price of insulin at $35 a month, as Congressional Democrats have done through the Inflation Reduction Act, is a game-changer and a life-changer for Bronx seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1718500460296913036"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/161718/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/161718/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Day 1, the Biden Administration can #CancelStudentDebt & give Americans a fighting chance to pursue a life without the scourge of student debt. Iâm proud to partner w. @SenSchumer @JamaalBowmanNY & @MondaireJones to make this our first priority in the new Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1336503682020634627"
+        },
+        {
+          "type": "statement",
+          "text": "\"The student debt crisis is approaching 1.8 trillion. #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1338831983481335808"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tomorrow, will the Supreme Court do the bidding of extreme MAGA Republicans and sabotage debt relief for tens of millions of Americans drowning in nearly $2 TRILLION of student debt?\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1630313574328352773"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must honor John Lewis not only with praise but with policy. @senatemajldr: Strengthen the Voting Rights Act. Pass #HR4.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1284613338312388609"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/161718/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/161718/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@NYGovCuomo has been a champion of clean, renewable energy & no state is pushing to create more green jobs than NY. @NYGovCuomo is laying the groundwork for a carbon neutral state that will tackle climate change head on.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1141142578978533376"
+        },
+        {
+          "type": "statement",
+          "text": "\"Honored to earn the endorsement of @NYLCV. In Congress, I look forward to fighting with @NYLCV to address the greatest global challenge confronting humanity: catastrophic climate change. We must replace fossil fuels with a renewable future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1270372891138367489"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to earn the endorsement of @NYLCV. In Congress, I look forward to fighting with @NYLCV to address the greatest global challenge confronting humanity: catastrophic climate change. We must replace fossil fuels with a renewable future.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1270372891138367489"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/161718/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/161718/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/161718/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/161718/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/161718/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Health care is a human right.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RitchieTorres/status/1514323470045356038?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Health care is a right, yet tens of millions of Americans struggle to pay their health bills and are crushed by medical debt. Ritchie supports Medicare for All and he believes itâs a moral imperative that we address the failings of our health care system. Ritchie is committed to increased funding for our safety-net hospitals and facilities,like NYCâs Health + Hospitals, which serve Medicaid beneficiaries, undocumented individuals, and the uninsured. This is a life-or-death matter for districts like NY-15, where 43% of adults are covered by Medicaid and many of our neighbors are undocumented and uninsured.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues/access-to-opportunity-for-all"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/161718/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"I did something Iâve never done before: I went on @FoxNews to challenge the right-wing talking points against the Inflation Reduction Act. The IRA combats inflation by lowering drug prices and capping the cost of insulin at $35 a month for senior citizens.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1561823583353163777"
+        },
+        {
+          "type": "statement",
+          "text": "\"Starting in January, the Inflation Reduction Act will cap the price of insulin at $35 a month for senior citizens on Medicare. Thank you, President Biden and House Democrats, for delivering for everyday Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1608543416287375360"
+        },
+        {
+          "type": "statement",
+          "text": "\"The South Bronx has among the highest rate of diabetes in the city and in the country. Capping the price of insulin at $35 a month, as Congressional Democrats have done through the Inflation Reduction Act, is a game-changer and a life-changer for Bronx seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1718500460296913036"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After years of Donald Trumpâs racist and xenophobic immigration policy, Ritchie is ready to fight for an agenda that lifts up the millions of immigrants who come to our country seeking a better life and to build up our nation. Not only do we need a pathway to citizenship for the millions of undocumented individuals, but Ritchie also believes we must make our health care, educational, and vocational programs more inclusive because too often these programs discriminate based on immigration status.\"",
+          "source": "torres.nyc",
+          "url": "https://torres.nyc/issues/realizing-justice"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/161718/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/161718/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161718/ritchie-torres"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/161718/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/161718/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/161718/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/161718/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/161718/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/161718/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/161718/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/161718/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/161718/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/161718/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/161718/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am part of a bipartisan coalition behind a bill that would force a sale of TikTok. TikTok, ultimately controlled by the Chinese Communist Party, has amplified extremism and antisemitism to an extent never seen before in recent history. The fact that Osama Bin Ladenâs letter to America was trending on TikTok should serve as a wake-up call.\"",
+          "source": "x.com",
+          "url": "https://x.com/RitchieTorres/status/1765109745155768370"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/161718/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/161718/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:59:14+00:00"
+}

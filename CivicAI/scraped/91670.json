@@ -1,0 +1,430 @@
+{
+  "name": "Timothy Kennedy",
+  "page_title": "Timothy Kennedy's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 26, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. House (NY) - District 26",
+  "candidate_id": "91670",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/91670/timothy-kennedy",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Courtâs dangerous Dobbs decision overturning Roe v. Wade is having negative ramifications across the country. States are criminalizing reproductive healthcare, including the ability for some to receive in vitro fertilization (IVF). In Albany, Senator Kennedy voted to enshrine abortion rights in state law and womenâs equality in the New York State Constitution. As a Congressman, he will fight against a national abortion ban and work to codify Roe v. Wade in federal law.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Empire State",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/91670/timothy-kennedy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 348: \"Appropriates Funding to Support Abortion Centers and Reproductive Freedom\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34133/90586/91670/appropriates-funding-to-support-abortion-centers-and-reproductive-freedom#90586"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9079: \"Expands Legal Protections for Abortion Providers\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32911/86514/91670/expands-legal-protections-for-abortion-providers#86514"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Kennedy comes from a healthcare background, working with children and seniors as an Occupational Therapist. He believes that healthcare is a right â not a privilege for the wealthy. In Congress, he will fight against rollbacks to the Affordable Care Act, protect and expand Medicare, and work to make prescription drugs more affordable.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Member of Congress, Tim will focus on the kitchen table issues that affect families back home â fighting inflation and the affordability crisis\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The insurrection on January 6, 2021, showed how fragile our democracy can be. Senator Kennedy has worked to expand voting rights and election reforms in the State Senate and will continue to make protecting our democracy a priority in Congress. He will support the John R. Lewis Voting Rights Advancement Act and fight against extremist attempts to undermine our elections through voter disenfranchisement and misinformation. He will also fight to defend democracy and democratic values abroad, including supporting our allies in Ukraine and across the globe.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 8783: \"Authorizes Voters to Request Absentee Ballots Immediately\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28797/74571/91670/authorizes-voters-to-request-absentee-ballots-immediately#74571"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 8806: \"Establishes Automatic Voter Registration\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/29540/76430/91670/establishes-automatic-voter-registration#76430"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Climate Cabinet Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/91670/timothy-kennedy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4378: \"Requires Fossil Fuel Plants to Submit a Renewable Energy Plan\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30240/77778/91670/requires-fossil-fuel-plants-to-submit-a-renewable-energy-plan#77778"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 6218: \"Authorizes the Connection of Offshore Wind Farms to the State Power Grid on Long Island\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35544/94537/91670/authorizes-the-connection-of-offshore-wind-farms-to-the-state-power-grid-on-long-island#94537"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 6599: \"Increases Renewable Energy Goals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26702/67787/91670/increases-renewable-energy-goals#67787"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2316: \"Prohibits Offshore Drilling\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26374/67111/91670/prohibits-offshore-drilling#67111"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4378: \"Requires Fossil Fuel Plants to Submit a Renewable Energy Plan\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30240/77778/91670/requires-fossil-fuel-plants-to-submit-a-renewable-energy-plan#77778"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by National Rifle Association Political Victory Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/91670/timothy-kennedy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 14A: \"Prohibits the Sale of Ghost Guns\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31935/83436/91670/prohibits-the-sale-of-ghost-guns#83436"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9113: \"Expands Red Flag Law Relating to Potentially Violent Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32746/85827/91670/expands-red-flag-law-relating-to-potentially-violent-individuals#85827"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9458: \"Requires License for Possession of Semi-Automatic Firearm\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32743/85839/91670/requires-license-for-possession-of-semi-automatic-firearm#85839"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Kennedy comes from a healthcare background, working with children and seniors as an Occupational Therapist. He believes that healthcare is a right â not a privilege for the wealthy. In Congress, he will fight against rollbacks to the Affordable Care Act, protect and expand Medicare, and work to make prescription drugs more affordable.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Kennedy comes from a healthcare background, working with children and seniors as an Occupational Therapist. He believes that healthcare is a right â not a privilege for the wealthy. In Congress, he will fight against rollbacks to the Affordable Care Act, protect and expand Medicare, and work to make prescription drugs more affordable.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4786: \"Reduces the Costs of Prescription Drugs and Repeals Cost-Sharing for Insulin\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36387/97595/91670/reduces-the-costs-of-prescription-drugs-and-repeals-cost-sharing-for-insulin#97595"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1413: \"Limits Out of Pocket Cost for Insulin to $30 for a 30 Day Supply\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30572/78899/91670/limits-out-of-pocket-cost-for-insulin-to-30-for-a-30-day-supply#78899"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7343: \"Detain and Deport Illegal Aliens Who Assault Cops Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37337/100398/91670/detain-and-deport-illegal-aliens-who-assault-cops-act#100398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of A 3675: \"Authorizes Driver's Licenses for Undocumented Immigrants\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26700/67784/91670/authorizes-drivers-licenses-for-undocumented-immigrants#67784"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2237: \"Extends Healthcare Coverage for Undocumented Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35546/94546/91670/extends-healthcare-coverage-for-undocumented-individuals#94546"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The insurrection on January 6, 2021, showed how fragile our democracy can be. Senator Kennedy has worked to expand voting rights and election reforms in the State Senate and will continue to make protecting our democracy a priority in Congress. He will support the John R. Lewis Voting Rights Advancement Act and fight against extremist attempts to undermine our elections through voter disenfranchisement and misinformation. He will also fight to defend democracy and democratic values abroad, including supporting our allies in Ukraine and across the globe.\"",
+          "source": "kennedyforuscongress.com",
+          "url": "https://kennedyforuscongress.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:10:41+00:00"
+}

@@ -1,0 +1,459 @@
+{
+  "name": "Steve Daines' Issue Positions (Political Courage Test)",
+  "page_title": "Steve Daines' Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (MT) - Sr, Republican",
+  "candidate_id": "135720",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/135720/steve-daines",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines#.Xa3B-EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must fight for those that are unable to fight for themselves,\" Daines stated. \"We will maintain funding for women's health care and redirect those funds towards community health clinics that provide comprehensive care instead of an organization that traffics human baby parts.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1155889/daines-introduces-measures-to-protect-life#.Xa3EF0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 97% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines#.Xa3B-EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The updated Tax Cuts and Jobs Act includes more than 100 billion in additional tax cuts for Main Street businesses, leveling the playing field between them and large corporations.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1209493/daines-votes-to-advance-once-in-a-generation-tax-cuts#.Xa3EdkE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62075#.Xa3BBUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 3% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines#.Xa3B-EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Temporarily suspend the payroll tax so employees can keep more money in their pocket. The -Social Security Trust Fund would be reimbursed through a transfer from the General Fund. This is consistent with historical precedent.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1414574"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must make smart decisions to secure the guarantee of Social Security and Medicare for both the current generation and our children and grandchildren. I believe we can and must do this without hurting today's beneficiaries.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/849854/issue-position-seniors"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm very pleased to see one of the most important campaign finance reforms in recent history be signed into law,\" Daines said. \"Campaigns should be as transparent as possible and this bill mandates that U.S. Senate candidates file their campaign finance reports electronically so the information is easily accessible to the American people. As Chairman of the Legislative Branch Subcommittee on Appropriations, I fought hard to include this provision in the final appropriations bill, and I'm glad to know it will go into effect immediately.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1282512/daines-bill-to-increase-campaign-transparency-signed-into-law#.Xa3FNkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/12#.Xa3C-EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm very pleased to see one of the most important campaign finance reforms in recent history be signed into law,\" Daines said. \"Campaigns should be as transparent as possible and this bill mandates that U.S. Senate candidates file their campaign finance reports electronically so the information is easily accessible to the American people. As Chairman of the Legislative Branch Subcommittee on Appropriations, I fought hard to include this provision in the final appropriations bill, and I'm glad to know it will go into effect immediately.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1282512/daines-bill-to-increase-campaign-transparency-signed-into-law#.X1JUy9NKh-U"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The men and women who serve our communities in law enforcement put their lives on the line every day to protect our families, and a few bad actors have reflected poorly upon the values of their service,\" Daines said. \"We must work to restore confidence between our communities and law enforcement, and this bipartisan bill does just that by increasing accountability, transparency and training. This provides real solutions to what we're facing today and will help ensure a safe and equal justice system for every American.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1436003/daines-signs-on-to-major-police-reform-legislation-in-senate"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's important we maintain a peace through strength strategy in this increasingly dangerous world,\" stated Senator Steve Daines (R-Mont.). \"Our nuclear weapons are our most powerful deterrent and ensuring that they are modernized and capable of meeting the demands of 21st century warfare is essential to our national defense.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1145548/senate-coalition-highlights-value-of-americas-nuclear-missiles#.Xa3FfUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/22#.Xa3DFEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Authorizing the funding our military needs is more important now than ever as we witness radical Islam continue to take root around the world, and in our backyards,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1095871/daines-applauds-passage-of-critical-defense-legislation#.Xa3FxUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Infrastructure is an important part of our everyday lives, from our roads to the skies to our railways,\" Daines stated. \"I'm proud to secure investments to increase safety and create more good-paying jobs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1097083/daines-moves-forward-investments-in-montana-infrastructure#.Xa3GEkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our transportation network from our roadways to our skies to our railways will be a safer form of travel for all Montanans,\" Daines stated. \"This legislation puts Montanans first and addresses concerns from all corners of our state to increase tourism and encourage economic development projects that create more good-paying jobs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1069270/daines-strengthens-montanas-transportation-network#.Xa3GMkE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 22 - Fixing America's Surface Transportation (FAST) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/54061#.Xa3BREE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After weeks of fighting for Main Street businesses including Montana's farmers and ranchers, I've decided to support the Senate tax cut bill which provides significant tax relief for Main Street businesses\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1209492/daines-secures-additional-tax-cuts-for-main-street-businesses#.Xa3ESUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines#.Xa3B-EE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62075#.Xa3BBUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@realDonaldTrump just signed the Coronavirus economic recovery package into law - a bill that will provide relief for struggling Montanans all over our state. For all those hurting: help is on the way.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SteveDaines/status/1243651032271523840"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XodqK5NKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For example, the U.S. Department of Education has incentivized States to adopt common core standards by offering exemptions from No Child Left Behind regulations and making extra Federal education funds accessible through programs such as Race to the Top to States that adopt common core. However, as are many Montanans, I am deeply concerned that the Federal Government's obvious efforts to back States into adopting such programs is an inappropriate interference in education policy decisions that should be made by the States, should be made by the parents, by the teachers, and local school boards.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/998921/every-child-achieves-act#.Xa3GaEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/27#.Xa3DN0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a proponent of an all-of-the-above energy plan, I know we need alternative energy sources to remain globally competitive and meet our nation's rising demand for energy. But in order to keep energy prices low for all Americans and support our nation's energy needs, traditional energy sources must remain at the center of America's energy policy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/991154/us-news-and-world-report-traditional-energy-sources-are-key-to-our-future"
+        },
+        {
+          "type": "statement",
+          "text": "\"By halting the #CleanPowerPlan we can unleash American energy innovation and expand high-paying energy jobs\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SteveDaines/status/846790823303938049"
+        },
+        {
+          "type": "statement",
+          "text": "\"In addition, I support an all-of-the-above approach to securing American energy independence that includes alternative sources of energy--hydropower, wind, and solar--along with coal, oil, and natural gas.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/849823/issue-position-energy-and-natural-resources"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/29#.Xa3DUkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/30#.Xa3Db0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Obama EPA Power Plan would have wiped out Colstrip immediately, killing high paying jobs, local and state tax revenue that helps pay for our schools, and affordable reliable energy that keeps the lights on. This ACE Rule would instead provide flexibility to states and power plants to innovate to reduce pollution rather than eliminating coal fired generation with heavy mandates from Washington. I thank the Trump administration for taking this leadership.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1354834/daines-celebrates-new-affordable-clean-energy-rule#.Xa3GmEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Second Amendment Task Force in the House of Representatives, I am firmly committed to protecting the right to bear arms for law-abiding individuals in Montana and across our country.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/849838/issue-position-montana-values#.Xa3LOUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"I strongly oppose the President's efforts and believe such policies would undermine our Second Amendment rights and our way of life in Montana, while doing nothing to address the most significant factors behind violent crime.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/849838/issue-position-montana-values#.Xa3LOUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/37#.Xa3DjUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After 5 failed years, the American people know ObamaCare is too badly tangled to fix. It is time to cut the line and tie on a new fly.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/998903/obamacare#.Xa3Eu0E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 667 - Health Care Freedom Act of 2017.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/60869#.Xa3Bx0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XodpgpNKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I share President Trump's commitment to securing the border, building our border's infrastructure and protecting the homeland from threats.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1155864/daines-trump-working-to-secure-our-borders#.Xa3LxUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"His job as President is to enforce the laws that Congress has passed, but now, President Obama seems to have forgotten that he is not a king. President Obama's plan to extend executive amnesty to millions of illegal immigrants is an unacceptable abuse of power that goes against the will of the American people. As the President said himself, ``That's not how our democracy works. That's not how our Constitution is written.''",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/938853/president-obamas-executive-overreach"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is our duty to hold Iran's feet to the fire. America has new leadership that won't tolerate the world's leading state sponsor of terror acting as an aggressor.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1155930/daines-statement-on-iran-sanctions"
+        },
+        {
+          "type": "statement",
+          "text": "\"No deal is better than a bad deal with Iran.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SteveDaines/status/620719669712953344"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/22#.Xa3DFEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly oppose sending more American troops to Iraq & believe only Iraqis can secure their future.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SteveDaines/status/480075375553150976"
+        },
+        {
+          "type": "statement",
+          "text": "\"Only the Iraqi people can secure their future. I strongly oppose sending more American troops to Iraq and encourage Iraqi leadership to unite their citizens from all sects and ethnicities against al Qaeda-linked forces,\" Daines said.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/903585/daines-reafirms-opposition-to-increased-us-presence-in-iraq"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/22#.Xa3DFEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Montana's farmers and ranchers need fair access to markets so they can put food on our plates, compete and grow jobs,\" said Daines. \"I am glad Secretary Perdue understands this and is ready to continue to work on behalf of farmers and ranchers in Montana and across the country.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1243979/daines-builds-momentum-for-tpp-secretary-perdue-welcomes-reengagement#.Xa3NnkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Opening Chinese markets to U.S. beef is a win for Montana's producers,\" Daines stated. \"With over 95 percent of the world's consumers living outside of the U.S., access to foreign markets is critical to growing good-paying jobs and maintaining Montana's strong economy. In a state where there are nearly three times as many cattle as people, opening Chinese markets to Montana beef is essential to our state's number one economic driver: agriculture.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1185353/daines-china-agrees-to-open-market-to-us-beef#.XqCkh8hKg2w"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/135720/steve-daines/63#.Xa3DyUE3kfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:57:57+00:00"
+}

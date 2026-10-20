@@ -1,0 +1,706 @@
+{
+  "name": "Mike Turner",
+  "page_title": "Mike Turner's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OH) - District 10, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OH) - District 10",
+  "candidate_id": "45519",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/45519/mike-turner",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/2/abortion"
+        },
+        {
+          "type": "statement",
+          "text": "\"Will continue to fight to protect the rights of the unborn.\"",
+          "source": "www.miketurner.com",
+          "url": "https://www.miketurner.com/issues.php"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/45519/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        },
+        {
+          "type": "statement",
+          "text": "\"Earlier this week, the United States Department of Housing and Urban Development announced their distribution of CARES Act funding to the Ohio Housing Choice Voucher (HCV) Program to assist various local housing authorities. Greater Dayton Premier Management, Greene Metropolitan Housing Authority, and the Fayette Metropolitan Housing Authority are all to receive grants totaling $877,536 to help citizens receiving HCVs navigate the economic hardships resulting from the Coronavirus pandemic. The HCV funding is a result of Rep. Mike Turner's (OH-10) support of the CARES Act.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1462540/dayton-area-housing-authorities-to-receive-over-800000-in-federal-funding"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 25% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Administrator Verma: \"We write to express strong bipartisan support for the Medicare Advantage program, which 40 percent of eligible Medicare beneficiaries, more than 22 million people, choose to enroll in.[1] We appreciate your ongoing commitment to preserving and strengthening the Medicare Advantage program for current and future Medicare beneficiaries. As the Administration considers updates to the program for plan year 2021, we urge you to ensure that the Medicare Advantage program will continue to offer affordable, high-quality, patient-centered coverage options for the diverse populations the program serves, including beneficiaries with End Stage Renal Disease who for the first time will be able to choose a Medicare Advantage plan.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1404173/letter-to-the-hon-seema-verma-administrator-for-the-centers-for-medicare-and-medicaid-services-guthrie-cardenas-blumenauer-kelly-lead-bipartisan-effort-to-secure-medicare-advantage/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 57% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/45519/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 54% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/45519/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over 80% of Americans are worried about the negative impacts of inflation. Our country needs economic relief. Its time to lower taxes and increase domestic energy production.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1561761427660193795?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday, Rep. Sherrill and I introduced the Brownfields Redevelopment Tax Incentive Reauthorization Act of 2021. This bill works to restore a Federal Tax Deduction to spur economic development & strengthen local communities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1415379706409627648?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"American families are suffering enough & the last thing we need to do is INCREASE taxes & add trillions of dollars to the already sky-high national debt.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/MikeTurnerOH/status/1450902599000002565?s=20&t=qwTato4eYaEeS-xkdJLuQg"
+        },
+        {
+          "type": "statement",
+          "text": "\"Over 80% of Americans are worried about the negative impacts of inflation. Our country needs economic relief. Its time to lower taxes and increase domestic energy production.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1561761427660193795?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        },
+        {
+          "type": "statement",
+          "text": "\"Yesterday, Rep. Sherrill and I introduced the Brownfields Redevelopment Tax Incentive Reauthorization Act of 2021. This bill works to restore a Federal Tax Deduction to spur economic development & strengthen local communities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1415379706409627648?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/45519/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5175 \"Campaign Finance Disclosure Requirements\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/79/campaign-finance"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"The FY22 NDAA also includes a 2.7% increase for our service members, reforms how the military justice system prosecutes sexual assault and other serious crimes, and provides necessary funding to modernize our nation's nuclear triad and missile defense systems. As our adversaries continue to expand and advance their defense programs and capabilities, it remains critical that we pass this NDAA to support our servicemembers, deter our adversaries, and bolster our national security. I am glad we are one step closer to sending the final FY22 NDAA to President Biden's desk and I urge the Senate to vote on this bill immediately,\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1577494/turner-applauds-house-passage-of-updated-ndaa"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to President Biden: \"This is a crucial period for our national security,\" the letter continued. \"If we do not make the investments our military needs today, we will not be able to defend our nation or our allies in the future. The security of the free world depends on a credible American military. We must work together to ensure the men and women of our Armed Services have the resources and support they need to successfully carry out their missions now and for decades to come.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1598728/letter-to-hon-joseph-biden-president-of-the-united-states-sen-cramer-sasc-colleagues-press-biden-to-boost-defense-budget-by-5-above-inflation/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "The Hill \"We can't continue to spend and not have inflation, and the president needs to reign in some of this unnecessary spending.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/thehill/status/1417233031266373668"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Moving Forward Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28221/73177/45519/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/45519/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "House Republicans \"This omnibus represents continued out-of-control spending in Washingtonâ¦I will oppose this bill; I encourage others to also because of what it does to American families and their economic security but also what it fails to do to protect our national security.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/HouseGOP/status/1603112716130201600"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/45519/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/45519/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24715/63190/45519/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "The Hill \"We can't continue to spend and not have inflation, and the president needs to reign in some of this unnecessary spending.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/thehill/status/1417233031266373668"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/45519/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34222/90764/45519/reduce-exacerbated-inflation-negatively-impacting-the-nation-act#90764"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By keeping loans within the federal system, borrowers have access to the advantages of the public loans, such as the Public Student Loan Forgiveness (PSLF) Program and pandemic-related loan holidays. With the student debt crisis worsening, I am proud to offer a reliable option for borrowers to reduce their debt.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1559541/reps-turner-and-brown-introduce-student-loan-refinancing-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"We write to you to share our concerns about the unintended consequences of your decision to cancel up to $20,000 of student loan debt per borrower. We are particularly concerned about the negative impact this will surely have on our nation's military and their ability to recruit and retain top talent.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1635513/letter-to-joseph-r-biden-president-of-the-united-states-student-loan-forgiveness-effect-on-military-recruitment"
+        },
+        {
+          "type": "statement",
+          "text": "Dayton Daily News \"Forgiving (debt) principal is the Biden administrationâs goal, but the killer in students loans is the accrual of interest that happens in the future. Many times the interest can be crippling over the life of the loans.\"",
+          "source": "www.daytondailynews.com",
+          "url": "https://www.daytondailynews.com/local/with-all-eyes-on-supreme-court-turner-colleagues-introduce-legislation-on-student-loan-repayments/ZBQAYE6EE5GO5GYKST3UXFDDXI/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/45519/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/45519/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/29/energy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 4468 \"Choice in Automobile Retail Sales Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36116/96605/45519/choice-in-automobile-retail-sales-act-of-2023#96605"
+        },
+        {
+          "type": "statement",
+          "text": "\"Americans are expected to spend $5,000 this year on gas alone. For some, thatâs two paychecks worth. Expanding domestic energy production is a simple solution and yet President Biden would rather travel halfway across the world to ask for oil from our adversaries.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1549378524854702082?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/45519/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans are expected to spend $5,000 this year on gas alone. For some, thatâs two paychecks worth. Expanding domestic energy production is a simple solution and yet President Biden would rather travel halfway across the world to ask for oil from our adversaries.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1549378524854702082?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/45519/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/45519/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/45519/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Has a strong record and will continue to protect the 2nd Amendment.\"",
+          "source": "www.miketurner.com",
+          "url": "https://www.miketurner.com/issues.php"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America (GOA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446 \"Enhanced Background Checks Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/37/guns"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/45519/mike-turner/37/guns"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28212/73153/45519/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "vote",
+          "text": "Voted for HR 485 \"Protecting Health Care for All Patients Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36416/97655/45519/protecting-health-care-for-all-patients-act#97655"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hospitals are reimbursed an average of only 87Â¢ of every $1 they spend caring for Medicare patients. #MedicareForAll would inevitably result in hospital closures & decrease patients' access to lifesaving health care. It is not a solution to Democrats' broken Obamacare system.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepMikeTurner/status/1123225491211735040?s=20&t=EfJwaCqDMXX-cObwwZoeRQ"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/45519/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The language of the Omnibus package not only protects patients from such medical bills, but it also allows doctors and hospitals to have a fair negotiation process with insurers. I will continue to advocate for fair healthcare prices and practices.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/RepMikeTurner/posts/10158719779251648/?locale2=sw_KE&paipv=0&eav=AfaKIOGXVnFoabfDOEzzv2rag8fagVXWU1JLoSzARVx7lzR2IBIIM8HK_nQD9w8lnuc&_rdr"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/45519/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/45519/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need immigration reform that provides no amnesty for those who have entered our country illegally. The president must work with Congress to promote immigration reform that fully secures the border, keeps our citizens safe, and protects the rights of legal immigrants while not unfairly rewarding those who came here unlawfully.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/immigration"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/45519/mike-turner/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/45519/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/45519/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30330/77979/45519/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/45519/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/45519/police-act-of-2023#92230"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need immigration reform that provides no amnesty for those who have entered our country illegally. The president must work with Congress to promote immigration reform that fully secures the border, keeps our citizens safe, and protects the rights of legal immigrants while not unfairly rewarding those who came here unlawfully.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340 \"Hamas International Financing Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35940/95972/45519/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35952/96006/45519/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/45519/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/45519/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: The world is watching how we respond to this critical moment. Our support for Ukraine goes far beyond assisting a single nation. Itâs about upholding the principles of freedom, democracy, and the rule of law that underpin the Western world.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/war-in-ukraine"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs dispel another myth: Our European allies are standing shoulder to shoulder with us and the people of Ukraine. We are less than half of military aid to Ukraine, according to the Kiel Institute for the World Economy. In fact, our partners have given more than the United States. They have given nearly $50 billion in military aid since Russiaâs unjustified invasion, while the U.S. has given roughly $42 billion. The threat is on their doorstep, and they are taking it seriously. When we talk about support for Ukraine, itâs not just about dollars and cents; itâs about our shared values. If Putin continues unchecked, he will not stop at Ukraine. Authoritarianism cannot win.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/war-in-ukraine"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: The world is watching how we respond to this critical moment. Our support for Ukraine goes far beyond assisting a single nation. Itâs about upholding the principles of freedom, democracy, and the rule of law that underpin the Western world.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/war-in-ukraine"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs dispel another myth: Our European allies are standing shoulder to shoulder with us and the people of Ukraine. We are less than half of military aid to Ukraine, according to the Kiel Institute for the World Economy. In fact, our partners have given more than the United States. They have given nearly $50 billion in military aid since Russiaâs unjustified invasion, while the U.S. has given roughly $42 billion. The threat is on their doorstep, and they are taking it seriously. When we talk about support for Ukraine, itâs not just about dollars and cents; itâs about our shared values. If Putin continues unchecked, he will not stop at Ukraine. Authoritarianism cannot win.\"",
+          "source": "turner.house.gov",
+          "url": "https://turner.house.gov/war-in-ukraine"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/88795/45519/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/45519/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/45519/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/45519/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/45519/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:24:33+00:00"
+}

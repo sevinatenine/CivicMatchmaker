@@ -1,0 +1,418 @@
+{
+  "name": "Timothy Moore",
+  "page_title": "Timothy Moore's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 14, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NC) - District 14",
+  "candidate_id": "41316",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/41316/timothy-moore",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is at a 30 year high due to reckless federal spending. It's time for DC to learn from North Carolina: balance the budget, cut taxes, and keep spending in check.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1471139289807429641?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: we wonât be recklessly spending and contributing to inflation like Congress and the White House. The #ncga will be maintaining our records of low taxes and balanced budgets.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1493582718441033729?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The voice of North Carolinians in favor of voter ID and lower taxes in their state constitution is at stake in a case that will be argued before the state Supreme Court soon.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1314626338196787201?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is at a 30 year high due to reckless federal spending. It's time for DC to learn from North Carolina: balance the budget, cut taxes, and keep spending in check.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1471139289807429641?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: we wonât be recklessly spending and contributing to inflation like Congress and the White House. The #ncga will be maintaining our records of low taxes and balanced budgets.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1493582718441033729?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is at a 30 year high due to reckless federal spending. It's time for DC to learn from North Carolina: balance the budget, cut taxes, and keep spending in check.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1471139289807429641?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: we wonât be recklessly spending and contributing to inflation like Congress and the White House. The #ncga will be maintaining our records of low taxes and balanced budgets.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1493582718441033729?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Inflation is at a 30 year high due to reckless federal spending. It's time for DC to learn from North Carolina: balance the budget, cut taxes, and keep spending in check.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1471139289807429641?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs be clear: we wonât be recklessly spending and contributing to inflation like Congress and the White House. The #ncga will be maintaining our records of low taxes and balanced budgets.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1493582718441033729?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great news today! The United States Supreme Court has agreed to take up our request to intervene in the voter ID case before the courts.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1463586832143237127?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"56% of NC voters supported a constitutional amendment requiring a photo ID to vote. 80% of US voters favor a photo ID requirement to vote. Thatâs why we've passed legislation to address each one of these common sense issues. #ncpol #ncga\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1484596761578586117?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The people of North Carolina want voter ID. Did you know the state budget that was passed and signed into law last week includes $5 million to implement Voter ID? More good news for North Carolina.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1463236299591229449?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Starting today, several new important laws take effect in North Carolina. I'm proud of the hard work my colleagues and I have done to uphold public safety, protect children, combat drug trafficking, expand gun rights, support farmers, and defend law enforcement.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1730644865766093071?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41316/timothy-moore"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/41316/timothy-moore"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great speaking @BlueCrossNC in Cleveland County to celebrate investments in North Carolinaâs rural communities. The powerful results of our economic success create good jobs to improve healthcare access without big government growth burdening taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1231982769783427072?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs border disaster is about to become even more disastrous now that Title 42 has expired. Congress has offered some real solutions, but President Biden and his veto stand in the way.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1657141451187187712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"North Carolina is excited to welcome President @realDonaldTrump back to Charlotte tonight to celebrate his promises kept for growing the American economy, strengthening our military, and building better border security to protect the people of the United States. See you there!\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1234493111906316289?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government should be doubling the size of the Border Patrol, not the IRS.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1556709332103958531?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There is a crisis at our nation's southern border, the likes of which we have never seen.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1724853125230579784?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs border disaster is about to become even more disastrous now that Title 42 has expired. Congress has offered some real solutions, but President Biden and his veto stand in the way.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1657141451187187712?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thank you President Trump and acting DHS Secretary Wolf for working to keep the United States safe from sanctuary states, cities, and sheriffs, whose policies put the American people at risk to prioritize illegal immigration over our nation's security.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1225773505515577345?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"A powerful indictment of Democratsâ opposition to detaining illegal immigrants charged w/ violent crimes in N.C. from a former sheriff serving in the House: \"Treat an illegal alien inmate the same as any other individual wanted by our federal government.\"",
+          "source": "x.com",
+          "url": "https://x.com/NCHouseSpeaker/status/1172512863098793985?s=20"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:16:13+00:00"
+}

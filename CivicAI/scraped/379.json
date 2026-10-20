@@ -1,0 +1,406 @@
+{
+  "name": "Susan Collins' Issue Positions (Political Courage Test)",
+  "page_title": "Susan Collins' Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (ME) - Sr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (ME) - Sr",
+  "candidate_id": "379",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/379/susan-collins",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 311 - Born-Alive Abortion Survivors Protection Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27667/71282/379/born-alive-abortion-survivors-protection-act#71282"
+        },
+        {
+          "type": "statement",
+          "text": "\"I have consistently opposed eliminating federal funding for Planned Parenthood, which provides important family planning, cancer screening, and basic preventive health care services to millions of women across the country. For many women, Planned Parenthood clinics provide the only health care services they receive.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1052496/senator-collins-votes-to-protect-health-care-for-millions-of-women#.Xcxu3UFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. President, I am opposed to late-term abortions and would support legislation to ban them except in unusual circumstances. A carefully drawn, short list of exceptions to apply in those rare cases should have been included in this bill. Regrettably, the bill before us provides no exception for when the physical health of the mother is at risk of serious harm, the most glaring deficiency in this legislation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1014511/pain-capable-unborn-child-protection-act#.XcxwdUFTkfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I don't think there is a single American who thinks that our current tax code is fair, simple, or promotes economic growth. We need a tax system that will boost the economy, help the middle class, and encourage small businesses to grow and create jobs. If we stimulate the economy through tax reform, we can significantly increase federal revenues while boosting Americans' take-home pay.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1213413/senator-collins-statement-in-support-of-senate-tax-reform-bill#.XbcHpEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XbcEP0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an original cosponsor of the 2002 bipartisan Campaign Reform law, known as \"McCain-Feingold,\" I was very disappointed that the Supreme Court struck down so many of its key provisions. Throughout my service in the Senate, I have worked for greater transparency in our campaign financing system, and I continue to believe that this system must and can be further reformed.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/919443/senator-collins-statement-on-campaign-finance-reform-vote#.XbcII0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Meaningful reform of our campaign finance laws is achievable in a manner consistent with the First Amendment. One approach is to strengthen transparency laws to ensure that voters have quick and easy access to information that can help them make informed decisions. That is why I am a cosponsor of a bill introduced by Senator Jon Tester (D-MT), the Senate Campaign Disclosure Parity Act, which would require all election-related designations, statements, and reports to be filed directly with the Federal Election Commission. I also support legislation proposed by Senator Angus King (I-ME) which would require campaigns to notify the FEC within 48 hours of receiving campaign contributions of $1,000 or more, and that would require Senate candidates to file reports directly with the FEC, instead of with the Secretary of the Senate.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/919443/senator-collins-statement-on-campaign-finance-reform-vote#.XbcII0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/379/susan-collins/22#.XbcFZUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This legislation is vitally important, not only for strengthening the defense of our nation, but also for bolstering our support for the brave men and women in our armed forces and ensuring that they have the equipment they need to carry out their missions effectively. I am particularly pleased that the NDAA includes the largest pay increase for our troops in a decade as well as an amendment I authored to help servicemembers acquire the skills they need to obtain good-paying jobs upon returning to civilian life.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1357258/legislation-to-strengthen-national-defense-passes-senate-with-provisions-championed-by-senator-collins#.XbcIikE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Collins has a strong record of supporting federal investment in Maine's infrastructure. This investment not only creates jobs, but also provides lasting benefits to our communities. Senator Collins has worked to secure federal funding for important transportation projects in Maine such as the replacement of Memorial Bridge between Kittery and Portsmouth, increased capital investments for the Amtrak Downeaster, and the replacing of the breakwater in the Port of Eastport. In addition to the transportation benefits, these infrastructure investments will provide significant economic benefits to the region, both in the short term and for years to come.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/848295/issue-position-transportation#.XbcJGkE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 22 - Fixing America's Surface Transportation (FAST) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/54061#.XbcEfUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I don't think there is a single American who thinks that our current tax code is fair, simple, or promotes economic growth. We need a tax system that will boost the economy, help the middle class, and encourage small businesses to grow and create jobs. If we stimulate the economy through tax reform, we can significantly increase federal revenues while boosting Americans' take-home pay.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1213413/senator-collins-statement-in-support-of-senate-tax-reform-bill#.XbcHpEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XbcEP0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XodqK5NKg_U"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Along with Senator Olympia Snowe, Senator Collins commissioned the Maine No Child Left Behind task force to examine issues facing Maine under the NCLB law and Maine Learning Results. Based on the task force's recommendations, Senators Collins and Snowe co-authored the No Child Left Behind Flexibility and Improvements Act. The bill reforms NCLB by giving states, school districts, and schools greater control and flexibility in implementing and executing the law.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/848287/issue-position-education#.XbcJXEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/379/susan-collins/27#.XbcFk0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Every Student Succeeds Act returns much needed flexibility to the State departments of education and to local school districts. The bill would remove the high-stakes accountability system that was simply proven to be unworkable under No Child Left Behind. Instead, the bill would empower States to set the goals for their schools and students and design ways to improve student achievement. The bill would also eliminate the burdensome, overly prescriptive parts of No Child Left Behind, such as the definition of a ``highly qualified teacher,'' which is a perfect example of something that sounds great but in fact proved unworkable in many of the small and rural schools in my State where teachers are called upon to teach a wide range of subjects.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1045580/student-success-act-conference-report-continued"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Collins has worked to advance legislation that would promote clean energy initiatives, such as accelerating research of plug-in hybrid technologies for heavy duty trucks, providing incentives for producing alternative fuels from biomass, and improving the energy efficiency of motor vehicles and appliances, among others.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/848289/issue-position-energy-and-environment#.XbcKWUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Senator Collins voted against a significant attempt to roll back the Clean Air Act, which would have prohibited the EPA from regulating greenhouse gas emissions forever, no matter what the health consequences are, no matter what future scientific research reveals, no matter the environmental impact.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/848289/issue-position-energy-and-environment#.XbcKWUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S J Res 53 - A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Repeal of the Clean Power Plan; Emission Guidelines for Greenhouse Gas Emissions From Existing Electric Utility Generating Units; Revisions to Emission Guidelines Implementing Regulations\".",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27188/69558/379/a-joint-resolution-providing-for-congressional-disapproval-under-chapter-8-of-title-5-united-states-code-of-the-rule-submitted-by-the-environmental-protection-agency-relating-to-repeal-of-the-clean-power-plan-emission-guidelines-for-greenhouse-gas-emissions-from-existing-electric-utility-generating-units-revisions-to-emission-guidelines-implementing-regulations#.XbcEzUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a nation, we must examine the common thread that connects many acts of gun violence: untreated or under-treated serious mental illness,\" said Senator Collins. \"Our legislation would help to provide a way for family members and law enforcement officers to temporarily prevent people who pose a danger to themselves and others from purchasing or possessing firearms. Several states already have \"red flag' laws, which enhance gun safety while retaining important due process protections and preserving the Second Amendment rights of law-abiding citizens.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1240543/collins-king-support-bipartisan-red-flag-bill#.XbcK0UE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gun violence is a problem that affects far too many communities across the country,\" said Senator Collins. \"Family members and law enforcement officers are often in the best position to identify when someone poses an immediate threat to themselves or others, but in many cases they are unable to intervene before it is too late. Our bipartisan legislation would provide a way for them to temporarily prevent dangerous individuals from possessing firearms. Several states already have \"red flag' laws, which enhance gun safety while retaining important due process protections and preserving the Second Amendment rights of law-abiding citizens.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1318813/ahead-of-one-year-anniversary-of-parkland-tragedy-rubio-reed-re-introduce-bipartisan-red-flag-bill#.XbcK_0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 83% by American Public Health Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/379/susan-collins/38#.XbcF5EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We are writing to express our grave concern over the Department of Justice's recent decision to not only continue its refusal to defend protections for people with pre-existing conditions in the ongoing litigation challenging the Affordable Care Act (ACA) before the United States Court of Appeals for the Fifth Circuit, but also to argue in favor of repealing the entire ACA.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1346643/letter-to-the-hon-william-barr-attorney-general-of-the-united-states-collins-manchin-urge-doj-to-defend-protections-for-pre-existing-conditions#.XbcORkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Care Act remains the law of the land, and it is the Department of Justice's duty to defend it. \"The Administration should work with Congress to fix the law's problems legislatively, while ensuring that the protections for the millions of Americans who are living with pre-existing conditions such as asthma, arthritis, cancer, diabetes, and heart disease remain in place.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1357111/senator-collins-doj-should-defend-aca-protections-for-pre-existing-conditions"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I do support the ongoing effort to repeal and replace Obamacare, the inclusion of these harmful Planned Parenthood provisions had no place in this legislation.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1052496/senator-collins-votes-to-protect-health-care-for-millions-of-women#.Xcxu3UFTkfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.XodpgpNKg_U"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have consistently supported funding for the construction of physical barriers and strengthening security on our southern border.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1377116/sj-res-54"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's imperative that Congress act so that young people who were brought to the United States as children, through no decision of their own, can stop living in fear of deportation. I have talked with \"Dreamers\" living in Maine who have grown up in our State and have known no other country as their home,\" said Senator Collins. \"This issue transcends political divisions, with members of both parties expressing sympathy for the \"Dreamers\" and support for a legislative solution. I am proud to join this growing bipartisan group of leaders in advancing this important effort that will fairly address the needs of the DACA population, strengthen border security, and help improve our immigration system.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1219047/senators-collins-king-join-bipartisan-group-of-senators-in-support-of-legislative-solution-for-daca"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our legislation underscores the broad, bipartisan commitment to creating a path to citizenship for Dreamers, who were brought to this country illegally through no decision of their own, while strengthening border security to help stop the flow of illegal immigrants as well as drugs like heroin that are ruining lives.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1225638/senators-unveil-bipartisan-amendment-to-protect-dreamers-strengthen-border-security"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Given the credible and serious threat North Korea poses to our country, and in particular to U.S. forces and our allies in the region, I welcome the Administration's success in securing new economic sanctions against North Korea at the UN. The unanimous passage of these strict sanctions, the economic pressure they will exert on North Korea, and the fact that the Chinese government voted for the sanctions are significant developments that I hope will lead Kim Jong Un to curtail his extremely dangerous and destabilizing pursuit of nuclear weapons.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1189941/senator-collins-statement-on-north-korea"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/379/susan-collins/22#.XbcFZUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/379/susan-collins/22#.XbcFZUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In reviewing the text of the U.S.-Mexico-Canada Agreement, the replacement for the deeply flawed NAFTA, my paramount concern was ensuring that Maine workers will be protected. After careful assessment of the benefits USMCA will have for those employed in Maine's manufacturing industry, agriculture sector, and small businesses, I will vote in support of the USMCA. \"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1395429/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I remain very skeptical about granting the President TPA as it paves the way for TPP, which could in turn threaten many American jobs.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/987166/senator-collins-casts-vote-to-debate-trade-legislation#.Xcx2hEFTkfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:54:15+00:00"
+}

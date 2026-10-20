@@ -1,0 +1,436 @@
+{
+  "name": "Glenn Ivey",
+  "page_title": "Glenn Ivey's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MD) - District 4, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MD) - District 4",
+  "candidate_id": "166279",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/166279/glenn-ivey",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Overturning Roe v. Wade wonât stop abortions. Instead, it takes away the right for all women to access a safe abortion. Congress must act now to codify this as the law of the land and ensure that all women have the right to safe and effective reproductive care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1521323904106733568"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/252/rating/13894"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1578/rating/13949"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26 \"Born-alive Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/166279/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Happy 87th birthday, #SocialSecurity! Americans deserve to have their long-term wellbeing and dignity protected, not attacked. We must continue to safeguard this program against Republican attempts to privatize/cut benefits.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1559252174617681928"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Republicans say they're listening to Donald Trump with their new budget gutting Social Security benefits.I've got a better idea: How about they listen to hardworking Americans who don't want their Social Security ripped away?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1776277639617032354"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last year, nearly every House Republican voted to raise the retirement age to 69 -AND- cut #SocialSecurity funding by 30%. On this 84th anniversary of the first Social Security check, I promise to keep fighting the GOP's scheme to deprive our seniors of benefits they earned.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1752770576337207429"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to end social security.Democrats want to expand it.Vote like #SocialSecurity depends on itâ¦ because it does.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1559610397187051521"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1658/rating/13937"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1658/rating/13937"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit Save, Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/166279/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For too long, our country has failed to invest in fair and affordable housing leading to more families experiencing homelessness and house instability. We must make investments to #ShowHousingLove and build an #EconomyforEveryone.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1625574345551536134"
+        },
+        {
+          "type": "statement",
+          "text": "\"Securing stable housing is another critical step in reducing poverty. I have supported increased access to affordable housing through programs that have repaired 72,600 homes, empowered more than 18,800 new homeowners, and assisted 105,253 families with affordable housing counseling to date. As a member of the Caucus on Homelessness, I remain committed to ensuring everyone has access to affordable housing.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/housing"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Glenn understands that people in our community are worried about high prices & the cost of living. He will fight to bring down inflation & provide an economy that works for everyone. He knows the importance of constituent service & helping people with their day-to-day problems.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1516813916482985994"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"College should be a ticket to the middle class, not a barrier. So far, @POTUS has canceled $127 billion in student loans for nearly 3.6 million Americans, despite GOP obstruction. This is what Investing in America looks like. #CancelStudentDebt\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1709654361029185848"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1015/rating/13952"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of the Sustainable Energy and Environmental Caucus, I view cultivating a sustainable environment as essential for human health and economic growth. These investments will keep costs down and preserve our planet to the benefit of future generations.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Preserving the environment, growing our economy, and transitioning our economy to clean energy all go hand-in-hand. Such a comprehensive strategy creates good-paying American jobs while ensuring that we will be responsible stewards of the natural environment for the benefit of future generations.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/energy"
+        },
+        {
+          "type": "statement",
+          "text": "\"We urgently need to reduce our greenhouse gas emissions in order to avoid some of the worst consequences of climate change. To limit these harmful effects, Congress must fully support the authority of the Environmental Protection Agency (EPA) to issue and enforce regulations that stop polluters and enforce greenhouse gas emission limits. I commend the Biden administration for empowering the EPA to rein in plastics pollution and toxic emissions into our air and water.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The U.S. is already the worldâs top producer of oil and gas.We cannot drill our way to energy independence.@HouseGOPâs#PollutersOverPeople Act further pads the pockets of fossil fuel executives & attacks the cheapest form of energyâclean energyâraising prices for Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1640779058454618113"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe in the 2nd Amendment. I also believe we have the right to be safe in our communities. We can have both. But we need to be honest with ourselves about the danger guns pose in the hands of disturbed individuals. Sensible gun reform targets criminals, not lawful citizens.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1717908095391740120"
+        },
+        {
+          "type": "statement",
+          "text": "\"My office is addressing this crisis in several ways. First, we've identified federal grants focused on reducing gun violence, and we work alongside constituents to facilitate the application process. In Congress, I've sponsored and co-sponsored federal legislation that supports law enforcement and prevention. We also regularly organize media and roundtable events in order to engage and inform the public about gun violence issues.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/gun-violence-prevention"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1034/rating/13506"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Making sure healthcare is affordable is one of my top priorities in Congress. We need to safeguard health care coverage for people with pre-existing conditions and deepen and expand access to quality health care for everyone. No one should ever have to worry about affording a lifesaving treatment or going bankrupt because they or someone they love falls seriously ill. Health care is a right â not a privilege â and I wonât stop fighting until it is universal.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/healthcare"
+        },
+        {
+          "type": "statement",
+          "text": "\"Too many Marylanders cannot afford comprehensive healthcare or their prescription drugs. This is why we can't wait any longer to pass Medicare for All!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1494439924480843780"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No one should have to go broke caring for a loved one. 31 years ago, the Family and Medical Leave Act made history and changed workplaces for women & families. On this anniversary of the #FMLA, it's time to take the next step and pass a national #PaidLeave law.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1754570316808868124"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs also make sure working parents can afford to raise a family with sick days, paid family and medical leave, and affordable child care that will enable millions more people to go to work.\" #SOTU\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1623152826447986689"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Too many Marylanders cannot afford comprehensive healthcare or their prescription drugs. This is why we can't wait any longer to pass Medicare for All!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/glenniveymd/status/1494439924480843780"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm at the Southwest border today with @BennieGThompson & fellow members of @HomelandDems to discuss border security and immigration with local officials and to see the DHS border facilities and technologies to learn more about how we can create innovative legislative solutions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1649448509484007440"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/166279/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe immigration reform should treat immigrants humanely, especially children and families; enforce the law against employers who abuse H-2A and H-2B visas; extend rights to DREAMers to legalize their immigration status fully and permanently; establish a pathway to citizenship for immigrants to recognize their contribution to our society; and properly fund the security of our borders.\"",
+          "source": "ivey.house.gov",
+          "url": "https://ivey.house.gov/issues/immigration"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly condemn the direct attacks by Iran on our ally Israel.I call upon @SpeakerJohnson to immediately bring the Senate supplemental funding bill to the House Floor to provide critical aid to Israel & Ukraine and life-saving humanitarian aid to innocent civilians in Gaza\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1779533987406385161"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ukraineâs fight is ours. On the 2nd anniversary of Russiaâs invasion, I want the Ukrainian people to know that we will not abandon them. Not today, not tomorrow -- never.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGlennIvey/status/1761405985292271806"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/166279/glenn-ivey/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \" Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/166279/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:29:05+00:00"
+}

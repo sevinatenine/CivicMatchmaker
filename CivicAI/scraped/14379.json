@@ -1,0 +1,717 @@
+{
+  "name": "Adriano Espaillat",
+  "page_title": "Adriano Espaillat's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 13, Democratic",
+  "candidate_id": "14379",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/14379/adriano-espaillat",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Overturning #RoevWade left millions without access to essential health care. Proud to stand w/@ProChoiceCaucus in the fight to re-establish a nationwide right to abortion, enshrine the protections of Roe into law, and safeguard #ReproductiveFreedom for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1695138555478102307"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/14379/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/14379/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today marks the 84th anniversary of the first-ever #SocialSecurity check, and Republicans are celebrating by trying to cut your benefits. I am determined to protect and expand the program American workers earn and pay into with each and every paycheck.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1752784043198865681"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unlike Republicans who are only focused on tax cuts, @POTUS is committed to closing tax loopholes for billionaires. When the top 1% pay their fair share, we are all able to support essential programs like Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1765935682902462912"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Allliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Unlike Republicans who are only focused on tax cuts, @POTUS is committed to closing tax loopholes for billionaires. When the top 1% pay their fair share, we are all able to support essential programs like Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1765935682902462912"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/14379/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's time for the wealthiest 1% to pay their fair share. I endorse @POTUS's push for a more equitable tax system, holding corporations and the ultra-wealthy accountable. Let's prioritize fairness and shared responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1765935514127896952"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unlike Republicans who are only focused on tax cuts, @POTUS is committed to closing tax loopholes for billionaires. When the top 1% pay their fair share, we are all able to support essential programs like Medicare and Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1765935682902462912"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/14379/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This past election, Americans witnessed rampant voter suppression, extreme partisan gerrymandering & a torrent of special interest dark money. #HR1 will change this & ensure our political system serves in the interest of the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1367241446684819459"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/14379/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs been just over a month since the House passed the George Floyd #JusticeInPolicing Act, and Senate Republicans refuse to take action. RT if you agree thatâs unacceptable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1293304619838431232"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, marks 30 years since the brutal beating of Rodney King. This evening, I presided over House proceedings as we considered H.R. 1280, the George Floyd Justice in Policing Act of 2021.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1367257453432369152"
+        },
+        {
+          "type": "statement",
+          "text": "\"We uplift the family and loved ones of Trye Nichols and will never cease fighting for all those we have lost to senseless police violence. The George Floyd Justice in Policing Act cannot wait.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1620946615669325824"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/14379/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/14379/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31775/82892/14379/national-defense-authorization-act-for-fiscal-year-2022#82892"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/14379/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/14379/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our country needs a massive infrastructure investment. Not just to connect people to work and school, but to create jobs â in my district, and around the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1382815148398759936"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/14379/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/14379/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/14379/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HUDgov is expanding affordable housing and improving housing quality. Congress must fully support these efforts that keep safe roofs over the heads of so many.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1785674131515506960"
+        },
+        {
+          "type": "statement",
+          "text": "\"Grateful to welcome @HUDgov Acting Secretary Todman to @NYCHA properties in my district today to reaffirm the Biden Administration's relentless collaboration to ensure New Yorkers have safe, accessible, and reliable public housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1792661690674262398"
+        },
+        {
+          "type": "statement",
+          "text": "\"I'm proud to secure over $16 million in community project funding in FY 2024 Appropriations! These funds directly benefit my constituents to support housing projects, infrastructure renovations, community organizations, youth programs and so much more.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1771256255404790180"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats and @POTUS delivered the Inflation Reduction Act, the CHIPS and Science Act, & the Bipartisan Infrastructure Law to grow the middle class with good-paying jobs. Our plan is working â with the help of these laws our economy added another 175,000 jobs last month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1786461810003996779"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the Inflation Reduction Act's 1-year anniversary, Iâm proud to recognize its incredible benefits for our communities and planet! Already, the affordable clean energy plan has spurred 170,000+ good new jobs, $278 billion in climate investments, and we're just getting started.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1691821120825983316"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/14379/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/14379/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I commend @POTUS for his ongoing commitment to tackling student debt despite many challenges. Together, we're working to provide relief to over 30 million Americans, including many in my district. Let's continue to ensure a brighter future for borrowers in across the nation!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1777422882856947815"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student loan debt threatens the generational well-being of families of color. @POTUS can change this with the stroke of a pen ð #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1555165014364930052"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Voting rights are fundamental and protecting our most basic freedoms should not be partisan in the least. We stand united in our efforts to restore voting rights and to ensure the voices of all New Yorkers are heard!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1579868998485045251"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/14379/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/14379/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On the Inflation Reduction Act's 1-year anniversary, Iâm proud to recognize its incredible benefits for our communities and planet! Already, the affordable clean energy plan has spurred 170,000+ good new jobs, $278 billion in climate investments, and we're just getting started.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1691821120825983316"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/14379/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"GOOD NEWS: @HouseDemocrats are voting to #ProtectTheArctic from Big Oil drilling & the Trump administration. Iâm voting YES because wilderness is #ForThePeople, not an ATM for oil and gas companies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1172150365690781696"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Arctic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/14379/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26929/68921/14379/coastal-and-marine-economies-protection-act#68921"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/14379/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/14379/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/14379/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm sorry, but youâre not pro-life if youâre anti-vaxx, anti-Medicare for All, and anti-gun control.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1466023490100867085"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ACA is here to stay â and now itâs time to go bigger and bolder. But donât ever forget that Republicans spent the past 11 years trying to steal your healthcare.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1405529501459570688"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/14379/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "statement",
+          "text": "\"Don't tell me you're \"pro-life\" if youâre against Medicare for All.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1524004959766855680"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#Paidleave is essential for Americans to raise strong families. Thatâs why I sponsored the Family and Medical Insurance Leave Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1224889552260694016"
+        },
+        {
+          "type": "statement",
+          "text": "\"#Paidleave means the freedom to start a family if, when and how you choose. And it should be available to all women and working people, no matter where you live or work.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1095398276789084163"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/14379/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Donât tell me we âcanât affordâ to lower the price of insulin when billionaires can afford evading $163,000,000,000 in taxes every year.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1510231752186474497"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUS's work on the Inflation Reduction Act, Medicare has the power to negotiate lower drug prices, and insulin has been capped at $35 per month. Let's continue to work to ensure that all Americans can afford life-saving medication.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1765932840011677714"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/14379/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/14379/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We will not allow the MAGA Republican playbook to fearmonger to become the norm. Migrants come to our border in search of the American dream. They are mothers, fathers, brothers and sistersâfamilies seeking asylum, which is a legal right!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1678426442768457730"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/14379/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/14379/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 5% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/14379/adriano-espaillat"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/14379/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1603: \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/14379/farm-workforce-modernization-act-of-2021#77981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/14379/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/14379/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/14379/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/14379/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/14379/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/14379/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/14379/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/14379/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/14379/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's about time we hold Big Tech monopolies accountable in this country. I look forward to seeing the House Judiciary Committee advance this comprehensive antitrust package â it's long past due.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1407854353206202375"
+        },
+        {
+          "type": "statement",
+          "text": "\"Support for tech antitrust enforcement is a bipartisan effort and taking on #BigTech is a good way for @POTUS Biden to continue efforts to unite our nation. AGs from both parties, including @NewYorkStateAG, support it too!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepEspaillat/status/1354141838215622658"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/14379/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/14379/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:08:49+00:00"
+}

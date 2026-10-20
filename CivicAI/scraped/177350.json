@@ -1,0 +1,622 @@
+{
+  "name": "Michael Cloud",
+  "page_title": "Michael Cloud's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 27, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (TX) - District 27",
+  "candidate_id": "177350",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/177350/michael-cloud",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Abortion takes a human life. I am against abortion of any kind. Taxpayers certainly should not fund abortion - or any organization that performs abortions. Roe v. Wade was a monstrous decision, one that invented new rights not found in the Constitution while denying personhood to a most vulnerable class of people. Roe v. Wade should be overturned, and in the meantime, Congress should take all steps possible to limit legal abortions. I would support a constitutional amendment making abortion illegal.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3755 \"Women's Health Protection Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31780/82919/177350/womens-health-protection-act-of-2021#82919"
+        },
+        {
+          "type": "statement",
+          "text": "\"On January 22, 1973 â in a historic moment of judicial overreach and without legislative action â 9 justices declared abortion a so-called \"right\" in the case of Roe v. Wade. Since then, 61 million babies have been robbed of the right to life, liberty, & the pursuit of happiness\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1219999936772759553?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans stand for fiscal responsibilityâtaking care of our obligations, which includes Social Security and Medicare. To be fiscally responsible means not spending money we donât have on outlandish, woke and wasteful proposals that donât put people first\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1623151551186345985?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/177350/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Taxation slows the economy, so we cannot tax our way out of debt; spending must be reduced.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "statement",
+          "text": "\"By cutting back federal regulations and simplifying our convoluted tax code â we can keep our American economy the best in the world.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/economy-and-jobs/"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's budget will increase income taxes to the highest levels since 1986, when the first Top Gun was in theaters. That kind of recklessness will put us on a Highway to the Danger Zone and rampant inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1634302017840578566?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Taxation slows the economy, so we cannot tax our way out of debt; spending must be reduced.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Past attempts at campaign finance reform have actually worked to protect incumbents, who begin the race with greater name recognition, established connections, and the ability to interact with voters while officially on government business. Contribution/spending limits tend to work against challengers by preventing the amount of spending necessary to build name recognition. Past campaign finance laws have also proven ineffective, simply reorganizing the way money is donated. Disclosure requirements allow voters to make a more informed choice, and reforms might address how disclosure requirements are often circumvented by well-connected or knowledgeable donors.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/177350/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats encouraged mass lawlessness and labeled police officers as the enemy. Now we're seeing them targeted at record levels. We must do everything we can to EMPOWER our brave law enforcement officers, never the opposite.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1490827604026400771?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats' Defund the Police movement fueled a massive crime wave that plagued our communities. They discouraged local law enforcement and are now pretending to solve the problem they created in the first place. This was their plan all along.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1550490111288164355?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/177350/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Providing for the common defense is the first and most important legitimate Constitutional responsibility of our federal government. China now has the worldâs largest navy. Iran is pursuing nuclear weapons. North Korea is not being kept in check. Now is the time to make the right investments in our military. Michael Cloud is committed to ensuring that the United Statesâ military has the resources necessary to secure our trade routes, combat threats, deter enemy nations, defend our allies, and protect the life and liberty we hold dear.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/national-defense/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/177350/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/177350/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs a basic duty of Congress to maintain a budget, cut the deficit, and provide a long-term spending plan, and the votes today did not accomplish any of those goals. The people of south Texas didnât send me to Congress to recklessly spend taxpayer dollars.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1207056158281936896?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The fiscal health of our nation is in complete jeopardy. Both parties have failed to produce a balanced budget within a broken system. Congressman Cloud is constantly thinking about our children and grandchildren and the America they will inherit. Without a serious congressional commitment to responsible spending, our country will remain on a path to fiscal ruin.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The only way we should be raising the debt ceiling is if weâre including significant cuts to spending that will shrink the size of Washington, D.C. This deal simply does not do that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1663993339924869123?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted NO on President Bidenâs \"Build Back Better\" spending bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1461790859297533960?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/177350/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/177350/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Out-of-control government spending is spiking inflation to record highs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1465442438152179723?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration's inflation crisis is costing the average American household OVER $5,000 this year. Mass spending and Leftist priorities have damaged our economy and have Americans paying more for just about everything.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1511386154523844615?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The politicians telling you that the \"Inflation Reduction Act\" won't raise taxes also told you: The Border is Secure. Inflation is \"transitory\". Afghanistan withdrawal was a success Don't believe them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1554839387095142405?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, I'm seeking answers regarding the Biden administration's unfair and immoral decision to unilaterally cancel student loan debt. Those who did not go to college or responsibly paid off their loans shouldn't be forced to pay the student debt of others.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1565058403994673154?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, youâre paying for 87,000 new IRS agents salaries, a war in Ukraine, and Bidenâs $400 billion student loan bailout. And every time we talk about finding you some savings, the Left turns on their fear-mongering machine. #TaxDay\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1648393887063351296?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must ensure election integrity.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCloudTX/status/1336352227309592580?s=20&t=6yyfTnHEgAQ4sfyg8-kPZA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/177350/michael-cloud"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37788/101819/177350/safeguard-american-voter-eligibility-act#101819"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rather than unleashing American energy, Biden went to Saudi Arabia to beg for oil even though they produce it with much higher carbon emissions. This isn't about combating the \"climate crisis.\" It's about pushing the new Liberal World Order.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1549884491367317507?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden climate agenda makes no sense. We produce energy more responsibly and more efficiently than anyone in the world. We should open the spigots here, not look to foreign adversaries and countries who aren't as responsible for our energy needs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1550105703708327938?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Limit, Save, Grow Act would repeal Bidenâs green energy subsidies which are nothing more than a $1.2 trillion bailout for the wealthy, big corporations, and Communist China. Itâs time to get our fiscal house in order. Hold the line.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1661732726335234049?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government should not be picking winners and losers in our economy and subsidizing people to not work.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Texas is well-positioned to help put America back on the path of energy independence while also providing our European allies with the crude oil and natural gas they'll need. We must end our reliance on foreign countries and start looking at the solutions here at home.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1491779708945584130?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden climate agenda makes no sense. We produce energy more responsibly and more efficiently than anyone in the world. We should open the spigots here, not look to foreign adversaries and countries who aren't as responsible for our energy needs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1550105703708327938?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are blessed as a nation to possess abundant resources. America is more secure when we are not dependent on oil from foreign countries. Our region needs to continue to lead as a major exporter of American energy through our ports, pipelines, and infrastructure.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/energy-and-trade/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A federal firearms registry is explicitly banned by law, yet ATF has accumulated and digitized nearly a BILLION gun records. My No REGISTRY Rights Act would dismantle this database to prevent this Administration from continuing to constrain the rights of law-abiding Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1501609327806795788?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden administration has a database of nearly a BILLION gun records and has already finalized a rule to rapidly expand it. Congress must pass my bill, the No REGISTRY Rights Act, to eliminate the ATF's gun registry and protect the 2nd Amendment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1523702854086971392?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"He is also a co-sponsor of the \"Hearing Protection Act\", \"Concealed Carry Reciprocity Act\", and the \"Recreational Lands Self-Defense Act\". He is working to protect your inalienable rights and is endorsed by the NRA and Gun Owners of America.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/2ndamendment/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our Founding Fathers understood that the only defense against tyranny is an armed citizenry. Michael Cloud is constantly working to protect your right to keep and bear arms. The author of the \"Protecting the Right to Keep and Bear Arms Act\" â which boasts an endorsement from the NRA and Gun Owners of America â would keep an out-of-control federal government from coopting a national emergency to enact gun control.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/2ndamendment/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Obamacare must be repealed, and healthcare must be driven by a market-oriented approach that brings down costs and expands access to quality care. Healthcare should be personal, affordable, and portable. Also â Michael Cloud will always fight to keep taxpayer dollars from funding abortion.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/health-care/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government, when putting the government between you and your doctor, made a wreck of our health insurance system. As a result, Texans are now experiencing skyrocketing premiums with less coverage â resulting in less actual healthcare provided.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/health-care/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/177350/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/177350/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/177350/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress should also declare certain cartels as Foreign Terrorist Organizations and increase the number of CBP personnel on the border to ensure operational control of the border rests in our hands.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/border-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first step in any immigration policy must be border security and enforcement, and Congress should pursue an all of the above approach. We should build a wall where it makes sense to build a wall. But a wall alone will not secure the border. A solution should include an increased border patrol presence, helicopters, fencing, cameras, sensors, and unmanned aerial vehicles. The U.S. Coast Guard must have adequate funding to prevent illegal immigration over water. Congress should cut federal funds to sanctuary cities that ban law enforcement from enforcing immigration laws.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "statement",
+          "text": "\"To provide the good men and women of the Customs and Border Protection (CBP) with a force multiplier, the border wall, particularly in the Rio Grande Valley, should be completed. This enables CBP to direct their compassion and professionalism on hot spots where cartels focus on trafficking humans and drugs. Congress should cut cane along the Rio Grande to help CBP prevent cartels from hiding.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/border-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With an \"A\" rating from NumbersUSA, Michael Cloud has led in Congress on highlighting the humanitarian and national security crisis on the border â connecting the dots between the cartels, human trafficking, and loopholes in our immigration system.\"",
+          "source": "www.cloudforcongress.com",
+          "url": "https://www.cloudforcongress.com/vision/border-security/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration is enforcing the reinstated \"Remain in Mexico\" policy with the same energy and efficiency as a petulant child not wanting to do their chores. We must secure our border to end this national security and humanitarian disaster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1470479261270224896?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first step in any immigration policy must be border security and enforcement, and Congress should pursue an all of the above approach. We should build a wall where it makes sense to build a wall. But a wall alone will not secure the border. A solution should include an increased border patrol presence, helicopters, fencing, cameras, sensors, and unmanned aerial vehicles. The U.S. Coast Guard must have adequate funding to prevent illegal immigration over water. Congress should cut federal funds to sanctuary cities that ban law enforcement from enforcing immigration laws.\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/177350/michael-cloud"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/177350/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/177350/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/177350/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Admin has ignored a year-long invasion at our southern border but is considering risking the lives of U.S. soldiers to protect Ukraine's border? Ukraine is thousands of miles away. Drugs, crime, and cartels enter our own backyard every day.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1485769965106245633?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, youâre paying for 87,000 new IRS agents salaries, a war in Ukraine, and Bidenâs $400 billion student loan bailout. And every time we talk about finding you some savings, the Left turns on their fear-mongering machine. #TaxDay\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1648393887063351296?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/177350/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/177350/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we work to mitigate COVID-19, we must be careful to ensure our constitutional rights are preserved. Joined my @freedomcaucus colleagues in signing this letter to @POTUS encouraging individual privacy protections be respected â even by Big Tech â and especially in a crisis\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1250499632788131845?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I led members of the GOP Big Tech task force in a letter to Facebook CEO Mark Zuckerberg regarding our concerns about violent cartels using the Facebook platform to aid in human trafficking and illegal immigration.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1471951294898356224?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"A bill, \"You Own the Data Act (YODA)\" Congressman Michael Cloud introduced. Accountable, big tech must be.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepCloudTX/status/1654176347298594816?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:24:53+00:00"
+}

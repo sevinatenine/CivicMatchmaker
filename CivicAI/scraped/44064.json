@@ -1,0 +1,634 @@
+{
+  "name": "Steven Horsford",
+  "page_title": "Steven Horsford's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NV) - District 4, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NV) - District 4",
+  "candidate_id": "44064",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/44064/steven-horsford",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A woman's right to make her own health care decisions, including safe & legal abortion, is essential. We cannot allow these hard-fought protections, or any others, to be denied by an ideologically driven court or ultra conservative Congress. The time to fight is now.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1521322093652062208"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planneds Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/44064/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297 \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/44064/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"FDR signed the Social Security Act 85 years ago today. This program is now under attack from the current administration. I will fight to protect Social Security so that all Nevadans can stay above the poverty fold, particularly with the economic challenges of this pandemic.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1294402438271627264"
+        },
+        {
+          "type": "statement",
+          "text": "\"Stevens been working in congress to expand Social Security benefits. He joined House Ways and Means Social Security Subcommittee Chairman John B. Larson (D-CT-01) to introduce the Social Security 2100 Act, groundbreaking legislation that will increase Social Security benefits for seniors and keep the system strong for generations to come.\"",
+          "source": "www.stevenhorsford.com",
+          "url": "https://www.stevenhorsford.com/copy-of-about2"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2629/dina-titus"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans in Washington gave tax breaks to billionaires and now they're freezing pay for federal workers and leaving tens of thousands of positions vacant. I stand with the hardworking employees at the VA, Hoover Dam, and across our community who deserve better. #NV04\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1044010752640602112"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans in Washington gave tax breaks to billionaires and now they're freezing pay for federal workers and leaving tens of thousands of positions vacant. I stand with the hardworking employees at the VA, Hoover Dam, and across our community who deserve better. #NV04\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1044010752640602112"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 78% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2629/dina-titus"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/44064/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9 minutes and 29 seconds...Thereâs no excuse for police brutality. Pass the George Floyd Justice in Policing Act to keep public safety integral. We are long over due for transformative legislation to hold bad police accountable.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1397289322701746177"
+        },
+        {
+          "type": "statement",
+          "text": "\"One year ago today, George Floyd was killed. Although his murderer was convicted, we need more. Americans deserve legislation that protects them from police brutality nationally. The Senate needs to pass the George Floyd Justice in Policing Act and prove that Black Lives Matter.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1397213939641970688"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must continue to push for the fair treatment of Black women and men under the law. I'm proud to be working toward a more equitable future with Congresswoman Dina Titus and Rep. Susie Lee with the Policing bill we've co-sponsored. I will not let this moment come and go in vain.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1275245010821083136"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/44064/steven-horsford/20/criminal-justice?p=2"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/61/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/44064/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31775/82892/44064/national-defense-authorization-act-for-fiscal-year-2022#82892"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This was a long hard fight but we got the bipartisan infrastructure bill passed! This is what the American people need â real investments into our future, the creation of union jobs, and economic growth.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1457024730720919560"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319 \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77595/44064/american-rescue-plan-act-of-2021#77595"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/44064/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Home ownership is one of the most powerful wealth building tools. I co-sponsored the Housing is Infrastructure Act which provides over $600 billion in affordable housing investments. This will address the housing crisis and ensure people get a shot at owning a home.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1420109164559298561"
+        },
+        {
+          "type": "statement",
+          "text": "\"Housing costs have â¬ï¸â¬ï¸â¬ï¸ in the past year. Glad to see the direct impact of Congress passing the American Rescue Plan, but we need much more help for families to stay in their homes and be able to pay for more than just the bare necessities.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1499811734181203971"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/44064/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/44064/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"126 Top Economists on the Inflation Reduction Act: 'This proposal addresses some of the countryâs biggest challenges at a significant scale. And because it is deficit-reducing, it does so while putting downward pressure on inflation.'\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1554634233225912321"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/44064/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/44064/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"$1.2 trillion in student loan debt is unacceptable. Sign my petition & call on Congress to make education affordable!",
+          "source": "bit.ly",
+          "url": "http://bit.ly/1jRsRwD"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/2629/dina-titus"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a Member of Congress, I will continue to advocate for the protection and expansion of voting rights that too many in our country are still unable to fully exercise. Thank you @DTVPAC being a key partner in the fight.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1535783638310146049for"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/44064/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/44064/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Earth Day, Iâm reminded of the youth who need us to get this right. Clean energy is key to solving climate change. As a member of the House Natural Resources, Iâm fighting to protect our homeâMother Earth. ð Happy Earth Day! ð±\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1385269165573906437"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/44064/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H.R. 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/44064/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/29/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/44064/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Gun laws such as universal background checks are a no-brainer, even gun owners agree. Next year, a #GunSafetyCongress will act.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1289779189055254529"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Rifle Association (NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Brady Campaign to Prevent Gun Violence",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/44064/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Even though #LaborDay has passed, I will always be committed to strengthening our workers' rights. I voted for the #HeroesAct to honor our workers with safe workplaces and paid sick leave. In Congress, I will continue to fight for relief for our hard-working Nevadan families.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1303454988396408832"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/44064/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Capping drug costs for chronic illnesses like diabetes puts people and their health first. President Bidenâs Build Back Better act will guarantee that no one pays more than $35/month for insulin.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1470534021939613699"
+        },
+        {
+          "type": "statement",
+          "text": "\"While in Congress, I have stood up against big pharmaceutical companies who oppose efforts to cap insulin at $35 per month and Republicans who have tried to repeal the Affordable Care Act.\"",
+          "source": "www.stevenhorsford.com",
+          "url": "https://www.stevenhorsford.com/copy-of-about2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/44064/steven-horsford/38/health-and-health-care?p=2"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/44064/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/44064/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/44064/steven-horsford/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8146 \"Police Our Border Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37357/100443/44064/police-our-border-act#100443"
+        },
+        {
+          "type": "statement",
+          "text": "\"The rising tide of dangerous drugs like fentanyl in our communities underscores how necessary it is to act, not just talk,\" added Congressman Horsford. \"We have practical, bipartisan solutions ready and available; itâs time to put these into action for the safety and well-being of our constituents.\"",
+          "source": "horsford.house.gov",
+          "url": "https://horsford.house.gov/media/press-releases/horsford-calls-for-executive-action-on-the-border"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud that our DREAMers in Nevada are military service members, union members, students, child care workers, home health care workers, and so much more. Under DACA, they are allowed to work, go to school, and live their lives without fear of deportation.\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1404932065766768643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/44064/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 - \"POLICE Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34930/92230/44064/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We stand in solidarity with the brave people of the Ukraine, and I have called for the full range of sanctions against Putin's aggression. #WeStandWithUkraine\"",
+          "source": "x.com",
+          "url": "https://x.com/StevenHorsford/status/1498848743612837890"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/44064/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/44064/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/44064/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/44064/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/44064/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/44064/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/44064/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are broader concerns with social media that we need to act on. The greatest threat to our democracy and electoral process is the proliferation of misinformation and disinformation. Viral statements and messages have gone unchecked on many of these platforms, steering public sentiment and suppressing democratic participation or altering the way a person may vote or act. And the algorithms that make up the backbone of many of these platforms could have broader implications when they donât account for ethnic, racial, and cultural differences in their users.\"",
+          "source": "horsford.house.gov",
+          "url": "https://horsford.house.gov/media/press-releases/horsford-votes-against-tiktok-ban"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:05:02+00:00"
+}

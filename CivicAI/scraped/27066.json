@@ -1,0 +1,736 @@
+{
+  "name": "Jim Clyburn",
+  "page_title": "Jim Clyburn's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (SC) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (SC) - District 6",
+  "candidate_id": "27066",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27066/jim-clyburn",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseDemocrats will continue to fight until Roe v. Wade is restored and abortion access is codified into law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1722086688900387037"
+        },
+        {
+          "type": "statement",
+          "text": "\"The people of Ohio have spoken and affirmed what the majority of Americans feel: we're tired of extreme abortion bans and the criminalization of reproductive care.@HouseDemocrats will continue to fight until Roe v. Wade is restored and abortion access is codified into law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1722086688900387037"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should have codified Roe v. Wade into law years ago. @RepJudyChu ought to be commended for her steadfast commitment to this issue and I hope we pass the Womenâs Health Protection Act in the upcoming weeks.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1435277572171079692"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/2/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This pandemic has highlighted the urgent need for accessible, affordable health care for all Americans. As we celebrate the anniversary of Medicare today, let us do so with a renewed commitment to ensure health care is considered a civil right.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1278408279924899841"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/38/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31998/83742/27066/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security isn't an 'entitlement.' It's the insurance hard-working Americans have paid for with every paycheck. The Social Security 2100 Act ensures this earned benefit will be available for the current generation of retirees and the generations to come. #Secure2100\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1319170/tweet-social-security-isnt-an-entitlement-its-the-insurance-hard-working-americans-have-paid-for-with-every-paycheck-the-social-security-2100-act-ensures-this-earned-benefit-will-be-available-for-the-current-generation-of-retirees-and-the-generations-to-come-secure2100"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/27066/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"The issue with #TrumpCare is it's a big tax cut for the wealthy, and does nothing to help lower to middle income families.\"",
+          "source": "x.com",
+          "url": "https://x.com/ClyburnSC06/status/880097300202360832"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House took a critical step toward passing the Build Back Better Act â a historic plan to create jobs, cut taxes for families, lower care costs, and more, paid for by ensuring the wealthiest Americans pay their fair share. This is how we deliver progress for the people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1430266618521788419?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The issue with #TrumpCare is it's a big tax cut for the wealthy, and does nothing to help lower to middle income families.\"",
+          "source": "x.com",
+          "url": "https://x.com/ClyburnSC06/status/880097300202360832"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/27066/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Decades of trickle-down economics have led to extreme wealth and income inequality and a tax system that only benefits the rich. The Inflation Reduction Act puts #PeopleOverPolitics by ensuring rich corporations pay their fair share.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1557814122481328128?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United candidate/evaluations/27066/jim-clyburn/12/",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our system of government ought to work for the people. But it's been manipulated to help a few at the expense of many. I sat down w/ @Russfeingold to talk about the egregious Citizens United Supreme Court decision, voting rights, & reforming the filibuster.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1402711348870529025"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/27066/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "statement",
+          "text": "\"In the 5 yrs since #SCOTUS gutted the VRA, states have made it harder for millions of Americans to vote. Russia attacked our election. Secret money is flooding the system & the culture of corruption is alive & well in the Trump Administration #RestoreTheVote #RestoreTheVRA (1/2)\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1256152/tweet-in-the-5-yrs-since-scotus-gutted-the-vra-states-have-made-it-harder-for-millions-of-americans-to-vote-russia-attacked-our-election-secret-money-is-flooding-the-system-the-culture-of-corruption-is-alive-well-in-the-trump-administration-restorethevote-restorethevra-12/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The problem is qualified immunity has always been absolute immunity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1392529599200911366"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by the National Assocation of Police Organizations (NAPO",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/20/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/27066/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"The House passed the George Floyd Justice in Policing Act over two months ago, and we continue to call on the Senate to take up this bipartisan bill without delay,\" said Whip Clyburn. This legislation gives us an opportunity to live up to what Alexis de Tocqueville observed about America's greatness when he wrote, \"America is not great because it is more enlightened than any other nation, but rather because it has always been able to repair its faults.' It is long overdue for us to repair some faults in our policing system and apply the greatness of America equitably to all of our citizens.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1465882/clyburn-johnson-johnson-and-lawson-call-on-senate-to-pass-the-george-floyd-justice-in-policing-act/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/27066/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4350: \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/27066/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/27066/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pleased to see the National Defense Authorization Act for FY2022 pass the House tonight. This legislation takes significant steps to combat military sexual assault, invest in our servicemembers, and fulfill our Congressional duty to ensure the security of our nation.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1560864/tweet-pleased-to-see-the-national-defense-authorization-act-for-fy2022-pass-the-house-tonight-this-legislation-takes-significant-steps-to-combat-military-sexual-assault-invest-in-our-servicemembers-and-fulfill-our-congressional-duty-to-ensure-the-security-of-our-nation"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In one year, the Infrastructure Investment and Jobs Act has brought over $2.3 BILLION to South Carolina. Money that has gone to improving our roads, bridges, public transit, ports, airports, and ensuring we have access to safe drinking water and broadband.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1592566465383006208"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is the most productive Congress we've had since 1965. Democrats have passed the: âï¸ American Rescue Plan âï¸ Inflation Reduction Act âï¸ Infrastructure Law âï¸ CHIPS and Science Act âï¸ Bipartisan Safer Communities Act âï¸ PACT Act Let's continue the good fight.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1589727793390112768"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2811 \"Limit, Save, and Grow Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34806/91855/27066/limit-save-grow-act#91855"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/27066/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The steps announced today by the Biden-Harris Admin are an important step to combat our nationâs housing affordability crisis. Now we must build on it by enacting the Build Back Better Agenda to make housing more accessible & affordable for all Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1433186722754482176"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot wait any longer to address the affordable housing crisis. @POTUS' new plan will make housing more affordable by: âï¸ Building more homes to decrease inflation âï¸ Preserving affordable housing units âï¸ Expanding federal financing options\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1526241457673318401"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/27066/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/27066/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act puts #PeopleOverPolitics by creating jobs across blue states and red states alike, including many in SC.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1649506529597435907"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4521 \"America COMPETES Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32244/84296/27066/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/27066/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"The irony is not lost on me that Republicans have been vocal about inflation, yet every single House Republican voted against the #BuildBackBetter Act, which would strengthen our economy and lower costs. #BuildBackBetter is good for the economy, the country, and its people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1466435144429015054?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@POTUSâ new student loan forgiveness plan will benefit over 20 MILLION borrowers who are stuck with insurmountable debt because of accrued interest. Higher education should be affordable and accessible for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1778202260859994445"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden-Harris Administration just reached a new milestone: $127 billion in student debt relief for 3.6 million Americans. The latest $9 billion in relief will change the lives of 125,000 borrowers struggling under the yoke of student loans. That's #Bidenomics at work.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1709981351003214242"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Assocation (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/27066/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 78% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/27066/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/27066/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "statement",
+          "text": "\"#HR4 is a good step to right the wrongs that've dismantled the fundamental right to vote through Voter ID laws, purging voter rolls & closing majority-minority polling places. Upholding the voter protections in the VRA is critical to realizing the promise of democracy for all.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1202984471013855232?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUS and the Democrats' Inflation Reduction Act, over $2.6 million is headed to South Carolina for renewable energy investments that will help lower energy costs for South Carolinians.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1699168437052768688"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/27066/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/27066/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Arctic National Wildlife Refuge is one of the crown jewels of our public lands and should be protected. We must preserve this sacred land and prevent oil drilling.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1172176036903170048"
+        },
+        {
+          "type": "statement",
+          "text": "\"This administration puts Americaâs coastal communities at risk of oil spills and environmental degradation by promoting new offshore drilling. Iâm proud to support @RepCunninghamâs bill to permanently end offshore drilling by our coasts. #ProtectOurCoast\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1171900979379343360"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/30/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We donât have time to waste when it comes to ending the gun violence epidemic. I just reintroduced my bill to close the deadly Charleston loophole that allowed the Mother Emanuel gunman to obtain his gun in 2015.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1643303178354450453"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must end this gun violence epidemic. That starts with signing our discharge petitions to enact common-sense gun violence prevention bills.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1668747199885500416"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/27066/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This pandemic has highlighted the urgent need for accessible, affordable health care for all Americans. As we celebrate the anniversary of Medicare today, let us do so with a renewed commitment to ensure health care is considered a civil right.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1278408279924899841"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expanding Medicaid in the 12 holdout states would do more than improve the lives of everyday Americansâit would save lives. We must make health care accessible and affordable for all.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1441076171584806912?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        },
+        {
+          "type": "statement",
+          "text": "\"On this day 12 years ago, President Obama signed the #AffordableCareAct into lawâmaking health care more accessible & affordable for millions. Democrats will continue to protect this life-saving legislation. And we must close the coverage gap to make health care a right for all.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1506665176032030726?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, President Biden took significant steps towards making health care accessible and affordable for all by acting to fix the ACAâs \"family glitch\" and signing an Executive Order to further strengthen the ACA and Medicaid. Health care ought to be a right, not a privilege.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1511463801341759491?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/27066/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our duty to mothers does not stop after they give birth. Itâs critical we support mothers and their children throughout life. This means funding WIC, expanding access to CHIP, increasing access to paid leave, and building an economy that lifts people out of poverty.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1780638858209542536"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/27066/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Families should not be forced to choose between their jobs and having children or taking care of a sick family member.The #FAMILYAct ensures that they no longer have to by guaranteeing paid leave.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/1095487997880033281?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are 43 million private-sector workers w/o paid sick leave. Working families deserve the time they need to recover from illnesses.#SOTU\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/WhipClyburn/status/557726467594137601?s=20&t=g7w7qWPegnEcGpBwiR1ZMA"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/27066/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/27066/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"For the first time in history, thanks to the #InflationReductionAct, @SecBecerra can negotiate cheaper drug prices for Medicare beneficiaries. No one ought to have to choose between paying for life-saving medications and putting food on the table.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1561741372415172608"
+        },
+        {
+          "type": "statement",
+          "text": "\"If my late wife Emily were here today, a 30-year diabetic herself, she would be overjoyed that the #InflationReductionAct includes a $35/month cap on insulin for Medicare patients. I was honored to stand alongside @POTUS as he signed this transformative bill into law.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1559663992532082688"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats and @POTUS negotiated the toughest immigration bill in decades. Trump demanded Republicans oppose it because he thought a crisis at the border would help him politically. Stop the political games. Letâs pass the bipartisan border security bill. \"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1765937737650106797"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Senate just dismissed House Republicans' baseless and unconstitutional impeachment of Homeland Security Secretary Mayorkas. Hopefully now they can put aside their political games and work with Democrats to pass real bipartisan border security reforms.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1780729939194445940"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27066/jim-clyburn/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6136 \"Border Security and Immigration Reform Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24758/63301/27066/border-security-and-immigration-reform-act-of-2018#63301"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dreamers are our neighbors, friends, colleagues, and classmates. They fully contribute to our economy and are vital to what makes this country great. Their #HomeIsHere and the Dream Act will ensure that they can call America home, permanently.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1372676261554888704"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States has always been home for #Dreamers. It's where their friends, families, and lives are. They've built their lives here since they were children and know no other country as home. We must #ProtectTheDream and uphold #DACA.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1179442670340575232"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/27066/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/27066/no-ban-act#78993"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, the House took a significant step to hold Putin & his enablers accountable for this unnecessary war. This legislation will ban the import of Russian oil and energy products, weaken Russian global trade, and allow us to impose further sanctions for human rights violations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1501777526380761091"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/27066/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/27066/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/27066/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must remain steadfast in our commitment to democracy at home and abroad. We will continue our work to get Ukraine the aid they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1605755533918699521"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/27066/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, House Democrats led the charge to support our national security by advancing aid to Ukraine, Israel, the Indo-Pacific, and over $9 billion in humanitarian assistance for Gaza. We must stand with our allies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepJamesClyburn/status/1781765396141412818"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/27066/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/27066/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/27066/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:19:28+00:00"
+}

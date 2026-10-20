@@ -1,0 +1,712 @@
+{
+  "name": "Andy Barr",
+  "page_title": "Andy Barr's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (KY) - District 6, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (KY) - Sr",
+  "candidate_id": "117290",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/117290/andy-barr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court's decision today affirmed that the Constitution does not confer a right to abortion and that the authority to regulate abortion belongs with the American people through the democratic process. By overturning Roe, the Court is empowering the American electorate to determine, through their elected representatives, what limits on abortion they want implemented in their state.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1540365206785871874"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/2/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32975/86812/117290/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26 \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34026/90338/117290/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I just voted again to require Congress to work with the Administration to protect Americans with pre-existing conditions, lower premiums, lower drug cost, and strengthen Medicare. My Democratic colleagues voted to proceed with the bill as is. Proof this bill is #ForthePolitics\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1126565585440182272?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted to close the Medicare Part D donut hole through the Bipartisan Budget Act. Because of this vote, Medicare beneficiaries will save $6.7 billion in premiums and cost sharing over the next seven years.\"",
+          "source": "barr.house.gov",
+          "url": "https://barr.house.gov/healthcare"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare (NCPSM",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Andy voted for the Tax Cuts and Jobs Act, the first comprehensive reform of the tax code in over 30 years. This legislation: Cuts taxes by $2,052 for the average median income family in the Sixth District. Doubles the standard deduction and child tax credit. Includes legislation Andy introduced to boost Kentuckyâs horse and bourbon industries. Led to increased bonuses, wages and enhanced benefits for over four million workers nationwide. Lowered utility rates for families throughout Kentucky.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/economy-jobs/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Importantly, this bill will provide tax relief to the low- and middle-income Kentuckians who need it the most. The bill takes the lowest 10 percent tax bracket to zero, and doubles the standard deduction, meaning hardworking Americans can immediately take home more of their paychecks. Specifically, the first $24,000 in family income will be completely tax free under this plan. We are nearly doubling the child tax credit and the top tax rate of 39.6 percent will remain for the highest income earners.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1206959/rep-barr-keeps-promise-votes-for-tax-reform"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the President signs the Tax Cuts and Jobs Act it will be a great early Christmas present for the American people -- especially hardworking middle income families who haven't had a pay raise in a decade and who need relief the most. Beginning in 2018, workers will be able to keep more of their paycheck, business investment and job creation will boom, and salaries will rise.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1214981/barr-votes-to-send-historic-tax-cuts-to-presidents-desk"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/117290/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/36/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/36/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressional Democrats are one trick ponies. Their solution to every problem is to tax more and spend more of other peopleâs money. Todayâs historic tax increase during a recession is just another example.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAndyBarr/status/1558214360526372870"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24168/62174/117290/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Public Citizen",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/12#.XbiUFEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/12#.XbiUFEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26112/66405/117290/for-the-people-act-of-2019#66405"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/117290/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At the same time, we should never defend the violence, rioting, looting or criminal activity that we've sadly witnessed over the last few days which dishonors the memory of George Floyd, including the vicious targeting of law enforcement officers, the vast majority of whom live up to those high standards of conduct and are equally outraged about what happened to George Floyd. \"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/BarrForCongress/posts/10157273716612967"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/117290/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"AOC and her fellow socialists are unhinged. Their latest rallying cry is \"Defund The Police.\" Even as rioters and looters took advantage of peaceful protests, our police still protected their communities. We will never allow them to get rid of law and order in our country!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/barrforcongress/status/1271172955947634689"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This year's National Defense Authorization Act authorizes a much-deserved pay raise for military servicemembers, funds to improve military family housing and prevents cuts to the military health program. Additionally, the NDAA reverses proposed cuts by President Biden for new aircraft, combat vehicles, missile systems and other key military weaponry that will be essential in defending our homeland now and in the years to come.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1577054/barr-votes-for-ndaa-to-boost-defense-pay-for-military-servicemembers"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35217/96799/117290/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/117290/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32002/83750/117290/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/117290/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "\"Andy supported H.R. 3, the Spending Cuts to Expired and Unnecessary Programs Act, which cuts wasteful spending and restores fiscal responsibility with the federal governmentâs use of hard-earned taxpayer dollars.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/fiscal-responsibility/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While we are hearing about the various proposals from Congress and the administration that would raise taxes or add to the deficit to spend hundreds of billions of dollars and even trillions of dollars on infrastructure, I would suggest that this body take a closer look at how frequently infrastructure can be built effectively without further burdening the taxpayer or our children for generations to come.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1540281/public-private-partnerships-can-rebuild-infrastructure-effectively-for-less-money"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/36/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/117290/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/117290/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735 \"THRIVE Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/24715/63190/117290/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Despite the U.S. economy slipping into a recession following the second consecutive quarter of negative gross domestic product (GDP) growth, Democrat leaders in Congress are tripling down on their failed economic agenda by readying a massive tax, borrow, and spend package. Kentuckians are on track to incur over $5,000 in higher prices this year because of inflation. Borrowing more, spending more, and piling on one of the largest tax increases in American history will only exacerbate the inflation crisis that is crushing middle-class families and small businesses.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1621567/barr-democrats-poison-chips-with-big-government-tax-borrow-and-spend-agenda/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, the Fed is not meeting its price stability mandate, and now Democrats want to double down on their failed policies of overspending, discouraging work, and constraining the supply of energy. The Build Back Better bill is not going to remedy inflation; it is going to make it much, much worse. It is time for this administration and the majority in this Congress to reverse course and stop jeopardizing the future prosperity of the American people.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1573512/reckless-policies-driving-inflation/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/117290/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/117290/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Courtâs decision to strike down President Bidenâs unconstitutional student loan scheme is a win for hardworking taxpayers. Now, the 87% of taxpayers without student loans wonât be forced to pay for the 13% that do. This $400 billion bailout would have added to our inflation crisis and hurt lower and middle income Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1674844999312080915"
+        },
+        {
+          "type": "statement",
+          "text": "\"We think there should be transparency outcomes in higher education. And we think, to deal with the student loan debt crisis, we need to recognize that the return on investment is very important, and career and technical education can provide that opportunity. We believe in income-sharing agreements as an alternative to the debt trap of Federal student loans.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1468776/unleashing-the-spirit-of-the-american-dream/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/117290/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats want to normalize and legalize the uncertainty, chaos and irregularities surrounding mail-in voting in the 2020 elections centralizing the conduct of elections in Washington, D.C., commandeering states to expand mail-in voting without safeguards to ensure integrity of ballots, legalizing ballot harvesting, and overturning voter ID laws. If they succeed, the American people can forget about knowing the results of a race on election night. Instead, this bill makes it more likely voters will have to wait weeks or months after the Election to know the official outcome.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1514597/rep-barr-denounces-house-democrats-hr-1-the-election-power-grab-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted no because taxpayers should NOT foot the bill for political campaigns. Also, Dems bill: creates barriers to securing our elections with Voter ID requirements. Legalizes ballot harvesting. Centralizes power over all elections in Washington.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1481702234291417092?s=20&t=TJVJV_f14oj_PlPalcg2IA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31650/82404/117290/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/117290/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/117290/climate-action-now-act#67056"
+        },
+        {
+          "type": "statement",
+          "text": "\"Despite skyrocketing energy costs, the President continues to double and triple down on his failed and bizarre energy policies. He recently called for more subsidies for the green energy companies to fight rising prices. Rest assured, Iâll continue to push back on this agenda and deliver on a vision that can deliver reliable and affordable energy for all Kentuckians.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/energy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Furthermore, I am leading the Republican effort in the House Financial Services Committee to block efforts to politicize access to capital as well as to prevent the Green New Deal from being enacted through the back door of financial regulation.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/energy/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/117290/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Additionally, I led Republican pushback to the U.S. Securities and Exchange Commission (SEC) Climate Risk Disclosure rule proposal, which creates an avalanche of new disclosure requirements for public companies intended to suffocate investment in energy.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/energy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"It only took one year for President Biden to take our country from energy dominant to energy desperate. From January of 2021 to April of 2022, gas prices went from $2.30 to $4.20. Iâve been warning against the Biden Administrationâs radical climate agenda from the beginning. Now, it is time to unleash American energy producers to create an avalanche of reliable energy and bring down prices at the pump.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/energy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"That is why I supported and voted in favor of H.R. 6858, legislation that: 1. Reapproves the Keystone XL Pipeline 2. Restarts leasing for oil and natural gas projects on federal lands 3. Eliminates barriers to liquified natural gas exports\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/energy/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/117290/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a staunch supporter of the Second Amendment, I am proud to be an original cosponsor of this common-sense legislation introduced by my colleague and friend, Congressman Steve Scalise. This bill would allow law-abiding citizens access to firearms from out of state vendors while ensuring compliance with the gun laws in the individual state of purchase, and additionally, would lessen the burden of purchasing a firearm on our Armed Service members, whose legal residency and assigned duty station are in separate locations. I applaud Congressman Scalise for his continued dedication to solidifying our Second Amendment rights.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1339775/johnson-joins-colleagues-to-introduce-bill-allowing-firearm-sales-across-state-lines"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33077/87309/117290/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/117290/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Medicare for All = Medicare for None. It would be devastating for people with pre-existing conditions as it would limit their access to life saving care. #ForThePolitics\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1126590175705014283?s=20&t=TJVJV_f14oj_PlPalcg2IA"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans are dedicated to enacting healthcare solutions that will decrease costs, increase access, and protect individuals with pre-existing conditions. This Congress alone, I voted twice in support of considering legislation that guarantees no American can be denied coverage or charged higher premiums as the result of a previous illness or health status, ensuring affordable coverage for those with pre-existing conditions. The Democrats' so-called \"Protecting Americans with Preexisting Conditions Act\" is just a faÃ§ade for what they truly want -- Medicare for All -- which, is really Medicare for None, would cost taxpayers more than $30 trillion and would eliminate coverage for 158 million Americans. I simply cannot support legislation that would harm Americans' access to care and is window dressing for the left's continued lurch toward socialism.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1349015/statement-from-congressman-andy-barr-on-hr-986-vote/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today's vote on the so-called Protecting Americans w/ Preexisting Conditions Act is a guise for the Dems as they continue to push Medicare for All, eliminate insurance for 158 million Americans, & cost taxpayers more than $30 trillion. It's #ForthePolitics, not for the people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1126582323724656646?s=20&t=TJVJV_f14oj_PlPalcg2IA"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28212/73153/117290/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/117290/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to the Hon. Maxine Waters, Chairwoman of the House Financial Services Committee: \"We have taken note of your multiple requests to federal financial regulators that, in light of the national emergency caused by the novel coronavirus (COVID-19), they should \"be prohibited from adopting rules not directly related to responding to the coronavirus for the length of the crisis. Yet, contrary to these requests, Financial Services Committee Democrats have taken a different approach. For example, Financial Services Committee Democrats pushed for inclusion of several far-reaching policies in the Speaker's bill, H.R. 6379, that were on your agenda well before COVID-19. Policies such as requiring mandatory disclosures for political spending, ESG, and board diversity for recipients of funds; providing $300 million for the Office of Fair Housing for partisan stakeholders to pursue more litigation; and requiring Treasury and GAO to collect data on the diversity of aid provided to recipients are not COVID-19 related but serve a purely partisan agenda. Even your recent letter to Treasury Secretary Mnuchin and Small Business Administrator Carranza took the opportunity to highlight longstanding Democrat policies such as a $15/hour minimum wage, minimum of two weeks of paid leave, and a mandatory corporate governance structure. These policies, if enacted, would forever alter the fundamental strengths of our nation's economy. Given the Committee's relatively few resources as compared to our federal financial regulators, any call to limit the focus of federal entities exclusively to the COVID-19 response should include our Committee before we consider applying that standard to our regulators.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1419158/letter-to-the-hon-maxine-waters-chairwoman-of-the-house-financial-services-committee-republican-leaders-urge-committee-democrats-to-focus-on-covid-19-relief-not-partisan-policies/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/117290/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "statement",
+          "text": "\"With prescription drugs among the key factors driving up the cost of health care, it is essential that we approve policies that both encourage innovation and protect consumers, particularly our seniors. H.R. 3 is no such policy. It will destroy the progress we have made through the 21st Century Cures Act and result in more than 100 fewer breakthrough cures for patients with cancers, rare genetic diseases and other serious, life-threatening issues. I oppose H.R. 3 because its drug price controls will stifle innovations and will result in hundreds of fewer cures.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1395604/statement-from-congressman-barr-on-todays-health-care-votes/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/117290/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"During this Congress, I supported and voted for legislation to: Restart President Trump's border wall. Reinstate the Remain in Mexico policy. Maintain Title 42 protections to expell illegal migrants during a public health emergency. Deploy new technology and hire new border agents to help secure our southern border.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/border/"
+        },
+        {
+          "type": "statement",
+          "text": "\"My strong stances for border security are part of why President Trump endorsed my campaign for re-election. In the next Congress, Iâll continue to push to return to many of the policies I worked together with him on to implement that secured our border and kept our nation safe.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/border/"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs open borders policies are a national security threat and a disgrace to the rule of law. As of April 2022, almost 3 million illegal immigrants have crossed the southern border during the Biden Presidency. In 2021, 42 people on the Federal Bureau of Investigationâs (FBI) terror watch-list crossed the southern border. Those are just the numbers that we know about. The U.S. Department of Homeland Security estimated that over 400,000 illegal migrants entered the border illegally last year undetected.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/border/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/117290/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"During this Congress, I supported and voted for legislation to: Restart President Trump's border wall. Reinstate the Remain in Mexico policy. Maintain Title 42 protections to expell illegal migrants during a public health emergency. Deploy new technology and hire new border agents to help secure our southern border.\"",
+          "source": "andybarrforcongress.com",
+          "url": "https://andybarrforcongress.com/issue/border/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/117290/andy-barr/40#.XbiUZUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/117290/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/117290/police-act-of-2023#92230"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/117290/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "statement",
+          "text": "\"As Chairman of the subcommittee with jurisdiction over the Treasury Department's implementation of sanctions, Andy introduced a bill that imposes the toughest economic sanctions ever directed at North Korea. The legislation, which passed the House 415-2, was named in honor of Otto Warmbier, an American student who died after being returned to the United States in a coma following his kidnapping, detention and torture for more than a year by the Kim regime.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1439937/issue-position-national-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bottom line is simple -- foreign banks can either do business benefitting North Korea, or business with the United States. They cannot do both,\" said Congressman Barr. \"With this legislation, Congress would give additional leverage for the Secretary of State and the UN Ambassador to peacefully resolve the North Korea nuclear crisis.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1357517/house-passes-congressman-barrs-amendment-imposing-secondary-sanctions-on-north-korea/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108 \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32418/84733/117290/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Weakness only invites aggression as proven by the attacks on both Israel and Ukraine. I am calling on the Biden Administration to act immediately to defend our national security and our partners overseas.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1715449216057688532"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/35718/95243/117290/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022 and for other purposes.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32637/85398/117290/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32588/85238/117290/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Chinese Communist Party is using TikTok to spread lies to my constituents. This is NOT a TikTok ban, but would strip ByteDance, an arm of CCP espionage, from the ability to spy on American citizens. I look forward to voting in support of this bill to protect the national security interests of all Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepAndyBarr/status/1767585254758347256"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520 \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36761/98531/117290/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36703/98368/117290/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:56:05+00:00"
+}

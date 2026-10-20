@@ -1,0 +1,694 @@
+{
+  "name": "Bryan Steil",
+  "page_title": "Bryan Steil's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WI) - District 1, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (WI) - District 1",
+  "candidate_id": "181289",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/181289/bryan-steil",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proudly pro-life. We must work to cherish and protect the sanctity of life at its most vulnerable stages. The recent Supreme Court ruling was a victory for life and returns these important decisions back to the people and their elected representatives in the states. At the federal level, I am standing up for life by supporting proposals like the Born-Alive Abortion Survivors Protection Act and leading efforts to prevent taxpayer funding for abortion.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/181289/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/181289/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We can promote reasonable and responsible spending cuts to save taxpayer dollars, protect Social Security and Medicare, and promote financial stability. Itâs time for President Biden to come to the negotiating table.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1648363277997490177"
+        },
+        {
+          "type": "statement",
+          "text": "\"We made a promise to support our seniors. I am working to protect and preserve Social Security and Medicare. Thanks to @AARP for the productive conversation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1696647380131536913"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden and Speaker Pelosi are ramming through trillions in wasteful spending and planning to raise taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1438503532391370762"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, Vice President Harris is trying to sell Wisconsinites another Biden-Pelosi agenda of wasteful spending. Instead, she should be listening to Wisconsin families that donât want inefficient spending and higher taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1389586741682651138"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are in a recession. The last thing we should be doing is raising taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1558160523136569351"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden and Speaker Pelosi are ramming through trillions in wasteful spending and planning to raise taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1438503532391370762"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are in a recession. The last thing we should be doing is raising taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1558160523136569351"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by The Club for Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/181289/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our law enforcement officers put their lives on the line each day to keep our communities safe. We must always support our nationâs police.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1524852836630249472"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/181289/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is my priority to ensure that our communities in Southeast Wisconsin are safe places to live and raise a family. Throughout my time in Congress, I have continually met with local government leaders, members of law enforcement, and people across Southeast Wisconsin to examine how we can keep our communities safe. I have strongly opposed the \"Defund the Police\" movement, which is a dangerous scheme that had made communities across our country less safe. We must support the men and women who have taken the oath to protect and serve our communities.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/181289/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/181289/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/181289/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/181289/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families and workers are being clobbered by rising costs at the grocery store and at the gas pump. Iâm fighting against wasteful spending and working to lower gas prices by unleashing American energy independence.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Washington spends too much of our money. The out of control spending is contributing to higher prices and rising inflation. We must end the massive government spending coming from Congress. I believe we need a long term, process driven solution to fix the spending problem. We need to restore fiscal discipline to the budget process while also continuing pro-growth policies to unleash the full strength of the American economy.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/181289/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/181289/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm working to make housing more affordable as prices continue to rise.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1514327086495903748"
+        },
+        {
+          "type": "statement",
+          "text": "\"The rising cost of housing is putting an added strain on workers and families. I joined affordable housing leaders in Janesville for a discussion on how we can work to lower costs and increase supply.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1541850241908998144"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/181289/emergency-housing-protections-and-relief-act-of-2020#73172"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenomics isn't working. Wisconsin families are spending $709 more every month than they did two years ago. President Bidenâs visit today is just a reminder that everyone is paying more for their everyday needs after the Inflation Reduction Act passed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1691499075873415175"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs policies have driven inflation higher. Our bill limits spending and saves taxpayer money.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1654549883989229569"
+        },
+        {
+          "type": "statement",
+          "text": "\"Deficit spending increased by $320 billion over last year. Inflation has increased 17% over three years, driving up costs for families. Iâm working to get government spending under control\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1740186384324026859"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/181289/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs plan to cancel student loans are just one example of the Adminâs efforts to unilaterally spend your tax dollars. We need to put a check on the Biden Administration and require them to disclose their executive actions impact on inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1630968195392602114"
+        },
+        {
+          "type": "statement",
+          "text": "\"Forcing taxpayers to pay for student loan debt doesnât fix the underlying problemâthe rising costs of higher education, in particular, living expensesâit only encourages more spending!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1360026952686526464"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Ranking Member of the Subcommittee on Elections, I have fought to ensure the integrity of our elections. We need to restore faith in our election system by putting in place reforms that ensure they are free, fair, and secure. I have continually fought back against schemes in Washington that would ban important safeguards like Voter ID. You can count on me to continue to lead the charge against a federal takeover of our elections.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/181289/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/181289/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As we have continuously seen from the far-left, the Green New Deal is another attempt at a federal takeover of our economy. The Green New Deal would especially harm manufacturing in Wisconsin, punish our dairy industry, and increase costs on families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1384601490589986821"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/181289/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/181289/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/181289/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/181289/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/181289/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our Founding Fathers showed great wisdom in drafting our Constitution. As someone who believes in the Constitution as it is written, I will protect our rights. The Second Amendment provides citizens with the right to bear arms. I will defend law abiding citizensâ Second Amendment rights.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/181289/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/181289/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/181289/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Boarding Air Force One and about to head to Wisconsin with @RealDonaldTrump. Look forward to talking about ongoing efforts to combat human trafficking and address paid family leave issues.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1217206121997447168"
+        },
+        {
+          "type": "statement",
+          "text": "\"Supporting working families is a priority of mine in Congress. I worked with my House and Senate colleagues to help introduce the Advancing Support for Working Families Act. This bipartisan plan addresses paid family leave and supports working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1304061835038134273"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/181289/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"I joined a group of my colleagues in the House and Senate to introduce the first bipartisan plan addressing paid family leave & supporting working familiesâthe Advancing Support for Working Families Act. I applaud President Trump for making paid family leave a top priority.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1224889582728118272"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Families across SE WI are concerned about prescription drug costs. Iâm a cosponsor of the SPIKE Act that requires drug companies to justify any massive price increases of lifesaving drugs like insulin or EpiPen. I'll continue to fight to bring transparency to drug pricing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1196914136258625537"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must protect Social Security and reduce prescription drug costs. In Congress, Iâm working to cap out-of-pocket costs of insulin, protect Social Security, and increase access to affordable prescription drugs for seniors.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1314279388767191042"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/181289/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/181289/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to secure our border. In the past two years, drug and human trafficking has skyrocketed at our southern border. Bad actors from all over the world are taking advantage of our lax security â including drug dealers, human traffickers, and individuals with terrorist affiliations. Deadly illicit fentanyl is coming across in record numbers, wreaking havoc in communities and families right here in Wisconsin. I have visited the US-Mexico border, spoken directly with border protection officers and have seen the crisis first hand. Securing our border is a matter of national security. We need to build a wall, fund our border patrol officers, and finally secure our southern border.\"",
+          "source": "www.bryansteil.com",
+          "url": "https://www.bryansteil.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/181289/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/181289/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The number of illegal migrants who crossed the border last month was larger than the populations of Kenosha, Racine, Janesville, and Beloit combined. This is unsustainable. We must secure the border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1743752215070658626"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/181289/bryan-steil"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/181289/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/181289/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/181289/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/181289/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/181289/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/181289/israel-security-supplemental-appropriations-act-2024#99510"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/181289/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/181289/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/181289/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/181289/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to ensure Americansâ data is protected from the CCP, particularly young people who are consuming more information on #TikTok.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepBryanSteil/status/1640394417696653323"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/181289/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/181289/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:00:07+00:00"
+}

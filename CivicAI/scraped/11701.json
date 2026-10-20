@@ -1,0 +1,514 @@
+{
+  "name": "Shelley Capito",
+  "page_title": "Shelley Capito's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (WV) - Sr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (WV) - Sr",
+  "candidate_id": "11701",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/11701/shelley-capito",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed by West Virginians for Life.",
+          "source": "capito2020.com",
+          "url": "http://capito2020.com/2020/02/west-virginians-for-life-pac-endorses-senator-capito/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/2#.XYo6A0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/75#.XYova0E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 3967 - Senator Rand Paul's Amendment to H.R. 6157.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/63962#.XcGTf0FTkfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XYowF0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Capito has worked hard to ensure job-killing tax increases won't hit American individuals, families, and small businesses.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839563/issue-position-taxes"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tax reform is making a difference all across our country. But don’t just take my word for it: listen to what a difference the Tax Cuts and Jobs Act has had on these West Virginia families. #TaxDay\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1117836761160396800"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Capito believes that strengthening Social Security and Medicare for future generations is an important part of providing economic security both for our nation and for future seniors. As Congress discusses proposals related to these programs, protecting current seniors from any reduction in benefits is paramount.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839553/issue-position-seniors#.XYo7c0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"ÒMedicare for AllÓ would eliminate choice, substantially raise your taxes, and mean longer wait times to see a doctor. We have serious health care challenges, but blowing up the system is no way to fix it.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1116812441281859585"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/53#.XYowQUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"She has also opposed President Bush's proposal to privatize Social Security.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839553/issue-position-seniors#.XYpFzUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/12#.XYowZ0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to support police. Looking at reforms, itâs important to remember many officers have dedicated their lives to protecting their communities. At the same time, good law enforcement cannot exist w/o accountability & justice.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1270767288954884096"
+        },
+        {
+          "type": "statement",
+          "text": "\"To be clear, there are some significant differences between the JUSTICE Act and the Democrat alternative as well. For example, the JUSTICE Act does not include Democrat proposal that would have eliminated qualified immunity for police officers. But, an amendment process on the Senate floor has a way of spurring compromise.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1449241/the-exponent-telegram-in-blocking-reform-democrats-offer-americans-no-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ready to vote ‘yes’ on this year’s #NDAA and give our service members their biggest pay raise in a decade!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1143580970437763072"
+        },
+        {
+          "type": "statement",
+          "text": "\"One of the most important responsibilities of Congress is ensuring our nation's defense. This important legislation ensures much-needed funding for our national defense and provides for our troops with a 1.8 percent pay increase.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/886658/rep-capito-votes-to-fund-national-defense#.XYo8CkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/22#.XYowi0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Congresswoman believes that terrorism continues to pose a grave threat to all Americans we need to give our military the resources they need to carry out this critical mission.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839550/issue-position-defense-and-national-security#.XYo7xUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Broadband should be easily available and affordable for all West Virginians. This will require creative solutions to accommodate broadband users across all sectors, including schools, businesses, and private citizens. Through innovative thinking and implementation, West Virginia will achieve the connectivity that will help boost our economy.\"",
+          "source": "www.capito.senate.gov",
+          "url": "https://www.capito.senate.gov/about/issues/connecting-wv"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rebuilding, modernizing, and improving America's infrastructure is an important goal that extends across party lines and a need that is recognized across the country. From repairing and finishing our roads and bridges to improving access to rural broadband, infrastructure reform provides us an opportunity to better connect our communities, encourage new investments, and make it easier to continue building and growing our country.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1226127/capito-statement-on-trump-administrations-infrastructure-proposal#.XYo8Z0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This legislation will help improve the roads, highways, and bridges Americans count on to travel safely within their communities and across the country; facilitate commerce and encourage economic growth; and provide the certainty states and other stakeholders need to complete critical projects. It includes many programs and provisions that I think will appeal to members on both sides of the aisle--not to mention all of the individuals and families it will benefit in West Virginia and across the country--and I look forward to continuing to champion the bill as it moves to the Senate floor.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1362332/epw-advances-capito-sponsored-highway-bill"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of These investments will impact nearly every county in the state, and they will create over thousands of jobs, while retaining many more. The investments have funded infrastructure improvements, workforce training programs, manufacturing programs, manufacturing expansions, and efforts that support entrepreneurs.\"",
+          "source": "www.capito.senate.gov",
+          "url": "https://www.capito.senate.gov/about/issues/economic-development"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Capito has long been a supporter of pro-growth economic policies that stimulate the economy and create jobs. She believes in a low-rate tax system which fosters an environment for growth and brings certainty to the marketplace.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839563/issue-position-taxes#.XYo8vEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The current system of U.S. taxation is too complex and difficult to administer and comprehensive tax reform will strengthen our economy by making the tax code fairer, simpler, and flatter. A system that spurs greater investment, innovation, and job creation will make West Virginia workers and businesses more competitive.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839563/issue-position-taxes#.XYo8vEE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 - Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XYowF0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/27#.XYowxkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Every Child Achieves Act puts States and local officials back in control of our local schools. As we heard from the Senator from Kansas, Mr. Roberts, his hard work on this bill also stops the Department of Education from conditioning Federal funding on the adoption of national standards like Common Core.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/999695/every-child-achieves-act"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/29#.XYow50E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Supporting an all of the above energy policy that includes West Virginia coal and natural gas, oil produced in North America, together with renewable energy, is one of Congresswoman Capito's most important legislative initiatives.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839538/issue-position-energy-independence#.XYo-NEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Executive Order shows @POTUS is serious about cutting anti-coal regs & reducing unnecessary obstacles for jobs & energy production.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/846789221218209792"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At it again... Washington Dems won't rest until they've killed, not only coal, but gas too! The latest Green New Deal has a cool $16 trillion price tag just for climate change. They say ‘there ain’t no middle ground’ let's tell them where we stand!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/CapitoforWV/status/1166047706869129216"
+        },
+        {
+          "type": "statement",
+          "text": "\"Coal should be part of an all-of-the-above energy strategy, and I am disappointed in the president for lobbying once again for his new, burdensome greenhouse gas regulations.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/840446/rep-capito-presidents-agenda-hurts-west-virginians#.XYo-bEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/30#.XYoxDUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just voted to protect the #SecondAmendment rights of law-abiding Americans\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/831900215732994048"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our state's traditions are dear to my heart and I will always continue fighting for the right of law-abiding West Virginians to bear arms.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/908873/sportsmen-coalition-joins-shelley-moore-capito-for-pro-gun-gathering#.XYo-wkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Brady Campaign to Prevent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/37#.XYoxKkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Shelley Moore Capito is 100 percent pro-Second Amendment.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/908873/sportsmen-coalition-joins-shelley-moore-capito-for-pro-gun-gathering#.XYo-wkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By repealing ObamaCare, we can revisit the problems caused by the health care law and the problems that existed before, replace them with reforms that work, and protect those whose coverage has been disrupted.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1045929/obamacare#.XYo_a0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Capito will continue to support efforts to improve the quality and accessibility of health care through patient centered reform, rather than a government takeover of our health care system.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839543/issue-position-healthcare#.XYo_GEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 17% by American Public Health Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/38#.XYoxWEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Repealing, replacing Obamacare is the best solution for West Virginia. Read more in my weekly newsletter\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/889134355674693632"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The combination of technology and personnel Ñ both at our ports of entry and along the border Ñalong with the border wall system will enhance our security and choke off a major source of the heroin and fentanyl that has devastated families in West Virginia and across the country.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1088483745185890304"
+        },
+        {
+          "type": "statement",
+          "text": "\"ICYMI: Today the Appropriations Committee APPROVED my bill to fully fund @realDonaldTrump’s border wall system.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/1177332366953648129"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 81% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/40#.XYoxkUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Capito opposes amnesty for the estimated 7 million illegal immigrants working in the United States.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/839545/issue-position-immigration#.XYpCfkE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 81% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/40#.XYoxkUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The president doesn't have the constitutional authority to grant amnesty to millions who have broken the law by entering the U.S. illegally.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/540599202003550208"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5759 - Preventing Executive Overreach on Immigration Act of 2014.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/50625#.XYpCP0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iran continues to be a serious threat to the security of the United States and our allies,\" said Senator Capito. \"These sanctions are an essential tool to prevent nuclear proliferation by the world's largest state sponsor of terror, and it is critical that we keep them in place in order to protect the American people. I urge the president to swiftly sign this bill into law.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1162080/capito-votes-to-extend-iran-sanctions"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/22#.XYowi0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"None of us desires military conflict, but as you yourself have acknowledged, we must keep all options on the table to prevent this dangerous regime from acquiring nuclear weapons.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/859437/letter-to-barack-obama-president-of-the-united-states-irans-pursuit-of-nuclear-weapons"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted to extend Iran sanctions, an essential tool to prevent nuclear proliferation and keep Americans safe\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenCapito/status/804446121812758528"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 87% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/22#.XYowi0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Moving forward with free trade negotiations will facilitate new opportunities for workers at current West Virginia employers and help attract new business investment. Without today's bill, the potential economic benefits from trade agreements with allies like Japan will be lost.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006310/capito-statement-on-trade-promotion-authority"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 19% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/11701/shelley-capito/63#.XYoyDEE3kfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:59:09+00:00"
+}

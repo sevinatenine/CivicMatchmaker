@@ -1,0 +1,688 @@
+{
+  "name": "Bob Latta",
+  "page_title": "Bob Latta's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OH) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OH) - District 5",
+  "candidate_id": "9926",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/9926/bob-latta",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every life is precious and must be protected.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1194538/latta-introduces-pro-life-amendment-to-appropriations-legislation#.XZ-ifEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today marks 48 years since the passing of Roe v. Wade and Doe v. Bolton, the Supreme Court cases that legalized abortion in America. In the past 48 years, over 62 million lives have been lost to abortion.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1352704146898628608?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/9926/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"So welfare reform, properly understood, is as much a moral imperative as it is an economic necessity. Yes, we want a more affordable welfare system, but we also want inspired, self-reliant citizens, capable of leading productive and happy lives.\"",
+          "source": "jordan.house.gov",
+          "url": "https://jordan.house.gov/news/documentsingle.aspx?DocumentID=398017"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, House Democrats introduced Medicare-for-All legislation, a single-payer government-run health care system that would cost $32 trillion and result in massive tax hikes on Ohio families and small businesses. At a time when the economy is soaring, it would be foolish to turn our back on the policies that got us here.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1329427/latta-2018s-strong-economic-numbers-show-the-difference-that-pro-growth-policies-can-make"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Democrats continue to push their tax-and-spend agenda, American small businesses are being forced to brace themselves to foot the bill. We must STOP reckless spending and tax increases in Washington in order to provide relief to small businesses in Ohio and across the nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1575485551049732100?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prices are climbing, and globally, the dollar is weakening. The President's solution is to spend 6 TRILLION in federal spending and to raise taxes? The #BidenBudget will hurt Americans and significantly curb our economic recovery.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1398333875173085184?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/9926/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Democrats continue to push their tax-and-spend agenda, American small businesses are being forced to brace themselves to foot the bill. We must STOP reckless spending and tax increases in Washington in order to provide relief to small businesses in Ohio and across the nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1575485551049732100?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/9926/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats in Congress are pushing more tax and spend policies with their proposed \"Inflation Reduction Act\". According to the @jctgov, instead of drastically reducing inflation, it will raise taxes on households making less than $200,000 to pay for more govt programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1554574966787653634?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This \"one-size-fits-all' approach to our elections would allow the federal government to determine registration and voting practices across the country while disregarding every state's voter identification laws and provisional ballot rules. Importantly, H.R.1 limits free speech and imposes vague standards that could prevent Americans from speaking out and organizing on the issues they are passionate about. At a time when we should be focused on how to get our economy open and running again, the last thing we should be doing is finding a way to send taxpayer dollars into politicians' campaign coffers.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1509448/latta-votes-against-nationalized-elections-taxpayer-dollars-for-political-campaigns"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/9926/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our country is hurting. Improving police officer training & increasing accountability measures is a significant step forward we must take together in order to ensure all Americans are protected under the law. #JUSTICEAct\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/boblatta/status/1273638167438999557"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our men and women in blue valiantly serve and protect our communities every day. It is more important now than ever, that we continue to #BacktheBlue. Thank you for keeping our communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1524446830423121921?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/9926/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The NDAA is a critical piece of legislation that authorizes funding for our military, provides a pay increase for our troops, includes needed support for military families, and holds the Biden Administration accountable for its disastrous withdrawal from Afghanistan. This bill reverses President Biden's reckless cuts to our national security, restores funding for shipbuilding, procurement, and missile defense. I am pleased to see that the final conferenced version excludes the provisions dealing with Red Flag laws and adding women to the draft. I worked with my colleagues to make sure these provisions were not in the final bill. Our Armed Forces should have the resources they need to confront threats in an increasingly dangerous world, and that is why I support this bill.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1577441/latta-statement-on-the-passage-of-the-national-defense-authorization-act"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/93292/9926/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/9926/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/9926/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In order to turn our economy around, we must STOP the reckless spending in Washington & encourage others to get back to work. Instead, Congressional Democrats are pushing legislation this week that will make it harder to do business in America & increase taxes on ALL Americans.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1557366161473519618?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Prices are climbing, and globally, the dollar is weakening. The President's solution is to spend 6 TRILLION in federal spending and to raise taxes? The #BidenBudget will hurt Americans and significantly curb our economic recovery.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1398333875173085184?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/9926/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats in Congress are pushing more tax and spend policies with their proposed \"Inflation Reduction Act\". According to the @jctgov, instead of drastically reducing inflation, it will raise taxes on households making less than $200,000 to pay for more govt programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1554574966787653634?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The 'Inflation Reduction Act' will NOT reduce inflation as the title claims. It increases taxes in every tax bracket, gives the IRS $80B to create an army of 87K new agents, & promotes anti-American energy policies. I voted 'No' for Ohioans who are struggling b/c of inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1558206601995100160?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/9926/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats in Congress are pushing more tax and spend policies with their proposed \"Inflation Reduction Act\". According to the @jctgov, instead of drastically reducing inflation, it will raise taxes on households making less than $200,000 to pay for more govt programs.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1554574966787653634?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Disturbingly, todayâs announcement shifts the responsibility of paying off the remaining debt from the student to all American taxpayers, even if they chose not to pursue a college degree.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1562520638727671808?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under @POTUS' leadership, inflation is skyrocketing, gas prices are higher than ever, &everyone is paying more for just about everything. Instead of working to provide relief to the American people, the President announced a student loan bailout plan that will make matters worse\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1562520630607523840?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This \"one-size-fits-all' approach to our elections would allow the federal government to determine registration and voting practices across the country while disregarding every state's voter identification laws and provisional ballot rules. Importantly, H.R.1 limits free speech and imposes vague standards that could prevent Americans from speaking out and organizing on the issues they are passionate about.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1509448/latta-votes-against-nationalized-elections-taxpayer-dollars-for-political-campaigns/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/9926/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/9926/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is also concerning that this bill promotes anti-American energy policies. It will put aside $250 billion at the Department of Energy to subsidize the rush to green energy. This is picking winners and losers in the energy market and will scare away investments in baseload power sources. American small businesses need access to more reliable energy, not less. If the grid becomes too reliant on intermittent green energy sources, we will begin to see manufacturers shutter their operations.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1624428/build-back-better-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since day one, Biden has waged war on American energy independence. His failed policies -canceling the Keystone pipeline, delaying decisions on 4,000 domestic drilling applications, & canceling auctions on oil & gas leases -have led to Americans paying higher costs at the pump.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1548321560653549568?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/9926/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last year, we imported a RECORD # of barrels of crude oil & petroleum products from Russia: 245,194,000. Thatâs +$17billion Putin is using to wage war on Ukraine. The U.S. needs to become energy independent by unleashing our own resources. Energy security = national security.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1498685299152637954?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Since day one, Biden has waged war on American energy independence. His failed policies -canceling the Keystone pipeline, delaying decisions on 4,000 domestic drilling applications, & canceling auctions on oil & gas leases -have led to Americans paying higher costs at the pump.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1548321560653549568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This morning, I joined @foxandfriends with @RepLisaMcClain & @RepWalberg to discuss the fate of the Enbridge Line 5 Pipeline, which moves 540K barrels of oil & natural gas daily! Shutting down Line 5 would negatively impact #OH5 & the Midwest.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1459195798751690762?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The President has once again used executive order to circumvent the will of the American people. Make no mistake; these actions are yet another attempt by this administration to attack the 2nd Amendment, and the rights of responsible gun owners across the country.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1066610/latta-on-presidents-executive-order-to-undermine-second-amendment#.XZ-jvEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/9926/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/9926/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do believe that discussions about massive new government programs like the \"Green New Deal' or \"Medicare for All' may be stifling some of the economic growth we had been seeing. When businesses think their taxes are going up, they invest less. We need to continue to support and implement pro-growth policies that led to the hottest economy in decades.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1329445/latta-statement-on-february-jobs-report-highest-wage-growth-in-a-decade/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, House Democrats introduced Medicare-for-All legislation, a single-payer government-run health care system that would cost $32 trillion and result in massive tax hikes on Ohio families and small businesses. At a time when the economy is soaring, it would be foolish to turn our back on the policies that got us here.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1329427/latta-2018s-strong-economic-numbers-show-the-difference-that-pro-growth-policies-can-make"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/9926/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/9926/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Speaker Pelosi's bill, H.R. 3, leads to fewer cures for patients who count on American innovation for hope. It was crafted behind closed doors without any Republican input. It incentivizes bullying manufacturers into government-mandated price controls that will severely hinder innovation. It is estimated to lead to 100 fewer lifesaving drugs from reaching the people who need them most. Speaker Pelosi's decision to move forward on her extreme drug pricing legislation discredits the incredible bipartisan work we've accomplished that could deliver lower drug prices without harming innovation. H.R. 3 only further delays relief for millions of Americans as it is all for show and will never be signed into law.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1394538/lima-news-bipartisan-plan-better-for-people-needing-medicine/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/9926/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/9926/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/9926/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. President, the southern border has already been in a state of chaos for over two years under your leadership. We need immediate action to stem this security, fentanyl, and humanitarian crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1656354199376896001?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our @CBP agents continue to work around the clock to seize drugs - like fentanyl - flowing across the southern border. Yet, we must do more to secure the border and stop this river of poison from infiltrating our communities and claiming American lives.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1630663444746608644?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/9926/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Sanctuary jurisdictions that flagrantly violate the law are putting American citizens at risk, and it must stop. The Dept of Justice is making the right call to sue CA for their extremist policies. States donât have the option to pick what laws they follow\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/971868157286780928?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted to pass #KatesLaw and stop dangerous sanctuary city policies; we can prevent these tragedies #SaveAmericanLives\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/880557416034836481?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/9926/bob-latta"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/9926/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/9926/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/9926/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/9926/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/9926/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Zelensky is doing everything he can for his homeland and his people. This morning, he provided a powerful address before Congress. We must supply more military equipment while strengthening and increasing sanctions as we work to help Ukraine.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1504111499496808448?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/9926/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/9926/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/9926/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"From boosting videos glorifying Osama Bin Laden and pro-Hamas propaganda - TikTok has proven itself to be a dangerous outlet with ties to the CCP. @POTUS should be setting an example for all young Americans to steer clear of TikTok. This is a serious lapse in judgement.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1757526366994534732?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I just pressed TikTokâs CEO about whether or not the Chinese Communist Party has access to U.S. user data. He ADMITTED China has access to U.S. data. This should serve as a wake up call and alarm every single American.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1638927952778862596?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTok has actively pushed dangerous video challenges â like the blackout challenge â which is responsible for the death of a 10-year-old girl. Why does TikTokâs CEO believe â that despite these egregious practices â the company STILL deserves Section 230 protections?\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1638948121508978703?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are looking for clear answers on TikTokâs consumer privacy & data security practices, the platformsâ impact on our kids, & its relationship with the Chinese Communist Party.\"",
+          "source": "x.com",
+          "url": "https://x.com/boblatta/status/1638903854925324288?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:18:42+00:00"
+}

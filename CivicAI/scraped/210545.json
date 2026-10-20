@@ -1,0 +1,580 @@
+{
+  "name": "Rudy Yakym III",
+  "page_title": "Rudy Yakym III's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (IN) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (IN) - District 2",
+  "candidate_id": "210545",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/210545/rudy-yakym-iii",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Grateful to everyone who came from far and wide to participate in today's @March_for_Life! Your prayer, presence, and advocacy makes a real difference. I will continue to support pro-life policies and champion a Culture of Life that empowers mothers and protects the innocent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1748420791228624936?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Honored to earn an A+ rating from @sbaprolife for my efforts to defend the rights of the unborn. Every life is a precious gift from God, and we need to keep championing a Culture of Life where moms are supported and every child is loved.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1747687207157039191?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/210545/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The budget blueprint President Biden released today proposes raising trillions more in new taxes. What Biden doesnât understand is that DC doesnât have a revenue problem, it has a SPENDING problem.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1633969402612686850?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I led nearly 150 of my House colleagues in encouraging action on important pro-growth tax policies by the end of the year. We need to ensure America remains competitive and the best place in the world to hire, invest, and do business.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1729982795827573144?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We canât tax our way to prosperity and we canât lower inflation with more reckless spending. Unfortunately President Bidenâs $6.9 trillion budget proposal doubles down on more debt, more inflation, and more taxes. @housebudgetGOP is fighting to restore fiscal responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1638580817185185805?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today I led nearly 150 of my House colleagues in encouraging action on important pro-growth tax policies by the end of the year. We need to ensure America remains competitive and the best place in the world to hire, invest, and do business.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1729982795827573144?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We canât tax our way to prosperity and we canât lower inflation with more reckless spending. Unfortunately President Bidenâs $6.9 trillion budget proposal doubles down on more debt, more inflation, and more taxes. @housebudgetGOP is fighting to restore fiscal responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1638580817185185805?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        },
+        {
+          "type": "statement",
+          "text": "\"If President Biden really believes the rich need to pay \"their fair share\" in taxes, he could start with his own family.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1733211503614914813?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Every day the men and women of law enforcement walk the thin blue line to keep us safe. Our police officers have to be their best when others are at their worst. We appreciate you and we will always #BackTheBlue!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1658948497893216258?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our military needs to be focused on lethality and countering threats like the CCP, not a divisive, left-wing political agenda. The strong defense bill @HouseGOP passed today accomplishes these objectives.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1679917840034299922?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/210545/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/210545/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our country is going through great economic uncertainty because of the Biden Administration's failed tax-and-spend agenda. We need to get back to policies that allow Main Street to invest, hire, and grow.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1745820304088211536?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The budget blueprint President Biden released today proposes raising trillions more in new taxes. What Biden doesnât understand is that DC doesnât have a revenue problem, it has a SPENDING problem.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1633969402612686850?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We all know why we are over $33 trillion in debt: D.C. spends too much. We don't need another wordy Washington report to tell us what we already know. What we need is the political courage to confront this problem and actually cut federal spending before it's too late.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1715072734424670654?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must stop wasteful Washington spending to ensure our future prosperity and so the next generation can have the same opportunities and freedoms as we did!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1651253895979491328?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lacasa has long been helping Hoosiers attain financial stability and find an affordable place to live. Great to be back in Goshen and on-hand to help cut the ribbon on Lacasaâs new housing units!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1673802579636023303?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Started today at the RV/MH Hall Of Fame in Elkhart to address the Indiana Manufactured Housing Association. We have a housing affordability crisis in America right now, and the Biden Administration is only making things worse with new onerous, expensive energy regulations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1693997426917757296?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Even liberal economists warned President Biden his reckless spending sprees were a recipe for inflation. He ignored them, and now Americans are paying over $700 more each month for the exact same goods and services. No wonder \"Bidenomics\" isn't selling!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1708931475440119987?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is the cruelest tax of all, and it's crushing families all across the country. Americans can't afford this president's reckless spending policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1730256686701580734?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The first rule when youâre in a hole is to stop digging. Our $31 trillion national debt is unsustainable and a threat to future generations. We need to end reckless spending to restore fiscal responsibility and get inflation under control.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1643975991650586627?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Washingtonâs reckless spending is the reason we have record inflation hurting families across America. We need to reform how Congress operates in order to restore fiscal responsibility. The Balanced Budget Amendment I introduced earlier today would do exactly that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1648404226421456896?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just voted with @HouseGOP to overturn @POTUS Bidenâs student loan scam. Bidenâs bailout would cost every taxpayer an extra $3,500. Millions of hardworking Americans - including those who didnât attend college - shouldnât be forced to pick up the tab for others.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1661480447103373312?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden is being intentionally misleading once again. Even multiple Democrats in the House and Senate voted to overturn Bidenâs student loan bailout. This wealth transfer to the mostly rich is deeply unfair to hardworking taxpayers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1666789260505100289?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court just struck down President Bidenâs unconstitutional student loan scam. Bidenâs bailout was an unfair wealth transfer to mostly rich Americans and would have cost taxpayers hundreds of billions of dollars. I applaud SCOTUS for this decision!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1674805675766022145?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden's Green New Deal agenda has been a disaster & bureaucratic incompetence at its worst. 2 years into a $7.5 billion program, the Admin has managed to deliver exactly *one* EV charging station. $7.5 billion might not be a lot to Biden bureaucrats, but it is to Hoosiers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1735054520357449789?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hoosiers can't afford this president's failed Green New Deal agenda and reckless spending sprees.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1701972047708946462?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"More government mandates to push unworkable and unaffordable Green New Deal policies aren't what Americans want. This week @HouseGOP will act to make sure Americans don't have to pay the price for California's radical climate agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1701616366858686537?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The @HouseGOP Limit, Save, Grow Act will save taxpayers trillions of dollars by: Repealing Green New Deal subsidies\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1650879049143574529?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"American energy independence means economic security and national security. Last week @HouseGOP passed #HR1 to unleash more energy production right here at home and lower costs for working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1644007715847430146?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Hoosiers want lower gas prices, not the leftâs radical climate agenda. @HouseGOP Lower Energy Costs Act will help make American energy affordable again! #HR1\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1640439346359664640?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs backwards energy policies have him begging foreign autocrats for oil when we have energy underneath our feet right here in America. Itâs time to take control of our own destiny & restore American energy independence by passing @HouseGOP Lower Energy Costs Act!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1640725804601470976?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/210545/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud to support @RepNewhouse's Resolution condemning New Mexico Governor Michelle Lujan Grisham's unconstitutional attempt to suspend law-abiding Americans' Second Amendment freedoms. Our Founders were clear: the right to keep and bear arms shall not be infringed!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1703855475064791508?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Proud to support my colleague @RepRichHudsonâs Concealed Carry Reciprocity Act. This important legislation will go a long way towards protecting law-abiding Americansâ Second Amendment freedoms and right to carry across America. #2A\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1636123020291891202?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/210545/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It isnât too much to ask that we vet who comes into our country. It isnât too much to ask that hardened criminals stay behind bars. Instead, @POTUS has done the exact opposite. Biden needs to close the border, enforce our laws, and stop the chaos.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1762519806480171026?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/210545/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/210545/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It isnât too much to ask that we vet who comes into our country. It isnât too much to ask that hardened criminals stay behind bars. Instead, @POTUS has done the exact opposite. Biden needs to close the border, enforce our laws, and stop the chaos.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1762519806480171026?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Turns out, Democrat politicians donât really like living with the consequences of their open borders agenda & sanctuary city political stunts. @HouseGOP passed a strong border security bill in May, but the Biden admin has just sat on their hands while this crisis gets worse.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1690042048282341381?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/210545/rudy-yakym-iii"
+        },
+        {
+          "type": "statement",
+          "text": "\"Even once proud \"sanctuary\" state and city Democrats know President Bidenâs open-borders agenda is a disaster. @HouseGOP passed the strongest border security package in history earlier this year. Americans want a secure southern border!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1698063759263051809?s=20"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We should be doing everything we can to choke Iran off economically and deprive them of their ability to fund terrorism and attack U.S. military personnel. Instead, the Biden administration is freeing up to $10 billion for Iran in sanctions relief. Insane.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1724812192443474305?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/210545/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/210545/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36415/97653/210545/israel-security-supplemental-appropriations-act-2024#97653"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/210545/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This ruling is an important win for the First Amendment & free speech and a strong rebuke of big government Democrats in the Biden Admin who colluded with Big Tech companies to suppress conservative voices.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1676962919203078150?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Biden-Harris regime believes in censorship and putting their thumbs on the scale of Big Tech and their media allies. President Trump and Republicans believe in open debate and protecting your right to free speech. The contrast couldnât be clearer.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRudyYakym/status/1828436404973535601"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/210545/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/210545/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:59:56+00:00"
+}

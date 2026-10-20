@@ -1,0 +1,412 @@
+{
+  "name": "Emily Randall",
+  "page_title": "Emily Randall's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WA) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (WA) - District 6",
+  "candidate_id": "183038",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/183038/emily-randall",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"64% of Americans support upholding Roe â Iâd argue itâs the person introducing abortion restrictions and bans that is selectively representing a fringe/extremist perspective.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1526299540940152833"
+        },
+        {
+          "type": "statement",
+          "text": "\"SCOTUS struck down Roe v Wade. Though we knew this day was coming, itâs no less heartbreaking or infuriating. Let that fury & heartbreak fuel you in the work aheadâto organize, to VOTE. Because elections got us here. And winning elections is how we win back our freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1540339508167602176"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of Congress, I will work hard to protect and strengthen the ACA, increase the flexibility of Medicaid dollars so that states like Washington can continue expanding coverage, bring down the out of pocket cost on medication, and invest in staffing critical healthcare positions and infrastructure so people have more than just theoretical access to the care they need.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/enhancing-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I think we all deserve that. We all deserve access to the health care we need when and where we need it at a cost we can afford,\"",
+          "source": "www.gigharbornow.org",
+          "url": "https://www.gigharbornow.org/news/government/wa-sixth-congressional-district-candidates-emily-randall-drew-macewen/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I believe in an economy that works from the middle class outânot trickle downâputting working families at the center of economic policies. I believe in equal pay for equal work, a tax structure that requires big business to pay its fair share, and in creating good jobs by investing in small and mid-sized businesses.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/lowering-costs-for-families/"
+        },
+        {
+          "type": "statement",
+          "text": "\"In our country today, there is too much wealth in too few hands. We can build a better future for all of us by strengthening the middle class, by giving folks the opportunity to earn a good wage and benefits, keep their lights on and food on their table, and have money in their pockets.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/lowering-costs-for-families/"
+        },
+        {
+          "type": "statement",
+          "text": "\"proud to support the capital gains tax\"",
+          "source": "www.gigharbornow.org",
+          "url": "https://www.gigharbornow.org/news/government/wa-sixth-congressional-district-candidates-emily-randall-drew-macewen/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to receive the sole endorsement of the Washington State Labor Counci\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA"
+        },
+        {
+          "type": "statement",
+          "text": "\"I see my constituents at the grocery store, and one thing that I consistently hear is that they appreciate the stand Iâve taken against taking corporate PAC money since I started running for office. \"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/defending-democracy/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Broadband is essential infrastructure! School districts are getting creative, deploying bus hot spots, but we need to do better for our rural communities!\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1249767042611179542"
+        },
+        {
+          "type": "statement",
+          "text": "\"Super pumped to roll out #MoveAheadWA â a $16B transportation infrastructure package that invests in ferries, free transit for youth in WA, bike & pedestrian projects, & #CompleteStreets , ensuring that when we build new roads we donât build them *only* for cars.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1491214737396617216"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Just a reminder that we can #BuildBackBetter â creating jobs, housing, and a better future for all of us.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1296130667189690368"
+        },
+        {
+          "type": "statement",
+          "text": "\"So many folks are still hanging on to their housing by a thread â just barely making rent â and others in our communities are living unsheltered. We have to do more.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"students who canât afford the post-high school pathway thatâs right for them. We must invest in education ââfrom cradle to career.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We are at a critical moment for our democracy, and protecting the right to vote for Americans is crucial. This starts with ensuring that all eligible voters have access to the ballot box. I will continue to fight to remove barriers to voting and ensure every citizenâs voice is heard.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/defending-democracy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When I talk with my neighbors across the 6th, I hear over and over again that folks are concerned about our democracy. Iâm so proud of the work that we have done in *this Washington* to strengthen voting rights, and proud to be endorsed by @voterprotectpac\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1796209364828856366"
+        },
+        {
+          "type": "statement",
+          "text": "\"This starts with ensuring that all eligible voters have access to the ballot box. I will continue to fight to remove barriers to voting and ensure every citizenâs voice is heard.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/defending-democracy/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must make a just and fair transition away from fossil fuels and invest in clean energy jobs and infrastructure. The United States has a responsibility to be a leader and innovate new ways for countries to accelerate their transitions to a more green and clean economy.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/fighting-climate-change/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Honored to receive the endorsement of Peter Goldmark, former Commissioner of Public Lands!\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA"
+        },
+        {
+          "type": "statement",
+          "text": "\"from the Olympics to the South Sound, our communities know we must combat climate change and protect public lands.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to be the only candidate in my race endorsed by the Alliance for Gun Responsibility (@WaGunResponsib) and a 2024 Moms Demand Action for Gun Sense in America candidate (@MomsDemand). There is nothing more important than ensuring all of us feel safe â wherever we are.",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1804207570430890076"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/183038/emily-randall/37/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I know thatâs not enough. We must take action, demand responsible gun laws. \"",
+          "source": "x.com",
+          "url": "https://x.com/soyemily"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"So grateful that WA is a leader in investing in paid family & medical leave\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1244684265482096640"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a member of Congress, I will work hard to protect and strengthen the ACA, increase the flexibility of Medicaid dollars so that states like Washington can continue expanding coverage, bring down the out of pocket cost on medication, and invest in staffing critical healthcare positions and infrastructure so people have more than just theoretical access to the care they need.\"",
+          "source": "electemilyrandall.com",
+          "url": "https://electemilyrandall.com/issues/enhancing-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I agree insulin prices have been out of control. Thatâs why we passed a cap this year! It ended up at $100/mth, though it started lower. We also established an Rx affordability review board.\"",
+          "source": "x.com",
+          "url": "https://x.com/EmilyRandallWA/status/1276379253064392704"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:22:51+00:00"
+}

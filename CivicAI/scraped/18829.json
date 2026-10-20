@@ -1,0 +1,694 @@
+{
+  "name": "Brett Guthrie",
+  "page_title": "Brett Guthrie's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (KY) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (KY) - District 2",
+  "candidate_id": "18829",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/18829/brett-guthrie",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Since Roe v. Wade, it is estimated that we have lost more than 62 million unborn children to abortions. As your representative in Congress, I have cosponsored numerous bills to protect the right of life and will continue to fight for unborn children who do not have a voice.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1484655526202032128"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today #SCOTUS heard arguments on a pro-life case on a state law prohibiting abortions after 15 weeks. I'll never forget hearing my daughterâs heartbeat and seeing her suck her thumb at a 12-week ultrasound and sonogram scan. I strongly believe the unborn should be protected.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1466176418598076418"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/18829/brett-guthrie"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am a strong supporter of Social Security and Medicare. One of my top priorities in Congress is protecting Medicare and ensuring that seniors have access to high quality health care. I have long been a champion of Medicare Advantage, which offers seniors additional services on top of their traditional Medicare plans. I was proud to lead my colleagues in a bipartisan effort to ensure that seniors in Kentucky can continue to choose Medicare Advantage as an option for their health care.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=72001"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rated 0% by Alliance for Retired Americans.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/959/rating/13947"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Democratsâ Medicare for All plan will force millions of Americans off of their health care plans and will stifle innovation. I join my @HouseCommerce colleagues in calling for the committee to hold a hearing on this disastrous bill.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1100884759243304960"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are here reforming an entitlement program for the first time since the 1990s. It is a very sound, solid way, and a way that preserves and protects the program and prevents the program from imploding on itself within a decade.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1201730/public-health-service-act-amendment"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/23/rating/10947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/18829/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760 \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/25275/64436/18829/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/18829/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Freedom Works",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 61% by Kentucky Club For Growth",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1740/rating/3806"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/23/rating/10947"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/18829/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/2568/rating/12358"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/18829/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I do not believe defunding the police, as the bill we voted on tonight does, is the best to way to address police reform. I am a cosponsor of the JUSTICE Act, which would make a number of changes, including banning chokeholds and creating better law enforcement through stronger training and hires to the police force. Reforms that are included in the JUSTICE Act are needed to help rebuild trust between all communities and law enforcement. I hope that we can put partisanship aside and reach an agreement that will rebuild trust in our communities and heal our nation.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=387357"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30210/77711/18829/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "statement",
+          "text": "\"I say without fear of contradiction that everyone who knows Senator Scott knows he is perhaps the most sincere person in Congress. I was proud to cosponsor Senator Scottâs JUSTICE Act in the House.Unfortunately, the JUSTICE Act was blocked by Democrats in the Senate. Democratic Leader Chuck Schumer did not even try to work with Senator Scott to come to a compromise. Speaker Pelosi said that Senate Republicans - led by Senator Tim Scott - has the \"murder of George Floyd on its hands.\" We tried to work with House Democrats, but they wouldnât allow us to offer amendments to their bill. I am very frustrated.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/CongressmanGuthrie/posts/1865831930214507"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Council for a Livable World",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/101/rating/8833"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1110/rating/9966"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/725/rating/9983"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900 \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32973/86809/18829/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/18829/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/18829/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I can't support raising the debt limit to burden generations to come with new debt as Democrats also pursue a reckless $3.5 trillion budget that would lead to the highest sustained federal spending levels our country has ever seen.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1440700798652977167?s=20&t=PidvbVyyBOhblTfSNVwmeA"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/13/rating/13690"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31006/83464/18829/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I spoke with my friends at the KY Homebuilders Association to provide an update on the work Iâm doing in Washington to make housing more affordable during rising inflation for everyday Kentuckians, including cosponsoring the Affordable Housing Credit Improvement Act.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1757200664315515104"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/18829/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/18829/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32674/85505/18829/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenflation has allowed prices to remain stubbornly high with housing costs leading the way rising more than 5% over last year. Americans cannot continue to afford rising prices from Bidenâs tax and spend agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGuthrie/status/1801398645994000818"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I have been a longtime supporter of improving financial literacy for Americans, especially for students and their families. I have supported legislation to help student borrowers better understand their financial obligations by receiving comprehensive counseling services.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=71997"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1015/rating/13952"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/18829/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's plan to cancel student debt means Americans who decided to pursue careers that did not require taking on student debt or who worked hard to pay off their debt already, have to now pick up the tab on other Americans' student loan debt. The majority of the taxpayer-funded debt cancellation will benefit Americans at the higher end of the income distribution - even making six-figure salaries. Even a Clinton-era Treasury Secretary agrees that this plan is expected to make inflation worse. This is unfair for hardworking Americans who are already struggling to make ends meet due to sky-high inflation. This is nothing more than a blatant bribe to score political points ahead of the election.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1629988/guthrie-statement-on-bidens-unfair-student-loan-debt-plan/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/18829/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/935/rating/13496"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As more renewable energy sources come online, we need to ensure that we do not sacrifice our energy independence or hurt Americans with higher energy costs and by destroying jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1397994670190379010?s=20&t=PidvbVyyBOhblTfSNVwmeA"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am a member of the House Committee on Energy and Commerce and believe we need an all-of-the-above energy strategy. We should utilize different types of domestic energy to power our country in a fiscally responsible way that protects American jobs and keeps our grid reliable.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=71998"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am a member of the Conservative Climate Caucus and think that climate change is a real and serious threat. However, I do not believe that radical solutions proposed in the Democratsâ \"Green New Deal\" are the solution. The Green New Deal is projected to cost up to $93 trillion over ten years, at an estimated cost of over $60,000 per year per household. I believe that we need innovative and market-based solutions to combat climate change.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=71998"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/18829/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I strongly disagree with Democrat policies that undercut our energy independence and make our country more reliant on foreign oil. Crippling our energy independence leads to Kentuckians paying more for gas and utilities.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=71998"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/2526/rating/13753"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30209/77709/18829/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/18829/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/18829/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This yearâs NDAA is overall good for the military & Fort Knox, but it's not perfect. I disagree with the red flag provision included. I joined a letter to the House & Senate Armed Services Committees to ask for this to be removed. It erodes service members' 2nd Amendment rights.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1443691485438808074"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1034/rating/13506"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7910 \"Protecting Our Kids Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32751/85843/18829/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32835/86332/18829/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Democratsâ Medicare for All plan will force millions of Americans off of their health care plans and will stifle innovation. I join my @HouseCommerce colleagues in calling for the committee to hold a hearing on this disastrous bill.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1100884759243304960?s=20&t=vlbeVTK0zULbH_1SowAUMA"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Democrats pursue a single-payer health care system that would raise taxes & end employer-sponsored health coverage, Republicans on the Healthy Future Task Force release solutions to make health care more accessible & affordable without a government takeover of health care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1547577913016389639?s=20&t=vlbeVTK0zULbH_1SowAUMA"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/18829/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Increasing competition for prescription drugs helps drive down costs for patients, and thatâs what the Protecting Access to Safe and Effective Medicines Act would do,\" said Guthrie. \"By making a clarification on FDA drug applications, drug companies would no longer be able to game the system and patients will ultimately be able to choose cheaper drug alternatives. Iâm pleased to support this bipartisan solution to lower what patients pay for prescription drugs.\"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=387362"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/18829/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/18829/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/18829/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I was proud to vote for the Protecting our Communities from Failure to Secure the Border Act which prevents radical liberals from housing illegal immigrants on national parks land. We must secure our border and get the situation under control, not ruin our national wonders.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepGuthrie/status/1730353008373084403"
+        },
+        {
+          "type": "statement",
+          "text": "\"One of the biggest threats facing our country is the crisis at our southern border. Our immigration system is broken and needs to be fixed. We need to strengthen scanning technology at our ports of entry, hire more personnel, and work to stem the flow of illegal drugs into the U.S. \"",
+          "source": "guthrie.house.gov",
+          "url": "https://guthrie.house.gov/issues/issue/?IssueID=71999"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/18829/brett-guthrie"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Border Czar Kamala Harris has allowed our border to spiral out of control. She has overseen 8 million illegal immigrants cross our Southern border and in that time never even spoken to Border Patrol Chief Owens or his predecessor. We cannot allow these detrimental policy failures to continue nor allow the media to continue memory-holing her direct involvement in this crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGuthrie/status/1823047295748968896"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted for his Detain and Deport Illegal Aliens Who Assault Cops Act which ensures illegal immigrants who assault our police officers are quickly arrested and deported! We cannot allow these dangerous people who have crossed our border illegally to further insult our justice system by remaining in our nation!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGuthrie/status/1791123090186846357"
+        },
+        {
+          "type": "statement",
+          "text": "\"In 2014, the President exceeded his authority by unilaterally granting amnesty to millions of illegal immigrants. This resolution is an important step to ensure that President Obama's executive actions are stopped\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1063706/congressman-guthrie-votes-to-reaffirm-opposition-to-president-obamas-executive-amnesty-and-defend-the-constitution/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/18829/brett-guthrie"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Council for a Livable World",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/101/rating/8833"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/725/rating/9983"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/18829/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/18829/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/18829/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/18829/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Council for Livable World",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Peace Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/1110/rating/9966"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/interest-group/725/rating/9983"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/18829/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/18829/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/18829/brett-guthrie"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/18829/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:00:48+00:00"
+}

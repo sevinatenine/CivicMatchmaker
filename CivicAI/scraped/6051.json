@@ -1,0 +1,664 @@
+{
+  "name": "Virginia Foxx",
+  "page_title": "Virginia Foxx's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 5, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NC) - District 5",
+  "candidate_id": "6051",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/6051/virginia-foxx",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On the 46th anniversary of Roe v. Wade today, we remember the 60 million babies aborted in the U.S. since this lethal SCOTUS decision and pray that this is its last anniversary.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1087817527349178376?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The sanctity of LIFE must be respected.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1616454394354204674?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must continue to cut wasteful federal spending and redirect limited funds to federal priorities such as national defense and protecting programs Americans rely on such as Social Security and Medicare\"",
+          "source": "virginiafoxx.com",
+          "url": "https://virginiafoxx.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 11% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last three decades, hardworking American taxpayers have been weighed down by an unfair, complicated, and burdensome tax code. With today's passage of H.R. 1, that cumbersome tax code is now a thing of the past. Simply put, Congress made a promise to the American people to provide tax relief and we have delivered on that promise by reducing rates for individuals at all income levels and roughly doubling the standard deduction. The reduction in tax rates for businesses and job creators -- whether big or small -- will unleash more opportunities and bigger paychecks for employees.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1215719/foxx-supports-tax-relief-for-american-families"
+        },
+        {
+          "type": "statement",
+          "text": "\"If we want strong economic growth and increasing economic freedom we need a fair tax system, which starts with low taxes\"",
+          "source": "virginiafoxx.com",
+          "url": "https://virginiafoxx.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/6051/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last three decades, hardworking American taxpayers have been weighed down by an unfair, complicated, and burdensome tax code. With today's passage of H.R. 1, that cumbersome tax code is now a thing of the past. Simply put, Congress made a promise to the American people to provide tax relief and we have delivered on that promise by reducing rates for individuals at all income levels and roughly doubling the standard deduction. The reduction in tax rates for businesses and job creators -- whether big or small -- will unleash more opportunities and bigger paychecks for employees.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1215719/foxx-supports-tax-relief-for-american-families"
+        },
+        {
+          "type": "statement",
+          "text": "\"If we want strong economic growth and increasing economic freedom we need a fair tax system, which starts with low taxes\"",
+          "source": "virginiafoxx.com",
+          "url": "https://virginiafoxx.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/6051/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/6051/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President @realDonaldTrump is ushering in novel solutions that put the safety of our communities FIRST. Increasing accountability standards. Bolstering performance. Uniting communities. Fueling the fires of anarchy and quashing the police will NEVER lead to meaningful progress.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1272944941128470531?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We will always #BackTheBlue.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1413159346255638530?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/6051/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/6051/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/6051/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/6051/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrat spending is bankrupting America.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1437452456468926467?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let's be honest, Congress has a knack for ignoring opportunities to address direct spending head on. This afternoon, I spoke on the House floor about my bill to restore both fiscal sanity and fiscal responsibility in Washington.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1663633398500343808?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unchecked spending is the main driver of our national debt, and by 2028, it will constitute a whopping 15% of our GDP. This is simply unsustainable. Yet there are no commonsense safeguards to rein in spending beyond our budget.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1116076821039210496?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/6051/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An $11,000 price tag for permitting? Seattle's \"housing affordability\" law is a catastrophe. However, there is a bipartisan, legislative fix that the House passed earlier this year: the Yes In My Backyard Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1293218186259767297?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump's Executive Order recognizes that multiple factors contribute to the affordable housing shortage across the country and that state and local governments are in the best position to reduce barriers to affordable housing. As state and local officials nationwide seek to increase affordable housing, the federal government's limited role should be to assist them in identifying the barriers that contribute to the housing supply shortage and assist them in promoting effective land use policies. Enshrining the administration's collaborative initiatives in our laws would sustain its efforts to make housing more affordable long-term,\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1381067/foxx-introduces-affordable-housing-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"Very exciting news out of Winston-Salem today as the 2019 Choice Neighborhoods Implementation Grant of $30,000,000 was awarded to @Housing_WS. These grants fund transformation, rehabilitation, & replacement housing needs of public & HUD-assisted housing & to transform neighborhoods of poverty into functioning, sustainable mixed income neighborhoods w/ appropriate services, schools, assets, transpo and access to jobs. Congratulations!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1253446160460779525?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every week, I travel across the 5th District and hear the exact same anger from hardworking North Carolinians about rising gas prices. Joe Biden's inflation crisis caused this mess. That's an undeniable fact.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1473032311646138375?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unchecked spending is the main driver of our national debt, and by 2028, it will constitute a whopping 15% of our GDP. This is simply unsustainable. Yet there are no commonsense safeguards to rein in spending beyond our budget.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1116076821039210496?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/6051/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden claims that fighting inflation is his \"top priority\". Nobody is buying that. Gas prices now average $4.37 a gallon - a new record high. Heâs not fighting inflation. His failed policies are FUELING inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1524027890739855367?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden's student loan bailout is illegal. Pass it on.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1592274455476473856?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's student loan scam is highway robbery. It must be stopped.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1584560942657871873?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student loan forgiveness is Joe Biden's bribe to voters.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1532784331906863106?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student loans? Taxpayers foot the bill. No wonder the American people donât have confidence in Democrats.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1534907736693125120?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The overwhelming majority of North Carolinians, myself included, support strong voter I.D. requirements. Their will must be respected. The Supreme Courtâs 8-1 decision today affirms that state statutes can be defended in court by authorized legislators against challenges of constitutionality. North Carolinians deserve nothing less than a full-throated defense of their laws in court. Iâm very delighted with todayâs decision â it is an undeniable step in the right direction, and I look forward to seeing the stateâs voter I.D. law become fully implemented soon.\"",
+          "source": "foxx.house.gov",
+          "url": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=400082"
+        },
+        {
+          "type": "statement",
+          "text": "\"Transparency in free and fair elections has always been an underpinning in elections past, and 2020 is no different. The American people deserve certainty that their votes count, and that their voices will not be rendered mute. The future of our great republic is hanging in the balance, and it should go without saying that adhering to the rule of law must be our guide. Transparency must be our aim. Integrity must be our touchstone, and the courts must be our final arbiter of disputes. The American people will receive the truth and nothing less.\"",
+          "source": "foxx.house.gov",
+          "url": "https://foxx.house.gov/news/documentsingle.aspx?DocumentID=400016"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a strong supporter of renewable energy, I applaud Wilkesboro Hydropowerâs aim to refurbish the W. Kerr Scott Dam into a source of hydroelectricity. Now that my bill, H.R. 951, has become law, the project has been provided another six years to begin construction!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1023923453345390592?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"What harebrained scheme are the Democrats peddling today? Just another bill mimicking the Green New Deal that does nothing to address Americaâs infrastructure needs. But wait, thereâs more. They donât even have the money to pay for their wish list. Time for a reality check.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1278002553373052928?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 4% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/6051/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America deserves energy freedom. President Biden is standing in the way.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1508462981000187907?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need energy production right here in America, not reliance on autocrats!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1497021280842780672?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "statement",
+          "text": "\"We stand ready to do more if necessary.\" Reopen the Keystone XL pipeline then.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1498845573365051392?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 8 and H.R. 1446 are direct attacks on the Second Amendment. I took to the floor to remind my Democrat colleagues that the right to keep and bear arms SHALL NOT be infringed.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1370019926564556800?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden wants to attack the rights of proud, law-abiding patriots in this country by tearing down the Constitution and the Second Amendment. He would do well to remember that the right to keep and bear arms SHALL NOT BE INFRINGED. Protect The Second Amendment!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1380234406653214724?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Washington Democrats launch countless attacks on the Second Amendment, I will always stand and defend it!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1369757867801260034?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will continue to oppose radical policies like 'Medicare for all\"",
+          "source": "virginiafoxx.com",
+          "url": "https://virginiafoxx.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare-for-all would: skyrocket taxes on workers, seniors & families, increase wait times for individuals seeking care, Kick over 4 million North Carolinians off their employer-sponsored insurance plans. This is not the health care reform Americans need.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1139915465872949253?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidencare\" and \"Obamacare\" are the same thing: government-run healthcare that hurts American families. Itâs just that simple.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1319457035168210954?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/6051/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/6051/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/6051/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/6051/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidencare\" and \"Obamacare\" are the same thing: government-run healthcare that hurts American families. Itâs just that simple.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1319457035168210954?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâve just cosponsored @RepCloudTXâs PATROL Act that prevents Bidenâs Far Left Department of Justice from suing states that implement decisive border security measures â such as Texas. Stand with Texas. Secure the border. Stop DOJ obstruction!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1750990569331974286?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Secure the border NOW. No waiting until tomorrow. No waiting until the day after. Right NOW!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1432379482581741568?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Uphold Title 42. Build the wall. Secure the southern border\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1516416010097680390?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In the last six months, over 300,000 illegal aliens evaded the CBP. Imagine the people who were not apprehended. This administration FAILS to recognize that border security is national security!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1516086595312664580?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/6051/virginia-foxx"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/6051/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/6051/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/6051/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/6051/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/6051/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/6051/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32637/85398/6051/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/6051/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Free speech is the antidote to extremism â it should be respected as such. Facebookâs incredibly revealing decision today only cements the need to pursue an antitrust agenda to address this unchecked power. Big Tech must be held accountable! The American people demand answers.\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1389977177702211585?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"House Democrats have a love affair with Big Tech. I offered an amendment to H.R. 1 that would restrict outside compensation for Congressional employees from defendants in a federal anti-trust case (looking at you, Facebook), but House Democrats voted not to allow it. Pathetic!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1367282168637116416?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Renata Hesse being a candidate for the head of the DOJ Antitrust division = an abysmal failure. Unchecked power by #BigTech to silence conservative voices must be met with a backbone at the DOJ â not a welcome mat to a revolving door. Reject her and stand against Big Tech!\"",
+          "source": "x.com",
+          "url": "https://x.com/virginiafoxx/status/1354121730000900102?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:15:47+00:00"
+}

@@ -1,0 +1,730 @@
+{
+  "name": "Cory Booker",
+  "page_title": "Cory Booker's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (NJ) - Sr, Democratic Senate Democratic Strategic Communications Committee Chair",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (NJ) - Sr",
+  "candidate_id": "76151",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/76151/cory-booker",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/76151/cory-booker#.XVwKN3U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“All people deserve to control their own bodies. That’s why Cory fights alongside those working to protect the constitutional right to abortion and to ensure that everyone has real access to reproductive health care.”",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/reproductive-rights/"
+        },
+        {
+          "type": "statement",
+          "text": "“\"The Access to Birth Control Act ensures that a woman's family planning decisions are the business of a woman, her family, and her doctor. I will remain a vocal advocate for women's rights and fight to ensure we are doing everything possible to guarantee women in New Jersey and across the country have timely, unhindered access to contraception.\"”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1082663/sen-booker-introduces-legislation-to-protect-womens-access-to-birth-control#.XUyPBnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The right to control your own body is sacrosanct. Thatâs why, as president, Iâll codify Roe v. Wade, create an Office of Reproductive Freedom in the White House, repeal Hyde, and more. We must ensure everyone has access to quality health careâincluding contraception and abortion.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387572/tweet-the-right-to-control-your-own-body-is-sacrosanct-thats-why-as-president-ill-codify-roe-v-wade-create-an-office-of-reproductive-freedom-in-the-white-house-repeal-hyde-and-more-we-must-ensure-everyone-has-access-to-quality-health-care-including-contraception-and-abortion"
+        },
+        {
+          "type": "statement",
+          "text": "\"All people deserve to control their own bodies. Thatâs why Cory fights alongside those working to protect the constitutional right to abortion and to ensure that everyone has real access to reproductive health care.\"",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/reproductive-rights/"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"The Access to Birth Control Act ensures that a woman's family planning decisions are the business of a woman, her family, and her doctor. I will remain a vocal advocate for women's rights and fight to ensure we are doing everything possible to guarantee women in New Jersey and across the country have timely, unhindered access to contraception.\"\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1082663/sen-booker-introduces-legislation-to-protect-womens-access-to-birth-control#.XUyPBnU3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"And so now we're left with a tax plan that makes huge corporate tax cuts permanent, lavishes the most benefit on those who already have so much, makes meager middle class tax cuts temporary while raising taxes for many families, and blows a gaping $1.5 trillion hole in the deficit -- a hole that our kids and grandkids will be responsible for filling. “",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1213742/booker-statement-on-passage-of-gop-tax-plan/?search=wealth#.XVVVdnU3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in opposition of HR 1 – Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"And I don't agree with the wealth tax, the way that Elizabeth Warren puts it, but I agree that we need to raise the estate tax. We need to tax capital gains as ordinary income. Real strategies will increase revenue.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1385773/nbc-november-democratic-party-presidential-debate#.Xdf3vEFTkfJ"
+        },
+        {
+          "type": "statement",
+          "text": "\"And so now we're left with a tax plan that makes huge corporate tax cuts permanent, lavishes the most benefit on those who already have so much, makes meager middle class tax cuts temporary while raising taxes for many families, and blows a gaping $1.5 trillion hole in the deficit -- a hole that our kids and grandkids will be responsible for filling.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1213742/booker-statement-on-passage-of-gop-tax-plan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in opposition of HR 1 â Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"During his campaign, Trump promised that there would be \"no cuts' to Social Security, but this budget cuts billions from Social SecurityDisability Insurance, hurting those who can't work due to their disability and undermining the Social Security safety net.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1175462/booker-statement-on-trump-fy-2018-budget/?search=social%20security#.XVVWrXU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans have promised repeatedly that critical safety net programs like Medicare won't be affected by their disastrous tax plan,\" said Booker. \"Our amendment simply puts those promises in writing. Senate Republicans should back up their words with action.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211174/booker-menendez-introduce-amendment-to-hold-republicans-accountable-for-pledge-to-avoid-medicare-cuts/?search=corporate%20tax#.XVVZ1nU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Access to affordable health care is so much more than that. Itâs an education issue, an economic issue. We have to do things immediately that provide better care. That means fighting for Medicare for All & acting with urgency to protect health care for all people. #DemDebate\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387575/tweet-access-to-affordable-health-care-is-so-much-more-than-that-its-an-education-issue-an-economic-issue-we-have-to-do-things-immediately-that-provide-better-care-that-means-fighting-for-medicare-for-all-acting-with-urgency-to-protect-health-care-for-all-people-demdebate"
+        },
+        {
+          "type": "statement",
+          "text": "\"I believe Medicare for All is the best way to rationalize our broken health care systemâand Iâll work toward this ideal of health coverage being a right for all Americans. But every day I'll join with others to make progress happen for the people who are struggling now.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387574/tweet-i-believe-medicare-for-all-is-the-best-way-to-rationalize-our-broken-health-care-system-and-ill-work-toward-this-ideal-of-health-coverage-being-a-right-for-all-americans-but-every-day-ill-join-with-others-to-make-progress-happen-for-the-people-who-are-struggling-now"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our health care system is clearly brokenâAmericans should not have to make the drastic choice between seeking medical care or considering whether that care will cost too much or result in personal bankruptcy. This is one of the many reasons why we should adopt Medicare for all.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387578/tweet-our-health-care-system-is-clearly-broken-americans-should-not-have-to-make-the-drastic-choice-between-seeking-medical-care-or-considering-whether-that-care-will-cost-too-much-or-result-in-personal-bankruptcy-this-is-one-of-the-many-reasons-why-we-should-adopt-medicare-for-all"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every single person deserves health care they can afford, and no one should go bankrupt or suffer from illness because the cost is too high,\" Senator Booker said. \"Our nation's per capita health care spending is more than twice the average of other developed nations, and yet we continue to suffer worse outcomes on basic measures of a healthy society, like maternal and infant mortality. We need to expand access to health care in this country and dramatically lower the cost for American families. Medicare for all achieves this goal by ensuring the fundamental right to health care to everyone at an affordable price.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1336800/booker-joins-colleagues-in-introducing-medicare-for-all"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/76151/cory-booker/53#.Xahvo0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans have promised repeatedly that critical safety net programs like Medicare won't be affected by their disastrous tax plan,\" said Booker. \"Our amendment simply puts those promises in writing. Senate Republicans should back up their words with action.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211174/booker-menendez-introduce-amendment-to-hold-republicans-accountable-for-pledge-to-avoid-medicare-cuts"
+        },
+        {
+          "type": "statement",
+          "text": "\"During his campaign, Trump promised that there would be \"no cuts' to Social Security, but this budget cuts billions from Social SecurityDisability Insurance, hurting those who can't work due to their disability and undermining the Social Security safety net.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1175462/booker-statement-on-trump-fy-2018-budget"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Get big money out of politics by ending Citizens United.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1359677/issue-position-democracy-and-voting-rights/?search=citizens%20united#.XVwKonU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“It is now up to Congress to act to protect our democracy and undo the damage done by this decision and the Court's earlier ruling in the Citizens United case.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/862482/us-sen-cory-booker-statement-on-supreme-court-mccutcheon-v-fec-ruling/?search=citizens%20united#.XVVW43U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is critically important. I am not only fighting for campaign finance reform but am one of only 6 senators who is not taking corporate contributions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387583/tweet-it-is-critically-important-i-am-not-only-fighting-for-campaign-finance-reform-but-am-one-of-only-6-senators-who-is-not-taking-corporate-contributions"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's been 9 years since the Supreme Court handed down its disastrous 5-4 #CitizensUnited ruling. Since then, countless corporate campaign contributions have flooded our elections drowning out the voices of millions of votersâwe must overturn Citizens United.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387581/tweet-its-been-9-years-since-the-supreme-court-handed-down-its-disastrous-5-4-citizensunited-ruling-since-then-countless-corporate-campaign-contributions-have-flooded-our-elections-drowning-out-the-voices-of-millions-of-voters-we-must-overturn-citizens-united"
+        },
+        {
+          "type": "statement",
+          "text": "\"Get big money out of politics by ending Citizens United.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1359677/issue-position-democracy-and-voting-rights"
+        },
+        {
+          "type": "statement",
+          "text": "\"It is now up to Congress to act to protect our democracy and undo the damage done by this decision and the Court's earlier ruling in the Citizens United case.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/862482/us-sen-cory-booker-statement-on-supreme-court-mccutcheon-v-fec-ruling"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“The FY 2019 NDAA not only authorizes the resources our military needs to protect our national security, it provides the tools our troops need to keep themselves safe in the field.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1253108/booker-statement-on-fy-2019-ndaa/?search=NDAA#.XVwK3nU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The inclusion of this funding in the Senate's defense bill is a deserving victory for our U.S. Air National Guard - especially New Jersey's courageous 177th Fighter Wing, who were immediately engaged in securing airspace over New York and Washington following the tragic events on 9/11,\" Sen. Booker said. \"Just as we have called on them to protect us, they are calling on us to provide them with the resources they need to effectively protect and defend our homeland. Today marks significant progress in meeting this vital need.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006794/booker-menendez-secure-40-million-for-air-force-equipment-upgrades-in-senate-defense-spending-bill/?search=testing#.XVValHU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to bring our troops home from Afghanistan as quickly as possible and reduce defense spending to appropriate levels, which I will work to identify with the help of experts and stakeholders.\"",
+          "source": "www.militarytimes.com",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to make sure that we have a military thatâs well-resourced and prepared, but right now, we spend nearly as much on defense as the next eight countries combined. I voted against the FY 2020 National Defense Authorization Act because $750 billion is too much to spend on defense while we scale-back our military operations and under-resource essential services that make us stronger at home, like veteransâ health care, public education, and infrastructure.\"",
+          "source": "www.militarytimes.com",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"the House legislation prohibits the deployment of the W76-2 low yield nuclear warhead for the Trident D5 submarine-launched ballistic missile. This warhead is a dangerous, costly, unnecessary, and redundant addition to the U.S. nuclear arsenal.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1367478/letter-to-the-hon-james-inhofe-chairman-of-the-committee-on-armed-services-letter-to-the-hon-jack-reed-ranking-member-of-the-committee-on-armed-services-harris-feinstein-colleagues-call-to-ban-low-yield-nuclear-missiles-deployment-and-extend-new-start-treaty-in-final-defense-authorization-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"The inclusion of this funding in the Senate's defense bill is a deserving victory for our U.S. Air National Guard - especially New Jersey's courageous 177th Fighter Wing, who were immediately engaged in securing airspace over New York and Washington following the tragic events on 9/11,\" Sen. Booker said. \"Just as we have called on them to protect us, they are calling on us to provide them with the resources they need to effectively protect and defend our homeland. Today marks significant progress in meeting this vital need.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006794/booker-menendez-secure-40-million-for-air-force-equipment-upgrades-in-senate-defense-spending-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"The FY 2019 NDAA not only authorizes the resources our military needs to protect our national security, it provides the tools our troops need to keep themselves safe in the field.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1253108/booker-statement-on-fy-2019-ndaa"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“As a former mayor, Sen. Booker learned through first-hand experience how important it is that the federal government partner with local communities to make substantial, long-term investments in our transportation infrastructure. That's why he joined with Republican Sen. Roger Wicker of Mississippi in a bipartisan effort to direct more federal funds to local and regional transportation authorities.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/992670/issue-position-infrastructure-and-transportation/?search=federal%20government%20partner#.XVLIC3U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Climate change is a pressing and serious environmental and economic crisis that threatens the way of life for our kids and grandkids,\" said Senator Booker. \"This challenge must be met with a commitment from the federal government that is commensurate with the level of commitment we saw in this country during the original New Deal. And that's exactly the type of determination this proposal brings. Communities of color, low income communities, indigenous communities and our family farmers are on the front lines of climate change, and I'm particularly encouraged that this blueprint addresses climate change in a way that promotes both economic and environmental justice.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1323016/hirono-markey-ocasio-cortez-introduce-green-new-deal-resolution/?search=infrastructure#.XVVX3nU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Investing in our infrastructure catalyzes economic growth and provides dividends for decades.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387587/tweet-investing-in-our-infrastructure-catalyzes-economic-growth-and-provides-dividends-for-decades"
+        },
+        {
+          "type": "statement",
+          "text": "\"New @CoryBooker op-ed: \"for every $1 billion invested in infrastructure, over 20,000 jobs are created\"\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387584/tweet-new-corybooker-op-ed-for-every-1-billion-invested-in-infrastructure-over-20000-jobs-are-created"
+        },
+        {
+          "type": "statement",
+          "text": "\"Climate change is a pressing and serious environmental and economic crisis that threatens the way of life for our kids and grandkids,\" said Senator Booker. \"This challenge must be met with a commitment from the federal government that is commensurate with the level of commitment we saw in this country during the original New Deal. And that's exactly the type of determination this proposal brings. Communities of color, low income communities, indigenous communities and our family farmers are on the front lines of climate change, and I'm particularly encouraged that this blueprint addresses climate change in a way that promotes both economic and environmental justice.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1323016/hirono-markey-ocasio-cortez-introduce-green-new-deal-resolution"
+        },
+        {
+          "type": "statement",
+          "text": "\"As a former mayor, Sen. Booker learned through first-hand experience how important it is that the federal government partner with local communities to make substantial, long-term investments in our transportation infrastructure. That's why he joined with Republican Sen. Roger Wicker of Mississippi in a bipartisan effort to direct more federal funds to local and regional transportation authorities.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/992670/issue-position-infrastructure-and-transportation"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“\"Instead of a thoughtfully crafted, bipartisan plan that will truly lift wages and cut taxes for all Americans, Republicans have jammed through a disastrous proposal that lavishes tax cuts on corporations and the wealthiest and raises taxes on everyday Americans. In this perverse plan, the people who need a tax cut the least end up with the most, and those who truly need a tax cut get taken for a ride.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211176/booker-statement-on-senate-passage-of-disastrous-republican-tax-proposal#.XUw64HU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“The Senators' amendment would roll back the corporate tax rate to its current level of 35 percent (the tax plan would lower the corporate rate to 20 percent) should there be any cuts to Medicare as a result of the tax plan.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211174/booker-menendez-introduce-amendment-to-hold-republicans-accountable-for-pledge-to-avoid-medicare-cuts/?search=corporate%20tax#.XVVZ1nU3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in opposition of HR 1 – Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everybody's tired of corporations getting away with paying zero taxes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1385773/nbc-november-democratic-party-presidential-debate#.Xdf3vEFTkfJ"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in opposition of HR 1 â Tax Cuts and Jobs Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"Instead of a thoughtfully crafted, bipartisan plan that will truly lift wages and cut taxes for all Americans, Republicans have jammed through a disastrous proposal that lavishes tax cuts on corporations and the wealthiest and raises taxes on everyday Americans. In this perverse plan, the people who need a tax cut the least end up with the most, and those who truly need a tax cut get taken for a ride.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211176/booker-statement-on-senate-passage-of-disastrous-republican-tax-proposal#.XUw64HU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Senators' amendment would roll back the corporate tax rate to its current level of 35 percent (the tax plan would lower the corporate rate to 20 percent) should there be any cuts to Medicare as a result of the tax plan.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1211174/booker-menendez-introduce-amendment-to-hold-republicans-accountable-for-pledge-to-avoid-medicare-cuts"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Let me be clear. This amendment does not reinstate any type of adequate yearly progress, or AYP. In fact, the underlying bill is repealed. AYP is repealed. It does not establish artificial deadlines such as No Child Left Behind did, saying that all children will be proficient by 2014. It does not establish Federal goals for our students. States will have the prerogative to set their own. It does not impose test-based accountability on States. States must include a range of factors in their State-designed accountability systems. It does not require schools to implement a one-size-fits-all intervention. Local districts will design the intervention for underperforming schools.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1005334/every-child-achieves-act-of-2015/?search=testing#.XVVa6XU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today I voted to oppose passage of the Senate's education bill. This bill jeopardized Title I funding for New Jersey, which is a lifeline for underperforming school districts in my state, and didn't provide meaningful accountability measures that address the disparate achievement gaps for low-income students and students of color. I cannot in good conscience support a bill that falls short of investing in the potential and promise of all of our children, especially New Jersey's most vulnerable students. If we are truly going to invest in our children and grandchildren's future, Congress must pass legislation that provides support, access, and opportunity to equip the next generation to succeed, regardless of their socioeconomic status.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006869/booker-statement-on-vote-against-ecaa#.XVVb2HU3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/76151/cory-booker/27#.XVwLpXU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let me be clear. This amendment does not reinstate any type of adequate yearly progress, or AYP. In fact, the underlying bill is repealed. AYP is repealed. It does not establish artificial deadlines such as No Child Left Behind did, saying that all children will be proficient by 2014. It does not establish Federal goals for our students. States will have the prerogative to set their own. It does not impose test-based accountability on States. States must include a range of factors in their State-designed accountability systems. It does not require schools to implement a one-size-fits-all intervention. Local districts will design the intervention for underperforming schools.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1005334/every-child-achieves-act-of-2015"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“He will work tirelessly to ensure that climate change is addressed, and to encourage investment in the jobs of the future: solar, wind, and other renewable energy.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/992660/issue-position-energy-and-the-environment/?search=renewable%20energy#.XUw-SHU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"”This legislation creates a framework for a transition to a 100% clean and renewable energy future, while also providing resources to ensure that all of our communities share in the opportunities that will be created.\"”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1159069/merkley-sanders-markey-booker-introduce-landmark-legislation-to-transition-united-states-to-100-clean-and-renewable-energy/?search=tariff#.XUxAxnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Last month your Administration announced a significant federal grant for Fishermen's Energy, a proposed wind farm off the coast of Atlantic City, New Jersey, and we applaud that commitment. These are the type of investments that the federal government should be making as our country works to reduce our carbon output and transition to a cleaner energy economy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/891950/letter-to-barack-obama-president-of-the-united-states-protect-the-jersey-shore-from-offshore-drilling"
+        },
+        {
+          "type": "statement",
+          "text": "\"He will work tirelessly to ensure that climate change is addressed, and to encourage investment in the jobs of the future: solar, wind, and other renewable energy.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/992660/issue-position-energy-and-the-environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"This legislation creates a framework for a transition to a 100% clean and renewable energy future, while also providing resources to ensure that all of our communities share in the opportunities that will be created.\"\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1159069/merkley-sanders-markey-booker-introduce-landmark-legislation-to-transition-united-states-to-100-clean-and-renewable-energy"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“We must be aggressive in our pursuit of reducing our carbon footprint -- nothing less than the quality of the air our children will breathe, and the climate in which they will live, is at stake.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/877702/us-sen-cory-booker-statement-on-epas-plan-to-reduce-carbon-pollution/?search=greenhouse%20gas#.XUw8_3U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“Today's announcement represents a major step forward in our national effort to reduce greenhouse gas emissions and fight climate change. I commend President Obama and EPA Administrator McCarthy for presenting the Clean Power Plan proposal, and I look forward to the benefits this plan will bring to those who live and work in New Jersey.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/877702/us-sen-cory-booker-statement-on-epas-plan-to-reduce-carbon-pollution/?search=greenhouse#.XVVcS3U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"We strongly oppose the Environmental Protection Agency's (EPA) October 7, 2017 proposal to repeal the Clean Power Plan. The Clean Power Plan is a critical part of our national efforts to mitigate climate change. It was appropriately developed under EPA's Clean Air Act authority. Rescinding the Clean Power Plan ignores scientific evidence on the risks of climate change and puts generations of Americans at grave health and economic risk. EPA is considering a replacement for the Clean Power Plan that will increase traditional air pollution emissions -- further endangering Americans' health. Your mission is to protect the American people from environmental risks like climate change, which is why we request that the Clean Power Plan remains in place.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1241201/letter-to-the-hon-scott-pruitt-administrator-of-the-epa-opposing-epas-clean-power-plan-repeal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today's announcement represents a major step forward in our national effort to reduce greenhouse gas emissions and fight climate change. I commend President Obama and EPA Administrator McCarthy for presenting the Clean Power Plan proposal, and I look forward to the benefits this plan will bring to those who live and work in New Jersey.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/877702/us-sen-cory-booker-statement-on-epas-plan-to-reduce-carbon-pollution"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must be aggressive in our pursuit of reducing our carbon footprint -- nothing less than the quality of the air our children will breathe, and the climate in which they will live, is at stake.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/877702/us-sen-cory-booker-statement-on-epas-plan-to-reduce-carbon-pollution"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Pass universal background checks, ban assault weapons, and close the loopholes that allow people who should never have a gun to get one.”",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/gun-violence/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 4750 - Fix Gun Checks Act of 2016.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/56962#.XebnIUFTkfJ"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can't allow school shootings to be normalized. We must take action to end gun violence.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1384423/tweet-we-cant-allow-school-shootings-to-be-normalized-we-must-take-action-to-end-gun-violence#.XebnbEFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pass universal background checks, ban assault weapons, and close the loopholes that allow people who should never have a gun to get one.\"",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/gun-violence/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“As president, Cory will fight for access to quality, affordable and universal health care, end attacks on the Affordable Care Act, and act to bring down prescription drug costs:”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1359655/issue-position-health-care/?search=Affordable%20Care%20Act#.XVwMBHU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating “Your administration continues to support repeated attempts to advance the Trumpcare bill, or the American Health Care Act (AHCA). This legislation would devastate our health system and rip coverage away from 24 million people.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1158554/letter-to-the-hon-donald-j-trump-president-reverse-course-on-anti-womens-agenda#.XUw4unU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's profoundly irresponsible to repeal the Affordable Care Act and not put anything in place.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387594/tweet-its-profoundly-irresponsible-to-repeal-the-affordable-care-act-and-not-put-anything-in-place"
+        },
+        {
+          "type": "statement",
+          "text": "\"As president, Cory will fight for access to quality, affordable and universal health care, end attacks on the Affordable Care Act, and act to bring down prescription drug costs:\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1359655/issue-position-health-care"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Your administration continues to support repeated attempts to advance the Trumpcare bill, or the American Health Care Act (AHCA). This legislation would devastate our health system and rip coverage away from 24 million people.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1158554/letter-to-the-hon-donald-j-trump-president-reverse-course-on-anti-womens-agenda#.XUw4unU3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Diverting military funds for a vanity project is exactly who Donald Trump is. I will continue to fight back and join with those already challenging this wrong and misguided decision.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1365936/tweet-diverting-military-funds-for-a-vanity-project-is-exactly-who-donald-trump-is-i-will-continue-to-fight-back-and-join-with-those-already-challenging-this-wrong-and-misguided-decision/?search=military%20funds#.XVw67HU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: “You led the negotiations in which the Trump Administration rejected several bipartisan deals to protect Dreamers, including an offer of $25 billion to fund the President's wasteful border wall in exchange for the Dream Act.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1272751/letter-to-the-hon-kirstjen-m-nielsen-under-your-leadership-immigration-crisis-grows-worse-by-the-day/?search=border%20wall#.XVVc5HU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"All AmericansâRepublicans & Democratsâare all being hurt by the government shutdown that was caused by President Trump's demand for an ineffective & wasteful border wall.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387597/tweet-all-americans-republicans-democrats-are-all-being-hurt-by-the-government-shutdown-that-was-caused-by-president-trumps-demand-for-an-ineffective-wasteful-border-wall-trump-must-end-his-trumpshutdown-now"
+        },
+        {
+          "type": "statement",
+          "text": "\"Diverting military funds for a vanity project is exactly who Donald Trump is. I will continue to fight back and join with those already challenging this wrong and misguided decision.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1365936/tweet-diverting-military-funds-for-a-vanity-project-is-exactly-who-donald-trump-is-i-will-continue-to-fight-back-and-join-with-those-already-challenging-this-wrong-and-misguided-decision"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"You led the negotiations in which the Trump Administration rejected several bipartisan deals to protect Dreamers, including an offer of $25 billion to fund the President's wasteful border wall in exchange for the Dream Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1272751/letter-to-the-hon-kirstjen-m-nielsen-under-your-leadership-immigration-crisis-grows-worse-by-the-day"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Fight for a pathway to citizenship for the millions of undocumented immigrants living in the United States.”",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/immigration/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am so proud of House Dems for passing the Dream and Promise Act, which will pave a pathway to citizenship for DREAMers & immigrants with Temporary Protected Status. Senate colleagues, it's time for us to show that we care about immigrant communities and do the same.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387599/tweet-i-am-so-proud-of-house-dems-for-passing-the-dream-and-promise-act-which-will-pave-a-pathway-to-citizenship-for-dreamers-immigrants-with-temporary-protected-status-senate-colleagues-its-time-for-us-to-show-that-we-care-about-immigrant-communities-and-do-the-same"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to provide a pathway to citizenship that recognizes Dreamers as Americans and removes the uncertainty from their lives. Everyone deserves to feel like they belong in this country and we will fight until thatâs a reality.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1387601/tweet-we-need-to-provide-a-pathway-to-citizenship-that-recognizes-dreamers-as-americans-and-removes-the-uncertainty-from-their-lives-everyone-deserves-to-feel-like-they-belong-in-this-country-and-we-will-fight-until-thats-a-reality"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fight for a pathway to citizenship for the millions of undocumented immigrants living in the United States.\"",
+          "source": "corybooker.com",
+          "url": "https://corybooker.com/issues/immigration/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let's be clear, an unauthorized war with Iran will have disastrous ramifications for our nation -- Congress must step up and put a check on this president.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1361708/booker-statement-on-vote-to-pass-iran-ndaa-amendment-to-prevent-unauthorized-war/?search=iran#.XWPuVXU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“Look, I’m a strong supporter of that deal. I think it was the thing that best protected Israel and Israel’s safety.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1341403/msnbc-hardball-transcript-interview-with-sen-cory-booker/?search=iran#.XWPuh3U3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“The president is right to keep all options, including military action, on the table while vigorously pursuing both international sanctions and a negotiated settlement that prevents Iran from gaining nuclear weapons.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/805118/issue-position-keeping-america-secure/?search=nuclear%20weapon#.XUw__HU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“I would work closely with our allies to develop and execute a thoughtful strategy to denuclearize the peninsula and address international concerns with the DPRK’s missile program and proliferation activities.”",
+          "source": "www.cfr.org",
+          "url": "https://www.cfr.org/article/cory-booker"
+        },
+        {
+          "type": "statement",
+          "text": "“We must take stock of facts on the ground, including Iran’s recent breach of its enrichment limit, and negotiate an updated agreement to stop the threat posed by Iran’s nuclear program.”",
+          "source": "www.cfr.org",
+          "url": "https://www.cfr.org/article/cory-booker"
+        },
+        {
+          "type": "statement",
+          "text": "\"Look, Iâm a strong supporter of that deal. I think it was the thing that best protected Israel and Israelâs safety.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1341403/msnbc-hardball-transcript-interview-with-sen-cory-booker"
+        },
+        {
+          "type": "statement",
+          "text": "\"The president is right to keep all options, including military action, on the table while vigorously pursuing both international sanctions and a negotiated settlement that prevents Iran from gaining nuclear weapons.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/805118/issue-position-keeping-america-secure"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let's be clear, an unauthorized war with Iran will have disastrous ramifications for our nation -- Congress must step up and put a check on this president.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1361708/booker-statement-on-vote-to-pass-iran-ndaa-amendment-to-prevent-unauthorized-war"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: “America must continue economic and diplomatic efforts to counter Iran's support for Hezbollah and other terrorist groups as well as Russia's support for the brutal Assad regime. We encourage full implementation of sanctions authorized in the Countering America's Adversaries Through Sanctions Act (CAATSA), a broadly supported bipartisan bill that you signed into law. Clear and sustained American action and close coordination with our allies and partners can send an important message of resolve to malign actors in the region.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1344524/letter-to-the-hon-donald-j-trump-president-of-the-united-states-nearly-400-lawmakers-call-on-trump-to-address-threats-in-syria/?search=middle%20east#.XVVfInU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"To be absolutely clear, the 2001 AUMF does not grant the President authority to strike Iran -- for that, he must go to Congress. Any military action in Iran that circumvents Congressional approval is a blatant and unconstitutional power grab.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1352454/booker-statement-on-breaking-news-on-iran/?search=middle%20east#.XVVeXnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâve also signed on to the pledge to end the endless wars in over a dozen countries â including Afghanistan, Iraq, Syria, Yemen, Jordan, Niger, Somalia, and Thailand â and, as President, I will act to bring these military engagements to a responsible and expedient conclusion.\"",
+          "source": "www.militarytimes.com",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We have been in Afghanistan for far too long, and I am determined to bring our troops home as quickly as possible.\"",
+          "source": "www.militarytimes.com",
+          "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
+        },
+        {
+          "type": "statement",
+          "text": "\"To be absolutely clear, the 2001 AUMF does not grant the President authority to strike Iran -- for that, he must go to Congress. Any military action in Iran that circumvents Congressional approval is a blatant and unconstitutional power grab.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1352454/booker-statement-on-breaking-news-on-iran"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"America must continue economic and diplomatic efforts to counter Iran's support for Hezbollah and other terrorist groups as well as Russia's support for the brutal Assad regime. We encourage full implementation of sanctions authorized in the Countering America's Adversaries Through Sanctions Act (CAATSA), a broadly supported bipartisan bill that you signed into law. Clear and sustained American action and close coordination with our allies and partners can send an important message of resolve to malign actors in the region.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1344524/letter-to-the-hon-donald-j-trump-president-of-the-united-states-nearly-400-lawmakers-call-on-trump-to-address-threats-in-syria"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Signed a letter stating”: “Finally, as has long been the case with the provisions sought by multinational corporations, the broader benefits of NAFTA's replacement--lower tariffs, greater market access--should not be granted unless and until all Parties have implemented the fundamental protections of the new labor chapter.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206864/letter-to-the-hon-robert-e-lighthizer-us-trade-representative-strong-protections-for-workers/?search=tariff#.XWPxtnU3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "“While I agree with many of the strategic and economic reasons for engaging in fair and free trade with the world's growing economies, I cannot support this legislation without more significant steps that ensure American competitiveness with the world.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006732/booker-statement-on-trade-promotion-authority-vote/?search=free%20trade#.XVwM53U3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/76151/cory-booker/63#.XZztPkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"While I agree with many of the strategic and economic reasons for engaging in fair and free trade with the world's growing economies, I cannot support this legislation without more significant steps that ensure American competitiveness with the world.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1006732/booker-statement-on-trade-promotion-authority-vote"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating\": \"Finally, as has long been the case with the provisions sought by multinational corporations, the broader benefits of NAFTA's replacement--lower tariffs, greater market access--should not be granted unless and until all Parties have implemented the fundamental protections of the new labor chapter.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206864/letter-to-the-hon-robert-e-lighthizer-us-trade-representative-strong-protections-for-workers"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:53:54+00:00"
+}

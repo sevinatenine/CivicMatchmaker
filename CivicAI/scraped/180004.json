@@ -1,0 +1,520 @@
+{
+  "name": "Kevin Hern",
+  "page_title": "Kevin Hern's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OK) - District 1, Republican Majority Policy Committee Chair",
+  "on_the_ballot": "Running, Republican for U.S. Senate (OK) - Sr",
+  "candidate_id": "180004",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/180004/kevin-hern",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Every child deserves the right to life,\" said Rep. Hern. \"It's our sacred responsibility not only to defend this right but ensure that mothers and children are provided with the resources they need. It's been 50 years since Roe v. Wade legalized abortion, resulting in the murders of millions of children. Today, the Supreme Court correctly reversed this unconstitutional decision and returned the question to the states. I am proud to support life at every stage and applaud the Supreme Court for their thoughtful and attentive consideration of this important case in the face of unprecedented threats of violence and intimidation against the Court.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637224/hern-praises-scotus-decision-on-dobbs-v-jackson"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/180004/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We are putting Medicare and Social Security on a path to solvency without cutting immediate benefits. Whether you call them earmarks or community project funding, we are getting rid of it for good. We are reforming the budget process to be transparent and effective. To put it simply, we are fighting for Main Street America.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1535639/reclaiming-our-fiscal-future/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180004/kevin-hern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/180004/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Freedomworks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180004/kevin-hern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/180004/restoring-tax-fairness-for-states-and-localities-act#70555"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7024 \"Tax Relief for American Families and Workers Act of 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/36374/97564/180004/tax-relief-for-american-families-and-workers-act-of-2024#97564"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Freedomworks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180004/kevin-hern"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180004/kevin-hern"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/180004/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/180004/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A strong national defense strategy is vital to the future of the United States and the safety of our people. As the foremost global superpower, our military superiority secures American stability and provides strength to our allies around the world. In order to keep our people safe from any present or future threat, we must prioritize military preparedness -- which means adequate defense funding. Strengthening and modernizing our military is a primary focus.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1441112/issue-position-national-security"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/180004/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defesne Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/180004/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/180004/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/180004/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"Anyone who isn't alarmed by the $22 trillion national debt is living in a fantasy world. Fiscal responsibility is at the core of a well-protected and secure nation. With unchecked federal spending and no balanced budget, we put the safety of every American at risk. The consequences of Congressional inaction will be detrimental to the next generation and the country we hand down to them.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1328942/resolution-to-recognize-the-national-debt-as-a-threat-to-national-security/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/180004/infrastructure-investment-and-jobs-act#83464"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bidenâs failed economic policies continue to fail the American people. The dream of homeownership is out of reach for millions of hard-working Americans. One of the most unaffordable housing markets in recent history! Bidenomics is crushing the American dream.\"",
+          "source": "x.com",
+          "url": "https://x.com/repkevinhern/status/1762484039963820167"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As it has in every month since Joe Biden took office, inflation rose again last month, this time to a whopping 7.5%.\" said Rep. Hern. \"These prices are suffocating American families and severely hindering our economic recovery. What's worse, instead of trying to ease the inflationary pressures facing American taxpayers, the only solution the White House has offered is to pass their multi-trillion-dollar progressive wish-list spending package. It's clear that our current leadership is beyond out of touch with the American people.\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Nearly everything our colleagues across the aisle have said about this bill has been proven false. I have noticed they have stopped calling it the inflation legislation because they know it is not true. They are hailing it as a climate and tax plan. I will give them that because this legislation will raise American taxes and give that money to handpicked socialist green companies. I wouldn't be proud of that if I were them. What this bill will absolutely do is not reduce inflation. In fact, even liberal economists are warning it will do the exact opposite.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1624495/build-back-better-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/180004/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Wednesday, August 24, President Biden announced that he would cancel $10,000 in federal student debt for individual Americans earning $125,000 or less per year or married couples making less than $250,000 a year. In addition, those who receive federal Pell Grants and make less than $125,000 a year would be eligible for total forgiveness of $20,000. Unfortunately, this policy will cost us over $300 billion and establishes a terrible precedent that will drive up the cost of higher education, exacerbating the very problem President Biden pretends to address.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1626418/letter-to-nancy-pelosi-speaker-of-the-house-webster-calls-on-pelosi-to-hold-biden-accountable-for-overreach/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Among my other concerns about this bill is the attempt to give voting rights to convicted criminals. There are consequences when you commit a crime in this country; certain rights are forfeited -- including the right to vote. The bill eliminates voter ID requirements nationwide. While you still need an ID to drive a car, board a plane, purchase a lottery ticket, drink a beer, and enter many federal buildings, it should be just as necessary when exercising one of our most important rights.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1510514/hern-votes-against-partisan-power-grab/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/180004/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden catered to supporters of the radical Green New Deal when he ended the Keystone Pipeline and used Executive Orders to cripple domestic oil production on the first day of his presidency. It was a hollow virtue signal to the left that resulted in the decimation of our domestic oil supply, the loss of thousands of quality energy-sector jobs, and increased gas prices to unreasonable heights. Now, Biden wants OPEC -- made up of several countries who wish harm on America -- to increase their oil production to make up for his failures. Make no mistake, these decisions were not about clean energy; American oil and gas are some of the cleanest in the world. OPEC countries do not have the same standards we do and contribute heavily to global pollution.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1554252/hern-slams-biden-admin-for-bad-energy-policy-targeting-domestic-oil-industry/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/180004/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/180004/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden catered to supporters of the radical Green New Deal when he ended the Keystone Pipeline and used Executive Orders to cripple domestic oil production on the first day of his presidency. It was a hollow virtue signal to the left that resulted in the decimation of our domestic oil supply, the loss of thousands of quality energy-sector jobs, and increased gas prices to unreasonable heights. Now, Biden wants OPEC -- made up of several countries who wish harm on America -- to increase their oil production to make up for his failures. Make no mistake, these decisions were not about clean energy; American oil and gas are some of the cleanest in the world. OPEC countries do not have the same standards we do and contribute heavily to global pollution.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1554252/hern-slams-biden-admin-for-bad-energy-policy-targeting-domestic-oil-industry/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Uncertainty surrounding energy policy decisions in D.C. is causing oil and natural gas producers to make decisions based on unfavorable policies that haven't passed yet. Repealing the immediate deduction of intangible drilling cost would cost 265,000 jobs. For every job lost in the oil and gas sector by repealing IDCs, two-and-one-half times as many indirect jobs are lost. The percentage depletion deduction is the small business deduction for the smaller producers of oil and gas. Eliminating percentage depletion would force many family-owned small businesses to lay off employees or, worse, shut down operations altogether.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1647274/lower-energy-costs-act/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/180004/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Kevin believes in the Second Amendment, that every American has the right to own, carry and use a firearm. The freedom to bear arms and the right for an individual to protect his or herself, family, and property is a fundamental principle upon which our nation was built. Kevin will carry this ideology with him into Washington.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1274095/issue-position-second-amendment"
+        },
+        {
+          "type": "statement",
+          "text": "\"Many of my colleagues need a refresher on the Constitution,\" said Rep. Hern. \"The bill we voted on today is an attack on our Second Amendment rights; it targets law-abiding citizens and takes away their right to due process. Furthermore, it fails to address the root problems of violence in our communities. I will ALWAYS fight to protect the Second Amendment rights of American citizens.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637223/hern-votes-against-gun-grabbing-legislation"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/180004/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/180004/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/180004/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Rep. Hern's amendment would protect Americans' existing paid family and medical leave plans and prevent unfairly forcing the middle class to subsidize corporations' paid leave plans.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1559603/hern-votes-against-tax-increases-rampant-spending-in-reconciliation-markup/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/180004/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/180004/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mr. Speaker, I urge my colleagues to rise above partisanship for the sake of our citizens. We can stop the human trafficking crisis. We can catch the drug smugglers. We can keep our people safe. At the end of the day, the only thing that will truly help us is to pass bipartisan legislation to secure our borders and build a wall.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1325267/border-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our immigration system is broken. In order to keep our people safe, critical border funding is needed to secure our border and provide aid to our border agents. Congress has held up that funding for years, tabling important work and forcing our border agents to work with limited resources. We must move past partisan divides to keep our people safe.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1441103/issue-position-immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/180004/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our immigration system is broken. In order to keep our people safe, critical border funding is needed to secure our border and provide aid to our border agents. Congress has held up that funding for years, tabling important work and forcing our border agents to work with limited resources. We must move past partisan divides to keep our people safe.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1441103/issue-position-immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"While all this is happening, Democrats decided to exacerbate the crisis with these so-called reforms they are sneaking into the build back broke reconciliation package at the last minute. Free college for illegal immigrants; enhanced child tax credits for illegal immigrants; amnesty for 10 million illegal immigrants to the tune of $100 billion at taxpayers' expense; incentivizing illegal entry by waiving provisions for inadmissibility, meaning that illegal immigrants will practically be guaranteed amnesty; they are removing convictions for illegal immigrants to increase their chance for amnesty. Let me say that again: The Federal Government is going to drop charges against drug traffickers and others who break our laws just so they don't have to deport them. Insane. These policies and many more are being written behind closed doors without the knowledge or input of the American people.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1566265/democrats-plan-to-put-mass-amnesty-in-reconciliation-package/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/180004/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One thing is clear: weak leadership in the White House ripples across the globe,\" said Rep. Hern. \"President Biden is unwilling to stand up to Putin and is still unclear on what sanctions will be levied against Russia following a clear invasion of Ukraine. World leaders are speaking out, laying strong sanctions on Russia, but the White House's actions are all reactive. Preventative measures could have been taken months ago, when Senate Democrats filibustered a bill implementing sanctions on Russia. This is not the message we want to send to the world. This is not the precedent we want to set for our allies. The world relies on strong American leadership, but Democrats have proven incapable of providing it -- to the detriment of us all.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1588396/hern-condemns-putins-invasion-of-ukraine-calls-on-white-house-for-stronger-response/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4691 \"Iran Sanctions Relief Review Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37086/99576/180004/iran-sanctions-relief-review-act-of-2023#99576"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5923 \"Iran-China Energy Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37062/99527/180004/iran-china-energy-sanctions-act-of-2023#99527"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will never be afraid to stand up for whatâs right â even if that means I have to stand alone. On our FIRST vote following Russiaâs invasion of Ukraine, I voted not to fund yet another endless war in Ukraine. Only 56 people voted with me.\"",
+          "source": "x.com",
+          "url": "https://x.com/repkevinhern/status/1707835318735392769"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035 \"Ukraine Security Supplemental Appropriation Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/180004/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/180004/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No matter what the CCP wants you to believe, this is not a ban on TikTok. Our message to TikTok isnât confusing: break up with the Chinese Communist Party or lose access to your American users.\"",
+          "source": "x.com",
+          "url": "https://x.com/repkevinhern/status/1767305880343605341"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/180004/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:13:03+00:00"
+}

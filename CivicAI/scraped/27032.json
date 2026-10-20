@@ -1,0 +1,520 @@
+{
+  "name": "Frank Lucas' Issue Positions (Political Courage Test)",
+  "page_title": "Frank Lucas' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (OK) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (OK) - District 3",
+  "candidate_id": "27032",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27032/frank-lucas",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today's ruling rightfully affirms the right to legislate abortion belongs to individual states. As our Founding Fathers advocated through the ideals of federalism, and as is ensured by the 10th Amendment, powers not delegated to the Federal government by the U.S. Constitution shall be reserved to the States or the People. While states like New York and California enact reprehensible abortion policies, the Supreme Court's opinion confirms that the power to protecting life is in the hands of elected individuals.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637277/lucas-statement-on-the-supreme-courts-ruling-on-abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296 \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/27032/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against S 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/27032/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is a promise made to each generation--I am fighting to make good on that pledge.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1255798/issue-position-social-security/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 9% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27032/frank-lucas"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5377 \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/27032/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27032/frank-lucas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/27032/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/27032/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For the last 60 years, Congress has reaffirmed its commitment to ensure that our military is properly resourced and equipped to defend our nation and our allies- today the House is one step closer continuing that legacy. Not only does the bill provide the necessary tools, training, and resources needed to defend our country from threatening global adversaries, but it also ensures we are taking care of our servicemembers and their families.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1567579/lucas-applauds-passage-of-houses-ndaa"
+        },
+        {
+          "type": "statement",
+          "text": "\"The National Defense Authorization Act not only focuses on ensuring our Armed Forces are the best equipped and trained in the world, it also modernizes and invests in emerging technologies such as hypersonic weapons and autonomous system- investments that are critical to combat the growing threat of China, Russia, and terrorists across the globe. Furthermore, the bill provides a 4.6 percent pay raise for servicemembers and expands benefits for military spouses and families. And to counteract the effects of rising inflation, the National Defense Authorization Act includes a 2.4 percent bonus to enlisted members and provides an additional $500 million for housing allowances to offset the cost of rising rents.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637281/lucas-statement-on-house-passage-of-ndaa"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/27032/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/27032/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Seeing the need to rehabilitate many of our dams, in 2000 I authored the Small Watershed Rehabilitation Amendments which have provided important investments to help countless dams in need of repair. After more than two decades of funding through the Small Watershed Rehabilitation Amendments, more than $900 million has been appropriated for rehabilitating aging dams. In the 2018 farm bill alone, we provided $50 million per year in mandatory funding for watershed rehabilitation and management. I am proud to mark the 20th anniversary of the Small Watershed Rehabilitation Amendments being signed into law this past year, but we must not delay the continued need to rehabilitate and repair other aging dams and water infrastructure. These silent sentinels are vital to public safety, economic prosperity, community viability and must not be allowed to fail.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1545931/investing-in-rural-infrastructure"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Congress has worked over the years to advance the modernization and the efficiency of our infrastructure, this is an imperfect bill. As important as infrastructure is to connecting our communities and economies to one another, unfortunately, this unvetted bill remained politically coupled with the Majority's partisan trillion-plus dollar spending and tax bill,\" said Congressman Lucas. \"I'm hopeful Congress can come together through the appropriate committee process to pass a truly bipartisan, bicameral bill, ensuring infrastructure investment reaches every corner and community of America.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1577591/lucas-opposes-imperfect-infrastructure-bill"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3684 \"Infrastructure Investment and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/27032/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811 \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/27032/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As misguided as the bill is, the Inflation Reduction Act will not reduce inflation. In fact, according to economic analyses and the nonpartisan Congressional Budget Office, the bill will have little to no impact on inflation. The bill, however, will raise taxes and fees on Oklahoma oil and gas companies, increase energy prices for consumers, set an irresponsible precedent for farm bill programs, thwart medical innovation, and raise taxes on American companies who serve as generators of economic opportunity and growth.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637290/lucas-opposes-democrats-irresponsible-reconciliation-bill/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation has risen 7% over the past year- the highest itâs been in 40 YEARS. While Washington Democrats want to tax Americans and spend their hard-earned money, Republicans are continuing to put the needs and priorities of the American people first.\"",
+          "source": "x.com",
+          "url": "https://x.com/FrankDLucas/status/1481316873203499009"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans have a plan for a new direction. Our Commitment to America fosters an economy that's strong, one that cuts wasteful government spending and lowers Americans' cost of living.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637297/house-republicans-unveil-commitment-to-america/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/27032/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/27032/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Instead, the bill before us today spends $35 billion to increase funding for every applied energy office at the DOE. While applied energy programs play an important role in improving efficiency in various industry sectors, they can only do so much. This bill is throwing money at renewable energy industries that are already mature and competitive, instead of investing in the next generation of clean energy technology.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1468884/expanding-access-to-sustainable-energy-act-of-2019/"
+        },
+        {
+          "type": "statement",
+          "text": "\"While the Biden Administration is using the stick approach to aggressively push a Green New Deal climate agenda, I hope my colleagues in Congress join me in using the carrot approach to invest in an innovative all-of-the-above energy solution while ensuring consumers have access to cleaner, more affordable, and more accessible energy.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1528930/heat-members-blast-biden-for-moving-ahead-with-job-killing-climate-plan/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/27032/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pipelines are an essential component of America's energy infrastructure. Without the three million miles of pipelines crisscrossing our country, we wouldn't be able to connect Americans with our supply of clean natural gas,\" Ranking Member Lucas said. \"As we continue to innovate and expand newer energy sources like captured carbon and hydrogen, it's critical that we have pipelines in place that can safely and efficiently transport these fuels as well. I appreciate Rep. Weber's work to support the research and development necessary to ensure our pipelines are operating at their peak not just for current natural gas supplies, but also for the future of American energy development.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1638303/rep-weber-introduces-the-next-generation-pipelines-research-and-development-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The U.S. federal government owns hundreds of millions of acres of land across the country, much of which is rich with natural resources. President Biden's moratorium on oil & gas leasing/permitting on federal lands is deeply misguided. I urge the President to revoke his order.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFrankLucas/status/1354183293957271556"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Independent Petroleum Association of America (IPAA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27032/frank-lucas"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/27032/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Adding more bureaucracy and redundant background checks that already occur on all gun sales and undermining the National Instant Criminal Background Check System (NICS) already in place, H.R. 8 and H.R. 1446 fail to address the root problems of gun violence. If House Democrats are serious about making our communities safer from gun violence, they should engage in meaningful, bipartisan efforts to curb such atrocities- not infringe upon the rights of law-abiding citizens.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1510565/congressman-lucas-opposes-gun-depriving-legislation"
+        },
+        {
+          "type": "statement",
+          "text": "\"Oklahoma has made it clear: Oklahomans believe in the fundamental right to bear arms. Earlier this month, House Democrats rushed to eliminate the rights of law-abiding citizens, and today's legislation similarly follows suit. Oklahomans- and all Americans- support additional funds for school security and means to address mental health, but Congress has no right to criminalize routine firearm transactions, curtail the right of law-abiding citizens under the age of 21, or incentivizes states to adopt gun confiscation orders. I am committed to finding solutions that protect the Second Amendment rights of law-abiding Americans while addressing our nation's mental health crisis and making our schools safer for students and teachers.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1637279/lucas-oklahomans-believe-in-the-fundamental-right-to-bear-arms"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808 \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/27032/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HS 2938 \"Bipartisan Safer Communities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32835/86332/27032/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/27032/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress just passed a measure to ensure free coronavirus testing, emergency paid leave, increased access to telehealth, & flexibility for families and small businesses impacted by the outbreak. I'm proud to have supported this legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFrankLucas/status/1238694143318204416"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, Congress took action to assure the nation that their government is committed to putting families first. While this wasn't the first draft of the bill, I'm encouraged that lofty, political opportunism could be put aside in order for Congress and the Administration to provide for the health and financial well-being of the American people.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1414659/house-passes-coronavirus-package/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/27032/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/27032/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America's immigration system is broken. While our nation prides itself as being a nation of immigrants, we are also a nation of laws. Frank supports President Trump and believes we must do more to secure the Southern border and provide more resources to our law enforcement and border patrol officials to keep our communities safe. Immigration reform also means modernizing America's outdated immigration policies- prioritizing high-skilled entrepreneurs and streamlining agricultural worker programs- helping create a legal workforce that will bolster the American economy\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1441443/issue-position-securing-americas-borders"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout my tenure in Congress, I have voted time and time again to secure our nation's borders and improve security at our ports of entry. While I am cautious of the use of national emergencies which reprograms appropriated funds, I am committed to addressing the ongoing crisis at our Southern border.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1332675/lucas-supports-president-donald-trumps-national-emergency-declaration/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2 \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/27032/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America's immigration system is broken. While our nation prides itself as being a nation of immigrants, we are also a nation of laws. Frank supports President Trump and believes we must do more to secure the Southern border and provide more resources to our law enforcement and border patrol officials to keep our communities safe. Immigration reform also means modernizing America's outdated immigration policies- prioritizing high-skilled entrepreneurs and streamlining agricultural worker programs- helping create a legal workforce that will bolster the American economy\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1441443/issue-position-securing-americas-borders"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last night, the House passed two grossly irresponsible immigration 'reform' bills, providing blanket amnesty to thousands of immigrants & complicating our nation's current visa system- all without any comprehensive reform or security measures.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepFrankLucas/status/1372922797534642177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6 \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/27032/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Biden Administration's failed foreign policy has damaged U.S. credibility and has put our allies in harm's way. President Biden and Europe must punish Russia's reckless actions head-on with severe sanctions that cripple Nord Stream 2, Vladimir Putin, and the inner-circle of Russian oligarchs who are responsible for the invasion of Ukraine.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1588494/lucas-statement-on-developments-in-ukraine/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vladimir Putin's invasion of Ukraine marks a historic shift in how the world should regard and engage with Moscow and the Kremlin. The United States and our Allies across the globe must remain committed to enacting swift, strong, and painful sanctions, ensuring Putin is held accountable and Russia's ability to make war is short-lived.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1588509/congressman-lucas-statement-on-russias-invasion-of-ukraine/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4691 \"Iran Sanctions Relief Review Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37086/99576/27032/iran-sanctions-relief-review-act-of-2023#99576"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015 \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/27032/iran-sanctions-accountability-act-of-2023#99564"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/27032/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/27032/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521 \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/27032/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:26:55+00:00"
+}

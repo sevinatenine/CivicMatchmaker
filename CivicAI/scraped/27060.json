@@ -1,0 +1,832 @@
+{
+  "name": "Jack Reed",
+  "page_title": "Jack Reed's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (RI) - Sr, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. Senate (RI) - Jr",
+  "candidate_id": "27060",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27060/jack-reed",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed and rated 100% by Planned Parenthood Action Fund.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"Reproductive health care is essential for all Americans and in particular for women's health, economic security, and equality.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1224771/letter-to-the-honorable-alex-azar-secretary-of-health-and-human-services-end-unlawful-attacks-on-womens-health-care#.XZtMlUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress should work together to responsibly cut taxes for working families, restore our infrastructure, invest in the middle-class, and help small businesses grow. Instead, Republicans are using a closed process to benefit multi-national corporations and mega-donors at the expense of hardworking Americans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210357/reed-statement-on-republican-tax-bill#.XZtM00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This trickle-down tax plan is a disaster for the middle-class and threatens America's long-term economic security.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210357/reed-statement-on-republican-tax-bill#.XZtM00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed supports the Paying a Fair Share Act of 2013, which would repeal unfair and unnecessary tax loopholes and expenditures, simplify the tax system, and make sure that the wealthiest Americans pay a fairer share of taxes.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/tax-reform"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed believes that a reformed tax code that helps balance the budget, strengthens the middle class, and provides smart incentives for job creation is the path forward. A responsible combination of spending reductions, reforming the tax code, and economic growth through a growing middle class will accomplish exactly that.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/budget-and-debt-reduction"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 99% by Alliance for Retired Americans (2019 Lifetime).",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/53#.XZtKeUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed strongly believes we must encourage more personal savings and investment for retirement, but it should not be at the expense of Social Security, the one program that offers stable, guaranteed income security to the elderly, disabled, and widows.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854313/issue-position-social-security#.XZtP7EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout his career, Reed has repeatedly voted to keep Social Security on sound financial footing and strongly opposes efforts to privatize the program or use it to pay for new tax breaks.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854313/issue-position-social-security#.XZtP7EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed has worked to protect the retirement security of all Americans by strengthening and safeguarding Social Security, Medicare, and Medicaid.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/working-men-and-women"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Endorsed by End Citizens United.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"As you work to prepare any fiscal year 2017 appropriations bills or continuing resolutions, we respectfully request that you reject any language that would limit the Securities and Exchange Commission's (SEC) ability to develop, propose, issue, finalize, or implement a rule requiring public companies to disclose political spending to shareholders.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1133002/letter-to-the-hon-mitch-mcconnell-majority-leader-us-senate-reject-efforts-to-block-corporate-political-spending-disclosure"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"In light of these developments, it is imperative that your administration use the remaining avenues available to promote greater disclosure and transparency in political spending.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1033749/letter-to-the-honorable-barack-obama-president-of-the-united-states-of-america-concerning-campaign-contributions#.XZtQYEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"A decade ago, SCOTUS voted 5-4 to strike down campaign-spending rules, open the door to super PACS, & held that corporations have the same free speech rights as individuals. Congress must overturn #CitizensUnited & restore transparency to campaign finance laws.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1220764305701920771"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/22#.XZtKq0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must end sequestration and provide additional resources so we can have a strong defense and a strong economy that works for all Americans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1206293/reed-statement-on-ndaa-conference-agreement"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed has also secured billions of dollars in federal funding to modernize our military and bolster Rhode Islandâs defense industry to create more high-paying jobs and expand opportunities for local businesses. Rhode Islandâs 16,000 defense workers make a valuable contribution to our national security and generate more than $1.75 billion in local economic activity each year. Reed has worked hard to maintain and expand the U.S. Navyâs presence in Rhode Island by bringing additional commands, institutions, and projects to Naval Station Newport and Quonset Point.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"Through his work on the Armed Services and Appropriations Committees, he works tirelessly to ensure that Americaâs fighting men and women have the equipment they need and the benefits they deserve.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"This bill maintains our critical commitment to transportation and housing. By providing smart, targeted funding for our roads, bridges, and transit systems, we help connect more Americans to jobs, reduce congestion, and make it easier to bring goods to market. This means greater opportunity and economic growth.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1178998/key-senate-panel-backs-transportation-housing-spending-bill#.XZtRyEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can't solve our infrastructure problems on the cheap and ignoring them will only make things worse. We need better roads, bridges, and mass transit infrastructure, and we need to invest wisely, in a strategic, coordinated way that will strengthen our economy now and in the future.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1178293/reed-statement-on-trumps-lack-of-a-workable-infrastructure-plan#.XZtR_kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"These federal resources enable Rhode Island to create and sustain jobs, expand and improve our infrastructure, protect the environment, and help strengthen our national defense.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/federal-funding-for-ri"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This bill maintains our critical commitment to transportation and housing. By providing smart, targeted funding for our roads, bridges, and transit systems, we help connect more Americans to jobs, reduce congestion, and make it easier to bring goods to market. This means greater opportunity and economic growth.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1178998/key-senate-panel-backs-transportation-housing-spending-bill#.XZtRyEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can't solve our infrastructure problems on the cheap and ignoring them will only make things worse. We need better roads, bridges, and mass transit infrastructure, and we need to invest wisely, in a strategic, coordinated way that will strengthen our economy now and in the future.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1178293/reed-statement-on-trumps-lack-of-a-workable-infrastructure-plan#.XZtR_kE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"These federal resources enable Rhode Island to create and sustain jobs, expand and improve our infrastructure, protect the environment, and help strengthen our national defense.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/federal-funding-for-ri"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress should work together to responsibly cut taxes for working families, restore our infrastructure, invest in the middle-class, and help small businesses grow. Instead, Republicans are using a closed process to benefit multi-national corporations and mega-donors at the expense of hardworking Americans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210357/reed-statement-on-republican-tax-bill#.XZtM00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Corporations shouldn't be able to get out of paying their fair share of taxes by lavishing senior executives with jumbo bonuses at the expense of taxpayers, workers, and shareholders. This bill would eliminate a major loophole in the tax code,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1361916/reed-blumenthal-doggett-renew-push-to-end-special-tax-exemptions-for-huge-executive-bonuses"
+        },
+        {
+          "type": "statement",
+          "text": "\"I oppose the Trump tax bill because it is unfair and irresponsible. It is an historic transfer of wealth from students, seniors, and working families to multi-national corporations and wealthy estates. It weakens America's financial stability and undermines the integrity of our tax system, baking corporate tax avoidance into the system.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1217337/reed-statement-on-republicans-trickle-down-tax-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed supports the Paying a Fair Share Act of 2013, which would repeal unfair and unnecessary tax loopholes and expenditures, simplify the tax system, and make sure that the wealthiest Americans pay a fairer share of taxes.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/tax-reform"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress should work together to responsibly cut taxes for working families, restore our infrastructure, invest in the middle-class, and help small businesses grow. Instead, Republicans are using a closed process to benefit multi-national corporations and mega-donors at the expense of hardworking Americans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210357/reed-statement-on-republican-tax-bill#.XZtM00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Corporations shouldn't be able to get out of paying their fair share of taxes by lavishing senior executives with jumbo bonuses at the expense of taxpayers, workers, and shareholders. This bill would eliminate a major loophole in the tax code,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1361916/reed-blumenthal-doggett-renew-push-to-end-special-tax-exemptions-for-huge-executive-bonuses"
+        },
+        {
+          "type": "statement",
+          "text": "\"I oppose the Trump tax bill because it is unfair and irresponsible. It is an historic transfer of wealth from students, seniors, and working families to multi-national corporations and wealthy estates. It weakens America's financial stability and undermines the integrity of our tax system, baking corporate tax avoidance into the system.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1217337/reed-statement-on-republicans-trickle-down-tax-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed supports the Paying a Fair Share Act of 2013, which would repeal unfair and unnecessary tax loopholes and expenditures, simplify the tax system, and make sure that the wealthiest Americans pay a fairer share of taxes.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/tax-reform"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XotUj5NKifV"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are surging $2.2 trillion in assistance to combat coronavirus and help struggling families, businesses, hospitals, and communities. This federal funding should be a major boost, but the Trump Administration needs to get the money out quickly. Folks need immediate assistance to stay afloat and small businesses need cash-flow to survive this unprecedented downturn, said Senator Reed, who served on the bipartisan taskforce that negotiated the bill. \"The Trump Administration must quickly get money where it needs to go: into the hands of people, small businesses, and leaders like Governor Raimondo. The entire delegation is working non-stop to ensure the federal government does its part to support Rhode Islanders.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1415698/ri-congressional-delegation-urges-trump-to-promptly-deliver-emergency-relief-address-urgent-needs#.XpCa28hKg2w"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/27#.XZtKy0E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XotUj5NKifV"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are surging $2.2 trillion in assistance to combat coronavirus and help struggling families, businesses, hospitals, and communities. This federal funding should be a major boost, but the Trump Administration needs to get the money out quickly. Folks need immediate assistance to stay afloat and small businesses need cash-flow to survive this unprecedented downturn, said Senator Reed, who served on the bipartisan taskforce that negotiated the bill. \"The Trump Administration must quickly get money where it needs to go: into the hands of people, small businesses, and leaders like Governor Raimondo. The entire delegation is working non-stop to ensure the federal government does its part to support Rhode Islanders.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1415698/ri-congressional-delegation-urges-trump-to-promptly-deliver-emergency-relief-address-urgent-needs#.XpCa28hKg2w"
+        },
+        {
+          "type": "statement",
+          "text": "\"Despite its good intentions, No Child Left Behind was underfunded and relied on a top-down approach too focused on standardized testing. Assessment plays a critical role in education, but a strong system of assessment and accountability includes measures beyond standardized test scores. Without these other measures, we risk cheating students of the well-rounded education they deserve. The ESSA should raise the bar and foster stronger federal-state partnerships that will help more students achieve at a high standard.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1071254/congress-passes-major-k-12-education-reform-legislation"
+        },
+        {
+          "type": "statement",
+          "text": "\"This legislation will replace the badly flawed and increasingly unworkable No Child Left Behind Act with a new framework--one that stays true to the transparency and focus on closing achievement gaps that were the hallmarks of No Child Left Behind while eliminating the one-size-fits-all approach to school improvement and allowing States to develop more holistic and robust accountability systems that move beyond test scores as the sole measure of school success.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1051909/student-success-act#.XZtSkkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/27#.XZtKy0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Investing in clean energy increases American competitiveness and helps cut down on pollution.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854334/issue-position-energy#.XZtUT0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/29#.XZtK6kE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters (2019 Lifetime).",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "\"Despite its good intentions, No Child Left Behind was underfunded and relied on a top-down approach too focused on standardized testing. Assessment plays a critical role in education, but a strong system of assessment and accountability includes measures beyond standardized test scores. Without these other measures, we risk cheating students of the well-rounded education they deserve. The ESSA should raise the bar and foster stronger federal-state partnerships that will help more students achieve at a high standard.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1071254/congress-passes-major-k-12-education-reform-legislation"
+        },
+        {
+          "type": "statement",
+          "text": "\"This legislation will replace the badly flawed and increasingly unworkable No Child Left Behind Act with a new framework--one that stays true to the transparency and focus on closing achievement gaps that were the hallmarks of No Child Left Behind while eliminating the one-size-fits-all approach to school improvement and allowing States to develop more holistic and robust accountability systems that move beyond test scores as the sole measure of school success.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1051909/student-success-act#.XZtSkkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Warming temperatures and weather volatility pose a threat to our environment, economy, and national security, and Senator Reed believes that part of our mitigation strategy must include a national energy policy that limits carbon pollution, focuses on the development of clean, renewable energy sources that create jobs, and holds big polluters accountable.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/environment"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Investing in clean energy increases American competitiveness and helps cut down on pollution.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854334/issue-position-energy#.XZtUT0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/29#.XZtK6kE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters (2019 Lifetime).",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "\"We know that pollution has real and costly health impacts. This proposal is a good step toward a cleaner energy future and reducing pollution. It sets achievable goals and gives states the flexibility to pursue the most cost-effective means of compliance,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/874495/reed-statement-on-epa-carbon-emissions-guidelines#.XZtUDUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Warming temperatures and weather volatility pose a threat to our environment, economy, and national security, and Senator Reed believes that part of our mitigation strategy must include a national energy policy that limits carbon pollution, focuses on the development of clean, renewable energy sources that create jobs, and holds big polluters accountable.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/environment"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 97% by League of Conservation Voters (2019 Lifetime).",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "\"We know that pollution has real and costly health impacts. This proposal is a good step toward a cleaner energy future and reducing pollution. It sets achievable goals and gives states the flexibility to pursue the most cost-effective means of compliance,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/874495/reed-statement-on-epa-carbon-emissions-guidelines#.XZtUDUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/37#.XZtLN0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Brady Campaign to Prvent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/37#.XZtLN0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"There should be a basic background check on every gun sale, no matter where it happens. We have the technology, we have the tools, we have the public support to implement this. The only question is: will special interest like the National Rifle Association be able to stop this commonsense proposal from becoming law and saving lives?\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1318825/reed-backs-bill-to-strengthen-gun-background-checks#.XZtU00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Warming temperatures and weather volatility pose a threat to our environment, economy, and national security, and Senator Reed believes that part of our mitigation strategy must include a national energy policy that limits carbon pollution, focuses on the development of clean, renewable energy sources that create jobs, and holds big polluters accountable.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed is a cosponsor of the Assault Weapons Ban, which would prohibit the sale of military-style assault weapons and high-capacity ammunition magazines. Over the years, he has also introduced or cosponsored legislation to close loopholes in our background check system; make it illegal for those on the FBI terror watch list to buy a gun; and end the ban on gun violence research at the U.S. Centers for Disease Control and Prevention (CDC).\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/gun-safety"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/37#.XZtLN0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Brady Campaign to Prvent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/37#.XZtLN0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"There should be a basic background check on every gun sale, no matter where it happens. We have the technology, we have the tools, we have the public support to implement this. The only question is: will special interest like the National Rifle Association be able to stop this commonsense proposal from becoming law and saving lives?\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1318825/reed-backs-bill-to-strengthen-gun-background-checks#.XZtU00E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed is a cosponsor of the Assault Weapons Ban, which would prohibit the sale of military-style assault weapons and high-capacity ammunition magazines. Over the years, he has also introduced or cosponsored legislation to close loopholes in our background check system; make it illegal for those on the FBI terror watch list to buy a gun; and end the ban on gun violence research at the U.S. Centers for Disease Control and Prevention (CDC).\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/gun-safety"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Public Health Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/38#.XZtLrUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is beyond irresponsible. The President seems to be carrying out a personal vendetta to destabilize health insurance markets, raise everyone's costs, and leave more Americans without health care. This President is so determined to implode Obamacare that he doesn't seem to care about collateral damage to working families.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1200586/reed-criticizes-trumps-latest-plan-to-sabotage-aca#.XZtVmUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"He helped author key provisions of the health insurance reform law, the Affordable Care Act (ACA), to give individuals and families more choice and more control over their health care. For the first time, insurance companies can no longer deny coverage for a pre-existing condition, charge women higher insurance rates, or put an annual or lifetime cap on how much they will pay for care.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/health-care-"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Public Health Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/38#.XZtLrUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is beyond irresponsible. The President seems to be carrying out a personal vendetta to destabilize health insurance markets, raise everyone's costs, and leave more Americans without health care. This President is so determined to implode Obamacare that he doesn't seem to care about collateral damage to working families.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1200586/reed-criticizes-trumps-latest-plan-to-sabotage-aca#.XZtVmUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"He helped author key provisions of the health insurance reform law, the Affordable Care Act (ACA), to give individuals and families more choice and more control over their health care. For the first time, insurance companies can no longer deny coverage for a pre-existing condition, charge women higher insurance rates, or put an annual or lifetime cap on how much they will pay for care.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/health-care-"
+        },
+        {
+          "type": "statement",
+          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & govât to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1248631159162109955"
+        },
+        {
+          "type": "statement",
+          "text": "\"For the last 5 days, Congressional Republicans needlessly delayed crucial assistance to help with #coronavirus testing, paid sick leave, expanded unemployment insurance & more. We must speed additional aid to people in need!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1240307666083250177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.Xos2GJNKi9Y"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & govât to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1248631159162109955"
+        },
+        {
+          "type": "statement",
+          "text": "\"For the last 5 days, Congressional Republicans needlessly delayed crucial assistance to help with #coronavirus testing, paid sick leave, expanded unemployment insurance & more. We must speed additional aid to people in need!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1240307666083250177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589#.Xos2GJNKi9Y"
+        },
+        {
+          "type": "statement",
+          "text": "\"It takes food, health care, and retirement security away from children, seniors, and people with disabilities while adding funds for an ineffective border wall and tax cuts for millionaires.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1161205/reed-trump-budget-is-irresponsible"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 2% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/40#.XZtL6EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The idea that Pres Trump is considering declaring a phony national emergency as a pretext to take billions of dollars away from our troops & defense priorities in order to pay for his wall should alarm all Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1081318046281678849"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout his time in the Senate, Senator Reed has voted to move forward with comprehensive immigration reform, including the 2013 Border Security, Economic Opportunity, and Immigration Modernization Act. This bipartisan bill, which passed the Senate, would reduce our budget deficit and institute broad measures to secure our borders, deter employers from hiring those who come here illegally, and offer a tough but fair pathway to earned citizenship.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/immigration"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It takes food, health care, and retirement security away from children, seniors, and people with disabilities while adding funds for an ineffective border wall and tax cuts for millionaires.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1161205/reed-trump-budget-is-irresponsible"
+        },
+        {
+          "type": "statement",
+          "text": "\"The idea that Pres Trump is considering declaring a phony national emergency as a pretext to take billions of dollars away from our troops & defense priorities in order to pay for his wall should alarm all Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1081318046281678849"
+        },
+        {
+          "type": "statement",
+          "text": "\"Throughout his time in the Senate, Senator Reed has voted to move forward with comprehensive immigration reform, including the 2013 Border Security, Economic Opportunity, and Immigration Modernization Act. This bipartisan bill, which passed the Senate, would reduce our budget deficit and institute broad measures to secure our borders, deter employers from hiring those who come here illegally, and offer a tough but fair pathway to earned citizenship.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/immigration"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 2% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/40#.XZtL6EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed is a staunch supporter of the Development, Relief, and Education for Alien Minors (DREAM) Act, which would give bright, law-abiding, hardworking immigrant students who serve in the military or attend college an opportunity to earn legal status.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854320/issue-position-immigration#.XZtWVUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I join my colleagues in Congress, hundreds of American business executives, thousands of higher education officials and faith leaders, and a majority of the American people who have made their voices heard over the past few days to denounce President Trump's elimination of DACA, and call for legislative action to protect Dreamers and provide them a realistic and responsible pathway to citizenship.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1204178/daca"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres Trumpâs heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/905099860537466882"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 2% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/40#.XZtL6EE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reed is a staunch supporter of the Development, Relief, and Education for Alien Minors (DREAM) Act, which would give bright, law-abiding, hardworking immigrant students who serve in the military or attend college an opportunity to earn legal status.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/854320/issue-position-immigration#.XZtWVUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I join my colleagues in Congress, hundreds of American business executives, thousands of higher education officials and faith leaders, and a majority of the American people who have made their voices heard over the past few days to denounce President Trump's elimination of DACA, and call for legislative action to protect Dreamers and provide them a realistic and responsible pathway to citizenship.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1204178/daca"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres Trumpâs heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/905099860537466882"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/22#.XZtKq0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"When it comes to North Korea, the United States has many tools -- diplomatic, financial, and others -- to work with, not just military options.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1192295/reed-statement-on-north-korea"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 7% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/22#.XZtKq0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"When it comes to North Korea, the United States has many tools -- diplomatic, financial, and others -- to work with, not just military options.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1192295/reed-statement-on-north-korea"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for a Livable World.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "\"He also believes that the United States should be engaged in diplomacy to support our allies and build stronger relationships with emerging nations. He has focused on arms control and non-proliferation efforts to keep weapons of mass destruction out of the hands of terrorists, and continues to support expanding our international development programs, which greatly contribute to global security and stability.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres Trumpâs claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put Americaâs security interests at risk.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1187129094514888705"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nationâs international affairs arsenal. That is why he voted against the Iraq War.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"I hope eventually, after a more thoughtful and strategic approach, these talks can get back on track. It will require consistent messaging from the White House about our expectations with regard to denuclearization without the bellicose threats of military action. I am concerned that this President and his team are not quite up to the task.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1258972/reed-statement-on-trumps-cancellation-of-nuclear-summit-with-north-korea"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"While we acknowledge Kim Jong Un's change in behavior since your first meeting, we remain concerned owing to testimony on January 29, 2019 before the Senate Intelligence Committee, when our community intelligence leaders reported that the U.S. Intelligence Community is observing North Korean \"activity that is inconsistent with full denuclearization,\" a statement that runs counter to the multiple assertions you have made about progress in the past year, including your claim after the Singapore meeting that North Korea no longer poses a nuclear threat. While you may disagree, we also note the assessment of ODNI Director Coats that \"we currently assess that North Korea will seek to retain its WMD (weapons of mass destruction) capabilities and is unlikely to completely give up its nuclear weapons and production capability because its leaders ultimately view nuclear weapons as critical to regime survival.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1328397/letter-to-the-hon-donald-j-trump-president-of-the-united-states-ahead-of-second-summit-with-north-korea-top-senate-democrats-pen-letter-to-president-trump-calling-for-tough-principled-diplomacy-with-tangible-results-not-merely-a-photo-op-benefitting-north-korea"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Council for a Livable World.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed"
+        },
+        {
+          "type": "statement",
+          "text": "\"He also believes that the United States should be engaged in diplomacy to support our allies and build stronger relationships with emerging nations. He has focused on arms control and non-proliferation efforts to keep weapons of mass destruction out of the hands of terrorists, and continues to support expanding our international development programs, which greatly contribute to global security and stability.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pres Trumpâs claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put Americaâs security interests at risk.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1187129094514888705"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nationâs international affairs arsenal. That is why he voted against the Iraq War.\"",
+          "source": "www.reed.senate.gov",
+          "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/63#.XZtMHUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Trump Admin claimed the #TrumpTax law would reduce U.S. debt & pay for itself. They lied. Trump inherited a strong economy & has weakened it w/ tax giveaways to the wealthiest & terrible trade policies. Sad!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1161340043572776969"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but heâs failing manufacturers & our farmers!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1157042463753850880"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 79% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/27060/jack-reed/63#.XZtMHUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Trump Admin claimed the #TrumpTax law would reduce U.S. debt & pay for itself. They lied. Trump inherited a strong economy & has weakened it w/ tax giveaways to the wealthiest & terrible trade policies. Sad!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1161340043572776969"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but heâs failing manufacturers & our farmers!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJackReed/status/1157042463753850880"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:03:17+00:00"
+}

@@ -1,0 +1,664 @@
+{
+  "name": "Tom Emmer",
+  "page_title": "Tom Emmer's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MN) - District 6, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (MN) - District 6",
+  "candidate_id": "38894",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/38894/tom-emmer",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a father of seven who values the sanctity of life, I am proud to have received an A+ rating from @sbaprolife on my pro-life scorecard. I will always protect the lives of the unborn.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1616528215752822784"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am inspired by everyone who walked to defend the unborn this week at marches around the country. From St. Paul to Washington, D.C. - I stand with all of you. #ProLife\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1220827440064475138"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/38894/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proud recipient of the 2018 Medicare Advantage Champion award from @protectmyMA! I will keep fighting to protect Medicare Advantage for the millions of seniors and individuals with disabilities who depend on it.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1039898510294966272"
+        },
+        {
+          "type": "statement",
+          "text": "\"We are committed to a government thatâs accountable. We will rein in government abuse of power and corruption, provide real transparency, and save and strengthen Social Security and Medicare.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1574412276144406528"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democratsâ reckless spending and massive tax hikes are destroying our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1581014782919856128"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today the House passed and I supported Tax Reform 2.0 to make tax cuts permanent for individuals and families, expand retirement-savings incentives, and tax breaks for startup businesses. #TaxCutsWork\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1045735698987458560"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/38894/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6760: \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/38894/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 84% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/36/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tom is, and always has been, dedicated to reducing Washingtonâs runaway spending. Americans know how to spend their money better than Washington bureaucrats, and Tom has taken action to decrease our growing debt and ensure that taxpayer dollars are spent as responsibly as possible. He will continue looking for ways to cut waste, find more reforms, and advocate for sticking to the \"regular order\" process of appropriations rather than resort to bloated omnibus bills.\"",
+          "source": "emmerforcongress.com",
+          "url": "https://emmerforcongress.com/key-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/12/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/38894/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In honor of National Police Week, several of my colleagues and I hosted a roundtable with law enforcement stakeholders about how we can best support our men and women in blue. While Democrats wage war against police, House Republicans have proven we will always have their backs.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1659580410538459137"
+        },
+        {
+          "type": "statement",
+          "text": "\"Liberal prosecutors have overplayed their hand in going after @realDonaldTrump on sham charges. Todayâs Supreme Courtâs decision is a victory for democracy, the rule of law, and President Trump.\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1807813309644550189"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court's ruling was a big win for @realDonaldTrump and America.\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1808242491675582678"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7120: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/38894/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a strong supporter of our military, Tom has also consistently voted to give our troops the resources they need to protect our country at home and abroad.\"",
+          "source": "emmerforcongress.com",
+          "url": "https://emmerforcongress.com/key-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans ARE NOT going to cut defense spending. This is more fearmongering from the Democrats. We're going to make sure our men and women in uniform always have the tools they need while putting this country on a path to sustainability and fiscal responsibility.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1623387954004606978"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, the @HouseGOP will lead the charge in strengthening our military and supporting our service members through the FY25 NDAA.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1800583764097355809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/38894/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs stimulus didnât bring jobsâit brought us an inflation crisis. Now, small businesses are paying the price.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1413125650534240257"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Build Back Better Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/38894/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3746: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/38894/limit-save-grow-act#91855"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tom is, and always has been, dedicated to reducing Washingtonâs runaway spending. Americans know how to spend their money better than Washington bureaucrats, and Tom has taken action to decrease our growing debt and ensure that taxpayer dollars are spent as responsibly as possible. He will continue looking for ways to cut waste, find more reforms, and advocate for sticking to the \"regular order\" process of appropriations rather than resort to bloated omnibus bills.\"",
+          "source": "emmerforcongress.com",
+          "url": "https://emmerforcongress.com/key-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This week, I spoke in support of @RepTimmonsâs amendment to allow public housing residents to withhold rent for every month in which their safety concerns have been left unmet, finally giving public renters the same protections as their private-market counterparts.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1438628069883920386"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/38894/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5735: \"THRIVE Act\" (2018",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24715/63190/38894/thrive-act#63190"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4521: \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/38894/america-competes-act-of-2022#84296"
+        },
+        {
+          "type": "statement",
+          "text": "\"I think itâs very obvious that one of the main drivers of inflation has been runaway government spending over the past year, which has pumped trillions of new dollars into the U.S. economy â despite our $30T debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1481645940343644160"
+        },
+        {
+          "type": "statement",
+          "text": "\"Out-of-control government spending and anti-American energy policies that Democrats are pushing are why inflation continues to hit working families hard.\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1516801255410180099"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688: \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/38894/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"American taxpayers, including people who didnât go to college, should NOT be forced to subsidize billions of dollars in student loans.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1765935904802185662"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/38894/comprehensive-debt-collection-improvement-act#79462"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs student loan scam wouldâve bailed out the wealthy while forcing taxpayers â including those who didnât go to college â to foot the bill. Iâm glad SCOTUS set the record straight: Biden does NOT have the Constitutional authority to unilaterally \"erase\" student loan debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1674795026499641347"
+        },
+        {
+          "type": "statement",
+          "text": "\"Debt cannot be cancelled; it can only be transferred. President Bidenâs socialist proposal to \"cancel\" student loan debt will fuel inflation and do nothing to fix our broken higher education system.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1562485870783270912"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Soon, the Senate will vote on @HouseDemocratsâ cynical, partisan power grab #HR1. This bill will seize power from the states, legalize ballot harvesting & make basic election security ILLEGAL. I voted against this bill in the House & hope my Senate colleagues will do the same.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1407434489467387905"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/38894/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/38894/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/29/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden centered his energy agenda around appeasing the radical, Green New Deal members of his party...Now, it's costing Americans on every front.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1795907971450605984"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/38894/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/38894/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Developing energy pipelines like #Line3 is key to strengthening rural infrastructure. Pipelines donât just deliver resources like oil and gas; they also generate major tax revenue.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1433461937753427974"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Administration is completely out of touch. Gas prices have DOUBLED since President Biden took office, and theyâre still saying we don't need to increase drilling. Unleash American energy!\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1539308155598827522"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\" (2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/38894/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As this administration continues to demonize law-abiding gun owners, we are standing up to defend them. Every year, thousands of individuals are deprived of their constitutional liberties when the federal government incorrectly denies their right to purchase a firearm.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1775945175371551010"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/38894/tom-emmer/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7910: \"Protecting Our Kids Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32751/85843/38894/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/38894/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#ACA is in a death spiral. Americans can't afford this failing healthcare law anymore\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/836767815608721408"
+        },
+        {
+          "type": "statement",
+          "text": "\"Small business employees are hurting under #ACA. Glad @POTUS is committed to unwinding the disastrous Obamacare\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/836767889227141124"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tom has seen firsthand the devastating effects healthcare costs are having on working families and small businesses, so heâs pushing to bring patient-centered reforms with more competition and more choices for patients without sacrificing protections for individuals with preexisting conditions or children who want to stay on their parentâs health plans.\"",
+          "source": "emmerforcongress.com",
+          "url": "https://emmerforcongress.com/key-issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/38894/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/38894/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/38894/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He has co-sponsored and passed legislation that helps ensure we keep our homeland safe by strengthening immigration and refugee admittance process, and securing our borders.\"",
+          "source": "emmerforcongress.com",
+          "url": "https://emmerforcongress.com/key-issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, our government has paid $2 BN in taxpayer fundsâ¦for DOD contractors to NOT build a #border wall. Meanwhile, illegal immigrants are pouring into the country at a 20-year high. The American people deserve border securityâand answers.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1420020265610788874"
+        },
+        {
+          "type": "statement",
+          "text": "\"There continues to be a crisis on our southern border that the Biden Administration has created. Our communities all around the country are less safe due to these policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/tomemmer/status/1489614618595057664"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/38894/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Immigration MUST be done legally, so I'm glad Sec. Kelly ended the Obama Admin's unlawful executive amnesty program.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/875818343453818880"
+        },
+        {
+          "type": "statement",
+          "text": "\"Joe Biden's mass amnesty, election-year executive order is just another example of the Biden administration protecting illegal immigrants at the expense of American citizens.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1803865404525416867"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/38894/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/38894/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/38894/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/38894/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/38894/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/38894/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/38894/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"TikTok is a CCP spy app. Plain and simple. House Republicans just passed a nonpartisan bill protecting Americans' data by sending a clear message: TikTok must sever ties with the CCP or lose its access to American users.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1767924479861129312"
+        },
+        {
+          "type": "statement",
+          "text": "\"TikTokâs lawsuit confirms what we already knew: Theyâre nothing but a CCP spy app, plain and simple. Congress refused to stand idly by as China exploits the data of 170 million American users, and we trust the courts will see this as the national security threat that it is.\"",
+          "source": "x.com",
+          "url": "https://x.com/GOPMajorityWhip/status/1789007499259179243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/38894/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:56:31+00:00"
+}

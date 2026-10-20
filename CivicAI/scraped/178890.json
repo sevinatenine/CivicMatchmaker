@@ -1,0 +1,730 @@
+{
+  "name": "Mary Scanlon",
+  "page_title": "Mary Scanlon's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 5, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (PA) - District 5",
+  "candidate_id": "178890",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178890/mary-scanlon",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Roe v. Wade is settled law. Womenâs reproductive health care is not a political football!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1213208701823332352?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women were called hysterical for sounding the alarm about abortion rights. We were told Roe and Casey were settled law. This leaked opinion shows we were right to be terrified. The Senate must move NOW to pass the Womenâs Health Protection Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1521301871524204548?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178890/mary-scanlon"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 4132 \"Womenâs Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/178890/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Republicans are conspiring to shut down the government, cut critical investments in education and health care, and slash Social Security and Medicare. It's time for them to join House Democrats in putting the urgent needs of American families over politics.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1724157430118900071?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"ðµ A much-needed boost to Social Security benefits is coming soon ðµ In 2022, retirees will see their benefits increase 5.9 percent â roughly $92 more a month.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1449117375320793089?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"ð¨ The House Republican agenda threatens seniorsâ economic security by slashing Medicare and repealing the ability of the federal government to negotiate lower drug prices ð¨ Seniors simply cannot trust Republicans to stand up for them.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1588542353115340801?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 610 \"Protecting Medicare and American Farmers from Sequester Cuts Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31998/83742/178890/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to reject the failed theory of trickle-down economics and finally give everyday Americans a fair shot. The #BuildBackBetter Act will provide one of the biggest middle class tax cuts in history â and we'll pay for it by making those at the top pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1443394334011891718?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct doesn't raise taxes a penny on families making under $400,000 a year. But it does make sure wealthy corporations who have been dodging their taxes finally pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1557777283456319489?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The FY23 #BidenBudget would make sure our tax system rewards WORK, not WEALTH by: ð² Proposing a new minimum tax on billionaires âï¸ Making sure corporations pay their fair share ð Preventing multinational corporations from using tax loopholes to game the system\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1508874588494745600?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Watch what he does, not what he says. By giving tax cuts to the rich and rolling back protections for student loan borrowers, to cutting food stamps or gutting the ACA, the Trump admin has backed policies that hurt the middle class and countless families in my district.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1181938791503843328?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs time to reject the failed theory of trickle-down economics and finally give everyday Americans a fair shot. The #BuildBackBetter Act will provide one of the biggest middle class tax cuts in history â and we'll pay for it by making those at the top pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1443394334011891718?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #InflationReductionAct doesn't raise taxes a penny on families making under $400,000 a year. But it does make sure wealthy corporations who have been dodging their taxes finally pay their fair share.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1557777283456319489?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The FY23 #BidenBudget would make sure our tax system rewards WORK, not WEALTH by: ð² Proposing a new minimum tax on billionaires âï¸ Making sure corporations pay their fair share ð Preventing multinational corporations from using tax loopholes to game the system\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1508874588494745600?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Watch what he does, not what he says. By giving tax cuts to the rich and rolling back protections for student loan borrowers, to cutting food stamps or gutting the ACA, the Trump admin has backed policies that hurt the middle class and countless families in my district.\" \"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1181938791503843328?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Scanlon authored and co-sponsored significant pieces of legislation to reduce the influence of money in our politics, protect and expand voting rights for all Americans, and restore ethics to our government.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14983"
+        },
+        {
+          "type": "statement",
+          "text": "\"We had a busy week in Washington last week. I am most proud to share that I earned an A rating from End Citizens United Action Fundâs Democracy Reform Scorecard.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1219622599480807424?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"\"H.R. 1 will be the culmination of years of anxiety and anger among Democrats about the impact that voter suppression, gerrymandering, and post Citizens-United campaign finance have had on their electoral prospects and on American democracy as a whole.\"\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1071162484122378241?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1 \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/178890/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tonight we are offering more than just sympathy â We are passing meaningful change. Thoughts and prayers have never been enough. The #JusticeInPolicing Act is the first-ever bold & comprehensive approach to hold police accountable & increase transparency.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1367302833863856132?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the National Association of Police Organizations (NAPO",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178890/mary-scanlon"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1280 \"George Floyd Justice in Policing Act of 2021",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/178890/george-floyd-justice-in-policing-act-of-2021#77711"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7120 \"George Floyd Justice in Policing Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/178890/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Spent the morning with my colleagues learning more about @PhillyShipyard's work on National Security Multi-Mission Vessels. Next week, the Subcommittee on Seapower and Projection Forces will markup the FY22 NDAA, which includes an order for the fifth ship in this NSMV fleet.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1418586895714508800?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This afternoon, the House passed the National Defense Authorization Act (NDAA) to address various challenges impacting our armed forces. This NDAA also provides funding for the Chinook program, safeguarding thousands of jobs in our district.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1149784979645378561?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7900 - \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/178890/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 1605 \"National Defense Authorization Act for Fiscal Year 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/178890/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"1 in 4 children are hungry in Alabama, Louisiana, and Texas. 1 in 5 children are hungry in Oklahoma. 1 in 6 children are hungry in Indiana and Tennessee...If only these Senators channeled this much energy into passing $2,000 stimulus checks to help families in need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1345557097908465665?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Small businesses are the lifeblood of our economy, and theyâre still hurting from the pandemic. I was proud to vote in favor of a targeted relief package that will: â #ReplenishRRF with $42 billion â Create a new $13 billion grant program for hard hit businesses\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1512123640237731849?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The vote we took tonight in the House reflects our values. We voted to protect families with an increased stimulus lifeline as we continue to deal with this public health crisis. @senatemajldr â for once, just do the right thing. Pass the bill.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1343702507420327937?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 2 \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/178890/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today I was honored to welcome @SecFudge and @AmbRice46 to Philadelphia to discuss our continued work together to help folks experiencing homelessness in our region by keeping federal investments in safe and affordable housing a top priority. ð§µ\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1585392253560049664?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Wonderful to celebrate the grand opening of Makemie Court, an affordable housing community in the heart of Delco made possible by collaboration between federal, state, and local agencies and nonprofits.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1580316158557040640?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/178890/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related agencies Appropriations Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/178890/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm with you, @POTUS. Let's fight inflation by lowering costs â not Americans' wages!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1498850889389551618?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nearly every link in America's food supply chain is dominated by a handful of corporations. Congress must develop new tools to promote competition, prohibit price gouging, and address the profiteering that has led to an outbreak of inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1483819888263192576?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 5376 \"Build Back Better Act (Inflation Reduction Act of 2022)\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/178890/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7688 \"Consumer Fuel Price Gouging Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32674/85505/178890/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@HouseGOPâs student debt CRA scheme would wreck economic havoc on Pennsylvania families â blocking student debt relief and forcing borrowers back into our broken student loan system. Legislative attacks on working families with student debt must STOP.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1662129345660596225?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Resuming student loan payments now â just as we are experiencing another spike in COVID-19 cases â will hurt families that are least able to navigate this ongoing crisis. That's why my fellow PA Dems and I are urging @POTUS to extend the pause on federal student loan repayment.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1473692055562035210?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The student debt crisis is holding Pennsylvanians back from buying homes, building wealth, and starting businesses. And it is following millions of seniors into retirement. @POTUSâs plan is an important step toward uplifting working families and increasing opportunity for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1562554816512962562?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/178890/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Voter ID laws are a \"solution\" in search of a problem. Evidence has shown they don't prevent voter fraud â because there is no systematic voter fraud to prevent.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1413150889930596352?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can't pretend that voter ID laws have no discriminatory intent, or that they don't disproportionately impact certain populations. As we work to ensure the integrity of our elections, we cannot allow eligible voters to be disenfranchised in the process.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1397324096254267400?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Last month, I spoke at a @HouseAdm_Dems hearing about the issues with voter ID laws and other tactics used to disenfranchise eligible voters.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1404187144084725760?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4 \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/178890/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"ICYMI: This week @phillyshipyard announced a new contract to construct a subsea rock installation vessel, which will support offshore wind energy for the U.S. Jobs + Renewable Energy Sources ð\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1462214489659559937?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Remaining in the Paris Climate Agreement is step one, but we must go further to reduce carbon emissions and set ourselves on a path that provides for sustainable and affordable renewable energy.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14979"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American #RenewableEnergyAct is what a clean energy future looks like. This bill requires utilities to: âï¸ Achieve 70% renewable energy by 2030 âï¸ Reduce emissions and decrease pollution âï¸ Promote community resiliency\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1425855128108736518?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 9 \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/178890/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today Republicans are pushing a #BigOilGiveaway of our public lands. Big Oil already has 9,000 drilling permits on public lands they aren't using. This bill gives them more to hoard until it suits their bottom line. I'm voting NO on putting\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1618768110844256257?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178890/mary-scanlon"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 1 \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/178890/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H.R. 21 \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/178890/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One of the first steps Congresswoman Scanlon took in Congress was to join the Gun Violence Prevention Task Force. She has cosponsored several pieces of legislation to close loopholes, improve background checks, ban assault rifles, and also managed the debate on the House floor to reauthorize the Violence Against Women Act.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14982"
+        },
+        {
+          "type": "statement",
+          "text": "\"Red flag laws are proven to help save lives. Today I joined elected officials, advocates, and gun violence survivors to call on the PA General Assembly to make use of new funding available thanks to the Bipartisan #SaferCommunitiesAct and implement these common sense measures.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1546537599610888195?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association (NRA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/178890/mary-scanlon"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 8 \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/178890/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"11 years ago today, the #AffordableCareAct was signed into law! Just weeks ago, Congress passed a historic expansion to the ACA with the #AmericanRescuePlan, lowering health care costs, expanding coverage, and reducing disparities in care for the American people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1374425058836324360?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Scanlon has taken steps to safeguard the Affordable Care Act and has co-sponsored legislation to protect its guarantees.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14980"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #AffordableCareAct continues to strengthen Pennsylvaniansâ access to quality health care. It banned insurance companies from discriminating against individuals with pre-existing conditions and is now protecting 296,000+ people in PA-05 from being denied coverage.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1506702317307023364?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28212/73153/136484/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#PaidLeave allows workers to heal, recover, and be there for their families. We have a once-in-a-generation opportunity to pass a paid family and medical leave policy that would lift up all American workers and families. Let's get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1440018836976177157?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: Everyone deserves paid sick leave. @SpeakerPelosi fought like hell to secure paid sick leave in this weekâs #COVIDã¼19 bill but the GOP & White House pushed back against it. @HouseDemocrats will continue the fight for paid sick leave for everyone who needs it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1239268502520954888?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Women disproportionately handle caregiving responsibilities, which means their careers are impacted the most by the lack of paid leave in the U.S. The #BuildBackBetter Act would help level the playing field by providing up to 12 weeks of paid leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1445775354057007115?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of \"H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/178890/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The House just passed the #AffordableInsulinNow Act to cap out-of-pocket insulin expenses at $35 per month. This is a critical step in the right direction. We must keep pushing to lower the cost of all prescription drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1509689500603228170?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must lower the cost of prescription drugs. Thatâs why I introduced the Better Tools to Lower Costs Act which would eliminate the burdensome requirements stopping seniors and people with disabilities from getting the life-saving medications they need.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1195450365598191621?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/178890/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/178890/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/178890/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Scanlon has worked for many years representing immigrants and asylum seekers. In Congress, Rep. Scanlon is committed to repairing our complex and broken immigration system through common sense policy measures. She has cosponsored legislation to end inhumane family separation practices and will fight to protect Dreamers and TPS holders.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14984"
+        },
+        {
+          "type": "statement",
+          "text": "\"No serious person can claim that any member of this House is against border security. Not only have we sworn an oath to protect and defend this country, but we have voted repeatedly to fund billions of dollars in border security appropriations.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1085913554362949632?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"She will continue working to ensure that Customs and Border Patrol and the Coast Guard have the resources they need to protect our borders and legal ports of entry, while addressing the humanitarian crisis at our border.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14984"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congresswoman Scanlon has worked for many years representing immigrants and asylum seekers. In Congress, Rep. Scanlon is committed to repairing our complex and broken immigration system through common sense policy measures. She has cosponsored legislation to end inhumane family separation practices and will fight to protect Dreamers and TPS holders.\"",
+          "source": "scanlon.house.gov",
+          "url": "https://scanlon.house.gov/issues/issue/?IssueID=14984"
+        },
+        {
+          "type": "statement",
+          "text": "\"Earlier this week, I stopped by the #ImmigrantsAreEssential art installation on the National Mall. Immigrants serve in the military, teach Americaâs kids, feed our nation, care for those in need, and more. Itâs time to fix our broken system and deliver a pathway to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1537926092970897409?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Two years after @POTUS ended the program, @HouseDemocrats are working to #ProtectTheDream for 800,000 #Dreamers by passing #HR6 to provide them with a pathway to citizenship.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1169713858992361472?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/178890/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was an honor to join neighbors at Saints Peter & Paul Ukrainian Catholic Church for a prayer service marking two years since Russia's invasion of Ukraine. I'm proud to stand with our Ukrainian community and won't stop fighting to secure the aid Ukraine needs to win this war.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1762141025638785046?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, as Congress moved to send urgent humanitarian and military aid to the people of Ukraine, our GOP colleagues moved to adjourn. They must not realize that a war doesnât adjourn while they play games.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1524173829878206466?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 4695 \"Protect Against Conflict by Turkey (PACT) Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27343/69881/178890/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/178890/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It was an honor to join neighbors at Saints Peter & Paul Ukrainian Catholic Church for a prayer service marking two years since Russia's invasion of Ukraine. I'm proud to stand with our Ukrainian community and won't stop fighting to secure the aid Ukraine needs to win this war.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1762141025638785046?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, as Congress moved to send urgent humanitarian and military aid to the people of Ukraine, our GOP colleagues moved to adjourn. They must not realize that a war doesnât adjourn while they play games.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepMGS/status/1524173829878206466?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7691 \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32637/85398/178890/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/178890/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:23:56+00:00"
+}

@@ -1,0 +1,400 @@
+{
+  "name": "John Mannion",
+  "page_title": "John Mannion's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 22, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. House (NY) - District 22",
+  "candidate_id": "185053",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/185053/john-mannion",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today is the 51st anniversary of #RoevWade. While far-right House Republicans are pursuing a nationwide abortion ban, I'm proud to have supported the Equal Rights Amendment in the State Senate. Now more than ever, we must fight to protect this fundamental freedom.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1749437391939477960"
+        },
+        {
+          "type": "statement",
+          "text": "\"we passed laws to protect a womanâs right to make her own personal health care decisions.\"",
+          "source": "www.mannionforny.com",
+          "url": "https://www.mannionforny.com/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9077: \"Establishes Legal Protections for Abortion Providers from Out of State Laws\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32795/86018/185053/establishes-legal-protections-for-abortion-providers-from-out-of-state-laws#86018"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"88 years ago, President Roosevelt signed the Social Security Act â lifting millions out of poverty. American workers were promised a secure retirement after a lifetime of hard work. I am committed to fighting back against cuts & protecting these crucial benefits.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1691099441493889024"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I accelerated Middle Class tax cuts and provided property tax relief to help families save money.\"",
+          "source": "www.mannionforny.com",
+          "url": "https://www.mannionforny.com/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Being endorsed by NYS Troopers @ThePBA & @pbanystate that represents thousands of men and women in law enforcement, reflects my values, voting record, sponsorship of bills and support of these public servants. Thank you to the men and women that help keep our communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1585273973205598210"
+        },
+        {
+          "type": "statement",
+          "text": "\"This piece shows great leadership by Cayuga County Legislator Tricia Kerr. The open dialogue between elected officials, social justice organizations, and law enforcement in Cayuga County is a model to be followed.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1290427855399198720"
+        },
+        {
+          "type": "statement",
+          "text": "\"While we need law enforcement to support our communities, we need independent entities that serve to keep them in check.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1265685599069114369"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The bursting of this pipe shows we need to be proactive in protecting our drinking water and investing in infrastructure in CNY. I promise to center on these issues in Albany.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1285660901945810944"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 360: \"Authorizes Voting by Mail by Removing Cause Requirement for Absentee Ballot Voting\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/29701/76685/185053/authorizes-voting-by-mail-by-removing-cause-requirement-for-absentee-ballot-voting#76685"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Climate Cabinet Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/185053/john-mannion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted 94% by New York League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/185053/john-mannion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4378: \"Requires Fossil Fuel Plants to Submit a Renewable Energy Plan\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30240/77778/185053/requires-fossil-fuel-plants-to-submit-a-renewable-energy-plan#77778"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Climate Cabinet Action",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/185053/john-mannion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4378: \"Requires Fossil Fuel Plants to Submit a Renewable Energy Plan\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30240/77778/185053/requires-fossil-fuel-plants-to-submit-a-renewable-energy-plan#77778"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to be a @MomsDemand Gun Sense candidate. As a teacher I have advocated for common sense gun violence prevention as part of the @OnondagaCounty School Safety Taskforce & will continue to do so as a Senator.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1047879226869866496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/185053/john-mannion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 9113: \"Expands Red Flag Law Relating to Potentially Violent Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32746/85827/185053/expands-red-flag-law-relating-to-potentially-violent-individuals#85827"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2237: \"Extends Healthcare Coverage for Undocumented Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35546/94546/185053/extends-healthcare-coverage-for-undocumented-individuals#94546"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1413: \"Limits Out of Pocket Cost for Insulin to $30 for a 30 Day Supply\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30572/78899/185053/limits-out-of-pocket-cost-for-insulin-to-30-for-a-30-day-supply#78899"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 4786: \"Reduces the Costs of Prescription Drugs and Repeals Cost-Sharing for Insulin\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36387/97595/185053/reduces-the-costs-of-prescription-drugs-and-repeals-cost-sharing-for-insulin#97595"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"CNY and the Mohawk Valley have always been a welcoming place to immigrants and refugees. This ruling only hurts the Dreamers who came here as children, without a choice, and have built their lives here. We need comprehensive & bipartisan immigration reform, now.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1702305598908383634"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2237: \"Extends Healthcare Coverage for Undocumented Individuals\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35546/94546/185053/extends-healthcare-coverage-for-undocumented-individuals#94546"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No Speaker of the House, no funding for Israel and Ukraine, and no farm bill, is apparently no problem for Brandon Williams. Heâs taking the weekend off while those of us in #NY22 continue to be hurt by his MAGA agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1712942256930312219"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"No Speaker of the House, no funding for Israel and Ukraine, and no farm bill, is apparently no problem for Brandon Williams. Heâs taking the weekend off while those of us in #NY22 continue to be hurt by his MAGA agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/MannionforNY/status/1712942256930312219"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:07:48+00:00"
+}

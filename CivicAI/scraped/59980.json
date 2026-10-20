@@ -1,0 +1,670 @@
+{
+  "name": "Scott Perry",
+  "page_title": "Scott Perry's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 10, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (PA) - District 10",
+  "candidate_id": "59980",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/59980/scott-perry",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Humbled and grateful to receive an âA+â legislative rating from @StudentsforLife Action for being a voice for the voiceless and for taking strong actions to protect life in America. #ProLife\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1616440968806338560?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs SCOTUS decision is a monumental victory for the unborn, and Constitutionally restores the rights of the Statesâ and Citizensâ to adjudicate this issue for themselves. #SCOTUS #Roe #ProLife\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1540349143603970048?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/59980/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "statement",
+          "text": "\"Expanding access to telehealth for Medicare beneficiaries will help protect America's seniors and high-risk individuals.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1239973939612270593?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let me be clear: We arenât interested in a shutdown, brinkmanship, or cutting Social Security, Medicare, or Veteransâ benefits - those are already PAID IN FULL. Weâre interested in reining in the out-of-control spending & wokeism making American lives miserable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1699879512505287021?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great plan, raising taxes during a recession with record inflation. Washington doesnât have a revenue problem, it has a spending problem.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1660384417901076486?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Tax Cuts & Jobs act has PASSED. We're one step closer to delivering real and meaningful tax relief to millions of Americans. #taxreform\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/931550271037169665?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/59980/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Tax Cuts & Jobs act has PASSED. We're one step closer to delivering real and meaningful tax relief to millions of Americans. #taxreform\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/931550271037169665?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/59980/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/59980/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm proud to co-sponsor the #JUSTICEAct, to increase police transparency, accountability, and training.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1275490129914847233?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The lawlessness and violent mobs sowing chaos in our cities must end. These aren't peaceful protests, and in America, we donât choose violence to resolve our differences. We must come together on a path forward and support our police in their mission to keep our communities safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1300882406405287937?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The violent and senseless murder of George Floyd is heartbreaking and infuriating. The Floyd Family deserves justice, and ALL responsible for this atrocity must be held accountable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1267581868909699076?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/59980/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our military is being weakened and destroyed - we all know it. Our focus must be readiness, lethality, and merit-based service/promotion. Period.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1745537216166695042?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With my support, the House just passed the National Defense Authorization Act conference report for FY19. The compromise between the House and Senate helps ensure that our military has the resources it needs to protect our freedom and our American way of life.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1022539997868711937?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/59980/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Great plan, raising taxes during a recession with record inflation. Washington doesnât have a revenue problem, it has a spending problem.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1660384417901076486?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The downgrade of our credit rating is proof positive that the negative economic trajectory caused by spend-thirsty legislators is leading our Nation and the American People to ruin. We MUST change the spending addiction in DC & plot a new course toward fiscal literacy and sanity.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1686741446290788352?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/59980/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"A firm NO on the \"deal\" vote tonight. President Biden is happily sending Americans over yet another fiscal cliff, with far too many swampy Republicans behind the wheel of a \"deal\" that fails miserably to address the real reason for our debt crisis: SPENDING.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1663970461254860824?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Biden suggests we stimulate massive demand for housing without addressing supply. Weâre all going to need more money - because those handouts are just going to make home prices higher. #StateOfTheUnion\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1765935037302677694?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/59980/emergency-housing-protections-and-relief-act-of-2020#73172"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP wants to work with the other side of the aisle, but demanding more reckless spending that's already causing record #inflation hurts American families and job creators.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1405591839718182919?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Great plan, raising taxes during a recession with record inflation. Washington doesnât have a revenue problem, it has a spending problem.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1660384417901076486?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American people are sick and tired of skyrocketing inflation driven by Washingtonâs out-of-control spending. Tonightâs vote on the Limit, Save & Grow Act is a critical first step in shrinking Washington in order to grow America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1651360451756716033?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/59980/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We use euphemisms around this town. We call it loan forgiveness. You took out the loan, and we are going to forgive you paying it back using someone else's money. That is not loan forgiveness. That is socialism. Socialism is tyranny. Taking it, like you said, from some hardworking individual--maybe they wanted to go to college and didn't have the opportunity. Maybe they didn't have the opportunity because they didn't have the money, maybe because of their family situation. It doesn't matter. Maybe they chose not to go to college. They chose not to buy something they didn't want to pay for.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1631251/issues-of-the-day/"
+        },
+        {
+          "type": "statement",
+          "text": "Signed Letter to Nancy Pelosi, Speaker of the House - Webster Calls on Pelosi to hold Biden Accountable for Overreach: \"On Wednesday, August 24, President Biden announced that he would cancel $10,000 in federal student debt for individual Americans earning $125,000 or less per year or married couples making less than $250,000 a year. In addition, those who receive federal Pell Grants and make less than $125,000 a year would be eligible for total forgiveness of $20,000. Unfortunately, this policy will cost us over $300 billion and establishes a terrible precedent that will drive up the cost of higher education, exacerbating the very problem President Biden pretends to address.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1626418/letter-to-nancy-pelosi-speaker-of-the-house-webster-calls-on-pelosi-to-hold-biden-accountable-for-overreach/"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BIG WIN for Voter ID laws and election integrity handed down by SCOTUS, today. Implementing common sense voter ID laws that ensure safe and secure elections should never be political. #VoterID #ElectionIntegrity\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1540031122255527939?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/59980/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/59980/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Radical environmentalists in the Sierra Club are shutting down grid capacity - and now, more power lines will have to go through PA to keep the lights on in Baltimore. The Biden administration must walk away from these destructive green policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1759958779267874954?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"What weâre facing isnât a climate crisis. Itâs an energy reliability and affordability crisis caused by Joe Bidenâs socialist green new deal policies. He wants to cut domestic energy production while forcing us to go to unreliable solar and wind energy. #StateoftheUnion\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1765941606434193409?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/59980/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"What weâre facing isnât a climate crisis. Itâs an energy reliability and affordability crisis caused by Joe Bidenâs socialist green new deal policies. He wants to cut domestic energy production while forcing us to go to unreliable solar and wind energy. #StateoftheUnion\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1765941606434193409?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/59980/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/59980/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/59980/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/59980/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Preserving Medicare by joining a bi-partisan effort to protect the Medicare Advantage Program, which provides coverage for 20 million Americans. At a time when radical socialists are calling for \"Medicare for All\" (which is actually \"Medicare for None\") and socialized government healthcare, we must stand up for our Seniors and the benefits they've earned.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1435347/issue-position-preserving-medicare-and-social-security/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Care Act (ACA) was supposed to reduce healthcare costs and provide greater healthcare options; it failed. Everyone should have access to affordable health insurance, which is why I supported repealing of the ACA and replacing it with a healthcare system that covers pre-existing conditions, reduces the cost of prescription drugs and allows individuals and their doctors to make healthcare decisions, not insurance companies and the government.\"",
+          "source": "patriotsforperry.com",
+          "url": "https://patriotsforperry.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/59980/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/59980/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Left caused the increase in insulin pricing when they created a monopoly through a special deal to pass Obamacare. Now they fix the price above what new market entrants can actually produce it for. The private sector was set to fix this without government price fixing. #SOTU\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1623149205576458240?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/59980/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/59980/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/59980/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Want to drive down fentanyl deaths? SECURE THE BORDER\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1623162498986778625?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/59980/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/59980/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I heard firsthand the heartbreak from Angel Families - those who lost their children or siblings to crimes committed by illegal immigrants. Their grief is REAL and very much preventable. I applaud their courage. We deserve the right to feel secure in our own Nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1086639417585008640?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/59980/scott-perry"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333: \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/59980/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/59980/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/59980/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/59980/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/59980/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/59980/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/59980/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/59980/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/59980/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs now even clearer that Democrat wins are American losses. The proposed \"border bill\" not only fails to even remotely address our national crisis, but pays for Ukraine to secure its border. I repeat: Democrats wonât secure OUR borders, but will secure Ukraineâs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepScottPerry/status/1754329483920716014?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/59980/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/59980/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:59:51+00:00"
+}

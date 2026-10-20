@@ -1,0 +1,508 @@
+{
+  "name": "Jeff Merkley",
+  "page_title": "Jeff Merkley's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (OR) - Jr, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. Senate (OR) - II",
+  "candidate_id": "23644",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/23644/jeff-merkley",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-choice",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Choosing whether or not to use contraception is a medical choice that belongs between a woman and her doctor. Bosses don't belong in our bedrooms or our doctors' exam rooms. I'll keep fighting to fix this misguided decision because how Oregonians use their health coverage is just not their boss's business.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/901079/following-senate-vote-merkley-vows-to-keep-fighting-for-womens-health-care#.XZ41ZEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's good news that tonight's attack on women's health care failed, but sadly we know there will be more to come. Already, some Republicans are suggesting that we shut down the government rather than allow Planned Parenthood to continue providing essential health care in communities across the nation. We cannot allow this destructive, partisan brand of politics to prevail over common sense. I'll keep standing up against attempts to defund women's health care.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1024070/merkley-statement-on-vote-to-defund-planned-parenthood#.XZ412EE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/75#.XZ4y40E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If @realDonaldTrump and Republicans were serious about reducing our national debt, they wouldnât have passed tax giveaways for the ultra-rich that exploded our deficits.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/1067427784413380609"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans blew up the deficit by giving tax cuts to the wealthy and corporations.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/1053347389417906176"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Merkley also supports permanent tax cuts for all Americans on income up to $250,000 a year but believes the country cannot afford to add $800 billion to the deficit in order to pass another round of tax cuts for millionaires.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/847989/issue-position-jobs-and-the-economy#.XZ43WEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"These tax cuts for billionaires and big corporations wonât pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/936692163106177025"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Middle class families pay into Social Security with every dollar they earn. But for the top 1%, their contributions are capped. If we remove this cap, we can ensure everyone pays their fair share and protect Social Security for decades to come. #ScrapTheCap\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/1230185541553065985"
+        },
+        {
+          "type": "statement",
+          "text": "\"Raising the Medicare eligibility age would be absolutely disastrous. In my town halls, I hear from a lot of Oregonians who are in their early 60s and are praying they make it to 65 to receive their Medicare benefits. If anything, we should be lowering the eligibility age. Medicare is an important lifeline for our seniors, and must be protected from hostile attacks to privatize it or weaken it,\" said Merkley.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/855906/senators-fight-to-protect-medicare-for-seniors#.XZ43uUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Merkley is adamantly opposed to proposals that would fundamentally alter Social Security's make-up by privatizing the program or diverting Social Security revenues into risky Wall Street private accounts.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/848008/issue-position-seniors#.XZ44KUE3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4302 - Protecting Access to Medicare Act of 2014.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/47279#.XZ4t50E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It is the product of a vast cycle of corruption, corruption enabled by Citizens United, resulting in vast funds flowing through our election system to elect individuals selected by millionaires and billionaires.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1210300/merkley-unloads-on-corrupt-gop-tax-scam#.XZ42rUE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 80% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/12#.XZ4zAEE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must also ban chokeholds and other oxygen-depriving tactics nationwide, and identify them as civil rights violations. We must engage in nationwide data collection to determine how often and against whom force--whether justified or unjustified--is used. We must require civilian oversight. We must end no-knock warrants. We must end the transfer of battlefield armaments to civilian police agencies. We must end qualified immunity for police officers who engage in bad behavior. We must outlaw racial profiling and build systems to ensure it actually stops.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1437493/a-national-database-for-police-misconduct"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Jeff is committed to a foreign policy that uses every tool available to make the United States safer and stronger, and knows that those tools are often not military.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/915407"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/22#.XZ4zLkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Voted NO bc it provides massive $80bil increase in defense spending while our infrastructure & education investments are woefully inadequate\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/909951893039874049"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Investing in infrastructure creates good jobs, improves our economy, protects public health & expands opportunity to all\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/732993127884029952"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump plans to sell us out to Wall Street developers with #TrumpTolls. But @SenateDems want real, direct infrastructure investments that will strengthen our middle class and create 15 million good jobs.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/974708510918414336"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must act quickly to close corporate tax loopholes and curb tax dodgers who game the system at the expense of hardworking Americans.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/717482854867976192"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans blew up the deficit by giving tax cuts to the wealthy and corporations.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/1053347389417906176"
+        },
+        {
+          "type": "statement",
+          "text": "\"Senator Merkley also successfully included in the Small Business Jobs Act his Jump Start Act to help give small businesses a financial boost in their first year. Merkley's bill increases deductions for start-up expenses from $5,000 to $10,000 and increases the threshold for the phase-out of the deduction. The provision encourages entrepreneurs to create jobs now instead of waiting for the economy to recover.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/847989/"
+        },
+        {
+          "type": "statement",
+          "text": "\"These tax cuts for billionaires and big corporations wonât pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/936692163106177025"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XodqK5NKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/27#.XZ4zY0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's an enormous relief for students, educators, and parents across Oregon that the deeply broken \"No Child Left Behind' law is finally being replaced. No Child Left Behind left a lot of children behind. It focused too much on getting some children to meet testing goals while ignoring other children, as well as wiping out numerous core courses and electives that were not tested. It's time to replace a narrow and often counterproductive focus on high-stakes testing with a broader vision of learning and accountability, and that's exactly what this bill does.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1068046/merkley-applauds-senate-passage-of-bill-to-revamp-broken-no-child-left-behind-law"
+        },
+        {
+          "type": "statement",
+          "text": "\"When the bill goes before the conference committee, we must work to improve it so that all children, particularly those most at-risk, can get the education they deserve. This means strengthening the accountability measures within the bill and requiring states to identify and support schools that need additional assistance to serve their most vulnerable students. By doing so, we can help close the achievement gap and ensure all our students are given a fair shot to reach their full potential.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/998939/merkley-statement-on-passage-of-every-child-achieves-act"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Investing in clean, renewable energy infrastructure is critical to #ActOnClimate\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/739970334246506496"
+        },
+        {
+          "type": "statement",
+          "text": "\"Jeff believes that clean energy can create the jobs of the future here in America, while also reducing dangerous carbon pollution. He led efforts to expand biomass as a renewable energy source, and wrote the Job Creation through Energy Efficient Manufacturing Act, which would immediately create jobs in construction and renovation while helping manufacturers lower their costs and create more jobs in the long run.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/915399"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/29#.XZ4zhEE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"To boost the production and use of electric vehicles, Senator Merkley sponsored the bipartisan Electric Vehicle and Deployment Act of 2010 with Senators Dorgan (D-ND) and Alexander (R-TN). The legislation would increase incentives for electric vehicle purchases, promote the deployment of charging infrastructure and launch a \"deployment communities\" program where selected communities across the country would get assistance in encouraging broad adoption of electric vehicles in the marketplace.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/847996/"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One of Senator Merkley's top priorities as a member of the Senate Environment and Public Works Committee is to pass legislation that will reduce global warming pollution. Merkley is working with his colleagues on legislation that places a cap on global warming pollution and develops a cost effective program to help industry and consumers meet that cap.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/847996"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 99% by League of Conservation Voters.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/30#.XZ4zn0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Enough is enough. Weâve lost too many loved ones to senseless gun violence. If not commonsense gun reform now, when?\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/927539212479533057"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Brady Campaign to Prevent Gun Violence.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/37#.XZ4zwUE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If GOP repeals #ACA, 32 mil lose care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/888128611483385857"
+        },
+        {
+          "type": "statement",
+          "text": "\"Repealing a key pillar of the ACA will wreak havoc on our health care system, drive up premiums & leave millions w/o insurance.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/943189657155751936"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #ACA has literally been a lifesaver. Iâll keep fighting to make sure that its protections are not going to go anywhere.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/895306492563390465"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699#.XodqK5NKg_U"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/40#.XZ40D0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trumpâs wall will waste our scarce resources: a 21-ft ladder defeats a 20-ft wall. We must focus on smart infrastructure investment instead.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/824369820938436608"
+        },
+        {
+          "type": "statement",
+          "text": "\"Trump's immigration plan is a big mistake & I stand with our cities determined not to make this mistake #NoBanNoWall\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/824370041437224961"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/40#.XZ40D0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Six months ago today, @realDonaldTrump announced that he would end #DACA and threw the lives of our Dreamers into chaos. President Trump created this problem and he still has the power to fix it. He needs to recognize: Dreamers are Americans, not bargaining chips.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/970791563398918144"
+        },
+        {
+          "type": "statement",
+          "text": "\"We made a promise to nearly 700,000 young people that, if they trusted us enough to come forward, we would protect them. Trumpâs betrayal of DREAMers must not stand. I will fight to honor the promise made to DREAMers who know no other land. #HomeIsHere #HereToStay #DACA\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenJeffMerkley/status/1194311827775270912"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/22#.XZ4zLkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump should look at diplomatic options and remember that our greatest strength has never been our military might but our global leadership. When senior administration officials brief me and my colleagues this afternoon, I will press the administration to produce a strategy that engages our allies and avoids war, prevents Iran from acquiring nuclear weapons, and responds to Iran's malign activities in the region.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1396585/merkley-calls-for-de-escalation-with-iran"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Nuclear Non-Proliferation Treaty remains a pillar of U.S. and international security. Only nuclear weapons have the capacity to wipe out humanity in the blink of an eye,\" said Merkley. \"It is imperative that that the United States recommit to all of its obligations under the NPT, particularly by reducing the role and number of nuclear weapons, as a long line of Presidents and Congresses have done before, irrespective of political party. I urge President Trump to continue to use the United States' significant diplomatic power to make progress on this critical issue--including by entering into the Comprehensive Test Ban Treaty; locking in the extension of the New START Treaty with Russia; and pushing for a concrete and verifiable plan to end North Korea's possession of nuclear weapons.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1256087/senators-affirm-us-commitment-to-the-nuclear-non-proliferation-treaty"
+        },
+        {
+          "type": "statement",
+          "text": "\"We can and should work with international partners to take on Iran's other malign actions, including its ballistic missile program and destabilizing support for terrorism and proxies in the Middle East. But it's entirely possible to do so without jeopardizing the progress we've already made in containing Iran's nuclear program. Instead, President Trump's action today puts the U.S., Israel, and the entire world at risk by reopening the path to a nuclear Iran.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1258031/merkley-denounces-president-trumps-dangerous-iran-decision"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"After 13 years and hundreds of billions of dollars spent on the war in Afghanistan, Jeff is pushing for the American people to have an opportunity to weigh in before we commit more resources and more American troops past the end of this year. He thinks it is long past time to bring our sons and daughters from the longest war in American history.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/915407/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Americans are exhausted by a seemingly endless war. We have lost too many brave service members, and we owe all who have served there an extraordinary debt of gratitude. It is time for the president to present a compelling plan for regional stability and an end to American military involvement -- not a vague plan to continue the failed strategies of the past.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1192129/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/22#.XZ4zLkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Merkley has long been a leader in calling out unfair trade agreements and their negative impacts on American workers. He is the author of the Level the Playing Field in Global Trade Act, legislation that would treat substandard labor and environmental standards as unfair international trade subsidies and empower the U.S. to fight back against these unfair trade practices that have undercut American workers.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1396591"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Public Citizen.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/23644/jeff-merkley/63#.XZ40LUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"That`s right. And the same analysis says that if the tariffs go up to 25 percent, it might be $1,500 to a family wiping out any little few dollars that the working-class families might have benefited from the 2017 tax bill. They never noticed an improvement. They will notice when they`re losing $1,000 to 1,500 out of their annual income.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1381123"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5430 - United States-Mexico-Canada Agreement Implementation Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/70768"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T01:57:47+00:00"
+}

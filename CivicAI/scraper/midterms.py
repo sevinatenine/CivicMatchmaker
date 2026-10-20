@@ -22,6 +22,13 @@ Other modes
     python3 midterms.py --states CO,TX           # fetch only these states
     python3 midterms.py --state CO --district 02 # skip geocoding
 
+Safe to rerun / run alongside other runs
+    * The registry is READ FROM DISK before every save and only the records this run changed
+      are merged in, under a file lock. Candidates added by another run are never lost.
+    * Short rate limits (HTTP 429/5xx) are retried with backoff instead of ending the run.
+    * States already fetched are skipped; rerun --all-states to continue where it stopped
+      (add --refetch to refresh them).
+
 Vote Smart linking (--pct / --pct-only):
     * searches Vote Smart by name, then scores results on state, office, district, last name,
       first initial and party. Clear winners are "linked" and their PCT is scraped.
@@ -38,16 +45,18 @@ Caveats
 Stdlib only for the FEC part; --pct needs pct_scraper.py's deps (curl_cffi, beautifulsoup4).
 """
 import argparse
+import fcntl
 import json
 import os
 import re
 import sys
 import time
+import unicodedata
+from contextlib import contextmanager
 from datetime import date, datetime, timezone
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
-import unicodedata
 
 FEC_API = "https://api.open.fec.gov/v1"
 CENSUS = "https://geocoding.geo.census.gov/geocoder/geographies/address"
@@ -83,28 +92,52 @@ def age_days(iso: str) -> float:
         return 1e9
 
 
-def http_json(url: str, params: dict, label: str) -> dict:
+def http_json(url: str, params: dict, label: str, retries: int = 3) -> dict:
+    """GET JSON. Retries rate limits / server errors with backoff before giving up."""
     req = Request(f"{url}?{urlencode(params)}",
                   headers={"Accept": "application/json", "User-Agent": UA})
-    try:
-        with urlopen(req, timeout=30) as r:
-            return json.load(r)
-    except HTTPError as e:
-        hint = ""
-        if e.code == 429:
-            hint = " (rate limited: slow down or get a free key at https://api.data.gov/signup/)"
-        elif e.code in (400, 403):
-            hint = " (check the API key / parameters)"
-        raise FetchError(f"{label}: HTTP {e.code}{hint}", e.code)
-    except URLError as e:
-        raise FetchError(f"{label}: network error: {e.reason}")
-    except ValueError:
-        raise FetchError(f"{label}: response was not JSON")
+    for attempt in range(retries + 1):
+        try:
+            with urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries:
+                ra = e.headers.get("Retry-After") if e.headers else None
+                wait = int(ra) if ra and ra.isdigit() else (60 if e.code == 429 else 5) * (attempt + 1)
+                if wait <= 300:  # a long Retry-After means a daily cap: don't sit here
+                    print(f"{label}: HTTP {e.code}, waiting {wait}s "
+                          f"(retry {attempt + 1}/{retries})", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+            hint = ""
+            if e.code == 429:
+                hint = " (rate limited: slow down or get a free key at https://api.data.gov/signup/)"
+            elif e.code in (400, 403):
+                hint = " (check the API key / parameters)"
+            raise FetchError(f"{label}: HTTP {e.code}{hint}", e.code)
+        except URLError as e:
+            if attempt < retries:
+                time.sleep(5 * (attempt + 1))
+                continue
+            raise FetchError(f"{label}: network error: {e.reason}")
+        except ValueError:
+            raise FetchError(f"{label}: response was not JSON")
 
 
 # --------------------------------------------------------------------------- #
 # Registry (../scraped/candidates.json) and pct index
 # --------------------------------------------------------------------------- #
+@contextmanager
+def registry_lock(out_dir: str):
+    os.makedirs(out_dir, exist_ok=True)
+    with open(os.path.join(out_dir, ".candidates.lock"), "w") as lf:
+        fcntl.flock(lf, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(lf, fcntl.LOCK_UN)
+
+
 def load_registry(out_dir: str) -> dict:
     path = os.path.join(out_dir, REGISTRY_FILE)
     if os.path.exists(path):
@@ -114,20 +147,48 @@ def load_registry(out_dir: str) -> dict:
             reg.setdefault("meta", {})
             reg.setdefault("candidates", {})
             return reg
-        except (ValueError, OSError, AttributeError):
-            os.replace(path, path + ".bak")
-            print(f"Warning: {path} was unreadable; moved it to {path}.bak and starting fresh.",
-                  file=sys.stderr)
+        except (ValueError, OSError, AttributeError) as e:
+            # never silently start fresh: that's how a registry gets wiped
+            sys.exit(f"{path} is unreadable ({e}). Fix or restore it (check for a .bak) "
+                     f"and rerun; refusing to overwrite it.")
     return {"meta": {}, "candidates": {}}
 
 
+def mark_dirty(reg: dict, fec_id: str) -> None:
+    reg.setdefault("_dirty", set()).add(fec_id)
+
+
 def save_registry(out_dir: str, reg: dict) -> None:
-    os.makedirs(out_dir, exist_ok=True)
-    path = os.path.join(out_dir, REGISTRY_FILE)
-    tmp = path + ".tmp"
-    with open(tmp, "w", encoding="utf-8") as f:
-        json.dump(reg, f, indent=2, ensure_ascii=False, sort_keys=True)
-    os.replace(tmp, path)  # atomic: Ctrl-C can't leave a half-written file
+    """Re-read the file under a lock, merge in only the records this run touched
+    (reg['_dirty']), and write atomically. Other runs' candidates are kept."""
+    dirty = reg.setdefault("_dirty", set())
+    with registry_lock(out_dir):
+        disk = load_registry(out_dir)
+        for fid in dirty:
+            if fid in reg["candidates"]:
+                disk["candidates"][fid] = reg["candidates"][fid]
+        states = disk["meta"].setdefault("states", {})
+        for s, t in reg["meta"].get("states", {}).items():
+            if t > states.get(s, ""):
+                states[s] = t
+        for k, v in reg["meta"].items():
+            if k != "states":
+                disk["meta"][k] = v
+        path = os.path.join(out_dir, REGISTRY_FILE)
+        tmp = path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(disk, f, indent=2, ensure_ascii=False, sort_keys=True)
+        os.replace(tmp, path)  # atomic: Ctrl-C can't leave a half-written file
+    # pick up anything other runs added, keeping object identity for records in use
+    for fid, rec in disk["candidates"].items():
+        mine = reg["candidates"].get(fid)
+        if mine is None:
+            reg["candidates"][fid] = rec
+        elif fid not in dirty and mine is not rec:
+            mine.clear()
+            mine.update(rec)
+    reg["meta"] = disk["meta"]
+    dirty.clear()
 
 
 def load_pct_index(out_dir: str) -> dict:
@@ -152,6 +213,7 @@ def upsert(reg: dict, cands: list, state: str, year: int) -> tuple:
         rec["first_seen"] = (old or {}).get("first_seen", now)
         rec["last_seen"] = now
         reg["candidates"][c["fec_id"]] = rec
+        mark_dirty(reg, c["fec_id"])
     reg["meta"].setdefault("states", {})[state] = now
     reg["meta"]["year"] = year
     reg["meta"]["last_fetched"] = now
@@ -207,6 +269,23 @@ def fec_candidates(key, state, year, office, include_all):
     return out
 
 
+def fec_raised(key, state, year, office):
+    """candidate_id -> total receipts (money raised) for this cycle."""
+    out, page = {}, 1
+    while True:
+        params = {"api_key": key, "state": state, "election_year": year, "office": office,
+                  "per_page": 100, "page": page, "sort": "-receipts"}
+        data = http_json(f"{FEC_API}/candidates/totals/", params, f"OpenFEC totals {state}/{office}")
+        for r in data.get("results", []):
+            cid = r.get("candidate_id")
+            out[cid] = max(out.get(cid, 0), r.get("receipts") or 0)
+        if page >= data.get("pagination", {}).get("pages", 1):
+            break
+        page += 1
+        time.sleep(0.2)
+    return out
+
+
 def pretty_name(fec_name: str) -> str:
     """'NEGUSE, JOSEPH D. MR.' -> 'Joseph Neguse' (good enough to search Vote Smart)."""
     if "," not in fec_name:
@@ -236,6 +315,7 @@ def shape(c: dict, year: int, state: str) -> dict:
         "fec_url": f"https://www.fec.gov/data/candidate/{fid}/",
     }
 
+
 def fetch_state(key, state, year, include_all):
     out = []
     for office in ("S", "H"):
@@ -247,14 +327,17 @@ def fetch_state(key, state, year, include_all):
         time.sleep(0.2)
     return out
 
+
 # --------------------------------------------------------------------------- #
 # Vote Smart linking + PCT scraping
 # --------------------------------------------------------------------------- #
 NAME_SUFFIX = {"jr", "sr", "ii", "iii", "iv", "md", "dr"}
 
+
 def _words(s: str) -> list:
     s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode()
     return [w for w in re.sub(r"[^a-z ]", "", s.lower()).split() if w not in NAME_SUFFIX]
+
 
 def score(c: dict, r: dict) -> int:
     """How well a Vote Smart search result r matches FEC candidate c (-1 = reject)."""
@@ -278,12 +361,12 @@ def score(c: dict, r: dict) -> int:
     else:
         s += 2 if is_house else 0
     d = re.sub(r"\D", "", str(r.get("district") or ""))
-    d = re.sub(r"\D", "", str(r.get("district") or ""))
     if c["office"] == "H" and is_house and d and c["district"]:
         s += 2 if int(d) == int(c["district"]) else -1
     if (r.get("party") or "")[:1].upper() == (c.get("party_code") or "")[:1].upper():
         s += 1
     return s
+
 
 def choose(c: dict, results: list):
     scored = sorted(((score(c, r), r) for r in results), key=lambda x: -x[0])
@@ -357,6 +440,7 @@ def pct_needs(c: dict, refresh_days: float, retry_missing: bool) -> bool:
         return retry_missing
     return age_days(c["pct_checked"]) >= refresh_days
 
+
 def likely_on_ballot(cands):
     """fec_ids of the top fundraiser per (state, office, district, party): a proxy for general-election nominees."""
     best = {}
@@ -365,6 +449,7 @@ def likely_on_ballot(cands):
         if key not in best or (c.get("raised") or 0) > (best[key].get("raised") or 0):
             best[key] = c
     return {c["fec_id"] for c in best.values()}
+
 
 def run_pct(reg, out_dir, scope, year, args):
     try:
@@ -405,6 +490,7 @@ def run_pct(reg, out_dir, scope, year, args):
             except SystemExit as e:             # fetch() exits on 403/429/503
                 print(f"Stopping: {e}", file=sys.stderr)
                 break
+            mark_dirty(reg, c["fec_id"])
             save_registry(out_dir, reg)
             if wall:
                 walls += 1
@@ -428,8 +514,10 @@ def run_pct(reg, out_dir, scope, year, args):
     stats = {}
     for c in reg["candidates"].values():
         if scope is None or c["state"] in scope:
-            stats[c.get("pct_status", "unprocessed")] = stats.get(c.get("pct_status", "unprocessed"), 0) + 1
+            k = c.get("pct_status", "unprocessed")
+            stats[k] = stats.get(k, 0) + 1
     print(f"Processed {done} this run. Registry status counts: {stats}", file=sys.stderr)
+
 
 # --------------------------------------------------------------------------- #
 # Display mode (one location)
@@ -437,21 +525,6 @@ def run_pct(reg, out_dir, scope, year, args):
 def sort_key(c):
     return (0 if c["incumbent"].lower().startswith("incumbent") else 1, c["name"])
 
-def fec_raised(key, state, year, office):
-    """candidate_id -> total receipts (money raised) for this cycle."""
-    out, page = {}, 1
-    while True:
-        params = {"api_key": key, "state": state, "election_year": year, "office": office,
-                  "per_page": 100, "page": page, "sort": "-receipts"}
-        data = http_json(f"{FEC_API}/candidates/totals/", params, f"OpenFEC totals {state}/{office}")
-        for r in data.get("results", []):
-            cid = r.get("candidate_id")
-            out[cid] = max(out.get(cid, 0), r.get("receipts") or 0)
-        if page >= data.get("pagination", {}).get("pages", 1):
-            break
-        page += 1
-        time.sleep(0.2)
-    return out
 
 def print_race(title, cands):
     print(f"\n== {title} ==")
@@ -494,7 +567,7 @@ def run_display(args, key, year, state, reg, out_dir):
         c["pct_id"] = (reg["candidates"].get(c["fec_id"]) or {}).get("pct_id")
     if args.store:
         new, upd = upsert(reg, cands, state, year)
-        for c in cands:   # upsert copied pct_id=None over nothing; drop empty values
+        for c in cands:   # drop empty pct_id values so they don't shadow a later link
             if not reg["candidates"][c["fec_id"]].get("pct_id"):
                 reg["candidates"][c["fec_id"]].pop("pct_id", None)
         save_registry(out_dir, reg)
@@ -550,7 +623,7 @@ def main():
     g.add_argument("--refetch", action="store_true",
                    help="Re-fetch states even if they already have raised data")
     g.add_argument("--min-raised", type=float, default=0,
-               help="Only process/show candidates who raised at least this many dollars (e.g. 250000)")
+                   help="Only process/show candidates who raised at least this many dollars (e.g. 250000)")
     g.add_argument("--fec-key", help="OpenFEC/api.data.gov key (or FEC_API_KEY env var)")
     d = ap.add_argument_group("single-location display")
     d.add_argument("--address", help="Street address (used to find your districts)")
@@ -571,7 +644,7 @@ def main():
     p.add_argument("--cookie-file", help="Text file containing the Vote Smart Cookie header")
     p.add_argument("--user-agent", help="Override the User-Agent (match your browser)")
     p.add_argument("--likely-ballot", action="store_true",
-               help="Only the top fundraiser per party in each race (likely general-election nominees)")
+                   help="Only the top fundraiser per party in each race (likely general-election nominees)")
     ap.add_argument("-d", "--out-dir", help="Data folder (default: ../scraped relative to this script)")
     args = ap.parse_args()
 
@@ -618,8 +691,8 @@ def main():
                 except FetchError as e:
                     print(f"[{i}/{len(scope)}] {st}: {e}", file=sys.stderr)
                     if e.code == 429:
-                        print("Stopping: rate limited. Wait a bit and rerun for the remaining states.",
-                              file=sys.stderr)
+                        print("Stopping: rate limited (retries exhausted). Wait and rerun "
+                              "--all-states; finished states are skipped.", file=sys.stderr)
                         break
                     continue
                 new, upd = upsert(reg, cands, st, year)

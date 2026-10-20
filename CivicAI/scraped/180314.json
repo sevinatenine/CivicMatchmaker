@@ -1,0 +1,592 @@
+{
+  "name": "Pat Ryan",
+  "page_title": "Pat Ryan's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 18, Democratic",
+  "on_the_ballot": "Running, Democratic, Working Families for U.S. House (NY) - District 18",
+  "candidate_id": "180314",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/180314/pat-ryan",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Washington, Pat will fight to ensure reproductive rights for women, make sure the right to vote is protected, and guarantee Americans are safe. He will stand against a National Abortion Ban and fight to re-establish the protections guaranteed by Roe v. Wade. Pat supports the John Lewis Voting Rights Act and will make sure our right to vote is protected and enshrined. With the overturning of Roe v. Wade a number of core freedoms are under threat, Pat will work to make sure that every American can marry whoever they chose.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        },
+        {
+          "type": "statement",
+          "text": "\"Make no mistake, when politicians say the decision to overturn Roe v. Wade was, \"the absolute right thing,\" these are the real-life consequences. For Frederica and every woman across this country whose freedoms are under attackâwe will continue to fight back.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1751009609353994490"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâll never vote to cut a dime from Medicare or Social Security. Our seniors deserve to retire with dignity. They worked for it. Proud to have earned a 100% Pro-Retiree rating from @ActiveRetirees\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1643963767703883778"
+        },
+        {
+          "type": "statement",
+          "text": "\"Medicare and Social Security are commitments we have made to our seniors. Extremists in Washington are ready to undermine those promises for power and political gain. We will continue to fight back.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1658492249523765249"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Pat's fighting inflation by going after price-gougers who are harming customers, guaranteeing middle-class voters get a tax cut, and making sure billionaires and big corporations pay their fair share. Pat will work with organized labor to guarantee better wages and protections for working families, pass paid family leave for all Americans, and ensure that equal work means equal pay.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to pay for their tax breaks for billionaires and big corporations by taking services away from veterans and hungry kids. That tells you everything you need to know about who they work for.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1661374743218466817"
+        },
+        {
+          "type": "statement",
+          "text": "\"The last time the GOP held power in Washington, they gave their wealthiest donors trillions in tax breaks. Now, they want to allow Wall Street investors to risk your Social Security to turn a bigger profit. They are fighting for them. Iâm fighting for you.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1634586982054494208"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wealthy donât need more tax breaks. Working families do.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1660815809961230337"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Pat's fighting inflation by going after price-gougers who are harming customers, guaranteeing middle-class voters get a tax cut, and making sure billionaires and big corporations pay their fair share. Pat will work with organized labor to guarantee better wages and protections for working families, pass paid family leave for all Americans, and ensure that equal work means equal pay.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"Letâs end tax breaks for billionaires and their private jets and use the revenue to pay for universal child care. Sound like a plan?\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1690732186662825985"
+        },
+        {
+          "type": "statement",
+          "text": "\"Republicans want to pay for their tax breaks for billionaires and big corporations by taking services away from veterans and hungry kids. That tells you everything you need to know about who they work for.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1661374743218466817"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Citizens United is the road map for legalized corruption. Mega corporations pay politicians for access. In turn, politicians vote to keep their profits high and business booming. Getting big money out of our politics will save taxpayers more of theirs.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1666114977466572802"
+        },
+        {
+          "type": "statement",
+          "text": "\"The disastrous Citizens United decision turned elections into auctions and put democracy up for sale to the highest bidder. Iâm not accepting corporate PAC money. I wonât be bought and paid for.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1561420871557779461"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My heart goes out to the family and loved ones of George Floyd tonight. This verdict represents a significant step towards justice, and provides real accountability. But we - each and every one of us across this country - have MUCH more work to do...\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1384676716581376001"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our police need resources to keep us safe. As County Executive, I led a crackdown on illegal guns and drugs, resulting in the single largest seizure in county history. In Congress, Iâm already getting the police resources they need. Thank you, Juan, for having my back.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1578393695585533952"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At last night's #NY19 debate, I got to choose a question. I asked about something important to me: cutting defense spending. As a veteran, I know firsthand that we can make smarter choices. It's for the good of our country, and it's what I'll do in office.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1007066162126041088"
+        },
+        {
+          "type": "statement",
+          "text": "\"I came to Congress to deliver results. The #NDAA is a massive victory for West Point, Stewart AFB, and service members across the country.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1675118268418334721"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/180314/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/180314/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change is a defining challenge of our time. As County Executive, I led the fight to electrify our busses, create a Green Jobs Academy, and block projects that would pollute our air. Thank you, @SEECPAC, for your support.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1576990212022046724"
+        },
+        {
+          "type": "statement",
+          "text": "\"The City of Newburgh will receive over $5 million in federal funding for the food TEC program, to create good-paying jobs, and for the construction of Newburgh Landing. I am 100% focused on delivering results.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1616137287003250691"
+        },
+        {
+          "type": "statement",
+          "text": "\"This monumental investment will improve transportation, create jobs, and establish our waterfront as a landmark destination for years to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1674089408352362499"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need investments in climate mitigation and green energy technology that will create good-paying jobs and finally meet the urgency of the crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1615792766897774594"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans need and deserve economic relief. To make both possible, we need more housing stock for families, lower interest rates for first-time homebuyers, and federal investment. Thatâs what I am fighting for.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1677312762526175232"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is a serious issue, and Dutchess County is doing the work to provide relief. I will continue to work with state and local partners to address housing.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1691440101140901890"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need more affordable, sustainable housing solutions, and we need them now. I will continue to partner with organizations like RUPCO to get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1727341414512546003"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big corporations are making record profits, jacking up prices well beyond inflation, and working families are getting screwed. We will hold those responsible to account.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1659975523236184064"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm glad to see Congress finally step up and take action at the federal level. The Inflation Reduction Act would drive down the deficit, lower the cost of RX drugs, lower emissions, and finally give our families a break we desperately need.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1553120411906441219"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Pat supports the John Lewis Voting Rights Act and will make sure our right to vote is protected and enshrined.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protecting the right to vote is essential for a healthy democracy. Let's focus on making voting more accessible, not creating barriers.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1679535911397097472"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change is a defining challenge of our time. As County Executive, I led the fight to electrify our busses, create a Green Jobs Academy, and block projects that would pollute our air. Thank you, @SEECPAC, for your support.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1576990212022046724"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pat knows the greatest threat to our future is climate change. We must make sure we are investing in our children and grandchildren by moving towards a greener future. As County Executive, Pat was a national leader in taking climate action, committing to achieving 100% renewable energy by 2030, putting the county's first electric busses on the road, and starting the Ulster County Green Careers Academy at SUNY Ulster. In Washington, Pat is working to bring the successes of Ulster County to Congress, fighting for investments in electric public transportation, job training in green careers, and standing against big polluters who want to damage the Hudson Valley's precious natural resources.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need investments in climate mitigation and green energy technology that will create good-paying jobs and finally meet the urgency of the crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1615792766897774594"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Climate change is a defining challenge of our time. As County Executive, I led the fight to electrify our busses, create a Green Jobs Academy, and block projects that would pollute our air. Thank you, @SEECPAC, for your support.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1576990212022046724"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 20% by Independent Petroleum Association of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/180314/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/180314/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Having carried weapons of war in combat Pat understands the devastating power they can inflict and has called for the passage of commonsense gun reforms including, red flag laws, assault weapons ban, and universal background checks. Pat is committed to increasing mental health and addiction recovery resources to make sure that those who need it get the help they require. As County Executive, he reinstated the County's Mental Health Department, bolstered funding for mental health services, and is building the county's first-ever 24/7 crisis stabilization center.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, Pat's fighting inflation by going after price-gougers who are harming customers, guaranteeing middle-class voters get a tax cut, and making sure billionaires and big corporations pay their fair share. Pat will work with organized labor to guarantee better wages and protections for working families, pass paid family leave for all Americans, and ensure that equal work means equal pay.\"",
+          "source": "www.patryanforcongress.com",
+          "url": "https://www.patryanforcongress.com/priorities"
+        },
+        {
+          "type": "statement",
+          "text": "\"No one in this country should fear losing their job because they or a loved one is sick and in need of care. We need universal paid family sick leave, and we can pay for it by finally making the ultra-wealthy and big corporations pay their fair share. Letâs get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1626681892987719686"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Iâm fighting to lower utility bills, make prescription drugs more affordable, and protect access to abortion. My opponent is not.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1573471526438940672"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm glad to see Congress finally step up and take action at the federal level. The Inflation Reduction Act would drive down the deficit, lower the cost of RX drugs, lower emissions, and finally give our families a break we desperately need.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1553120411906441219"
+        },
+        {
+          "type": "statement",
+          "text": "\"The ten biggest drug companies made over $112 billion in profits last year while 1:4 Americans struggle to afford their prescription medication. We can and must do more.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1726622929717485967"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We have an immigration crisis at our southern border and a crisis of courage in Washington. Nearly every GOP Senator voted against a bipartisan deal to secure our border & provide aid to our allies. They did it because Donald Trump told them to, and theyâre terrified of losing the issue at the ballot box. Someone should tell them that today, they did exactly that.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1755423017209917677"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/180314/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/180314/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America is not a nation built on fear. Our community here in Ulster County is stronger because of our immigrants, and more vibrant because of our diversity. I will never stand silent while anyone attempts to divide us. We must counter with truth, courage, and charity for all.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1082860738463580160"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigration makes the US economy stronger & more competitive. #DefendDACA #DreamAct\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/905995936727478274"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/180314/pat-ryan"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7343: \"Detain and Deport Illegal Aliens Who Assault Cops Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37337/100398/180314/detain-and-deport-illegal-aliens-who-assault-cops-act#100398"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/180314/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/180314/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/180314/israel-security-supplemental-appropriations-act-2024#99510"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/180314/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/180314/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/180314/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/180314/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social media platforms and big tech need more oversight. I will demand accountability on behalf of communities that are increasingly targeted. We must stop groups like this from taking root and emboldening hatred, anti-Semitism, and violence.\"",
+          "source": "x.com",
+          "url": "https://x.com/PatRyanUC/status/1594705297494663168"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/180314/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:01:56+00:00"
+}

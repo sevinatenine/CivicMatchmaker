@@ -1,0 +1,520 @@
+{
+  "name": "Chris Deluzio",
+  "page_title": "Chris Deluzio's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 17, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (PA) - District 17",
+  "candidate_id": "202954",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/202954/chris-deluzio",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chris believes in the simple idea that women should have the freedom to make their own healthcare and reproductive decisions: a basic human right.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/reproductive-freedom/"
+        },
+        {
+          "type": "statement",
+          "text": "\"With the Supreme Court overturning Roe v. Wade, we cannot allow right-wing extremists and the government to interfere with a womanâs decision regarding their health. That means we need federal and state action to codify the right to an abortion and a womanâs right to decide whatâs best for them.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/reproductive-freedom/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/202954/chris-deluzio/38/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chris is fighting to guarantee healthcare for every American and believes that healthcare is a human right. He supports efforts to lower the Medicare eligibility age; to expand Medicare to include dental, vision, and hearing services; to allow Medicare to negotiate better prescription drug prices; to expand Medicaid coverage to home care services for seniors and people with disabilities; and to close the Medicaid coverage gap. Chris will work hard to expand Medicare to achieve coverage for all Americans.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/good-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Folks have earned their Medicare after years of sacrifice and service. Today, on the 58th anniversary of Medicare, I'm proud to support this program for our seniors and people with disabilities in Western PA and will always defend it from cuts.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepDeluzio/status/1685807703904436224"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fiscal responsibility demands that the ultra-wealthy start paying their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1659997073284931584?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I don't think the richest billionaires in history should pay a lower tax rate than you. Pretty basic stuff, folks. And when I'm the next #PA17 Congressman, I'll fight to get these billionaires and huge corporations to pay their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1575560647512915978?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter agenda will create good paying UNION jobs and build an economy that rewards work, not wealth. Added bonus: itâs the richest and most powerful who are going to pay for itâwith tax cuts for more than 90% of households with kids.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1450574837357895682?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fiscal responsibility demands that the ultra-wealthy start paying their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1659997073284931584?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I don't think the richest billionaires in history should pay a lower tax rate than you. Pretty basic stuff, folks. And when I'm the next #PA17 Congressman, I'll fight to get these billionaires and huge corporations to pay their fair share in taxes.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1575560647512915978?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter agenda will create good paying UNION jobs and build an economy that rewards work, not wealth. Added bonus: itâs the richest and most powerful who are going to pay for itâwith tax cuts for more than 90% of households with kids.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1450574837357895682?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He supports legislation like the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act, and he knows we need to overturn the Supreme Courtâs disastrous ruling in Citizens United that opened the door to limitless corporate money in politics.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/democracy/"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chris has supported and secured federal funding for local law enforcement, so that cops have what they need to keep us safe.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/safer-communities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H Con Res 40 \"Expressing support for local law enforcement officers and condemning efforts to defund or dismantle local law enfo ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/20/criminal-justice"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Responsible Statecraft \"The intense consolidation of the defense industrial base makes it too easy for contractors to price gouge, ripping off the military and the public. Without competition driving prices down, and with systems in place that pre-pay for costs, companies can charge exorbitant amounts for their services, supplies, and weapons.\"",
+          "source": "responsiblestatecraft.org",
+          "url": "https://responsiblestatecraft.org/2023/07/19/rep-chris-deluzio-is-an-iraq-war-vet-taking-on-the-military-industrial-complex/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/22/defense"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter agenda will create good paying UNION jobs and build an economy that rewards work, not wealth. Added bonus: itâs the richest and most powerful who are going to pay for itâwith tax cuts for more than 90% of households with kids.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1450574837357895682?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"There are a lot great policies for #PA17 in The Inflation Reduction Act. It's a bill that would ramp up clean energy and lower the cost of medicine, save people $ and help tackle inflation â all paid for by the ultra-rich and corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1554842230036340737?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Glad to be in the fight to make housing more affordable for hardworking folks in Western PA.\"",
+          "source": "www.instagram.com",
+          "url": "https://www.instagram.com/repdeluzio/p/C1AWRYypd9s/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am requesting funding for the Affordable Housing in Wilkinsburg, Pennsylvania, project in fiscal year 2024. The entity to receive funding for this project is ACTION-Housing, Inc., located at 611 William Penn Place, Suite 800, Pittsburgh, Pennsylvania 15217. The funding would be used to develop affordable housing. The project is an appropriate use of taxpayer funds because it would increase housing supply and improve housing affordability in the local community.\"",
+          "source": "deluzio.house.gov",
+          "url": "https://deluzio.house.gov/sites/evo-subsites/deluzio.house.gov/files/evo-media-document/affordable-housing-wilkinsburg-financial-disclosure-and-federal-nexus-letter.pdf"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"There are a lot great policies for #PA17 in The Inflation Reduction Act. It's a bill that would ramp up clean energy and lower the cost of medicine, save people $ and help tackle inflation â all paid for by the ultra-rich and corporations.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1554842230036340737?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/202954/chris-deluzio"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He supports legislation like the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act, and he knows we need to overturn the Supreme Courtâs disastrous ruling in Citizens United that opened the door to limitless corporate money in politics.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/democracy/"
+        },
+        {
+          "type": "statement",
+          "text": "\"I first swore the oath to our Constitution as a 17-year old, I've worked hard to secure voting rights and our elections as a lawyer, and I'll fight every day in Congress to defend our democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1481347762826452995?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today is a great day to pass the John Lewis Voting Rights Advancement Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1531762342404530178?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"To do this, we need to invest in the clean energy sources of the future, while protecting and creating union jobs in places like Allegheny and Beaver County that have kept the lights on in this country for over a century. Chris supports policies like the Inflation Reduction Act that are investing in renewable energy production and creating good jobs right here in Western Pennsylvania.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/healthy-safe-resilient-communities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We should, of course, fight for tougher environmental standards around natural gas (like methane emissions controls) and protect our public lands, but we need natural gas in our electrical grid to provide reliable base load power while we build out capacity for non-fossil fuel sources like solar, hydropower, and wind.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/healthy-safe-resilient-communities/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/202954/lower-energy-costs-act#91332"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Itâs exactly because of this background that Chris supports common sense gun reforms like background checks for every gun sale, getting high-capacity magazines and weapons of war off our streets and out of our schools, and red flag laws to keep guns out of the hands of people who are a danger to themselves or others.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/safer-communities/"
+        },
+        {
+          "type": "statement",
+          "text": "Giffords \"Deluzio strongly supports legislation to ban assault weapons and high-capacity magazines, as well as efforts to extend background checks to all gun sales and to make sure that dangerous weapons donât fall into the hands of those seeking to do harm.\"",
+          "source": "giffords.org",
+          "url": "https://giffords.org/candidates/chris-deluzio/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Bipartisan Safer Communities Act funding will help tackle the too-frequent tragedy of gun violence plaguing our communities,\" said Congressman Deluzio. \"I was proud to support the passage of the Bipartisan Safer Communities Act when I was seeking federal office, and now I am thrilled that this funding is coming home to help the Commonwealth take on the gun violence crisis.\"",
+          "source": "deluzio.house.gov",
+          "url": "https://deluzio.house.gov/media/press-releases/deluzio-celebrates-85-million-gun-violence-prevention-and-crisis-intervention"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Chris is fighting to guarantee healthcare for every American and believes that healthcare is a human right. He supports efforts to lower the Medicare eligibility age; to expand Medicare to include dental, vision, and hearing services; to allow Medicare to negotiate better prescription drug prices; to expand Medicaid coverage to home care services for seniors and people with disabilities; and to close the Medicaid coverage gap. Chris will work hard to expand Medicare to achieve coverage for all Americans.\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/good-healthcare/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"If I were serving in Congress, Iâd have President Bidenâs back to deliver his Build Back Better agenda for the American people: infrastructure $ AND lowered Medicare age, universal pre-K, Medicare negotiating down drug prices, paid family leave, & so much more. Get it done!\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1444388354162929669?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs not radical to believe that no one should have to choose between caring for a sick kid or loved one and getting fired. We need paid family leave in this country, and we need it now.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1453741874037075973?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right this second, members of Congress are blocking help for Western PA. They don't know what #paidleave means to a family on a working class income. They're not worried about grocery lists and packing lunches. But I am. Join my campaign\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1466139537776816130?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He supports efforts to...allow Medicare to negotiate better prescription drug prices\"",
+          "source": "chrisforpa.com",
+          "url": "https://chrisforpa.com/core-values/good-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If I were serving in Congress, Iâd have President Bidenâs back to deliver his Build Back Better agenda for the American people: infrastructure $ AND lowered Medicare age, universal pre-K, Medicare negotiating down drug prices, paid family leave, & so much more. Get it done!\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1444388354162929669?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"More good news for western PA seniors: the Inflation Reduction Act caps the costs of insulin (at $35), limits out-of-pocket spending on drugs, and will finally let Medicare negotiate drug prices to bring down costs for folks.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1556715942528385025?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/202954/chris-deluzio"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against H Res 957 \"Denouncing the Biden administration's open-borders policies, condemning the national security and public safety cr ...\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/40/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525 \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/40/immigration"
+        },
+        {
+          "type": "statement",
+          "text": "\"We face tremendous security challenges at home at our southern border and across the globeâincluding in Israel, Gaza, Ukraine, and the Indo-Pacific.\"",
+          "source": "deluzio.house.gov",
+          "url": "https://deluzio.house.gov/media/press-releases/deluzio-vote-statement-hr-7217"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/202954/chris-deluzio"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Russia's invasion of #Ukraine is a direct attack on the Ukrainian people and their sovereignty. The President is right to take swift diplomatic and economic action against against Putin and Russian officials for this war of aggression, which must end at once.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1496950130045562883?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6126 \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/22/defense"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"I look forward to supporting President Bidenâs security supplemental request. The package not only helps our friends in Israel, Ukraine, and around the world, but also provides humanitarian assistance to desperate Palestinian civilians and fights for Americaâs national security interests abroad and at homeâlike stemming the flow of fentanyl across our border.\"",
+          "source": "deluzio.house.gov",
+          "url": "https://deluzio.house.gov/media/press-releases/deluzio-statement-republican-effort-condition-israel-aid-helping-rich-tax"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Russia's invasion of #Ukraine is a direct attack on the Ukrainian people and their sovereignty. The President is right to take swift diplomatic and economic action against against Putin and Russian officials for this war of aggression, which must end at once.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1496950130045562883?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/202954/chris-deluzio/22/defense"
+        },
+        {
+          "type": "statement",
+          "text": "\"I look forward to supporting President Bidenâs security supplemental request. The package not only helps our friends in Israel, Ukraine, and around the world, but also provides humanitarian assistance to desperate Palestinian civilians and fights for Americaâs national security interests abroad and at homeâlike stemming the flow of fentanyl across our border.\"",
+          "source": "deluzio.house.gov",
+          "url": "https://deluzio.house.gov/media/press-releases/deluzio-statement-republican-effort-condition-israel-aid-helping-rich-tax"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Behemoths like Big Tech monopolists have been buying up political power and rigging the rules for themselves for too long -- break 'em up.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1539699747589586945?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Big Tech giants make billions hoarding our personal info. Demand real transparency + break 'em up.\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1550606156728619010?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"This Facebook outage is a great reminder, yet again, that letting Big Tech gobble up competitors, kill small business, and behave like monopolist bullies is a threat to our economy and our democracy. Break em up\"",
+          "source": "x.com",
+          "url": "https://x.com/ChrisForPA/status/1445138954613895174?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:05:45+00:00"
+}

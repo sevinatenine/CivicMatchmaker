@@ -1,0 +1,484 @@
+{
+  "name": "Don Davis' Issue Positions (Political Courage Test)",
+  "page_title": "Don Davis' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NC) - District 1",
+  "candidate_id": "102950",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102950/don-davis",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Don knows that now more than ever, womenâs rights are under attack. Congress must take action to codify Roe v. Wade and protect womenâs constitutional rights across the country. He knows that a womanâs health decisions should be between her and her doctor. Don knows that the decision of how and when to start a family is deeply personal. That is why Don is fighting to lower rates of maternal mortality and morbidity in eastern North Carolina. Our region has the highest rates of maternal mortality and morbidity in the state. Maternal mortality and morbidity is especially harmful to African American women who have a preterm birth rate that is 48 percent higher than the rate among all other women in North Carolina.\"",
+          "source": "votedondavis.com",
+          "url": "https://votedondavis.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Now more than ever we must protect fundamental freedoms like abortion and ensure all families have option to decide when and how to start a family. In Congress, I will fight tooth-and-nail to protect abortion rights and womenâs healthcare\"",
+          "source": "x.com",
+          "url": "https://x.com/DonDavisNC/status/1521315551498412033?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"88 years ago, #SocialSecurity became law, providing a safety net for millions of Americans. Today, 175,760 residents in #NC01 rely on Social Security benefits, including seniors, widows, and children. That's why I will continue working to protect and expand Social Security benefits so that everyone in eastern North Carolina can thrive with dignity. #SocSec88\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1691140001080160265?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Itâs time to #ScrapTheCap to strengthen Social Security benefits for recipients in #NC01.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1630673767058882561?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm fighting hard to secure investments to help provide for people with disabilities. Yesterday, I met with @NFB_voice to discuss Social Security, medical device accessibility, and website accessibility and learn how I can best support them in the U.S. House.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1620898032060440612?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/102950/don-davis"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Engaging meeting with General Langley, discussing strategies to keep America safe and secure. Grateful for his expertise and commitment to our nation's defense. Working together, we can ensure a strong and resilient future for all Americans. #UnitedWeStand\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1679288730358538240?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/102950/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/102950/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Don understands that investing in rural infrastructure allows eastern North Carolina to thrive for generations to come. Thatâs why Don secured over $1 billion to expand broadband internet in North Carolina and will continue to fight for reliable access to high-speed broadband internet that provides critical economic and educational opportunities. In our rapidly changing and increasingly online economy, the internet is an essential service to small businesses, educators, and everyday citizens alike, and it must become and remain equally accessible to all users. Don also knows that agriculture and our farmers are the foundation of our economy. We must work with the USDA to ensure our farmers have the resources they need to run 21st-century businesses.\"",
+          "source": "votedondavis.com",
+          "url": "https://votedondavis.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must take action to bring back good-paying manufacturing jobs, support our small businesses, and strengthen North Carolinaâs agricultureâespecially as farmers face increasingly unpredictable weather patterns due to global climate change. Don is fighting for important investments that will allow eastern North Carolina to thrive by ensuring access to high-speed broadband, which drives investment in small businesses and industry; creating good-paying jobs and opportunities for our children who live in rural communities, and expanding 21st-century infrastructure to rural North Carolina in order to connect businesses with the global market.\"",
+          "source": "votedondavis.com",
+          "url": "https://votedondavis.com/priorities/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Exciting things are happening in NC-01! @ryanhomes1948 had a ribbon-cutting ceremony in Elizabeth City, providing better housing options for working families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1722010201606250930?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Fighting for housing assistance for our elderly is vital, so I invited Ag Secretary Tom Vilsack to ENC to see our needs for himself.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1649573977050718209?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bipartisan Quality of Life Panel examined solutions for the alarming revelations in the GAO's recent military housing report. Every day, servicemembers put their lives on the line for us. Ensuring they have safe, quality housing is the least we can do\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1707198940322336792?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of January 1, seniors on Medicare can't be charged over $35 a month for insulin. As a voice for #NC01 in D.C., I'll fight to expand the Inflation Reduction Act to finally cap the cost of insulin for ALL eastern North Carolinians.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1620116794240540672?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Incredible news, ENC! The Inflation Reduction Act is proving its worth in just a year. Insulin costs? Slashed to $35/month for seniors. Health coverage? Affordable for 15 million Americans, saving them $800/year. The fight in D.C. to ensure ENC gets the investments we need and deserve is real. Weâre all in for you.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1691894269361955305?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Here's a glimpse of three bills weâve cosponsored that will directly benefit our community: H.R. 2728, the Young Farmer Success Act, would make certain farmers or ranchers eligible for student loan forgiveness under the Public Service Loan Forgiveness program.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1681061151029751808?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HB 1092: \"Requires Photo Identification to Vote\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24804/63398/102950/requires-photo-identification-to-vote#63398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8281: \"Safeguard American Voter Eligibility Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37788/101819/102950/safeguard-american-voter-eligibility-act#101819"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 214: \"Exempts Upcoming 2019 Election from Photo ID Requirements\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26168/66543/102950/exempts-upcoming-2019-election-from-photo-id-requirements#66543"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year later, the #CHIPSandScienceAct is: Investing nearly $2 million in advancing climate and energy technologies in NC. Creating good-paying jobs. Propelling NC to the forefront of innovation and economic prosperity\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1689342556704788481?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 79% by North Carolina League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 79% by North Carolina League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/102950/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/102950/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/102950/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HB 49: \"Repeals Concealed Carry Firearms Safety Training Requirement in Some Cases\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32987/86870/102950/repeals-concealed-carry-firearms-safety-training-requirement-in-some-cases#86870"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Don understands no one should have to choose between putting food on the table and getting the care, medication, or life-saving treatments they need. Eastern North Carolina is experiencing a healthcare crisis because families in eastern North Carolina donât have access to quality affordable primary care, dental care, and mental health care. Communities in eastern North Carolina experience higher rates of stroke, heart disease, diabetes, and maternal mortality and morbidity than anywhere else in the state. Families have to drive for hours in order to seek treatment. Don knows itâs essential to care for our aging communities that have greater healthcare needs and less mobility. No one should lose or be denied coverage because of a pre-existing condition, and no one fighting a serious illness should face the fear of lifetime coverage caps. Don is working to ensure that every person has accessible, quality healthcare.\"",
+          "source": "votedondavis.com",
+          "url": "https://votedondavis.com/priorities/"
+        },
+        {
+          "type": "statement",
+          "text": "\"On behalf of nearly 100,000 eastern North Carolinians in the Medicaid coverage gap, Congress should provide an alternative for residents in states failing to expand Medicaid. Itâs past time to honor the will of the people by expanding access to vital healthcare services.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1613665727914950663?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As of January 1, seniors on Medicare can't be charged over $35 a month for insulin. As a voice for #NC01 in D.C., I'll fight to expand the Inflation Reduction Act to finally cap the cost of insulin for ALL eastern North Carolinians.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1620116794240540672?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Incredible news, ENC! The Inflation Reduction Act is proving its worth in just a year. Insulin costs? Slashed to $35/month for seniors. Health coverage? Affordable for 15 million Americans, saving them $800/year. The fight in D.C. to ensure ENC gets the investments we need and deserve is real. Weâre all in for you.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1691894269361955305?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress must pass a supplemental defense funding package to safeguard the American people by addressing our most pressing national security challenges, including securing our border.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1771545451960955077"
+        },
+        {
+          "type": "statement",
+          "text": "\"Securing our southern border is crucial for the security of eastern North Carolina and the entire nation. Congress must collaborate across party lines to accomplish this. America deserves nothing less!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1806323004290269505"
+        },
+        {
+          "type": "statement",
+          "text": "\"Unlawful migrant crossings are overwhelming border patrol officers and border communities. We need an urgent bipartisan solution, and I urge Congress to secure the border. Letâs pass H.R. 7372, the Defending Borders, Defending Democracies Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1772390507060379819"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to face our most pressing national security threats head on. Securing our southern border and defending democracy remain top priorities in a dangerous world. Congress must act now.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1767920056992776470"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 14% NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/102950/don-davis"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year after Russia invaded Ukraine, I remain committed to ensuring Ukraine wins its fight for democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1629196179031351297?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/102950/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/102950/israel-security-supplemental-appropriations-act-2024#95976"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One year after Russia invaded Ukraine, I remain committed to ensuring Ukraine wins its fight for democracy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepDonDavis/status/1629196179031351297?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/102950/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/102950/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:01:14+00:00"
+}

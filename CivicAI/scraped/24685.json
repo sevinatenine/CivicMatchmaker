@@ -1,0 +1,592 @@
+{
+  "name": "Jeff Van Drew",
+  "page_title": "Jeff Van Drew's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NJ) - District 2, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NJ) - District 2",
+  "candidate_id": "24685",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/24685/jeff-van-drew",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/24685/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32974/86813/24685/ensuring-access-to-abortion-act-of-2022#86813"
+        },
+        {
+          "type": "statement",
+          "text": "\"The United States Supreme Court has the sacred responsibility of interpreting the Constitution and upholding our nation's founding principles free from political interference, which is exactly what it did today,\" said Congressman Jeff Van Drew. \"The integrity of the Court and its decision to overturn Roe vs. Wade must be respected, and we must come together to reject the latest attempts by those who disagree with today's decision to abolish or pack the Supreme Court. The Supreme Court made the right decision to return this issue to the states so they can create their own laws regarding abortion. Here in New Jersey, we must continue to speak out and fight against Governor Murphy's radical policies that call for taxpayer funded partial birth abortions.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1618273/van-drew-issues-statement-on-supreme-court-overturning-roe-v-wade"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Right to Life Committee",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"When it comes to reining in spending, I want to be clear: making cuts to Social Security or Medicare, programs that hard-working Americans have spent their lives paying their fair share towards, is something that will never even be a consideration.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1618686944841723905"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 25% by The National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/271/rating/13829"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR S 610: \"Protecting Medicare and American Farmers from Sequester Cuts Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31998/83742/24685/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by the National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377: \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/24685/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 75% by the National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5377: \"Restoring Tax Fairness for States and Localities Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27510/70555/24685/restoring-tax-fairness-for-states-and-localities-act#70555"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/24685/jeff-van-drew"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/24685/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Dems' soft-on-crime policies and anti-police rhetoric have caused violent crime to spike all across our nation. Yet, House Dems want to pass legislation today to further their Defund the Police agenda. Americans are not safe under Democrats' rule.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1572960550753275906"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Association of Police Organizations (NAPO",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2407/rating/13906"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280: \"George Floyd Justice in Policing Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/24685/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670: \"National Defense Authorization Act for Fiscal Year of 2024- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/96799/24685/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/24685/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 1605 \"National Defense Authorization Act for Fiscal Year 2022.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32002/83750/24685/national-defense-authorization-act-for-fiscal-year-2022#83750"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden just released his $7.3 TRILLION FY25 budget highlighting his far-left priorities. This reckless spending will force our nation further into debt while ignoring the millions of hardworking Americans struggling to make ends meet due to the actions of this admin.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1767307643947827221"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1319: \"American Rescue Plan Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30157/77837/24685/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2617: \"Consolidated Appropriations Act of 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34000/90241/24685/consolidated-appropriations-act-2023#90241"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Build Back Better Act.\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/83568/24685/build-back-better-act#83568"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7301: \"Emergency Housing Protections and Relief Act of 2020- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/24685/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/24685/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 7688: \"Consumer Fuel Price Gouging Prevention Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/24685/consumer-fuel-price-gouging-prevention-act#85505"
+        },
+        {
+          "type": "statement",
+          "text": "\"Donât let Democrats deceive you with cushy bill titles. The Inflation Reduction Act will actually INCREASE inflation through 2024 and INCREASES taxes by nearly $17 billion on those making less than $200k.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Congressman_JVD/status/1554126438684676099?s=20&t=ujonabkwVYampoWIybhXOQ"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden knows his policy to unilaterally cancel student debt is unconstitutional. Everyone agrees there needs to be reform with financing college. BUT, that does not include forcing taxpayers to pay hundreds of billions of dollars to forgive others' debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1630594577471078400"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/24685/jeff-van-drew"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2547: \"Comprehensive Debt Collection Improvement Act - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30777/79462/24685/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31650/82404/24685/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/24685/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Joe Bidenâs bloated budget gives $53 million to expand offshore wind along our coasts. He wants to use our tax dollars to boost foreign energy companies while hampering domestic energy production here at home. Our already-high energy bills will only get worse under his budget.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1770104784416067779"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/24685/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/24685/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/24685/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden officially decided to lift oil sanctions on Venezuela. Venezuela is a socialist regime that produces dirty oil and repeatedly commits human rights violations. We should be drilling in America, NOT Venezuela.\"",
+          "source": "x.com",
+          "url": "https://x.com/Congressman_JVD/status/1597315018244386816"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/24685/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/24685/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/24685/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support many commonsense reforms to reduce gun violence, such as banning assault weapons and bump stocks, requiring universal background checks for every gun sale, and strengthening the National Instant Criminal Background Check System by requiring federal and state agencies to keep updated records. Other reforms I stand behind include passing legislation to crack down on illegal gun trafficking, prohibiting any individuals with a mental illness from gaining access to guns, and increasing the prosecution of individuals prohibited from purchasing guns who violate that restriction. I believe that with reforms like these, we can reduce gun violence while keeping American citizens' Second Amendment rights intact.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1267910/issue-position-gun-violence-prevention"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Bakcground Checks Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30270/77850/24685/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/24685/assault-weapons-ban-of-2022#87309"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Afforable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/24685/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3: \"Lower Drug Costs Now Act of 2019- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27482/70426/24685/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"HUGE win for Americans across the nation. Texas has every right to do what the Biden admin refuses: arrest illegal immigrants as soon as they enter our country. We are one step closer to a safer America and a secure border.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Congressman_JVD/status/1770186739786649936"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted to denounce the Biden administration's self-made and disastrous border policies. Our communities are being destroyed by the millions of illegal entries, from the massive influx of fentanyl to the depletion of local resources. Yet, Joe Biden refuses to act.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Congressman_JVD/status/1767667577214365924"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by Federation for American Immigration Reform (FAIR",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/300/rating/13823"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/24685/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1333: \"NO BAN Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/24685/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: American Dream and Promise Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30330/77979/24685/american-dream-and-promise-act-of-2021#77979"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2494: \"POLICE Act of 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34930/92230/24685/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34893/92114/24685/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/24685/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/24685/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/24685/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/24685/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/37054/99505/24685/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Big Tech and Democrats know that if they can control the content we see, they can control the narratives that drive our country. It goes against the very essence of our democracy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/Congressman_JVD/status/1775261088243909027"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/24685/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:13:49+00:00"
+}

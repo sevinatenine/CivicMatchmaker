@@ -1,0 +1,640 @@
+{
+  "name": "Frank Pallone, Jr.",
+  "page_title": "Frank Pallone, Jr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NJ) - District 6, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NJ) - District 6",
+  "candidate_id": "26951",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/26951/frank-pallone-jr",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Supreme Court is hearing another extreme abortion case. At issue is an Idaho law preventing doctors from providing emergency abortion care when the life of the mother is at stake. This is the post-Roe America that Republican officials created.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1783242995405304259"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1016/rating/13796"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 26: \"Born- Alive Abortion Survivors Protection Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34026/90338/26951/born-alive-abortion-survivors-protection-act#90338"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32975/86812/26951/womens-health-protection-act-of-2022#86812"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@EnergyCommerce held a hearing today on Medicaid, where I focused on how we can work together to improve quality and access to long-term care for Americans and better support our nation's hardworking care providers.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1785337003707396543"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is shameful. The ACAâs Medicaid Expansion has provided millions of low-income Americans health insurance, but Republicans in 10 states continue to stubbornly hold out. Itâs time they put people over politics.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1787172191181685155"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/959/rating/13946"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 610: \"Protecting Medicare and American Farmers from Sequester Cuts Act - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31998/83742/26951/protecting-medicare-and-american-farmers-from-sequester-cuts-act#83742"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by FreedomWorks",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1658/rating/13937"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 13% by the National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/872/rating/13836"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Tax Cuts and Jobs Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/24168/62174/26951/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760: \"Protecting Family and Small Business Tax Cuts act of 2018- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/25275/64436/26951/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizen United",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2568/rating/13991"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30209/77709/26951/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 20% by the National Association of Police",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/2407/rating/13906"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280: \"George Floyd Justice in Policing Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30210/77711/26951/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 5% by the Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/725/rating/9983"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by Council for a Livable World",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/101/rating/8833"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32973/86809/26951/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 16% by Council for Citizens Against Government Waste",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/13/rating/13690"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319: \"American Rescue Plan Act of 2021 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30157/77837/26951/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2471: \"Consolidated Appropriations Act of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33473/89005/26951/consolidated-appropriations-act-2022#89005"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28221/73177/26951/moving-forward-act#73177"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As our nation faces a housing crisis, it's clear that Congress must do more to increase affordability & provide opportunities for first time homebuyers. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1787960109119021439"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301: \"Emergency Housing Protections and Relief Act of 2020- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28220/73172/26951/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33017/86990/26951/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 16% by Council for Citizens Against Government Waste",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/13/rating/13690"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376: \"Inflation Reduction Act of 2022 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/31958/87785/26951/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7688: \"Consumer Fuel Price Gouging Prevention Act - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32674/85505/26951/consumer-fuel-price-gouging-prevention-act#85505"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@POTUS has already canceled more than $140 billion in student loan debt despite the Supreme Court blocking his original plan. Utilizing his authority under the Higher Education Act will allow him to go further & provide more relief to even more borrowers\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1777074699056406993"
+        },
+        {
+          "type": "statement",
+          "text": "\"@POTUS has forgiven ANOTHER $7.4 billion in student loans for 277,000 borrowers! The Biden Admin has now canceled a total of $153 billion for 4.3 million borrowers.",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1779271490015297918"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1015/rating/13952"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547: \"Comprehensive Debt Collection Improvement Act - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30777/79462/26951/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/935/rating/13496"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 96% by Public Citizen",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1461/rating/12339"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746: \"Freedom to Vote: John R. Lewis Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32183/84108/26951/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"NJ is making major investments in solar energy â helping lower energy costs, grow our economy & combat the climate crisis. The investments include $156 million for Solar for All from the Democratsâ Inflation Reduction Act, a huge step forward in the transition to a clean economy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1784651775380759021"
+        },
+        {
+          "type": "statement",
+          "text": "\"Spoke at the NJ Energy Coalition about the positive benefits of the Inflation Reduction Act and how itâs putting us on a path to a clean economy by investing in U.S. energy independence and prioritizing renewable resources.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1783305051923988624"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act is bolstering American manufacturing of solar â growing our economy and creating good-paying jobs. This is the way to help us lead the world in the clean energy transition. We must continue moving forward.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1784345999906951172"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1012/rating/13930"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34570/91332/26951/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34063/90422/26951/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1941: \"Coastal and Marine Economies Protection Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/26929/68921/26951/coastal-and-marine-economies-protection-act#68921"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823: \"Colorado Outdoor Recreation and Economy Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27350/69893/26951/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Bipartisan Safer Communities Act was a good first step, but Congress must go further & pass universal background checks & an assault weapons ban. The only obstacle is Republicans who have repeatedly blocked Democratsâ efforts to keep guns out of the hands of violent people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1781396501811392602"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/33077/87309/26951/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910: \"Protecting Our Kids Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32751/85843/26951/protecting-our-kids-act#85843"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 2938: \"Bipartisan Safer Communities Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32835/86332/26951/bipartisan-safer-communities-act#86332"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Republicans have no plan to lower costs for Americans. Instead they want to lower taxes for the wealthy & big corporations & cut Social Security, Medicare, & Medicaid benefits for seniors.Itâs cruel & itâs wrong. I stand strongly against these efforts.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1769096021693338006"
+        },
+        {
+          "type": "statement",
+          "text": "\"The debate over Medicaid expansion highlights a key difference between Democrats & Republicans. While Red states refuse to expand Medicaid, Democrats are fighting to ensure everyone has access to quality, affordable health care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1776401780038844852"
+        },
+        {
+          "type": "statement",
+          "text": "\"This is shameful. The ACAâs Medicaid Expansion has provided millions of low-income Americans health insurance, but Republicans in 10 states continue to stubbornly hold out. Itâs time they put people over politics.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1787172191181685155"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhacement Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/28212/73153/26951/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/27747/71516/26951/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm glad to see leading manufacturers capping the price of inhalers at $35 per monthâhopefully other manufacturers will quickly follow suit. Much like insulin, no one should ever have to choose between a lifesaving inhaler and putting food on the table.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1770553257028460800"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today we welcomed @SecBecerra to @EnergyCommerce to discuss President Biden's budget proposal, which builds on Democrats' efforts to lower health care and Rx drug costs while expanding access to high quality, affordable care.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1780720986893025483"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32480/84891/26951/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 16% by Numbers USA",
+          "source": "None",
+          "url": "https:votesmart.org/interest-group/1985/rating/13915"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/26951/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494: \"POLICE Act of 2023- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34930/92230/26951/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35732/95281/26951/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333: \"NO BAN Act- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30605/78993/26951/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021- National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/30330/77979/26951/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024 - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35718/95243/26951/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act - National Key Vote\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32418/84733/26951/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Met with @AmericaforUA who highlighted the dire situation in Ukraine and the urgent need for the House to pass the Senate security supplemental. We agreed that the U.S. has a moral responsibility to support Ukraine's defense and push back against Putin's unprovoked aggression.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1780355814424825995"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putin is so lost in his blood lust and desire to conquer Ukraine that he's solidifying Russia as a regressive, anti-west, militarized society. The U.S. and our allies must be prepared to support Ukraine and defend NATO territory.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1788010991243944042"
+        },
+        {
+          "type": "statement",
+          "text": "\"Putin's invasion of Ukraine has emboldened our adversaries, including Iran, to use terror to achieve their objectives. House Republicans need to get serious about the Senate security supplemental. The U.S. cannot stand on the sidelines when freedom and democracy are on the line.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1779606119880499612"
+        },
+        {
+          "type": "statement",
+          "text": "\"Vital military aid for Ukraine passed a long-overdue hurdle yesterday. The United States stands with Ukraine as it fights Russian aggression and defends its sovereignty. Congress must continue to support Ukrainians and deliver the assistance they need.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1782078451006021847"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I held a roundtable today on holding Big Tech accountable and protecting Americansâ privacy online.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1787530738042130545"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's clear our foreign adversaries are determined to use TikTok to undermine U.S. interests, which is why I helped lead efforts in Congress to pass legislation requiring divestment from its parent company and Chinese Communist Party control.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1786821294664618455"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's official: @POTUS has signed the foreign assistance and national security supplemental to support our allies, require the Chinese government to divest TikTok, and my legislation to stop data brokers from selling Americans' data to our foreign adversaries.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1783228057106440606"
+        },
+        {
+          "type": "statement",
+          "text": "\"National security experts are warning that our foreign adversaries are using every tool at their disposal, including apps like TikTok, to amass troves of sensitive data about Americans. We cannot allow this to continue. \"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/FrankPallone/status/1787531161062744200"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:09:54+00:00"
+}

@@ -1,0 +1,370 @@
+{
+  "name": "Cindy Hyde-Smith",
+  "page_title": "Cindy Hyde-Smith's Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (MS) - Jr, Republican",
+  "on_the_ballot": "Running, Republican for U.S. Senate (MS) - Sr",
+  "candidate_id": "20784",
+  "test_year": "2020",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/20784/cindy-hyde-smith",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Pro-life",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cindy believes all children, including the unborn, are guaranteed the right to life by our Creator. She respects the sanctity of life and opposes taxpayer funding of abortions.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300531/issue-position-defending-life-and-protecting-the-unborn#.Xa9oaEE3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S Amdt 3967 - Senator Rand Paulâs Amendment to H.R. 6157.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/63962#.Xa9mWkE3kfJ"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 83% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"Cindy will always fight to make sure families and businesses keep more of their hard-earned money.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300543/issue-position-lower-taxes#.Xa9oo0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 11% by Alliance for Retired Americans.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith/53/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Common Cause.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"An overwhelming majority of law enforcement officers are dedicated to doing their jobs fairly and justly. It is, however, time to build public confidence in that truth through commonsense reforms founded on better training, accountability, and transparency,\" she said. \"These goals cannot be met by irresponsible demands to \"defund the police.'\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1440818/hyde-smith-cosponsors-law-enforcement-training-accountability-reform-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"While the overwhelming majority of police officers do their jobs fairly & justly, itâs time to build public confidence through commonsense reforms founded on better training, accountability & transparency. Iâm cosponsoring @SenatorTimScott âs #JUSTICEAct to advance this cause.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenHydeSmith/status/1273365832089907206"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I look forward to the upcoming debate on the appropriations bill that will provide the actual funding to carry out the provisions of this authorization measure,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1267763/hyde-smith-votes-to-send-defense-policy-bill-to-president-trump#.Xa9pFUE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"I look forward to supporting the defense appropriations bill that will fulfill these authorized priorities, including the 2.6 percent pay raise for our servicemen and women,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1256883/hyde-smith-votes-for-defense-policy-bill#.Xa9o7UE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mississippi would benefit from a federal grant program specifically for bridge repairs and replacements. Committee acceptance of this bridge proposal is a good sign that we can move forward with a strong infrastructure package. This bipartisan authorization certainly complements the FY2019 appropriations set aside to fund a bridge replacement and rehabilitation program,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1363051/wicker-hyde-smith-cosponsor-proposal-to-rebuild-deficient-bridges#.Xa9phkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"The bridge program grants will allow us to begin chipping away at the backlog of bridge replacements needed in Mississippi. Economic growth and basic quality of life in our state require better infrastructure. Weâll keep working for additional appropriations specifically for bridge replacement and rehabilitation,\" Hyde-Smith said. \"Iâm grateful to Secretary Chao for these Department of Transportation investments in bridges and rail service in Mississippi.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1367230/wicker-hyde-smith-palazzo-guest-applaud-grants-to-replace-bridges-support-rail-service#.XdQdb0FTkfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cindy will always fight to make sure families and businesses keep more of their hard-earned money.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300543/issue-position-lower-taxes#.Xa9oo0E3kfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 83% by National Tax Limitation Committee.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 748 - Coronavirus Aid, Relief, and Economic Security (CARES) Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71699"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"She believes the federal government should support statesâ efforts to improve educational opportunities for their citizens, but it should not dictate how they get the job done. Mississippi does not need Washington telling it how to raise and educate its children, so she will support policies that help states, local communities, teachers and parents make decisions to improve education for our children.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300540/issue-position-education#.Xa9p7EE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Trump's Affordable Clean Energy is a strong step away from the Obama administration's heavy-handed attitude that Washington knows best,\" Hyde-Smith said. \"The proposed rule would give our state's leaders flexibility to determine the best way to meet Clean Air Act requirements without forcing plant closures or sticking Mississippi families with higher electric bills.\"",
+          "source": "www.hydesmith.senate.gov",
+          "url": "https://www.hydesmith.senate.gov/hyde-smith-says-mississippians-protected-trumps-gutting-clean-power-plan"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"My constituents would like to have an opportunity to weigh in on measures like these, which is why we can't fast-track legislation that affects Americaâs Second Amendment rights.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1383475/executive-session#.XdQetEFTkfI"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Rifle Association",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"She will always stand up for our 2nd Amendment Constitutional rights.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300515/issue-position-supporting-our-2nd-amendment-rights#.Xa9tHkE3kfI"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cindy believes the Patient Protection and Affordable Care Act, better known as Obamacare, should be repealed and replaced with a common-sense, patient-centered healthcare plan to help Mississippi families afford health insurance coverage without expanding the government's role in providing health care.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1300524/issue-position-health-care"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support requiring businesses to provide paid medical leave during public health crises, such as COVID-19?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 - Families First Coronavirus Response Act.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/votes/71589"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Trump's border wall will be one of the strongest defenses we can build to stop the flow of drugs and people entering our country illegally. I'm all for its construction,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1256895/hyde-smith-votes-for-border-wall-funding-as-part-of-homeland-security-bill"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 20% by NumbersUSA.",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/candidate/evaluations/20784/cindy-hyde-smith#.Xa9nn0E3kfI"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force to prevent governments hostile to the U.S. from possessing a weapon of mass destruction (for example: nuclear, biological, chemical)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Trump is right to get out of the Iran Nuclear Deal and impose economic sanctions in order to force a more legitimate agreement to fight the threat Iran poses to our interests, our allies, and peace in the region.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1247604/hyde-smith-praises-trump-withdrawl-from-iran-nuclear-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump is right to increase pressure on the Iranian regime. Iran is ruled by leaders who are tyrants and sponsors of terrorist groups that threaten the safety and interest of the United States and our allies.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1352996/hyde-smith-praises-trump-sanctions-on-iranian-regime"
+        },
+        {
+          "type": "statement",
+          "text": "\"Keeping pressure on Iran to stop nuclear weapons development and global terrorism is necessary. @SenatorWicker and I joined @SenTedCruz to show support for @POTUS maximum pressure campaign.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/SenHydeSmith/status/1033080671206559745"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support reducing military intervention in Middle East conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bottom line, the USMCA represents an important new tool for Mississippi to expand its ability to sell more of what we produce to consumers abroad,\" Hyde-Smith said. \"There is no good reason for the House to have held up this 21st century trade agreement, and it is time to finally take a vote, send it to the Senate, and get it done.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1378476/hyde-smith-argues-for-us-mexico-canada-trade-pact-passage#.XdQhGkFTkfI"
+        },
+        {
+          "type": "statement",
+          "text": "Signed a letter stating: \"we would like to stress the importance of removing existing barriers to the export of U.S. agriculture products, specifically pecans.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1374696/letter-to-the-hon-robert-lighthizer-us-trade-representative-miss-senators-support-effort-to-lower-indian-tariffs-on-us-pecans#.Xa9yAkE3kfI"
+        },
+        {
+          "type": "statement",
+          "text": "\"USMCA takes us into the 21st century, updating antiquated rules to prohibit the theft of trade secrets, reward American innovators, and improve cross-border e-commerce, while also providing increased market access for American businesses and benefits for American workers in more traditional sectors like agriculture and manufacturing,\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1378476/hyde-smith-argues-for-us-mexico-canada-trade-pact-passage#.XdQhGkFTkfI"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:00:27+00:00"
+}

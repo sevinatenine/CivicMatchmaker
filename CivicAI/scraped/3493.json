@@ -1,0 +1,688 @@
+{
+  "name": "Glenn Grothman",
+  "page_title": "Glenn Grothman's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (WI) - District 6, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (WI) - District 6",
+  "candidate_id": "3493",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/3493/glenn-grothman",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I commend the six Justices for making the correct and much-needed decision to overturn Roe v. Wade.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1540383371741765636"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/3493/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/3493/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our federal government has grown to sizes our Founding Fathers likely never imagined. While many programs should be returned to the states, any Bipartisan Fiscal Commission must prioritize protecting social security for generations to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1729991596664410413"
+        },
+        {
+          "type": "statement",
+          "text": "\"The key to address our unsustainable levels of federal spending is to empower state governments, which are better equipped to carry out the goals of the lion's share of federal programs. By respecting the 10th Amendment, we can shrink gov without compromising Social Security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1748383933090140371"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 25% by National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the American people continue to face the worst inflation in 40 years, the President should focus on cutting spending and lowering taxes. Instead, he's doing the opposite.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1557393232006447104"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am championing pro-business, pro-worker, pro-America tax reforms that will help grow both wages and the economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1760801138583248950"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/3493/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As the American people continue to face the worst inflation in 40 years, the President should focus on cutting spending and lowering taxes. Instead, he's doing the opposite.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1557393232006447104"
+        },
+        {
+          "type": "statement",
+          "text": "\"I am championing pro-business, pro-worker, pro-America tax reforms that will help grow both wages and the economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1760801138583248950"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 95% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/3493/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/3493/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Had a productive meeting with the Wisconsin Fraternal Order of Police discussing their key priorities, including strengthening local/state law enforcement to combat the national epidemic of violent crime.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1765772657801232525"
+        },
+        {
+          "type": "statement",
+          "text": "\"The great men & women of law enforcement deserve our gratitude for their selfless work to protect us. Unfortunately, some Members of Congress continually disrespect them & their work. I honor police, especially those who gave their lives in the line of duty.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1392892368014254081"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/3493/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/3493/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/3493/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/3493/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/3493/department-of-defense-appropriations-act-2025#101337"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#WI families are struggling to afford groceries because runaway spending under @POTUS drove inflation to its highest levels since 1982. We can start making basic necessities more affordable by reeling in wasteful government spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1717925832453194081"
+        },
+        {
+          "type": "statement",
+          "text": "\"âBidenomicsâ is crushing families as children head back to school. Since @POTUS took office, school supplies have increased by nearly 25 percent. Reckless, unchecked government spending led us here, and it is a tax on American households.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1694389464779338137"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/3493/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2811: \"Limit, Save, Grow Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34806/91855/3493/limit-save-grow-act#91855"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/3493/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/3493/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"#WI families are struggling to afford groceries because runaway spending under @POTUS drove inflation to its highest levels since 1982. We can start making basic necessities more affordable by reeling in wasteful government spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1717925832453194081"
+        },
+        {
+          "type": "statement",
+          "text": "\"As Americans' savings accounts dwindle, Washington needs to END the unchecked, unnecessary spending. When @POTUS took office, the inflation rate was 1.4 percent. Now, it's at 40-year highs. Reining in out-of-control government spending is the key to renewing our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1575525198895382530"
+        },
+        {
+          "type": "statement",
+          "text": "\"For every dollar printed by the Federal Reserve, the dollars already in circulation lose value. I spoke on the House floor to warn my colleagues that spending increases will fuel the inflation crisis, not end it.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1552689001978552320"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@POTUS's plan to cancel student loan debt discriminates against the hardworking Americans who paid off their loans and leaves skilled trade workers, like plumbers and manufacturers, in the dust. Not to mention, this is another $360 billion log on the fire of inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1573005586828038146"
+        },
+        {
+          "type": "statement",
+          "text": "\"Forgiving student loan debt on the taxpayers' dime sends the wrong message to younger Americans and penalizes Americans who paid back their loans in full or never had them. Proud to support a resolution to nullify @POTUS's plan to unilaterally \"cancel\" student loan debt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1656659446150606851"
+        },
+        {
+          "type": "statement",
+          "text": "\"While inflation crushes the American people, Joe Biden wants to \"forgive\" student loan debt by transferring the burden to the taxpayers. My bill prohibits the President from abusing his authority to score a political victory by canceling student debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1554509897122910208"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "statement",
+          "text": "\"At a time when restoring integrity in our elections is imperative, House Democrats want to undermine statesâ existing election laws and remove voter ID, like we have in Wisconsin. #HR1 is a federal power grab that seeks to punish states that have commonsense election laws.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1367482004133019649"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/3493/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/3493/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"It's shameful that @POTUS is abusing his authority as President to promote Green New Deal policies, all at the expense of Americansâ retirement savings.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1630960543614812161"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/3493/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 9: \"Climate Action Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26353/67056/3493/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/3493/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/3493/strategic-production-response-act#90422"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/3493/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/3493/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/3493/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/3493/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our current health care system is unsustainable. Today I voted to repeal & replace Obamacare w the #AHCA.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/860210365715632133"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/3493/patient-protection-and-affordable-care-enhancement-act#73153"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1628: \"American Health Care Act of 2017\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/22765/59189/3493/american-health-care-act-of-2017#59189"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/3493/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am calling for bipartisan legislation that achieves the goal of dramatically lowering prescription drug prices. Get a bill to my desk, and I will sign it into law without delay.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1224887335730515975"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/3493/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/3493/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Under the Biden Administration, security at the southern border has spiraled out of control. Open border policies have enabled a record number of migrants to cross into our country illegally, increasing demand and creating higher home prices and rents.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1758226836817891621"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/3493/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/3493/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Granting amnesty to millions of illegal immigrants will cost us $billions in entitlements and serve as a magnet for more people to come here illegally. On the House floor, I urged my colleagues to reject the partisan Socialist Spending plan that will fundamentally change America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1455971058838818821"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was proud to join my @RepublicanStudy colleagues in voting NO on the reckless Reconciliation package brought to the House floor this week. In addition to introducing $17 trillion in new debt, it provides amnesty to illegal immigrants and raises taxes on middle-class families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1430532453530316802"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 94% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/3493/glenn-grothman"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/3493/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/3493/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6015: \"Iran Sanctions Accountability Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37081/99564/3493/iran-sanctions-accountability-act-of-2023#99564"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/3493/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/3493/israel-security-supplemental-appropriations-act-2024#99510"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/3493/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/3493/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/3493/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/3493/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Commonsense steps can and should be taken to ensure Big Tech companies are protecting peopleâs personal dataâespecially when it comes to health data.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1503404007460679684"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted YES on the Fourth Amendment Is Not For Sale Act yesterday. This bill would safeguard Americans against unjust searches and seizures by closing a loophole that previously permitted Big Tech companies to access sensitive user data.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepGrothman/status/1781037052089258016"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/3493/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/3493/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:25:51+00:00"
+}

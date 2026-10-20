@@ -1,0 +1,694 @@
+{
+  "name": "Bobby Scott",
+  "page_title": "Bobby Scott's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VA) - District 3, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (VA) - District 3",
+  "candidate_id": "27117",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27117/bobby-scott",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Rep Scott voted no on HR26, the Born Alive Abortion Survivors Protection Act, a bill that establishes requirements for the degree of care a health care practitioner must provide in the case of premature birth following an abortion or attempted abortion.",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/27117/bobby-scott/2/abortion"
+        },
+        {
+          "type": "statement",
+          "text": "Rep. Scott co-sponsored H.R. 12, the Women's Health Protection Act, which wouldcodify the federal right to an abortion in Roe v. Wade",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/key-votes/27117/bobby-scott/2/abortion"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32975/86812/27117/womens-health-protection-act-of-2022#86812"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted NO on H.R. 6914, an anti-choice bill that would keep pregnant students in the dark about their rights. In a post-Roe worldâwhere women face state-sanctioned abortion bans & complicated legal challenges to access health careâwomen should be aware of ALL of their options.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1748107938139635941"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Access to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/27117/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud to be a cosponsor of the Social Security 2100 Act,\" said Rep. Scott. \"Social Security and Medicare make up the foundation of American retirement security. Americans have paid into the system for decades and, during that time, these programs have promised Americans the chance to retire with dignity after a lifetime of hard work. This legislation helps us keep our promise to safeguard Social Security for our seniors and people with disabilities. But more importantly, this legislation keeps the Social Security Trust Fund solvent for decades and ensures that our seniors will not live in poverty.\"",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-cosponsors-social-security-2100-act"
+        },
+        {
+          "type": "statement",
+          "text": "\"The statutory calculation that Social Security is required to use to determine the COLA has not produced an increase in two years, largely due to the weak economy. However, seniors have still had their budgets stretched by the rising cost of medical care, food, and housing. Today's announcement will give millions of seniors much needed relief but there remains an ongoing debate in Washington on the future of Social Security. I am committed to protecting Social Security for present and future beneficiaries. Congress should be working to strengthen Social Security, not attempting to cut benefits to help offset unaffordable tax cuts. Social Security has been keeping its promise to our seniors for seventy-five years and I will keep fighting to ensure we continue to keep that promise.\"",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-statement-cost-living-adjustment-social-security-beneficiaries"
+        },
+        {
+          "type": "statement",
+          "text": "\"That is why I have long supported legislation, such as the Social Security 2100 Act, that would require the Social Security Administration to use the Consumer Price Index for the Elderly or CPI-E when calculating the annual COLA rather than the Consumer Price Index for Urban Wage Earners and Clerical Workers or CPI-W. The CPI-E formula better accounts for seniorsâ spending patterns in the economy, which differs considerably from the general population. Research shows that seniors tend to spend significantly higher portion of their income on health care, which is growing at a much faster rate than other spending categories. The CPI-E formula would better weigh these cost increases.",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Republican's proposed plan provides tax cuts for corporations and the wealthiest among us and adds $1.5 trillion to the deficit. This legislation provides no real investment in workers, jobs or the economy. Eventually these irresponsible tax cuts will be paid for by cutting Medicare, Medicaid, veteran services, educational resources, and other vital services for working families.",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-statement-republicans-tax-bill"
+        },
+        {
+          "type": "statement",
+          "text": "Scott: We Ought Not to Balance the Budget on the Backs of Hardworking Federal Employees (information from 2013, nothing more recent appeared",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-we-ought-not-balance-budget-backs-hardworking-federal-employees"
+        },
+        {
+          "type": "statement",
+          "text": "\"We cannot add more than $800 billion to the deficit through tax cuts and tell the American people with a straight face that they wonât have to sacrifice anything in the future to balance the federal budget. If we didnât have the political will to end the Bush-era tax cuts tonight, we certainly wonât have the political will to do it two years from now during a presidential election.\"(this statement dates back to 2010",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-opposes-tax-deal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Instead of making the wealthy pay their fair share, House Republicans promised the wealthy they'd protect their tax breaks - and that they'd balance the budget. That means they have to slash vital programs that working families depend on.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1638657476626137090"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/27117/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I joined @HouseBudgetDems to explain how the extreme MAGA Republicans enacted massive tax cuts for corporations and the top 1% that exploded the deficit. Now they threaten cuts to critical programs for working families or Speaker McCarthy will default on our nation's debt.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1656703724012683265"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 5% by National Tax Limitation Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by National Taxpayers Union",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/27117/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"This bill will end the post-Citizens United era of dark money in our politics and restore power to the people. I urge the Senate to pass this bill and send it to the President's desk as soon as possible.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1510208/scott-statement-on-house-passage-of-voting-rights-anti-corruption-legislation"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/27117/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The bill has many important provisions -- it bans choke holds, ends no-knock warrants in drug cases and prohibits racial profiling; it creates national standards for policing policies, such as training, body cameras and use of deadly force; it provides for data collection; and it removes barriers that make it difficult to hold police officers accountable for misconduct.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1510207/scott-house-passage-of-justice-in-policing-act-marks-a-necessary-step-to-reform-policing-in-america"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/27117/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Representing an area that is largely dependent on Department of Defense and other federal spending, I appreciate how important fully funding our federal government for the entire fiscal year is to my constituents and to our nation. Regrettably due to several truly egregious provisions added late to this bill, I voted No.(information dated for 2010, nothing more recent shows up",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/scott-votes-no-cromnibus-spending-bill"
+        },
+        {
+          "type": "statement",
+          "text": "\"I was proud to vote for this year's National Defense Authorization Act. Our military assets and shipbuilding industrial base are vital to the economy of Hampton Roads. The conference report provides for a well-deserved three percent pay increase for our servicemembers. It also includes several important provisions that will directly support shipbuilding and ship maintenance in Hampton Roads. These provisions include funding for the Navy to procure one Columbia-class submarine and two Virginia-class submarines, and requiring advanced procurement to maintain the two per year build rate for the Virginia-class program. The FY21 NDAA also specifically prohibits the retirement of an aircraft carrier before its mid-life refueling.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1500136/scott-statement-on-the-fy21-national-defense-authorization-act-conference-report"
+        },
+        {
+          "type": "statement",
+          "text": "\"The National Defense Authorization Act will keep America safe and support our servicemembers and their families. This legislation includes critical investments in shipbuilding which is a huge win for Hampton Roads. I am also encouraged by the bill's inclusion of a well-deserved pay increase for our servicemembers as well as a guarantee of paid parental and bereavement leave. Additionally, I was very pleased to see the inclusion of my bipartisan EMBRACE Stormwater Management Act to reduce flooding on and around military bases, which jeopardizes military readiness, compounds stress for military families and pollutes bodies of water like the Chesapeake Bay. This bill will strengthen our national security and our alliances around the world.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1580670/scott-votes-for-national-defense-authorization-act-for-fy-2022"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/27117/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "The federal government has a responsibility to ensure all students have access to a quality education. The Save Education Jobs Act is a necessary investment in rebuilding our education system and helping students, educators, and communities get back on track.\"",
+          "source": "bobbyscott.house.gov",
+          "url": "https://bobbyscott.house.gov/media-center/press-releases/house-education-leaders-introduce-legislation-save-nearly-4-million"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Build Back Better Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/83568/27117/build-back-better-act#83568"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3684 \"Infrastructure Investment and Jobs Act.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31006/83464/27117/infrastructure-investment-and-jobs-act#83464"
+        },
+        {
+          "type": "statement",
+          "text": "\"Creating millions of good-paying jobs is little help if we don't have the skilled workforce to fill those jobs. The bill provides nearly $80 billion to strengthen our workforce development system to ensure Americans have access to the training and resources they need to find a good-paying job and advance in their career. Notably, the bill includes programs that will help train the next generation of workers to tackle climate-focused projects and address the direct care workforce shortage.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1559212/scott-opening-statement-at-markup-for-build-back-better-act"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@HUDgov announced that Newport News and Norfolk will receive $60 million in grants to make critical public housing improvements. This is a big win for communities in Hampton Roads!\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1128034245396578305"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301 \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28220/73172/27117/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294 \"Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/33017/86990/27117/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Wages are rising. Inflation is going down. Business investment is taking off. Unemployment is at record lows. More work to do, but #Bidenomics is working.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1684579234143145984"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 7% by the Council for Citizens Against Government Waste",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/36/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376 \"Inflation Reduction Act of 2022\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/31958/87785/27117/inflation-reduction-act-of-2022#87785"
+        },
+        {
+          "type": "statement",
+          "text": "\"Inflation is a global problem caused by supply chain issues caused by the pandemic. The Biden Admin has been working to unclog supply chains & bring down gas costs. And the #BuildBackBetter Act will cut taxes & costs for working families. The GOP has no real plan to address it.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1483502456977907718"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support the Biden Administration's continued efforts to provide relief to student loan borrowers.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1674888693776015360"
+        },
+        {
+          "type": "statement",
+          "text": "\"The LOAN Act is the next step we must take to confront the student debt crisis. This legislation will: â¬ï¸Double the Pell Grant â Improve the Public Service Loan Forgiveness ProgramðLower interest rates\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1570431761976545282"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Education Association (NEA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/27/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547 \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30777/79462/27117/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 89% by Common Cause",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746 \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32183/84108/27117/freedom-to-vote-john-r-lewis-act#84108"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/27117/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Thanks to @POTUS' Bipartisan Infrastructure Law, there are now over 56,000 infrastructure projects across the country to rebuild our roads and bridges, deliver clean and safe water, tackle pollution, expand access to high-speed internet, and build a clean energy economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1790115224210620598"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #BuildBackBetter Act includes more than 130 programs that would invest nearly $600 billion in climate action, clean energy jobs, and healthier living conditions for families. The Senate needs to pass it so we can send it to @POTUSâ desk.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1466516468112240640"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447 \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/28907/74931/27117/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 9 \"Climate Action Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/26353/67056/27117/climate-action-now-act#67056"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Offshore drilling has no place off the coast of Virginia. Pleased to join @RepMcEachin in reintroducing the #DefendOurCoast Act to protect our coastal ecosystems and economies from offshore drilling.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1354915970440171528"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/29/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1 \"Lower Energy Costs Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34570/91332/27117/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823 \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27350/69893/27117/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Speaker McCarthy wonât act to keep our communities safe from gun violence. Today, we took action by demanding a vote on the following bills: â Assault Weapons Ban â Bipartisan Background Checks Act â Enhanced Background Checks Act\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1668769126976716800"
+        },
+        {
+          "type": "statement",
+          "text": "\"This comprehensive gun safety package will help save lives if enacted and is in addition to what the House passed last year to ensure universal background checks and to close the so-called Charleston loophole.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1534695448375709696"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the NRA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/37/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Brady Campaign to Prevent Gun Violence",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/37/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The United States is the richest country in the world, but millions of Americans still canât afford health care. Every person has the right to health care â regardless of their income. Thatâs why Iâm joining @RepJayapal and @RepDebDingell in reintroducing #MedicareForAll.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1372235972633636872"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425 \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/27117/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We had a great discussion about advancing the Build Back Better Agenda with bold investments in higher education, child care, workforce development, school construction, paid leave and other important initiatives.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1428481121289969671"
+        },
+        {
+          "type": "statement",
+          "text": "\"Workers shouldnât have to choose between keeping a job and caring for a loved one. I gave remarks today about the need for paid family and medical leave for all workers during the @PaidLeaveforAll National Bus Tour event in Norfolk.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1423362570786906115"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201 \"Families First Coronavirus Response Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27747/71516/27117/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressional Democrats and @POTUS took historic action to lower the cost of prescription drugs by passing the Inflation Reduction Act. This law will lower drug costs for American seniors by granting Medicare the power to directly negotiate the price of prescription drugs.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1731769675069948265"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27482/70426/27117/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 \"The Affordable Insulin Now Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32480/84891/27117/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Federation for American Immigration Reform (FAIR",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/40/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 10% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/27117/bobby-scott/40/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 \"Secure the Border Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34893/92114/27117/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Today, the House of Representatives passed the bipartisan American Dream and Promise Act which will finally offer permanent protections to all Dreamers who are integral to our communities and our economies.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1372673156343824384"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2494 \"POLICE Act of 2023\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/34930/92230/27117/police-act-of-2023#92230"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1333 \"NO BAN Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/30605/78993/27117/no-ban-act#78993"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today, I was proud to vote in favor of the American Dream and Promise Act. In 2012, we asked undocumented immigrants who were brought here at a young age, through no fault of their own, to step out of the shadows and undergo robust background checks in exchange for work authorization and temporary relief from deportation. We promised them an opportunity to legally contribute to their communities. Under the DACA program, they have been able to fulfill their dreams of completing college, getting a job, buying a car and owning a home, thereby contributing to our economic growth that benefits all Americans. The American Dream and Promise Act will finally offer permanent protections to all Dreamers who are integral to our communities and our economies.\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/public-statement/1519999/scott-votes-for-legislation-to-protect-dreamers-immigrants"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Ever since Vladimir Putin launched his unprovoked invasion on Ukraine, @POTUS promised that Russia would face crushing sanctions, and we would leave Russia more isolated economically and diplomatically from the world. This is another example of following through on that promise.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1501273017246228482"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4695 \"Protect Against Conflict By Turkey (PACT) Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/27343/69881/27117/protect-against-conflict-by-turkey-pact-act#69881"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/32388/84643/27117/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"However, I am disappointed it did not include aid for our allies in Ukraine, despite overwhelming support in both chambers of Congress.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1708203350892716377"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thankfully, we were finally able to advance this package to support our democratic allies in Ukraine, as well as Israel and the Indo-Pacific, while also surging humanitarian aid to Palestinian civilians in Gaza, as well as civilians in Ukraine, Haiti and other conflict zones.\"",
+          "source": "x.com",
+          "url": "https://x.com/BobbyScott/status/1781747887711424981"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035 \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/bill/37054/99505/27117/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/27117/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/27117/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:29:15+00:00"
+}

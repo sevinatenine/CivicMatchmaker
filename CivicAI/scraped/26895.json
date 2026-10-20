@@ -1,0 +1,676 @@
+{
+  "name": "Richard Neal",
+  "page_title": "Richard Neal's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (MA) - District 1, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (MA) - District 1",
+  "candidate_id": "26895",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/26895/richard-neal",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 100% by NARAL Pro-Choice America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3755: \"Women's Health Protection Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31780/82919/26895/womens-health-protection-act-of-2021#82919"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8297: \"Ensuring Acess to Abortion Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32974/86813/26895/ensuring-access-to-abortion-act-of-2022#86813"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Millions of Americans depend on Social Security for their income because so many people can no longer rely on a traditional employer-sponsored pension. Millions more are currently contributing to the program through their paychecks. As Chairman of the Ways & Means Committee, Richie has worked to strengthen and enhance Social Security for all Americans.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/social-security"
+        },
+        {
+          "type": "statement",
+          "text": "\"Seniors have earned their Social Security benefits through contributions over a lifetime of work. It is the foundation of retirement security, and yet Republicans are threatening to take it away. Democrats will not let this happen.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1613554116990492672"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/53/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the National Committee to Preserve Social Security and Medicare",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/53/"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm hard at work ensuring the largest corporations and wealthiest Americans pay their fair share. Weâre going to #BuildBackBetter with an economy that works for everyone, and tax fairness is a critical piece of this fight.\"",
+          "source": "x.com",
+          "url": "https://x.com/NealForCongress/status/1437531568600494086"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ways and Means Democrats fought to make a once-in-a-generation investment in tax fairness because wealthy tax evaders have been let off the hook for too long.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1745834162966163618"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/26895/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6760: \"Protecting Family and Small Business Tax Cuts Act of 2018\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/25275/64436/26895/protecting-family-and-small-business-tax-cuts-act-of-2018#64436"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I'm hard at work ensuring the largest corporations and wealthiest Americans pay their fair share. Weâre going to #BuildBackBetter with an economy that works for everyone, and tax fairness is a critical piece of this fight.\"",
+          "source": "x.com",
+          "url": "https://x.com/NealForCongress/status/1437531568600494086"
+        },
+        {
+          "type": "statement",
+          "text": "\"In partnership with @POTUS, House Democrats promised to start making the wealthy pay their fair share. The results speak for themselves. Promises made, promises kept.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1811491261079265621"
+        },
+        {
+          "type": "statement",
+          "text": "\"Ways and Means Democrats fought to make a once-in-a-generation investment in tax fairness because wealthy tax evaders have been let off the hook for too long.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1745834162966163618"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/36/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Passing election reform that increases accessibility, reforms our campaign finance laws, and strengthens our election security will fortify our constitutional right to vote, ensuring that it cannot be infringed.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1481656242527420417"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/12/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/26895/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Richie signed on as an original cosponsor of the Justice in Policing Act of 2020. The bill, passed by the House of Representatives, will bring meaningful reform by: Banning all chokeholds. Eliminating the qualified immunity doctrine, which makes it nearly impossible to hold police officers accountable for wrongful conduct. Banning no-knock warrants in drug cases. Establishing a National Police Misconduct Registry, so that problematic officers who are fired from one department canât simply be shuffled to another jurisdiction without any accountability. Ending racial, religious and discriminatory profiling.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/racial-justice"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 7120 \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28148/73007/26895/george-floyd-justice-in-policing-act-of-2020#73007"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/26895/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8774: \"Department of Defense Appropriations Act, 2025\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37629/101337/26895/department-of-defense-appropriations-act-2025#101337"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/26895/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Chairman of the Ways and Means Committee during 2020 and 2021, Richie led Democratic and bipartisan efforts to swiftly meet the needs of workers, employers, and communities as they struggled to survive the unprecedented economic shocks. These emergency relief measures included: stimulus checks to help low- and middle-income taxpayers; a more generous Child Tax Credit available to more parents; higher unemployment benefits available for longer durations, expanded for the first time to serve gig workers and the self-employed; and the Paycheck Protection Program, which helped small businesses keep their employees on the payroll. Once President Biden took office, Richie worked closely with him to pass the American Rescue Plan, the Bipartisan Infrastructure Law, the Inflation Reduction Act, and the CHIPS and Science Act, spurring investments and sending the job market roaring back to life. These measures have been enormous successes: our current economic recovery has been the strongest and most broadly-shared of our lifetimes, far outpacing every other major countryâs. Weâve won back every lost job plus another 2.5 million. Unemployment has been below 4 percent for nearly two yearsâthe longest stretch in more than fifty years. Almost 16 million new business applications have been registered since the beginning of the Biden Administration. Wages are rising, more people are streaming back into the workforce, and inflation is cooling.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Presidentâs executive actions, coupled with the additional relief legislation Congress is busily preparing, are important steps to protect families and workers as we continue efforts to eradicate the virus and get the economy back on track.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1352663989197697024"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/26895/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/26895/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On Monday, the House passed HR 7301, the Emergency Housing Protections & Relief Act. The bill directly addresses the needs of renters & homeowners who have been severely impacted by the pandemic. The Senate must vote on this important legislation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1278682587569876992"
+        },
+        {
+          "type": "statement",
+          "text": "\"Working people count on the federal government to help provide the vital services they need. Thatâs why I was proud to support this bill to continue investments in housing, public education, and child care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1576216362879524864"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7301: \"Emergency Housing Protections and Relief Act of 2020\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28220/73172/26895/emergency-housing-protections-and-relief-act-of-2020#73172"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8294: \"Transportation, Housing and Urban Development, and Related Agencies Apropriations Act, 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33017/86990/26895/transportation-housing-and-urban-development-and-related-agencies-appropriations-act-2023#86990"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"By building our economy from the bottom up & middle out, @HouseDemocrats have delivered historic results that are growing the middle class: Nearly 15M jobs created under @POTUS, unemployment under 4% for the longest stretch in 50 years, wages are outpacing inflation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1755229425442939184"
+        },
+        {
+          "type": "statement",
+          "text": "\"These measures have been enormous successes: our current economic recovery has been the strongest and most broadly-shared of our lifetimes, far outpacing every other major countryâs. Weâve won back every lost job plus another 2.5 million. Unemployment has been below 4 percent for nearly two yearsâthe longest stretch in more than fifty years. Almost 16 million new business applications have been registered since the beginning of the Biden Administration. Wages are rising, more people are streaming back into the workforce, and inflation is cooling. This recovery was never guaranteedâit was the result of the bold leadership of President Biden and his allies in Congress like Richie, who were determined to put workers and families first, usually over Republican objections.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"This #InfrastructureWeek, we are celebrating $220 billion so far in Bipartisan Infrastructure Law funding. In Mass, $4 billion in funding has been announced, including: $2.2 billion for roads & bridges, $534.8 million for public transit, and $106.8 million for clean energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1659213653533663233"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4521: \"America COMPETES Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32244/84296/26895/america-competes-act-of-2022#84296"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Higher education should be affordable and accessible for everyone who wants to pursue it. Students and their families shouldnât have to mortgage their futures to pay tuition. Richie supports expanding and increasing the American Opportunity Tax Credit and other tax incentives that provide aid to students, their families, and those repaying student loans.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"The rising cost of college is forcing students to choose between taking on large amounts of debt or building a brighter future for themselves and their families.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1409936452381728768"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2547: \"Comprehensive Debt Collection Improvement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30777/79462/26895/comprehensive-debt-collection-improvement-act#79462"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"56 years ago, heroes like my friend John Lewis shed blood on the Edmund Pettus Bridge for the right of all Americans to vote. As that right comes under attack once again, we honored their legacy by passing HR4, the John R. Lewis Voting Rights Advancement Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1430558589903679491"
+        },
+        {
+          "type": "statement",
+          "text": "\"For voters today, voters tomorrow, and all those who sacrificed so we could cast a ballot freely and fairly, we must pass #HR4 - the John R. Lewis Voting Rights Advancement Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1427704027475714052"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/26895/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/26895/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Richieâs work on the IRA is already yielding significant clean energy results. By early 2024, just a year and a half after the IRAâs passage, the American Clean Power Association reported 117 new utility-scale energy manufacturing facilities, representing $421 billion in investment, $4.5 billion in consumer savings, and more than 42,000 new jobs. The IRA is a generational investment to fight climate change, but Richie knows we canât stop there. He has led the Ways and Means Committee to recognize that sustainability and protection of the environment have to be part of how we approach every other policy challenge, from international trade to infrastructure investment to health care.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/environment"
+        },
+        {
+          "type": "statement",
+          "text": "\"Thanks to the Bipartisan Infrastructure Law, more than $200M in federal funding has been announced in MA-01. We're seeing much-needed investments in our roadways & bridges, as well as investments in clean energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1747341809960046932"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Reduction Act marked our nation's largest investment in tackling climate change. More than 200k jobs have already been created on the path to a projected 9M jobs. This historic legislation has ushered in a new era of climate security.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1761022597943435296"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/26895/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Richieâs work on the IRA is already yielding significant clean energy results. By early 2024, just a year and a half after the IRAâs passage, the American Clean Power Association reported 117 new utility-scale energy manufacturing facilities, representing $421 billion in investment, $4.5 billion in consumer savings, and more than 42,000 new jobs. The IRA is a generational investment to fight climate change, but Richie knows we canât stop there. He has led the Ways and Means Committee to recognize that sustainability and protection of the environment have to be part of how we approach every other policy challenge, from international trade to infrastructure investment to health care.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/environment"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by the League of Conservation Voters",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/30/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1146: \"Artic Cultural and Coastal Plain Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/26930/68923/26895/arctic-cultural-and-coastal-plain-protection-act#68923"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 823: \"Colorado Outdoor Recreation and Economy Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27350/69893/26895/colorado-outdoor-recreation-and-economy-act#69893"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a father & grandfather, parents shouldn't have to worry about the safety of their children when they drop them off at school. The time for Congress to pass common sense gun legislation that will strengthen and improve our federal background check system is long overdue.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/964221988037423113"
+        },
+        {
+          "type": "statement",
+          "text": "\"Richie has long been a supporter of stronger gun safety measures. Too often, our failure to implement stronger rules on guns has harmed the most vulnerable in our society. From Columbine High School, to Sandy Hook Elementary, to Parkland, FL, and Uvalde, TX, Richie grieves for the lives lost, and stands in solidarity with the families of the victims.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/gun-violence"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by the Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal/37/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7910: \"Protecting Our Kids Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32751/85843/26895/protecting-our-kids-act#85843"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proud stand on the House floor in support of legislation that builds on the gains of the #ACA; for legislation that increases access to affordable quality health care; for legislation that is #ForthePeople\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1277639468095361024"
+        },
+        {
+          "type": "statement",
+          "text": "\"I take great pride on the 11th anniversary of the #ACA because it is life-changing legislation I helped to write. Thanks to the #AffordableCareAct, over 133 million Americans, including those with pre-existing conditions, have been able to access quality health care.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1374374368709517319"
+        },
+        {
+          "type": "statement",
+          "text": "\"When it comes to achieving health care coverage for every American, Congressman Nealâs focus has always been on what Congress can do to deliver positive change to the people, right away. Thatâs why he helped write the Affordable Care Act, which finally made health insurance obtainable for tens of millions of Americans. While Republicans tried to take affordable healthcare away from nearly 130 million people with pre-existing conditions, Congressman Neal is working to cover more people and make coverage more affordable.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/26895/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"#PaidLeaveForAll will protect the health and wellbeing of working families by allowing millions of working families to better balance work life and family life. Thatâs why #PaidLeaveForAll is an ESSENTIAL part of Build Back Better!\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/share/p/zqw9XXKdJFeGs7qg/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6201 \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/26895/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@POTUS and Democrats are committed to capping the cost of insulin at $35 per month for ALL Americans. Let's get it done.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1623148108614868994"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rep. Nealâs historic steps to take on high drug prices and bring down out-of-pocket prescription drug costs: Empowered Medicare to negotiate lower prices with drug companies. Capped out-of-pocket prescription costs at $2,000 for people with Medicare Part D. Capped the cost of insulin for people on Medicare at $35 per month. Eliminated out-of-pocket costs for vaccines in Medicare. Required drug companies to pay a penalty to Medicare if they raise prices faster than inflation.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/health-care"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3 \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/552/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6833 \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/26895/lower-drug-costs-now-act-of-2019#70426"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/26895/richard-neal"
+        },
+        {
+          "type": "statement",
+          "text": "\"Richie believes that immigrants make America great. As the grandson of immigrants, he rejects claims by the former President that immigrants are \"poisoning the blood of our country.\" Richie believes that the fabric of our nation is made up of immigrants â it is their hard work and enduring spirit that has made our country what it is today. With the recent influx of migrants in Massachusetts, Richie has called for comprehensive immigration reform â the first in nearly 40 years. He supports commonsense solutions like expediting work visas, which would allow migrant families to earn an income and create financial independence. Richie is also a supporter of the DREAM Act, and he worked closely with the Congressional Hispanic Caucus to craft an amendment extending Affordable Care Act benefits to DREAMers.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2 - \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/26895/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR: 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/26895/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He believes that we must do more to create pathways to citizenship for undocumented immigrants, to welcome new Americans, to live up to our reputation as the Land of Opportunity, and to protect immigrant communities from all forms of intolerance. He supports a pathway to citizenship for DREAMers. He supports birthright citizenship. He voted to expand Americaâs work visa program.\"",
+          "source": "www.nealforcongress.com",
+          "url": "https://www.nealforcongress.com/immigration"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1333 \"NO BAN Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30605/78993/26895/no-ban-act#78993"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 1603 \"Farm Workforce Modernization Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30331/77981/26895/farm-workforce-modernization-act-of-2021#77981"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am supportive of President Bidenâs measured and appropriate sanctions against Russia. Putin is a brazen aggressor, acting in dangerous ways that impact Ukraine, its neighbors, and much of Europe. We must find a diplomatic solution.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1496499042444001291"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/26895/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/26895/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of H.R. 6968 \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/26895/suspending-energy-imports-from-russia-act#84643"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The invasion of Ukraine by Russian forces is unjustified and unprovoked. Putin must be held responsible, and I condemn his deadly actions. We cannot and will not tolerate his authoritarian regime. Ukraine is a sovereign nation, and we must support them and their people.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepRichardNeal/status/1496861212184924161"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692 - Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/26895/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833 - Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/88795/26895/continuing-appropriations-and-ukraine-supplemental-appropriations-act-2023#88795"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S. 3522 \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/26895/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/26895/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:09:49+00:00"
+}

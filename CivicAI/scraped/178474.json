@@ -1,0 +1,253 @@
+{
+  "name": "Robb Ryerse",
+  "page_title": "Robb Ryerse's Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Democratic for U.S. House (AR) - District 3",
+  "candidate_id": "178474",
+  "test_year": "2018",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178474/robb-ryerse",
+  "positions": [
+    {
+      "category": "Abortion",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Budget",
+      "question": "In order to balance the budget, do you support reducing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“Americans deserve free and fair elections: free from corporate and big donors and fair to all people without gerrymandered districts and restrictive voting laws.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229725/issue-position-lets-end-corrupt-politics#.WqaEB2e3wfI"
+        },
+        {
+          "type": "statement",
+          "text": "“I was on the phone today with 15 congressional candidates around the country who aren’t taking corporate money and are committed to putting people first. #reasonsforhope”",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/robb2018/posts/1558031567599110"
+        },
+        {
+          "type": "statement",
+          "text": "“We need comprehensive and clean campaign finance reform that returns power to where it belongs - with the American people.”",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robb2018/status/959925702400372736"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“I also support repairing our crumbling infrastructure.”",
+          "source": "robb2018.com",
+          "url": "https://robb2018.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support lowering corporate taxes as a means of promoting economic growth?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“The biggest problem in our tax code is huge loopholes that allow big corporations to get away with paying virtually no taxes. The corporate tax burden shouldn't be shouldered by small business owners.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229732/issue-position-lets-enact-meaningful-tax-reform#.WqaEYGe3wfI"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support requiring states to adopt federal education standards?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“As our climate changes is in incumbent upon us to adapt appropriately. Investing in green technologies like wind and solar power means we can do what's good for both the environment and the economy.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229735/issue-position-lets-invest-in-a-green-energy-economy#.WqaEjme3wfI"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“It is beyond time to take the steps necessary to curb gun violence and school shootings. From common sense reforms that don’t infringe on Americans’ Second Amendment rights to investing in education and research, we need to have a concerted national effort to keep ourselves and children safe.”",
+          "source": "robb2018.com",
+          "url": "https://robb2018.com/issues/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support repealing the 2010 Affordable Care Act (\"Obamacare\")?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“I support #MedicareForAll. It just makes so much sense - morally and economically.”",
+          "source": "twitter.com",
+          "url": "https://twitter.com/robb2018/status/955972231565316098"
+        },
+        {
+          "type": "statement",
+          "text": "“I think the best way to do this is to implement a Medicare for All system.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229727/issue-position-lets-fix-the-healthcare-mess#.WqaEJme3wfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support the construction of a wall along the Mexican border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“We must also make our border secure and make it easier for people to come to this country safely and legally.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229739/issue-position-lets-create-a-welcoming-society#.WqaEsWe3wfI"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "“We need to fix our broken immigration system and provide new Americans with a swift path to citizenship without dividing families who are already living and working in our country.”",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/public-statement/1229739/issue-position-lets-create-a-welcoming-society#.WqaEsWe3wfI"
+        }
+      ]
+    },
+    {
+      "category": "Marijuana",
+      "question": "Do you support the legalization of marijuana for recreational purposes?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Should the United States use military force in order to prevent governments hostile to the U.S. from possessing a nuclear weapon?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support increased American intervention in Middle Eastern conflicts beyond air support?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:43:31+00:00"
+}

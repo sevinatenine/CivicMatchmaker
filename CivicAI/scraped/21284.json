@@ -1,0 +1,658 @@
+{
+  "name": "Adrian Smith",
+  "page_title": "Adrian Smith's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NE) - District 3, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (NE) - District 3",
+  "candidate_id": "21284",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/21284/adrian-smith",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Life is a miracle that begins at conception. While todayâs decision is a win for life, our work does not end here. We must ensure states â which are now rightfully tasked with authority over abortion â have the resources needed to restore a culture that respects & values life.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1540367550978080771?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Nothing is more sacred than protecting the innocent life of the unborn. Adrian believes life begins at conception and ends at natural death. Adrian supports and promotes adoption as an alternative to abortion. Adrian is unwavering in his support for pro-life legislation and opposition to taxpayer funding for abortions.\"",
+          "source": "joinadrian.com",
+          "url": "https://joinadrian.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 26: \"Born-Alive Abortion Survivors Protection Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34026/90338/21284/born-alive-abortion-survivors-protection-act#90338"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Some in Washington want to delay the tough choices and move general funds to supplement Social Security without instituting any real reforms, while others have proposed raising taxes to cover the shortfall. I have strong concerns about the regressive nature of payroll tax rates. For many lower income Americans payroll taxes are the biggest tax burden they face. Increasing the Social Security tax rate would hit the working poor the hardest. Lifting the cap on income which is subject to Social Security taxes could fundamentally change the program, while also presenting its own set of new challenges. The cap, which is currently set at $132,900, is already subject to increase based on annual average wage growth. Removing this cap could create a new tier of Social Security benefits for millionaires and billionaires. Alternatively, decoupling taxes and benefits would weaken the widely held view that all Social Security benefits are earned.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1340704/strengthening-social-security"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/21284/tax-cuts-and-jobs-act#62174"
+        },
+        {
+          "type": "statement",
+          "text": "\"Adrian helped write and pass the most sweeping tax reform since Ronald Reagan was President. For Nebraska families the personal exemption doubled, the child tax credit increased and individual tax rates were lowered. For Nebraska agriculture and small business, rates were lowered for pass-through businesses, Section 179 business expensing was expanded, and full deductibility of property taxes on agricultural land as a business expense was extended.\"",
+          "source": "joinadrian.com",
+          "url": "https://joinadrian.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When you look at what we did with tax reform in 2017, we were able to grow the economy, grow wages, and grow revenue to the federal government. We need better policy, not higher taxes and more audits on families and small businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1635645024447651841?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Adrian helped write and pass the most sweeping tax reform since Ronald Reagan was President. For Nebraska families the personal exemption doubled, the child tax credit increased and individual tax rates were lowered. For Nebraska agriculture and small business, rates were lowered for pass-through businesses, Section 179 business expensing was expanded, and full deductibility of property taxes on agricultural land as a business expense was extended.\"",
+          "source": "joinadrian.com",
+          "url": "https://joinadrian.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"When you look at what we did with tax reform in 2017, we were able to grow the economy, grow wages, and grow revenue to the federal government. We need better policy, not higher taxes and more audits on families and small businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1635645024447651841?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 90% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Tax Cuts and Jobs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/24168/62174/21284/tax-cuts-and-jobs-act#62174"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/21284/for-the-people-act-of-2021#77709"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Our nationâs law enforcement officers work every day to keep our communities safe. We owe it to these brave individuals to provide them with the resources necessary to do their jobs both safely and securely across America.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1397006330603388934?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1280 \"George Floyd Justice in Policing Act of 2021.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/21284/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"@HouseGOP will fight to secure the border and uphold the rule of law, reduce crime so Americans can feel safe in their communities, and invest in a strong national defense. A nation that's safe is a key pillar of our #CommitmentToAmerica agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1581997834806575108?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/21284/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/21284/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7900: \"National Defense Authorization Act for Fiscal Year 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32973/86809/21284/national-defense-authorization-act-for-fiscal-year-2023#86809"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Biden and Speaker Pelosi's reckless spending and progressive agenda have gutted our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1552676521437003777?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's stimulus drove inflation & paid Americans to stay home, worsening our supply chain crisis. His policies doubled gas prices. Inflation relief will come when we rein in spending, get Americans back to work, provide regulatory relief & increase domestic energy\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1537445787386388480?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Tonightâs votes made clear the so-called infrastructure bill & Democratsâ social spending package are a single $3 trillion package. These bills spend too much, tax too much & put an extreme left-wing agenda over getting Americans back to work and solving our supply chain crisis.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1456844284242575365?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/21284/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americans everywhere are struggling under #Bidenflation. 11.4 percent more for food than last year. 25.6 percent more for gas. Democrats' Inflation Act made it worse but @HouseGOP is ready to get to work rebuilding our economy.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1569685591628840968?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Biden's stimulus drove inflation & paid Americans to stay home, worsening our supply chain crisis. His policies doubled gas prices. Inflation relief will come when we rein in spending, get Americans back to work, provide regulatory relief & increase domestic energy\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1537445787386388480?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Inflation Act doubled down on decades of failed Democrat economic policies and made #Bidenflation worse. Americans deserve better. It's time for a new direction.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1580549550892519424?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/21284/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Even Speaker Pelosi said President Biden's student debt transfer scheme couldn't be done without a vote in Congress. This move is irresponsible and does nothing to address high tuition.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1568230869629915136?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Bidenâs plan to cancel student debt places the ultimate burden of cost on those who can afford it least.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1562546301127929856?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Todayâs ruling is a great victory. President Bidenâs plan to cancel student debt placed the ultimate burden of cost on those who could afford it least, benefiting the top 60 percent of earners while driving down the value of a college-level or technical education.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1674794819900821506?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 6% by Common Cause",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/21284/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/21284/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We donât have to choose between being good stewards of the environment & prosperity. Unfortunately, the $350 billion on Green New Deal priorities in the Inflation Act will only exacerbate the energy & supply chain crises Americans are facing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1562075977957662720?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must unleash American energy, lower prices & strengthen our supply chains so families aren't facing skyrocketing energy prices and struggling to afford essentials like gas and groceries. That is why I strongly support H.R. 1, @SteveScalise's Lower Energy Costs Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1641113387248631819?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/21284/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We must unleash American energy, lower prices & strengthen our supply chains so families aren't facing skyrocketing energy prices and struggling to afford essentials like gas and groceries. That is why I strongly support H.R. 1, @SteveScalise's Lower Energy Costs Act.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1641113387248631819?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/21284/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/21284/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Adrian supports the Second Amendment and opposes Democrat attempts to impose new gun control measures on the American people. Firearms â whether for hunting, sporting, collecting, or self-defense â are part of our heritage and culture in rural Nebraska. Adrian is a lifetime member of the NRA and proud to earn their endorsement.\"",
+          "source": "joinadrian.com",
+          "url": "https://joinadrian.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/21284/enhanced-background-checks-act-of-2021#77850"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8: \"Bipartisan Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30269/77848/21284/bipartisan-background-checks-act-of-2021#77848"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Proposals have been put forth demanding raising taxes on Social Security, gasoline, firearms, carbon emissions, and today with health care. Not only does Medicare for All blow a $32 trillion hole in the federal budget, it also represents a dire risk for rural providers. This proposal would exacerbate the current health care provider shortage we see in rural communities. Rural America deserves better.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1351796/smith-speaks-out-against-government-takeover-of-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Affordable Care Act (ACA) -- also known as Obamacare -- is ten years old. However, with ten years of hindsight, it is clear the ACA has been anything but affordable for Nebraska families. In the Third District, insurance on the ACA exchange often costs upwards of $30,000 for a family when you include annual premiums and deductible. Despite the ACA raising health insurance rates instead of lowering them, this week Speaker Pelosi brought a new ACA expansion bill (H.R. 1425) before the House of Representatives. The insurance scheme developed by the ACA does not work -- rather than effectively lowering costs, its mandates have spiked insurance rates for those who have to pay for coverage out of pocket. In fact, rather than truly address the forces driving health costs, more than half of House Democrats would prefer to enact Medicare for All -- a bill they have cosponsored to initiate a full-scale government takeover of our nation's health care system with a $32 trillion price tag.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1447881/going-the-wrong-way-on-healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/21284/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/21284/families-first-coronavirus-response-act#71516"
+        },
+        {
+          "type": "statement",
+          "text": "\"Today in a @WaysandMeansGOP hearing on the Democratsâ paid family leave proposal, I expressed concern the costs of the program will outweigh the benefits for most middle class families, particularly farmers and ranchers.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1126235627362635782?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"H.R. 1425 would not only pour more money into subsidies and bureaucracy to paper over Obamacare's failures, it would also implement government mandated drug price controls, and punish states which chose not to expand Medicaid. What we really need are reforms which give Americans more control over their care and increased competition to bring more affordable coverage. With an ongoing, worldwide pandemic, we also need pharmaceutical innovations -- new vaccines and medicines -- more than ever. Instead, H.R. 1425 would institute government price-fixing which has been repeatedly proven to reduce future innovation. This means fewer medical breakthroughs, and fewer new cures. If the government stifles innovation, taxpayers will be on the hook for the slow and expensive development of urgently needed new vaccines or cures.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1447881/going-the-wrong-way-on-healthcare/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/21284/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/21284/the-affordable-insulin-now-act#84891"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/21284/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Nations have borders for a reason. America has lost control of the Southern Border resulting in record illegal immigration. Adrian voted to build the wall and give the U.S. Border Patrol the resources needed to secure the border and stop the inflow of drugs and criminals. Adrian believes the federal government must return to the border policies that were working before being recklessly reversed by the Biden administration.\"",
+          "source": "joinadrian.com",
+          "url": "https://joinadrian.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by Federation for American Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/21284/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/21284/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Because of his unwillingness to fulfill his constitutional duty to enforce U.S. law and protect Americans, I will again vote in favor of a resolution to impeach Sec. Mayorkas on the House floor this week.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1757506140772933860?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump is correct -- the DACA program violated the separation of powers established by our Constitution and should never have been created through executive action. This and many other aspects of our broken immigration system, such as border security, have gone too long without being addressed. Congress and the President must come together to create strong, permanent immigration policies rooted in the rule of law.\"",
+          "source": "None",
+          "url": "https:votesmart.org/public-statement/1192296/smith-statement-on-daca-program/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by Federation for American Immigration Reform",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/21284/adrian-smith"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/21284/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/21284/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6126: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35941/95976/21284/israel-security-supplemental-appropriations-act-2024#95976"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/21284/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/21284/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I support Ukraine as they defend their sovereignty against Vladimir Putinâs evil and reprehensible invasion. We cannot allow this sort of behavior to go unchecked and must stand in solidarity with Ukrainians and against the message it sends other aggressors around the world.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdrianSmith/status/1496905351240708097?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/21284/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/21284/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/21284/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/21284/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:14:41+00:00"
+}

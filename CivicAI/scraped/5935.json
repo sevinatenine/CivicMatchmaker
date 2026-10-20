@@ -1,0 +1,736 @@
+{
+  "name": "Alma Adams' Issue Positions (Political Courage Test)",
+  "page_title": "Alma Adams' Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NC) - District 12, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (NC) - District 12",
+  "candidate_id": "5935",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/5935/alma-adams",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On the 51st anniversary of Roe v. Wade, we remain committed to doing whatever it takes to achieve reproductive justice for our daughters and granddaughtersâ¦ even if it means getting arrested, again.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1749583669788877121?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The #SCOTUS decision overturning Roe v. Wade is fundamentally wrong - and it's going to disproportionally harm populations that are already vulnerable.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1542174481715707906?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Planned Parenthood Action Fund",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8296: \"Women's Health Protection Act of 2022\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/key-votes/5935/alma-adams/2/abortion"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Keeping our promise to our seniors in the form of Medicare and Social Security should be a top priority. They have paid into these programs their entire working lives so we cannot raid the benefits which they have already earned. In Congress, Alma Adams will be an outspoken advocate for protecting and funding Social Security and Medicare.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"We must keep our promise to our seniors in the form of Medicare and Social Security. Iâll fight against any attempt to privatize Social Security or defund Medicare.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Alliance for Retired Americans",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Committee to Preserve Social Security and Medicare",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 8% by National Taxpayers Union",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump wants to pay for his billionaire tax cuts by letting children starve. The very basis of the #TrumpBudget is cruelty and I strongly oppose any cuts to #SNAP.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1226981240470933504?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support an income tax increase on any tax bracket? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"First @realDonaldTrump signs a massive $2 trillion tax giveaway that benefits the wealthiest 1% of Americans, then he tells hard-working federal employees that he can't afford their expected pay raise in 2019. Workers deserve better from their President.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1035525165801721856?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Most Americans contribute to Social Security on every paycheck, but millionaires stop paying in after just two months. Itâs time to #ScrapTheCap and make sure everyone pays their fair share so we can keep Social Security strong for generations to come.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1630606682190487555?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"President Trump wants to pay for his billionaire tax cuts by letting children starve. The very basis of the #TrumpBudget is cruelty and I strongly oppose any cuts to #SNAP.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1226981240470933504?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 3% by National Tax Limitation Committee",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"When we allow dark money to sneak its way into our elections, we compromise every Americanâs voice in addressing our nationâs most pressing issues - like #GunReform, #EqualRights and #ClimateChange. Itâs time to #GetMoneyOut of our elections and overturn #CitizensUnited.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1219680678977187840?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 85% by End Citizens United Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"For the People Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30209/77709/5935/for-the-people-act-of-2021#77709"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"House Democrats will vote today on the George Floyd #JusticeInPolicing Act. Join us in sending a message to Trump and Senate Republicans that we need comprehensive police reform NOW.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1276190159269224449?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Justice in Policing Act: Includes Bold, Unprecedented Reforms to Curb Police Brutality, End Racial Profiling & Eliminate Qualified Immunity\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1270431088779853827?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Senate must pass the George Floyd Justice in Policing Act to ensure that no other father, mother, son, daughter, aunt, uncle, sister, brother or loved one again dies at the hands of the police without accountability.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1384629431550062592?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1280: \"George Floyd Justice in Policing Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30210/77711/5935/george-floyd-justice-in-policing-act-of-2021#77711"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "In order to balance the budget, do you support reducing defense spending? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Center for Security Policy",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/5935/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Tonight, I voted to pass the Bipartisan Infrastructure Bill and advance the #BuildBackBetter Act. These votes will create jobs, improve our infrastructure, and set the stage for Democrats to make a solid investment in the future of our families and our recovery from COVID-19.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1456838294629765122?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1319: \"American Rescue Plan Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30157/77837/5935/american-rescue-plan-act-of-2021#77837"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Moving Forward Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28221/73177/5935/moving-forward-act#73177"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/5935/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Adams helped secure over $100 million for Emergency Rental Assistance in Charlotte and Mecklenburg County, and facilitated community events with RAMP CLT to make sure all of our neighbors in need could keep a roof over their heads during COVID-19.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Alma Adams supports measures that will make housing more affordable and legislation that requires lenders to provide important disclosures on mortgages and housing counseling. When we support programs that lift the poor and the middle class, it makes it easier for people to afford good housing. Adams is the primary sponsor on legislation to make it easier for coronavirus relief funds to be used for Low-Income Housing Tax Credits projects. The bipartisan LIFELINE Act (H.R. 7078) would allow cities, counties, and states to use their Fiscal Recovery Fund dollars to maintain a robust pipeline of affordable housing developments.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Demand for housing is exceeding the supply and the lack of affordable housing for many has become an epidemic. Everyone deserves decent, safe, affordable housing; anything less than this is not an option. Shelter is a basic human need, and housing is a fundamental human right. It should be a Constitutional right.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Too many families across the country are suffering due to the housing crisis. The $8 billion in already-appropriated funds that this decision unlocks for affordable housing will be a lifeline for American families. Proud our legislation made a difference.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1552392661637763073?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I voted for the bipartisan Infrastructure Investment & Jobs Act because it will help solve the supply chain crisis and lower the cost of goods for American families. The next time a politician brings up inflation & rising prices, ask them how they voted. #BuildBackBetter\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1463178728234749957?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"I voted with my Democratic colleagues to pass the Inflation Reduction Act, which will save 13 million Americans an average of $800 per year in lower health care premiums. Democrats are putting #PeopleOverPolitics to lower costs.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1580644305605042178?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Rising inflation has hit the middle class especially hard recently. Alma voted for the America Creating Opportunities for Manufacturing, Pre-Eminence in Technology, and Economic Strengthening (America COMPETES) Act (H.R. 4521), a comprehensive, strategic package aimed at addressing inflation by investing in the U.S. supply chain so that more goods are made in America, accelerating the production of U.S. made semiconductor chips which are critical for any electronics, and building our research capacity at HBCUs and other institutions of higher education to foster domestic innovation, advance global competitiveness and ensure we lead the technologies of the future.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5376: \"Inflation Reduction Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31958/87785/5935/inflation-reduction-act-of-2022#87785"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Almost 40% of borrowers with student loan debt didn't finish their degree. Now, they face the worst of both worlds: all of the debt and no degree. Canceling student loan debt will make a world of difference for them. #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1359195952909856777?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Department of Education has broad administrative authority to cancel Federal student loan debt. I'm urging the Biden-Harris Administration to change lives on day one. #CancelStudentDebt\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1339659461447839754?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Why do we need to #CancelStudentDebt? Student loan debt kills jobs. Black and brown borrowers bear the brunt of our $1.6 trillion student loan debt crisis. #COVID19 has made it worse.@Ilhan, @RepPressley, and many other members of Congress are ready to fix that.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1258847123350700032?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Education Association",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"One of the ways Alma hopes to reinstate the Voting Rights Act, end voter suppression, and expand opportunities for all Americans is by supporting and passing the John R. Lewis Voting Rights Advancement Act. [H.R.4]. The Act assures that the right of citizens to vote is not denied or abridged on account of race, color, or membership in a language minority group as a result of the implementation of certain qualifications or prerequisites to voting, or standards, practices, or procedures with respect to voting. This includes making sure that voting materials are available in a multitude of languages.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Common Cause",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4: \"John R. Lewis Voting Rights Advancement Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/31650/82404/5935/john-r-lewis-voting-rights-advancement-act-of-2021#82404"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5746: \"Freedom to Vote: John R. Lewis Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32183/84108/5935/freedom-to-vote-john-r-lewis-act#84108"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Alma Adams received the highest grade of 100 from the League of Conservation Voters in their most recent legislative scorecard. She has been endorsed by the Friends of the Earth Action. Alma will always work to protect our land and water resources. She understands that we must do more to combat climate change by supporting investments in more renewable energy sources and green technology. This will protect and preserve our environment for our children and grandchildren, while also creating millions of jobs in North Carolina.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by League of Conservation Voters",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4447: \"Expanding Access to Sustainable Energy Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28907/74931/5935/expanding-access-to-sustainable-energy-act-of-2019#74931"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We shouldnât clap about being the number one producer of oil. Climate change is a real crisis that requires an investment in green jobs, sustainability, and resilience that will create great jobs for the current and next generation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1224881100234928128?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Alma Adams received the highest grade of 100 from the League of Conservation Voters in their most recent legislative scorecard. She has been endorsed by the Friends of the Earth Action. Alma will always work to protect our land and water resources. She understands that we must do more to combat climate change by supporting investments in more renewable energy sources and green technology. This will protect and preserve our environment for our children and grandchildren, while also creating millions of jobs in North Carolina.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Weâve known the damaging impacts of it for years and we canât afford to not take action. Thatâs why Iâm proud to support the Energy Innovation & Carbon Dividend Act in order to put a #PriceOnPollution and reduce our carbon emissions by 90% by 2050.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1220786542182006785?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1808: \"Assault Weapons Ban of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/33077/87309/5935/assault-weapons-ban-of-2022#87309"
+        },
+        {
+          "type": "statement",
+          "text": "Do you generally support gun-control legislation? \"Yes\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Gun Owners of America",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1446: \"Enhanced Background Checks Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30270/77850/5935/enhanced-background-checks-act-of-2021#77850"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"9 years ago, the #ACA became law, expanding healthcare access for millions of Americans. Today, Iâm committed to #ProtectOurCare and strengthen the ACA to ensure NC residents and Americans across the country can access affordable healthcare!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1109537002263924737?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Health insurance needs to be affordable and available for everyone. Thatâs why Alma supports government discounts for insurance based upon income. She also supports tax incentives for small businesses that provide coverage for their employees, and she fought to close the Medicaid coverage gap, which would provide more than 212,000 North Carolinians access to healthcare.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Healthcare should be a right, not a privilege.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1110383934796292097?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1425: \"Patient Protection and Affordable Care Enhancement Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/28212/73153/5935/patient-protection-and-affordable-care-enhancement-act#73153"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Chair of the Workforce Protections Subcommittee, Alma Adamsâs number one focus is to expand benefits for our workers. The top priority must be expanding and strengthening our paid family leave laws in this country. Currently, the U.S. ranks near the bottom of industrialized nations in terms of its family leave, and even the laws we do have on the books are not enough to keep many people from falling through the cracks.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Every worker deserves comprehensive, paid Family and Medical Leave.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1227327671035744258?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"The Family and Medical Leave Act is an important piece of legislation, but Alma would like to see companies offer family leave benefits beyond the FMLA. Alma believes we need to set the standard for paid parental leave around the world.\"",
+          "source": "almaadamsforcongress.com",
+          "url": "https://almaadamsforcongress.com/issues/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6201: \"Families First Coronavirus Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27747/71516/5935/families-first-coronavirus-response-act#71516"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Prescription drug companies are charging Americans prices that are three, four and even ten times higher than what they charge for the same drugs in other countries. @HouseDemocratrs are working #ForThePeople to #LowerDrugCosts.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1204784001023692800?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3: \"Lower Drug Costs Now Act of 2019\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/27482/70426/5935/lower-drug-costs-now-act-of-2019#70426"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/5935/lower-costs-more-transparency-act#96624"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6833: \"The Affordable Insulin Now Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32480/84891/5935/the-affordable-insulin-now-act#84891"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"America was meant to be a beacon of hope for ALL. Yet, the Administration has once again managed to exclude & penalize immigrants, failing to uphold the very heart of this nation. First, it was separation at the border. Then, children in cages. Now, this. When will it stop?\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1221905155530088450?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Americaâs diversity is what makes us great. Mocking refugees, threatening to close the southern border, detaining families and deporting unaccompanied children is not who we are. We must stand united against President Trumpâs anti-immigrant rhetoric and agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1111748788551598081?s=20"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/5935/secure-the-border-act-of-2023#92114"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Americaâs diversity is what makes us great. Mocking refugees, threatening to close the southern border, detaining families and deporting unaccompanied children is not who we are. We must stand united against President Trumpâs anti-immigrant rhetoric and agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1111748788551598081?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship? \"No\"",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/political-courage-test/5935/alma-adams"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 8% by NumbersUSA",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/5935/alma-adams"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6: \"American Dream and Promise Act of 2021\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/30330/77979/5935/american-dream-and-promise-act-of-2021#77979"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"President Zelenskyy called on Congress to act this morning, specifically imploring us that âMore packages of aggressive sanctions are needed every week until the Russian military machine stops.â Iâm proud to answer that call. #UkraineUnderAttack\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1504204222908280836?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 340: \"Hamas International Financing Prevention Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35940/95972/5935/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 6968: \"Suspending Energy Imports from Russia Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32388/84643/5935/suspending-energy-imports-from-russia-act#84643"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7108: \"Suspending Normal Trade Relations with Russia and Belarus Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32418/84733/5935/suspending-normal-trade-relations-with-russia-and-belarus-act#84733"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Vladimir Putin and the Russian military have launched an illegal war that has already claimed innocent lives. #Ukraine is a sovereign, democratic country and this aggression against their people is unprovoked. I support @POTUSâs actions to impose significant costs on Russia.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1496905010260574208?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5692: \"Ukraine Security Assistance and Oversight Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35718/95243/5935/ukraine-security-assistance-and-oversight-supplemental-appropriations-act-2024#95243"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7691: \"Making emergency supplemental appropriations for assistance for the situation in Ukraine for the fiscal year ending September 30, 2022, and for other purposes.\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32637/85398/5935/making-emergency-supplemental-appropriations-for-assistance-for-the-situation-in-ukraine-for-the-fiscal-year-ending-september-30-2022-and-for-other-purposes#85398"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of S 3522: \"Ukraine Democracy Defense Lend-Lease Act of 2022\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/32588/85238/5935/ukraine-democracy-defense-lend-lease-act-of-2022#85238"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Freedom of speech does not mean freedom of reach. Nonetheless, @Facebook has become a super spreader of misleading viral and paid content. Thatâs why Iâve joined @RepDavidEPrice & @GKButterfield in this letter.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1321199395191300097?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social media platforms are responsible for the content they allow. On November 4th, 56 of my colleagues & I sent a letter to @Twitter CEO expressing our concerns of Twitter being used to spread disinformation related to the 2020 Census.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1199023197519261696?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"With extreme access to personal information, social media platforms must do better protecting the privacy of their users. Today, I questioned #Facebook CEO #MarkZuckerberg on how he plans to address the algorithm bias and discriminatory targeting of Facebook.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepAdams/status/1187123209205960704?s=20"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:33:44+00:00"
+}

@@ -1,0 +1,718 @@
+{
+  "name": "Greg Casar",
+  "page_title": "Greg Casar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (TX) - District 35, Democratic",
+  "on_the_ballot": "Running, Democratic for U.S. House (TX) - District 37",
+  "candidate_id": "161953",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/161953/greg-casar",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Abolish the filibuster. Pass the Womenâs Health Protection Act. Codify Roe v. Wade into law. Repeal the Hyde Amendment. #AbortionIsEssential\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1466895042635829249"
+        },
+        {
+          "type": "statement",
+          "text": "\"JUST NOW: Austin has decriminalized abortion! Texans brought us Roe, and it's up to us to bring abortion rights back. Thank you to @chitovela3 and @VanessaForATX for leading these efforts! #AbortionIsEssential\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1550160849955950595"
+        },
+        {
+          "type": "statement",
+          "text": "\"Texas is ground zero for the Republican attack on abortion rights. With Texans having to travel hundreds of miles to get the care they need, itâs more important than ever before that we make Roe v. Wade the law of the land.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We CAN and MUST stop abortion from being banned in these 26 states. If #SCOTUS wants to overturn #RoeVWade, the Senate can end the filibuster and codify #Roe into law NOW.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1521306186192236544"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must ensure that families across the country can afford their prescription drugs and to receive high-quality health care. I also support legislation to protect and strengthen Medicare and Medicaid, and will always oppose efforts to cut funding for these essential programs.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"Iâm working in Congress to make sure that every Texan is able to live and retire with dignity, and protecting Social Security is an important part of that work. I am proud to co-sponsor the Social Security 2100 Act and the Social Security Expansion Act to put more money in seniorsâ pockets and guarantee that Social Security will be here for our kids and grandkids.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/social-security-seniors"
+        },
+        {
+          "type": "statement",
+          "text": "\"Millions of seniors rely on Social Security and Medicare after they retire from the workforce. We must protect Social Security and increase Social Security benefits, ensure that our seniors can retire no later than age 65, and provide for folks to stay in their homes and put food on the table. Casar believes in protecting pensions, supporting those with disabilities at every stage of life, and guaranteeing a dignified retirement for seniors.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Social Security is a lifeline for millions of Americans â which is why Congress needs to increase benefits, lower wait times, and ensure the program is around for generations to come. In our district alone, there are over 100,000 people who rely on Social Security to pay their bills.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/social-security-seniors"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must ensure that the ultra rich pay their fair share in taxes and contribute to the schools, roads, and community services that we all use.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar knows we must fairly tax top earners and ensure corporations pay their fair share of taxes. Casar is a co-sponsor of the For the 99.5 Percent Act, which would close tax loopholes and guarantee fair taxes for billionaires. With a fair tax system, we can fully fund health care, child care, schools, and good jobs for Texans.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the City Council, Casar closed inexcusable tax loopholes for the ultra-wealthy to reduce the tax rate paid by everyday families. He also fought against tax breaks for Amazon, big pharmaceutical companies, and other major corporations.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congress must ensure that the ultra rich pay their fair share in taxes and contribute to the schools, roads, and community services that we all use.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar knows we must fairly tax top earners and ensure corporations pay their fair share of taxes. Casar is a co-sponsor of the For the 99.5 Percent Act, which would close tax loopholes and guarantee fair taxes for billionaires. With a fair tax system, we can fully fund health care, child care, schools, and good jobs for Texans.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"On the City Council, Casar closed inexcusable tax loopholes for the ultra-wealthy to reduce the tax rate paid by everyday families. He also fought against tax breaks for Amazon, big pharmaceutical companies, and other major corporations.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"He supports federal legislation like the For the People Act and John Lewis Voting Rights Act, along with automatic voter registration. Greg does not accept any donations from corporate PACs and will work to overturn Citizens United through federal action.\" (www.casarforcongress.com",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar is a proud co-sponsor of the Freedom to Vote Act, which ends partisan gerrymandering, cracks down on dark money in politics, establishes automatic voter registration, and combats voter suppression.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Furthermore, Congressman Casar does not accept donations from corporate PACs. He is a co-sponsor of the Democracy for All Amendment, which would end unrestricted corporate spending in elections by overturning Citizens United.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar has led Texas in criminal justice reform. He supports the George Floyd Justice in Policing Act and is a co-sponsor of the Federal Death Penalty Abolition Act.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Criminal justice reform is long overdue. The U.S. has more people incarcerated than virtually anywhere else in the world, but that hasnât resulted in true community safety compared to other nations with advanced economies.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/criminal-justice"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Greg will work to pass the George Floyd Justice in Policing Act, the BREATHE Act, and more to reduce our prison population and invest federal resources in our neighborhoods instead of locking people up\" (www.casarforcongress.com)\"",
+          "source": null,
+          "url": null
+        },
+        {
+          "type": "statement",
+          "text": "\"The state of Texas is that we are organizing for change. We will continue to push for police accountability. We will continue to listen to #BlackLivesMatter. We will continue to support our constituents, because thatâs what we were elected to do.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1359927770680352770?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/93292/161953/national-defense-authorization-act-for-fiscal-year-2024#93292"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 2670 \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35217/96799/161953/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4365 \"Department of Defense Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35724/95261/161953/department-of-defense-appropriations-act-2024#95261"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 4366 \"Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35297/93604/161953/military-construction-veterans-affairs-and-related-agencies-appropriations-act-2024#93604"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"On your ballot, make sure to vote for Prop A: Austin's own Green New Deal! With your support, we can get hundreds of thousands of people around Austin on clean mass transit, fight climate change, invest $300M in anti-displacement, and create good union jobs while we're at it!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1317179191687872512?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our planet is burning, flooding, and freezing all at the same time. Fighting the climate crisis must be a top priority for every country in the world. We can create good-paying union jobs while we become the global leader in renewable energy.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The federal government is best positioned to make the kinds of large investments we need. A Green New Deal is our path to addressing the climate crisis, affordable housing, public transit, and good-paying jobs.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Casar led and helped pass the largest affordable housing elections in the South. He has passed innovative rules to create homes for thousands of working class Austin families and has opposed exclusionary zoning. He led Texas on establishing housing protections for homeowners and renters during the COVID pandemic and ensured families could have more affordable electric and water service. Casar has always fought alongside renters against abusive corporate landlords. He has opposed bad developments that would displace hundreds of people in black and brown neighborhoods, and he has implemented programs that provide families a right to stay in their homes and in their community.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Everyone deserves a safe, affordable, sustainable home. As housing costs skyrocket and wages fail to keep up, working families are struggling to pay the rent or the mortgage. Congressman Casar has led Texas in bold, innovative, and compassionate solutions to address our housing crisis.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support legislation to address skyrocketing rent and mortgage rates, end discriminatory policies that prevent Texans from becoming homeowners, and expand public housing. Iâm also fighting to protect veterans, older Americans, students and consumers from predatory business tactics, through legislation such as the End Junk Fees for Renters Act.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/economy"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Congressman Casar is working to expand funding for the creation and preservation of affordable and sustainable housing, end the Faircloth Limit and expand public housing, expand renters rights, stop predatory mortgage lending, end discriminatory housing practices, and fight gentrification and displacement.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Let's get back to basics, y'all. âï¸Things that cause inflation: âï¸ Supply/demand mismatchâï¸ Corporate greedâï¸ War Things that decrease inflation:â Smart, targeted government investments.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1637905500028260354"
+        },
+        {
+          "type": "statement",
+          "text": "\"Let's implement strong EPA rules. Let's accelerate clean energy transmission. Let's fully implement the Inflation Reduction Act's climate and environmental justice provisions.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1641527936804069390"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 347 \"Reduce Exacerbated Inflation Negatively Impacting the Nation Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/34222/90764/161953/reduce-exacerbated-inflation-negatively-impacting-the-nation-act#90764"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A broken #SCOTUS has once again sided with the rich and powerful over everyday people with student debt. But this fight is not over. @POTUS can still deliver urgent relief to millions of borrowers if we donât give up.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1674825809251508224"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar supports universal pre-k and universal child care, canceling student debt, free community college and public universities, good pay for our teachers, and investing in our schools to guarantee an excellent education for all our children. Casar is a co-sponsor of the More Teaching Less Testing Act, the Child Care for Every Community Act, and the Universal School Meals Program Act. Casar also supports legislation to raise the minimum pay for teachers up to at least $60,000 per year.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support erasing student debt and making community colleges and public universities free. I am a proud co-sponsor of the College for All Act, which would make community colleges free and eliminate tuition and fees at public universities for those who make less than $125,000.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/education"
+        },
+        {
+          "type": "statement",
+          "text": "\"Student debt cancellation is legal, just, and necessary. 1.4M Texans have applied for relief, including 68,400 people in #TX35. Today, they and their families are looking to #SCOTUS to follow the letter of the law and uphold this critical program! #CancelStudentDebt\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1630564476461170688"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar is a proud co-sponsor of the Freedom to Vote Act, which ends partisan gerrymandering, cracks down on dark money in politics, establishes automatic voter registration, and combats voter suppression. Congressman Casar supports the John Lewis Voting Rights Advancement Act, which would restore the strength of the Voting Rights Act of 1965. Casar advocates for ending the Jim Crow-era filibuster and expanding the U.S. Supreme Court, so that our democracy can work for everyday people, not just the powerful and rich.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"It's time for a truly inclusive & fair democracy in Texas. Congress must pass the #FreedomToVoteAct, the For the People Act, & the John Lewis Voting Rights Act. This is our fight â our future.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1481016377959985156?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our democracy is under attack â from extremist Republicans denying election results to our Supreme Court undoing Americansâ basic rights. Congress needs to take action to protect voters and ensure access to voting for all people. I will push for Congress to ensure our democracy is protected and work toward ensuring an inclusive and fair democracy. I support the John Lewis Voting Rights Advancement Act, which would strengthen protections against discriminatory voting practices.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/voting-rights"
+        },
+        {
+          "type": "statement",
+          "text": "\"ð¢ RALLY FOR THE PEOPLE âð½Great to see so many new & familiar faces. Weâre fighting for voting rights & saving our democracy! Now, we need Congress to pass the #ForThePeople Act to ensure our leaders are elected BY the people, FOR the people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1406768531077750785?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The federal government is best positioned to make the kinds of large investments we need. A Green New Deal is our path to addressing the climate crisis, affordable housing, public transit, and good-paying jobs. Congressman Casar is a member of the Sustainable Energy & Environment Coalition (SEEC), and he knows that we can reduce prices for consumers, raise wages for workers, and build a clean energy economy to end the climate crisis.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar is a co-sponsor of the Environmental Justice For All Act, the Energy Resilient Communities Act, and a resolution declaring a climate emergency.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our planet is burning, flooding, and freezing all at the same time. Fighting the climate crisis must be a top priority for every country in the world. We can create good-paying union jobs while we become the global leader in renewable energy.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The climate crisis is real. In Texas, weâve seen the impacts first-hand: from Winter Storm Uri, to historic floods, to wildfires, and so much more. Texans have taken care of each other through these crises, but we canât afford to rely on local and individual solutions any longer. Iâm a proud co-sponsor of the Green New Deal and similar legislation to create good union jobs in clean energy and protect communities harmed by pollution and natural disasters. Our country can and must take care of everyone along the way â from children to seniors to fossil fuel workers.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/climate"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/161953/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/161953/strategic-production-response-act#90422"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by American Energy Alliance",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/161953/greg-casar"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 6285: \"Alaska's Right to Produce Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37218/100086/161953/alaskas-right-to-produce-act-of-2023#100086"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As an Austin City Council Member, Casar supported the creation of the Gun Violence Task Force, successfully expanded and funded gun violence reduction programs, and created a new Office of Violence Prevention.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar is committed to ending the epidemic of gun violence in our country.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar supports funding common sense gun violence intervention programs, passing universal background checks, ending permitless carry, creating safe storage rules, and banning assault weapons and high-capacity magazines. He is a proud co-sponsor of the Assault Weapons Ban, the Bipartisan Background Checks Act, Ethanâs Law, reinstating the Violent Crime and Law Enforcement Act, and repealing the Protection of Lawful Commerce in Arms Act (PLCAA).\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Gun violence is a national emergency. The number one cause of death for children in the U.S. is firearms. Thatâs unacceptable. A future without gun violence is not just possible â itâs necessary. The U.S. needs stronger gun safety laws and gun violence prevention programs â to keep weapons of war off our streets and out of our schools, and stop gun violence before it starts. I support legislation to ban assault weapons, expand background checks, and establish a federal Office of Gun Violence Prevention.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/gun-violence"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A better world is possible, if we fight for it. Organize for it. Thatâs why Iâm running for Congress. To stop the attacks on working Texans. To win Medicare For All, good jobs, affordable housing, & a strong democracy.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1456244852228857858"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress must ensure that families across the country can afford their prescription drugs and to receive high-quality health care. I also support legislation to protect and strengthen Medicare and Medicaid, and will always oppose efforts to cut funding for these essential programs.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"Health care should be a right, not a privilege, and itâs time for Congress to guarantee healthcare for all people. Iâm a proud co-sponsor of the Medicare for All Act, because no Texan should have to skip taking medicine or not see a doctor because they canât afford it.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"We won our Congressional race in #TX35 on a bold, unapologetic platform of Medicare for All, union climate jobs, and abortion rights â with 73% of the vote.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1590512593214443520"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a city leader, I passed the first paid sick leave policy in the South. Then, right-wing judges blocked these protections to satisfy their political backers. But that wonât stop us: Iâm now a co-sponsor of @RosaDeLauro's Healthy Families Act to guarantee paid leave nationwide!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1659288606723174402"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress just passed the #BuildBackBetter Act! Now, we need the Senate to follow suit & pass these popular & necessary policies, including lowering prescription drug costs, increasing affordable housing, paid family leave, and universal Pre-K. Texas working families canât wait.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1461726859545223168?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Labor day announcement: we will push for a law giving every working family in Austin the right to earn paid sick and family leave!\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/904823698171023360?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We fought for paid sick leave in Austin & Houston because protecting workers is a reproductive justice issue. Tomorrow, #txlege is considering bills that attack local democracy & prevent future worker protections. I stand with workers because #TXDeservesBetter. #SB14 #HB1173\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1379956264243974147"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A year ago, @POTUS signed the #InflationReductionAct, reducing Americansâ prescription expenses, capping insulin prices for millions, and reducing other household costs. Our government should work for working people.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1691896129485447613"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress just passed the #BuildBackBetter Act! Now, we need the Senate to follow suit & pass these popular & necessary policies, including lowering prescription drug costs, increasing affordable housing, paid family leave, and universal Pre-K. Texas working families canât wait.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1461726859545223168?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congress must ensure that families across the country can afford their prescription drugs and to receive high-quality health care. I also support legislation to protect and strengthen Medicare and Medicaid, and will always oppose efforts to cut funding for these essential programs.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/health-care"
+        },
+        {
+          "type": "statement",
+          "text": "\"ð Capping seniorsâ insulin costs at $35/month. (Democrats fought for this to apply to all people, not just Medicare patients, but Republicans successfully ripped this out of the bill.)\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1558207468349624321?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\".@GregAbbott_TX is working more on his racist border wall than he ever did on relief from the winter storm.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1410317668310294530?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Immigrant rights activists adopted the butterfly as a symbol of the natural and normal process of migration. The fact that a racist border wall would rip through and destroy a butterfly refuge is a bitter allegory that cannot be lost on us.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1095392663698853888?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Congressman Casar is a co-leader of the New Way Forward Act, which would roll back harmful anti-immigrant laws â including Greg Abbottâs militarization of the border. Casar also supports the American Dream and Promise Act, the American Families United Act, the Dignity for Detained Immigrants Act, and the New Deal for New Americans Act. Casar believes all families, including immigrant families, deserve to live dignified lives free from fear of being separated, deported, or discriminated against. Thousands of families in Texasâs 35th District, and millions of people in Texas, would benefit from having their rights fully recognized and protected by the federal government, including the right to apply for citizenship.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The wall a waste of money and a shameful way to stoke racial fear. We need Congress saving lives, not selling us out with a border wall deal.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/GregCasar/status/1072570399261638661?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"For far too long, our nationâs laws have denied immigrant families basic dignity and human rights. Children have been separated from their families, parents have been deported after decades in this country, and Dreamers have spent years of their lives in limbo.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/immigrant-rights"
+        },
+        {
+          "type": "statement",
+          "text": "\"I support a full overhaul of our inhumane immigration system â including passage of the American Dream and Promise Act, a pathway to citizenship for the 11 million undocumented immigrants in the U.S., due process in our immigration system, and a permanent end to xenophobic travel bans. Iâm also a proud co-lead of the New Way Forward Act, a landmark piece of legislation that addresses some of the most harmful provisions of immigration law that drive unjust enforcement practices and deportations.\"",
+          "source": "casar.house.gov",
+          "url": "https://casar.house.gov/issues/immigrant-rights"
+        },
+        {
+          "type": "statement",
+          "text": "\"In Congress, Congressman Casar is a co-leader of the New Way Forward Act, which would roll back harmful anti-immigrant laws â including Greg Abbottâs militarization of the border. Casar also supports the American Dream and Promise Act, the American Families United Act, the Dignity for Detained Immigrants Act, and the New Deal for New Americans Act. Casar believes all families, including immigrant families, deserve to live dignified lives free from fear of being separated, deported, or discriminated against. Thousands of families in Texasâs 35th District, and millions of people in Texas, would benefit from having their rights fully recognized and protected by the federal government, including the right to apply for citizenship.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Congressman Casar comes from an immigrant family and began his career as a labor and immigrantsâ rights organizer. When Trump initiated family separation raids in Texas, Casar established an immigrant legal defense fund, setting a model that was followed by San Antonio and Houston. Casar went on to coordinate the statewide lawsuit against Senate Bill 4, Greg Abbottâs discriminatory \"Show Me Your Papers\" law.\"",
+          "source": "www.casarforcongress.com",
+          "url": "https://www.casarforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted against HR 340 \"Hamas International Financing Prevention Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35940/95972/161953/hamas-international-financing-prevention-act#95972"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 3774 \"Stop Harboring Iranian Petroleum (SHIP) Act\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/35952/96006/161953/stop-harboring-iranian-petroleum-ship-act#96006"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats can't throw immigrants under the bus in exchange for Ukraine aid. Whatâs next, giving Republicans a nationwide abortion ban? Iâm a NO on any deal that brings back Trump-era immigration policies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1735053779249119463"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/161953/israel-security-supplemental-appropriations-act-2024#99510"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/161953/ukraine-security-supplemental-appropriations-act-2024#99505"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8036: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/161953/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Congressional Republicans want Democrats to throw asylum seekers under the bus in exchange for a vote on Ukraine funding. I will strongly oppose that trade. I support the defense of Ukraine, but hurting immigrant families simply cannot be a part of the deal.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1729932117629403148"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats can't throw immigrants under the bus in exchange for Ukraine aid. Whatâs next, giving Republicans a nationwide abortion ban? Iâm a NO on any deal that brings back Trump-era immigration policies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1735053779249119463"
+        },
+        {
+          "type": "statement",
+          "text": "\"House & Senate Democrats must NOT throw asylum seekers under the bus. Itâs ridiculous that Republicans are demanding we hurt immigrants in exchange for Ukraine $. I am a NO on a supplemental that includes the GOPâs extreme immigration policies.\"",
+          "source": "twitter.com",
+          "url": "https://twitter.com/RepCasar/status/1732426693196050747"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/161953/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/161953/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/161953/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:23:01+00:00"
+}

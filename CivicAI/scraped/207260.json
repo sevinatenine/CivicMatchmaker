@@ -1,0 +1,359 @@
+{
+  "name": "Brian Bengs' Issue Positions (Political Courage Test)",
+  "page_title": "Brian Bengs' Issue Positions (Political Courage Test)",
+  "on_the_ballot": "Running, Independent for U.S. Senate (SD) - Jr",
+  "candidate_id": "207260",
+  "test_year": "2022",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/207260/brian-bengs",
+  "positions": [
+    {
+      "category": "Budget",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support pending legislation in Congress allowing Americans in states that have refused Medicaid Expansion to purchase subsidized health insurance in the ACA marketplace.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/policy-on-healthcare/"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I wont accept a single penny from corporate PACs. Corporations have price gouged working families on everything from prescription drugs to gas prices. Its beyond time to get dark money out of politics.\"",
+          "source": "www.facebook.com",
+          "url": "https://www.facebook.com/BengsforSenate/posts/pfbid02CbrjmqRaeV21YW1wdfUqV7Zm5A2qk8fP3WNERuHJdEFHWiLrby12FASGz7PSfcm2l?__cft__[0]=AZU9QTzsUwObHAcHHYoj3x1pGU68TeSKbAUlXoFvlnuFy-GDKiSWU7FHxt8il-LqxpH-qplOKJAoAs0g_3wyntbW5nmAlEfEDBx1NwP4iRm_qSn8zjMkFFdIZDyY1fTPwcS-tlYvIr-rXowQiyUREwevM2II-qzKBakIzm32FpJBDU4_-s9BhombnLxL8FLbn-w&__tn__=%2CO%2CP-R"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reform campaign finance laws to minimize the corrupting influence of money in politics that incentives career politicians to put their donors before their constituents.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-covenant-with-south-dakota/"
+        }
+      ]
+    },
+    {
+      "category": "Crime",
+      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a career military officer, I certainly understand the need for an effective military but I also share President Eisenhowers concerns about what our society trades for it and will work to maximize accountability for defense spending.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        },
+        {
+          "type": "statement",
+          "text": "\"As senator, I will pursue additional federal investment to build and diversify the militarys economic impact and work with state leaders to foster associated industries and the jobs they create.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Most importantly, I will work to answer the national defense identity crisis afflicting our country. Determining the correct force structure and amount of defense spending requires Americans to know who we are and what we stand for in this unfriendly world.\" ttps://ballotpedia.org/Brian_Bengs",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support providing financial relief to businesses AND/OR corporations negatively impacted by the state of national emergency for COVID-19?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Senator, I will support actions such as tax incentives to improve the energy efficiency of buildings and for clean energy vehicles, investments to speed the transition of our economy from fossil fuels toward renewable sources, and more funding for renewable energy research. When I think about clean energy, I see Americans with good-paying jobs and everyone with more money in their pockets due to lower utility bills.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-10-point-policy-stance/"
+        },
+        {
+          "type": "statement",
+          "text": "\"investments to speed the transition of our economy from fossil fuels toward renewable sources, and more funding for renewable energy research\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/climate/"
+        }
+      ]
+    },
+    {
+      "category": "Energy and Environment",
+      "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As Senator, I will support actions such as tax incentives to improve the energy efficiency of buildings and for clean energy vehicles, investments to speed the transition of our economy from fossil fuels toward renewable sources, and more funding for renewable energy research. When I think about clean energy, I see Americans with good-paying jobs and everyone with more money in their pockets due to lower utility bills.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-10-point-policy-stance/"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Mandate universal background checks to purchase firearms and establish reasonable red flag laws.\" -",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-covenant-with-south-dakota/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I will support pending legislation in Congress allowing Americans in states that have refused Medicaid Expansion to purchase subsidized health insurance in the ACA marketplace.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/policy-on-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Seeks to expanding the ACA\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-covenant-with-south-dakota/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave opportunities?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support lowering the cost of prescription drugs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Additionally, I will advocate for a treaty with the European Union and Canada to establish common drug development, testing, and approval standards for a common drug market in all participating countries. Such a treaty would open up most of the developed world as a potential market for new drugs thereby reducing costs while maximizing access.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/policy-on-healthcare/"
+        },
+        {
+          "type": "statement",
+          "text": "\"If prescription drugs were more affordable, everyone would benefit from lower insurance premiums, small businesses with employer-sponsored health insurance would save money, and no American would have to choose between eating, paying rent, or filling a prescription.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/policy-on-healthcare/"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants who are unlawfully present to return to their country of origin before they are eligible for citizenship?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As a career military officer, I certainly understand the need for an effective military but I also share President Eisenhowers concerns about what our society trades for it and will work to maximize accountability for defense spending.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        },
+        {
+          "type": "statement",
+          "text": "\"As senator, I will pursue additional federal investment to build and diversify the militarys economic impact and work with state leaders to foster associated industries and the jobs they create.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At the same time, it emboldens the use of armed force against smaller nations by both Russia and China.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        },
+        {
+          "type": "statement",
+          "text": "\"This system is what defeated Soviet communism and is now being actively undermined by China and Russia who seek a return to the might makes right international system of the 19th century. The Russian invasion of Ukraine is a clear example of this might makes right approach.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/national-defense/"
+        }
+      ]
+    },
+    {
+      "category": "Taxes",
+      "question": "Do you support raising taxes, on any income or on any entity, to promote economic growth?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"A federal wealth tax of 2% would apply to households worth $50 million to $1 billion. The wealthiest 75,000 households in America would pay $0.02 for every dollar above $50 million. Households worth more than $1 billion would be subject to a 3% wealth tax. 740 Americans would thus pay $0.03 on every dollar over $1 billion. Paying pennies per dollar would not impact the lifestyle of ultra-millionaires or billionaires at all.\" -",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/taxes/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Lower Taxes for Working Class South Dakotans  I am running to give a hand up for working-class South Dakotans. If given the privilege to serve you in the U.S. Senate, I will vote to permanently extend the Child Tax Credit, which reduced childhood poverty by over 40 percent. Additionally, I would vote to enhance the Earned Income Tax Credit, which would help put more money in the pockets of working-class South Dakotans.\"",
+          "source": "bengsforsenate.com",
+          "url": "https://bengsforsenate.com/my-policy-issues/my-10-point-policy-stance/"
+        }
+      ]
+    },
+    {
+      "category": "Trade",
+      "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:19:13+00:00"
+}

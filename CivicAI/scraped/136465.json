@@ -1,0 +1,496 @@
+{
+  "name": "Ryan Mackenzie",
+  "page_title": "Ryan Mackenzie's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (PA) - District 7, Republican",
+  "on_the_ballot": "Running, Republican for U.S. House (PA) - District 7",
+  "candidate_id": "136465",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/136465/ryan-mackenzie",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by Planned Parenthood Pennsylvania Advocates",
+          "source": "None",
+          "url": "https:votesmart.org/candidate/evaluations/136465/ryan-mackenzie"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 106: \"Establishes a Constitutional Amendment that States there is No Right to Taxpayer-Funded Abortion and Amends Voter ID Laws\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32926/86612/136465/establishes-a-constitutional-amendment-that-states-there-is-no-right-to-taxpayer-funded-abortion-and-amends-voter-id-laws#86612"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Stop cuts to Social Security and Medicare. Uphold these sacred commitments to our seniors by ensuring no reductions in their benefits. Workers and retirees have already worked and paid into these programs. We MUST keep our word to them. It is the government that has failed them, not the other way around.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"It was a pleasure talking with local AARP volunteers this morning about issues impacting retirees. Seniors and people on fixed incomes have been hit the hardest by soaring prices. That's why I'll fight to eliminate taxes on social security and fix the problems in Medicare that are causing premiums to skyrocket. Join the team:",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"Stopped by Luther Crest this week to meet some of the residents. Retirees are getting squeezed the hardest by skyrocketing prices for everything from groceries to Medicare premiums, and they're ready for change. That's why I'll work to end the tax on social security, reduce costs, and deliver real relief for seniors. Learn more:",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"While Washington politicians like Susan Wild are breaking Medicare and bankrupting Social Security. Ryan Mackenzie will take on wasteful spending, defend seniors, and protect Medicare and Social Security. Join the fight:",
+          "source": "mackenzieforcongress.com",
+          "url": "https://mackenzieforcongress.com/record"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cut and eliminate taxes that are taking money out of the pockets of American workers and impeding economic growth; just merely holding the line is not enough.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"During my time as a State Representative, I built a proven record of never voting for a tax increase. I will continue that record when I'm elected to represent PA-07 in Washington.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1692246214442389789?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to cut and eliminate taxes that are taking money out of the pockets of hardworking Americans and impeding economic growth. Just merely holding the line is not enough.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1692210987095535723?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Cut and eliminate taxes that are taking money out of the pockets of American workers and impeding economic growth; just merely holding the line is not enough.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"During my time as a State Representative, I built a proven record of never voting for a tax increase. I will continue that record when I'm elected to represent PA-07 in Washington.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1692246214442389789?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to cut and eliminate taxes that are taking money out of the pockets of hardworking Americans and impeding economic growth. Just merely holding the line is not enough.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1692210987095535723?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Supply our military with the resources they need, and end woke practices that are distracting from the militaryâs core mission. Ensure peace in the world through American strength. Stop the use of American involvement in forever wars and focus on direct American interests.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As much as the Democrats and mainstream media want to tell you how great things are, that's simply not what's happening on the ground. Americans are stuggling to put food on the table due to inflation caused by Washington Democrats' reckless spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1691179264236806145?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reduce wasteful government spending that is driving inflation â increasing the costs of food, energy, and housing on every American â and competing with private sector investment.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need to cut government spending that is causing increased prices for housing, energy, and food for all Americans\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1691511363053522945?s=20"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Soaring prices for homes and apartments are making it harder and harder for families to get by. It's time to fix the broken policies â from inflation to the open border â that got us into this mess and ensure that working families have quality, affordable housing.",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under Joe Biden & Susan Wild, the cost of buying or renting a home has risen close to 30%. Out-of-control Washington spending, inflation, and an open border are wreaking havoc on the housing market, making it harder and harder for families to find an affordable home. Itâs time for Congress to prioritize the needs of working families.",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"As much as the Democrats and mainstream media want to tell you how great things are, that's simply not what's happening on the ground. Americans are stuggling to put food on the table due to inflation caused by Washington Democrats' reckless spending.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1691179264236806145?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Reduce wasteful government spending that is driving inflation â increasing the costs of food, energy, and housing on every American â and competing with private sector investment.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Defend our democracy and demand election integrity by making it easy to vote and hard to cheat. Support voter ID, ban unsecured drop boxes and ballot harvesting, and prohibit private money from being used for election administration. Prohibit non-citizens from voting in any American elections and block efforts to pack the Supreme Court.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Most countries in the world require voter IDs because it is common sense to do so. As a State Representative, I voted for Voter ID and other election integrity efforts, and I will continue my record of protecting our elections as a member of the U.S. House of Representatives.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1713918558218990007?s=20"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of SB 106: \"Establishes a Constitutional Amendment that States there is No Right to Taxpayer-Funded Abortion and Amends Voter ID Laws\"",
+          "source": "None",
+          "url": "https:votesmart.org/bill/32926/86612/136465/establishes-a-constitutional-amendment-that-states-there-is-no-right-to-taxpayer-funded-abortion-and-amends-voter-id-laws#86612"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Support energy independence by encouraging American energy exploration, extraction, and production. Oppose cap-and-tax schemes that prioritize a radical climate agenda over the realities of safe, clean, affordable American energy.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"As State Representative, I voted to stop Gov. Wolfâs radical climate agenda and the implementation of RGGI, a cap-and-tax scheme that has costed PA energy jobs and increases costs for everyone.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1725163124385251577"
+        },
+        {
+          "type": "statement",
+          "text": "\"Susan Wild supported a radical plan to destroy fracking in Pennsylvania with $300 million in new taxes annually. That would mean even HIGHER home energy bills beyond the 50% increase we have ALREADY seen under Susan Wild. Stand up to Wild's anti-energy policies:",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"Pennsylvaniaâs natural resources help to support over 400,000 jobs here in Pennsylvania. Unfortunately, politicians like Susan Wild and Joe Biden have waged war against Pennsylvaniaâs energy resources while going hat in hand to countries like Venezuela and Iran to beg for oil. Iâll stand up for Pennsylvania energy, not multi-billion dollar boondoggles and so-called \"green\" handouts to large corporations. Stand with me:",
+          "source": "secure.winred.com",
+          "url": "https://secure.winred.com/mackenzie-for-congress/give-online"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"In Congress, I will end the Far Leftâs radical crusade against American energy.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1694720019647910213?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Support energy independence by encouraging American energy exploration, extraction, and production. Oppose cap-and-tax schemes that prioritize a radical climate agenda over the realities of safe, clean, affordable American energy.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"We need energy independence. In order to achieve energy independence, we must encourage American energy exploration, extraction, and production.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1694065704910131679?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Democrats continue to push cap-and-tax schemes that prioritize a radical climate agenda over the realities of safe, clean, affordable American energy. When increasingly costly energy bills come around, Democrats are the ones to blame.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1729909075213701411"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Amazing day at the Northampton County Whitetail Deer Classic. Had the chance to speak to many sportsmen and women who are simply done with Susan Wild, her anti-2nd Amendment allies, and their radical policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1759334649787015512?s=20"
+        },
+        {
+          "type": "statement",
+          "text": "\"Defend the 2nd Amendment in its original intent to protect Americans against a tyrannical government. Support constitutional carry and oppose far-left efforts to confiscate firearms without due process. Our cities with the strictest gun control are the ones with the highest rate of gun crime. We need to focus on the root causes of violence â drug and gang-related activity, the lack of prosecution by radical progressives who were elected to be prosecutors, and a broken mental health system.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protect medical freedom and expand personal options in healthcare. Provide more choice to reduce healthcare and prescription drug costs, and protect pre-existing condition coverage.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Protect medical freedom and expand personal options in healthcare. Provide more choice to reduce healthcare and prescription drug costs, and protect pre-existing condition coverage.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finish building the wall. Secure our open borders and take real action on illegal immigration. Withhold taxpayer-funded grants from sanctuary cities, and require deportation for illegal immigrants caught committing other crimes. Crack down on birth tourism and policies that encourage anchor babies. Re-instate Remain in Mexico. Promote merit-based legal immigration that protects American workers, promotes American values, and rewards connections to America like speaking English.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Focus drug and anti-crime policies on todayâs challenges. Crack down on drugs streaming into America with the help of Mexican drug cartels and direct shipment of drugs like fentanyl coming from China. Hire and retain more law enforcement officers â including funding for U.S. Customs and Border protection (CBP) and Immigration and Customs Enforcement (ICE) â focused on drug and gang corridors that move drugs and lead to human trafficking.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Our border policies are a failure and a disgrace. Illegal immigration, drug smuggling, and human trafficking are impacting Pennsylvania communities every day, and Washington has done nothing about it. Here in PA, Ryan Mackenzie has gotten results: writing the law to expand e-verify, fighting to ban sanctuary cities, and supporting law enforcement to protect our neighborhoods. Help him take that fight to Washington:",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        },
+        {
+          "type": "statement",
+          "text": "\"The failed DC policies of Joe Biden and Susan Wild on border security and national defense are putting us all at risk. It's time for the insanity to end and to elect leaders willing to put our safety and our nation first.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1800932185031000159"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Finish building the wall. Secure our open borders and take real action on illegal immigration. Withhold taxpayer-funded grants from sanctuary cities, and require deportation for illegal immigrants caught committing other crimes. Crack down on birth tourism and policies that encourage anchor babies. Re-instate Remain in Mexico. Promote merit-based legal immigration that protects American workers, promotes American values, and rewards connections to America like speaking English.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"Protect jobs for American workers from illegal immigrants by expanding the required use of E-Verify for new hires to make sure that only American citizens and those allowed to work in the country are placed into employment.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        },
+        {
+          "type": "statement",
+          "text": "\"The last thing we need is more magnets for illegal immigration. That's why Ryan Mackenzie has fought efforts to provide driver's licenses for illegal immigrants. Meanwhile, Susan Wild has continued to support Joe Biden's open border policy. Help us change that:",
+          "source": "mackenzieforcongress.com",
+          "url": "http://mackenzieforcongress.com"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Everyone knows money is fungible. Please donât ask people to believe your political propaganda about the $6 billion Biden released for use by Iran. Below are articles from NBC (Iran saying they will spend the money however they want on Sept 12th) and CNN (saying Iran had access to the money in a Qatari bank on Sept 18th).\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1711020718429725159"
+        },
+        {
+          "type": "statement",
+          "text": "\"Bidenâs foreign policy is a danger to America. He needs to re-freeze the $6 billion he gave Iran, and secure our border immediately. We shouldnât be surprised thoughâ¦ Remember, even Robert Gates, Bush/Obamaâs former Defense Secretary, said Biden was \"wrong on nearly every major foreign policy and national security issue over the past four decades.\" We are all now paying the price for Bidenâs bad decisions. Elections have consequences.",
+          "source": "nypost.com",
+          "url": "https://nypost.com/2023/10/11/moderate-dems-push-biden-to-refreeze-the-6-billion-iranian-assets/"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"We need to restore trust in government and our elected officials. The concerning reports about President Biden and his family's business dealings connected to Russia, Ukraine, and China are enough to warrant a full investigation. An impeachment inquiry will bring about much-needed transparency, and then let the facts lead the way.\"",
+          "source": "x.com",
+          "url": "https://x.com/Ryan_Mackenzie/status/1737201612303519946"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Defend religious freedom, free speech, and political expression. Stand up to the progressive cancel culture and stop the collusion of the federal government with media and Big Tech intended to silence dissenting voices.\"",
+          "source": "www.mackenzieforcongress.com",
+          "url": "https://www.mackenzieforcongress.com/issues"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:02:16+00:00"
+}

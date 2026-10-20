@@ -1,0 +1,538 @@
+{
+  "name": "Nicholas Langworthy",
+  "page_title": "Nicholas Langworthy's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (NY) - District 23, Republican",
+  "on_the_ballot": "Running, Conservative, Republican for U.S. House (NY) - District 23",
+  "candidate_id": "208663",
+  "test_year": "2024",
+  "source": "https://justfacts.votesmart.org/candidate/political-courage-test/208663/nicholas-langworthy",
+  "positions": [
+    {
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you support the Supreme Court's decision to overturn Roe v. Wade?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"I am proudly pro-life and I will always stand up for the unborn.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1614290076674174976"
+        },
+        {
+          "type": "statement",
+          "text": "\"Uphold free speech, protect the lives of unborn children and their mothers, guarantee religious freedom, and safeguard the Second Amendment.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by National Right to Life Committee",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Save and strengthen Social Security and Medicare.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The President isn't proud of his own agenda so he continues to spin lies about Republicans. If we've said it once, we've said it a million times: we will always fight to protect SS & Medicare!\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1626948577422442498"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by Alliance for Retired Americans",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a decrease in income taxes in order to balance the budget?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Increase take-home pay, create good-paying jobs, and bring stability to the economy through pro-growth tax and deregulatory policies.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support a wealth tax in order to pay for public programs?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Increase take-home pay, create good-paying jobs, and bring stability to the economy through pro-growth tax and deregulatory policies.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 82% by FreedomWorks",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Campaign Finance",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "rating",
+          "text": "Rated 0% by End Citizens United",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Crime & lawlessness have gripped our nationâs capital thanks to the radical left policies that embolden criminals and handcuff our police. Today on @GOPoversight we are bringing in the mayor & city officials who are going to have to account for their failure to keep people safe.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1658473171719430147"
+        },
+        {
+          "type": "statement",
+          "text": "\"New York was a breeding ground for the Defund the Police movement and the results have been deadly. I spoke about the consequences of these radical policies during last night's @RulesReps Committee hearing.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1658568485079863346"
+        }
+      ]
+    },
+    {
+      "category": "Defense",
+      "question": "Do you support increasing defense spending?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Support our troops, invest in an efficient, effective military, establish a Select Committee on China, and exercise peace through strength with our allies to counter increasing global threats.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2670: \"National Defense Authorization Act for Fiscal Year 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35217/96799/208663/national-defense-authorization-act-for-fiscal-year-2024#96799"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 4365: \"Department of Defense Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35724/95261/208663/department-of-defense-appropriations-act-2024#95261"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"At more than $34 trillion dollars total and growing, our debt per citizen is over $102,000. Itâs simple: Bidenomics is pricing Americans out of the American dream. We must reverse course now to secure our nationâs financial future, cut federal spending, and put our country back on the right track.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1763595725387014279"
+        },
+        {
+          "type": "statement",
+          "text": "\"Curb wasteful government spending that is raising the price of groceries, gas, cars, and housing, and growing our national debt.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"Under President Biden, the United States national debt hit a record $34 trillion â itâs clear that Bidenomics is not working for the American people. The reckless spending in Washington must end if we want to secure our nationâs financial future. @HouseGOP is going to keep fighting to put this country back on the right track.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1753434861375820199"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government increasing funding for affordable housing programs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"The Seneca Nation has had a long and proud history in Western New York and this $3 million grant will help ensure affordable housing is available so members of the community can remain on their storied land.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1630280278269648901"
+        }
+      ]
+    },
+    {
+      "category": "Economy",
+      "question": "Do you support the federal government taking action, beyond those of the Federal Reserve, to alleviate inflation?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"BIDENâS $7.3 TRILLION BUDGET FOR FY25 IS OUT This budget only continues Biden Admin policies that are driving us deeper into debt, creating skyrocketing inflation, and destroying our nationâs financial future. It is estimated to put U.S. debt at $45 trillion in a decade.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1767244266760228905"
+        },
+        {
+          "type": "statement",
+          "text": "\"Curb wasteful government spending that is raising the price of groceries, gas, cars, and housing, and growing our national debt.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The White Houseâs \"Bidenomics\" are not working for hard-working American families. The only way to relieve inflation and raise wages is to cut reckless spending in Washington and remove burdensome regulations on American businesses.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1681033610512551936"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "question": "Do you support the forgiveness of federal student loan debt?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Bailout Biden, our Redistributor-in-Chief, is back at it again, forcing hardworking families to pay for more student loans of irresponsible borrowers. The American people canât afford this endless cycle of debt forgiveness.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1777387772988346692"
+        },
+        {
+          "type": "statement",
+          "text": "\"Biden's student loan forgiveness scam was just an expensive bribe to voters and a breach to his oath of office for exploiting the COVID pandemic. This is unfair to taxpayers, unfair to Americans, and unfair to future students.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1632503632464625664"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 0% by National Education Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Elections",
+      "question": "Do you support requiring a government-issued identification in order to vote at the polls?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"End special treatment for Members of Congress by repealing proxy voting, and increase accountability in the election process through voter ID, accurate voter rolls, and observer access.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Last week, I traveled across NY23 to meet with local energy producers and discuss the impact of Governor Hochulâs and President Bidenâs efforts to stifle safe, reliable energy in favor of radical Green New Deal policies. Itâs time to bring back American energy independence.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1752047340406383099"
+        },
+        {
+          "type": "statement",
+          "text": "\"The American people have had enough of Bidenâs Green New Deal â thatâs why House Republicans passed 6 bills to unleash American energy dominance last week.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1772333444577612264"
+        },
+        {
+          "type": "statement",
+          "text": "\"This week, I joined a bipartisan, bicameral letter calling on the Biden Administration to withdraw an EPA rule that would force American families to transition to unaffordable & unreliable electric vehicles. Americans are tired of Bidenâs expensive Green New Deal agenda.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1761134479941251514"
+        }
+      ]
+    },
+    {
+      "category": "Energy & Environment",
+      "question": "Do you support the federal government allowing permits for drilling on public lands?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Maximize production of reliable, cleaner, American-made energy and cut the permitting process time in half to reduce reliance on foreign countries, prevent rolling blackouts, and lower the cost of gas and utilities.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Independent Petroleum Association of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 1: \"Lower Energy Costs Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34570/91332/208663/lower-energy-costs-act#91332"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 21: \"Strategic Production Response Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34063/90422/208663/strategic-production-response-act#90422"
+        }
+      ]
+    },
+    {
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Uphold free speech, protect the lives of unborn children and their mothers, guarantee religious freedom, and safeguard the Second Amendment.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 100% by Gun Owners of America",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 92% by National Rifle Association",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Lower prices through transparency, choice, and competition, invest in lifesaving cures, and improve access to telemedicine.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "Despite exhaustive research, Vote Smart was unable to find information about this candidate's position.",
+          "source": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "category": "Health Care",
+      "question": "Should the government be able to regulate the cost of prescription drugs?",
+      "answer": "Unknown Position",
+      "position_type": "unknown",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5378: \"Lower Costs, More Transparency Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36123/96624/208663/lower-costs-more-transparency-act#96624"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support increasing security along the southern US border?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Fully fund effective border enforcement strategies, infrastructure, and advanced technology to prevent illegal crossings and trafficking by cartels.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "rating",
+          "text": "Rated 91% by NumbersUSA",
+          "source": "justfacts.votesmart.org",
+          "url": "https://justfacts.votesmart.org/candidate/evaluations/208663/nicholas-langworthy"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 2: \"Secure the Border Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/34893/92114/208663/secure-the-border-act-of-2023#92114"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 5525: \"Continuing Appropriations and Border Security Enhancement Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/35732/95281/208663/continuing-appropriations-and-border-security-enhancement-act-2024#95281"
+        }
+      ]
+    },
+    {
+      "category": "Immigration",
+      "question": "Do you support requiring immigrants to return to their country of origin before they are eligible for citizenship, regardless of their immigration status?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Democrats need to WAKE UP and immediately reverse all sanctuary city policies.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1762912989923967119"
+        },
+        {
+          "type": "statement",
+          "text": "\"End catch-and-release loopholes, require legal status to get a job, and eliminate welfare incentives.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "statement",
+          "text": "\"The murder of Laken Riley is a result of reckless Democrat policies â from open borders to sanctuary cities. The illegal immigrant who murdered her was arrested once in NYC, but Democrats had him released instead of deported or detained. Her blood is on their hands.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1762239579124367726"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7343: \"Detain and Deport Illegal Aliens Who Assault Cops Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37337/100398/208663/detain-and-deport-illegal-aliens-who-assault-cops-act#100398"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support economic intervention as a means of resolving international conflicts?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 3033: \"Solidify Iran Sanctions Act of 2023\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37091/99585/208663/solidify-iran-sanctions-act-of-2023#99585"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8030: \"Indo-Pacific Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37053/99503/208663/indo-pacific-security-supplemental-appropriations-act-2024#99503"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 8034: \"Israel Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37056/99510/208663/israel-security-supplemental-appropriations-act-2024#99510"
+        },
+        {
+          "type": "statement",
+          "text": "\"Right now, @HouseGOP is attempting to pass a short-term bill to fund the government, but House Dems are purposefully causing delays to force a vote on the Senateâs CR that includes funding for Ukraine. They are choosing to shut the American government down in favor of a foreign nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1708162153130160482"
+        }
+      ]
+    },
+    {
+      "category": "National Security",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "answer": "No",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Right now, @HouseGOP is attempting to pass a short-term bill to fund the government, but House Dems are purposefully causing delays to force a vote on the Senateâs CR that includes funding for Ukraine. They are choosing to shut the American government down in favor of a foreign nation.\"",
+          "source": "x.com",
+          "url": "https://x.com/RepLangworthy/status/1708162153130160482"
+        },
+        {
+          "type": "vote",
+          "text": "Voted against HR 8035: \"Ukraine Security Supplemental Appropriations Act, 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/37054/99505/208663/ukraine-security-supplemental-appropriations-act-2024#99505"
+        }
+      ]
+    },
+    {
+      "category": "Technology and Communication",
+      "question": "Do you generally support increased regulations on social media companies (e.g. Tik Tok, Facebook, etc.)?",
+      "answer": "Yes",
+      "position_type": "inferred",
+      "evidence": [
+        {
+          "type": "statement",
+          "text": "\"Provide greater privacy and data security protections, equip parents with more tools to keep their kids safe online, and stop companies from putting politics ahead of people.\"",
+          "source": "nicklangworthy.com",
+          "url": "https://nicklangworthy.com/"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7520: \"Protecting Americans' Data from Foreign Adversaries Act of 2024\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36761/98531/208663/protecting-americans-data-from-foreign-adversaries-act-of-2024#98531"
+        },
+        {
+          "type": "vote",
+          "text": "Voted in favor of HR 7521: \"Protecting Americans from Foreign Adversary Controlled Applications Act\"",
+          "source": "votesmart.org",
+          "url": "https://votesmart.org/bill/36703/98368/208663/protecting-americans-from-foreign-adversary-controlled-applications-act#98368"
+        }
+      ]
+    }
+  ],
+  "scraped_at": "2026-10-20T02:12:21+00:00"
+}
