@@ -8,14 +8,15 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/26900/ed-markey",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Abortion is health care. Today, the Supreme Court reaffirmed that where a person lives shouldnât determine their ability to receive access to abortion. I will continue to fight to protect reproductive freedom and this essential constitutional right.\"",
+          "text": "\"Abortion is health care. Today, the Supreme Court reaffirmed that where a person lives shouldn’t determine their ability to receive access to abortion. I will continue to fight to protect reproductive freedom and this essential constitutional right.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1277614921539354624"
         },
@@ -40,8 +41,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -59,7 +61,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Letâs be clear, Trumpâs \"tax plan\" is about ensuring the rich get richer and working families get left behind.\"",
+          "text": "\"Let’s be clear, Trump’s \"tax plan\" is about ensuring the rich get richer and working families get left behind.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/902977156426457088"
         },
@@ -72,8 +74,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -85,7 +89,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Just 2 days after saying this, Trumpâs budget proposes cuts to Medicare, Medicaid & Social Security. Trump is a serial liar & will continue to lie in order to gut benefits that working people EARNED. Let's expand these programs, not cut them to pay for tax cuts for the wealthy.\"",
+          "text": "\"Just 2 days after saying this, Trump’s budget proposes cuts to Medicare, Medicaid & Social Security. Trump is a serial liar & will continue to lie in order to gut benefits that working people EARNED. Let's expand these programs, not cut them to pay for tax cuts for the wealthy.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1226945861034369024"
         },
@@ -105,7 +109,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -117,7 +122,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Post-#CitizensUnited, Iâm proud to cosponsor bill w @SenatorDurbin to help fix our broken campaign finance system\"",
+          "text": "\"Post-#CitizensUnited, I’m proud to cosponsor bill w @SenatorDurbin to help fix our broken campaign finance system\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/433721017748320256"
         },
@@ -136,8 +141,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -163,7 +170,7 @@
         },
         {
           "type": "statement",
-          "text": "\"It is a false choice to think we must choose between defense spending & cures for #Alzheimerâs or Parkinsonâs. #NDAA\"",
+          "text": "\"It is a false choice to think we must choose between defense spending & cures for #Alzheimer’s or Parkinson’s. #NDAA\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/608293988320178176"
         },
@@ -183,7 +190,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -195,7 +203,7 @@
         },
         {
           "type": "statement",
-          "text": "\"@realDonaldTrumpâs $200B #infrastructure scam expects cash-strapped states to drive most of the progress on 1/8th of a tank of gas. We need $1 trillion in direct federal spending to rebuild our infrastructure, not Trump's monetary mirage.\"",
+          "text": "\"@realDonaldTrump’s $200B #infrastructure scam expects cash-strapped states to drive most of the progress on 1/8th of a tank of gas. We need $1 trillion in direct federal spending to rebuild our infrastructure, not Trump's monetary mirage.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/963411304915578881"
         },
@@ -207,7 +215,7 @@
         },
         {
           "type": "statement",
-          "text": "\"This Department of Transportation TIGER grant provides an important bridge for the community of Lowell to educational improvement, economic development, and employment opportunities. This TIGER grant is a smart investment, because when we invest in our roads, our universities, and our communities, we are investing in the workers and industries that bridge the gap between the impossible and the remarkable. âWith this grant funding for âLowell, TIGER really stands for 'Totally Invested in Guaranteeing Excellence for Riverhawks'. I thank Congresswoman Tsongas and local officials for their leadership securing this vital infrastructure funding.\"",
+          "text": "\"This Department of Transportation TIGER grant provides an important bridge for the community of Lowell to educational improvement, economic development, and employment opportunities. This TIGER grant is a smart investment, because when we invest in our roads, our universities, and our communities, we are investing in the workers and industries that bridge the gap between the impossible and the remarkable. ‎With this grant funding for ‎Lowell, TIGER really stands for 'Totally Invested in Guaranteeing Excellence for Riverhawks'. I thank Congresswoman Tsongas and local officials for their leadership securing this vital infrastructure funding.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1135192/us-secretary-of-transportation-visits-lowell#.XbbsDEE3kfI"
         }
@@ -265,7 +273,7 @@
         },
         {
           "type": "statement",
-          "text": "\"This pandemic is disproportionately affecting small business owners and gig and service workers who cannot do their jobs or keep their businesses afloat from home. Iâm fighting in the Senate for them.\"",
+          "text": "\"This pandemic is disproportionately affecting small business owners and gig and service workers who cannot do their jobs or keep their businesses afloat from home. I’m fighting in the Senate for them.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/EdMarkey/status/1243182677957791746"
         },
@@ -292,8 +300,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -305,7 +314,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Donald Trumpâs solar panel tax is doing exactly what it was designed to do - kill the solar industry. This is a direct attack on hundreds of thousands of American blue-collar workers.\"",
+          "text": "\"Donald Trump’s solar panel tax is doing exactly what it was designed to do - kill the solar industry. This is a direct attack on hundreds of thousands of American blue-collar workers.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1004740439776354305"
         },
@@ -324,8 +333,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -357,7 +367,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -433,7 +444,7 @@
         },
         {
           "type": "statement",
-          "text": "Itâs the day after rent and bills are due and 6.6 million more Americans have filed for unemployment. \"In the next #COVID19 relief package, it is clear that we need: -expanded sick leave -more direct cash payments -relief for renters\"",
+          "text": "It’s the day after rent and bills are due and 6.6 million more Americans have filed for unemployment. \"In the next #COVID19 relief package, it is clear that we need: -expanded sick leave -more direct cash payments -relief for renters\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1245737606677172224"
         },
@@ -465,7 +476,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Declaring a fake national emergency and spending unappropriated funds on a wall unconstitutionally usurps Congressâs power of the purse and is just the latest example of this Presidentâs excessive overreach and misuse of executive power.\"",
+          "text": "\"Declaring a fake national emergency and spending unappropriated funds on a wall unconstitutionally usurps Congress’s power of the purse and is just the latest example of this President’s excessive overreach and misuse of executive power.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1096193750714466304"
         },
@@ -477,7 +488,7 @@
         },
         {
           "type": "statement",
-          "text": "\"This threat is as empty as the offices of federal agencies that have already been shut down because of Trumpâs hissy fit over funding for his wall. Trump might know how to close his foundation, his university, and his mind, but he canât close our Southern border in a fit of rage.\"",
+          "text": "\"This threat is as empty as the offices of federal agencies that have already been shut down because of Trump’s hissy fit over funding for his wall. Trump might know how to close his foundation, his university, and his mind, but he can’t close our Southern border in a fit of rage.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1078713052030210048"
         }
@@ -509,7 +520,7 @@
         },
         {
           "type": "statement",
-          "text": "\"When President Trump says he only wants immigrants to enter the U.S. legally, and then proposes to shut off legal immigration avenues like asylum, itâs clear heâs simply the anti-immigrant nationalist he admits to being.\"",
+          "text": "\"When President Trump says he only wants immigrants to enter the U.S. legally, and then proposes to shut off legal immigration avenues like asylum, it’s clear he’s simply the anti-immigrant nationalist he admits to being.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenMarkey/status/1058098510116085760"
         }
@@ -574,8 +585,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [

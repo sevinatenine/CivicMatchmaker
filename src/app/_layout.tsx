@@ -1,7 +1,17 @@
+import { PartyStripe } from '@/components/PartyStripe';
 import { Colors } from '@/constants/Colors';
 import { Stack } from 'expo-router';
 import { DefaultTheme, ThemeProvider } from 'expo-router/react-navigation';
 import { StatusBar } from 'expo-status-bar';
+import { View } from 'react-native';
+
+function HeaderBackground() {
+  return (
+    <View style={{ flex: 1, backgroundColor: Colors.top }}>
+      <PartyStripe style={{ position: 'absolute', left: 0, right: 0, bottom: 0 }} />
+    </View>
+  );
+}
 
 const CustomTheme = {
   ...DefaultTheme,
@@ -25,6 +35,7 @@ export default function RootLayout() {
           animation: 'slide_from_right',
           contentStyle: { backgroundColor: Colors.background },
           headerStyle: { backgroundColor: Colors.top },
+          headerBackground: HeaderBackground,
           headerShadowVisible: false,
           headerTitleStyle: { color: Colors.text, fontWeight: '600' },
           headerTintColor: Colors.button,
@@ -36,6 +47,7 @@ export default function RootLayout() {
         <Stack.Screen name="questions" options={{ title: 'Questions' }} />
         <Stack.Screen name="selectType" options={{ title: 'Select type' }} />
         <Stack.Screen name="results" options={{ title: 'Your matches' }} />
+        <Stack.Screen name="ballot" options={{ title: 'Sample ballot' }} />
       </Stack>
     </ThemeProvider>
   );

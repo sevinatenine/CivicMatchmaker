@@ -1,5 +1,5 @@
 {
-  "name": "Mike Rounds' Issue Positions (Political Courage Test)",
+  "name": "Mike Rounds",
   "page_title": "Mike Rounds' Issue Positions (Political Courage Test)",
   "office": "U.S. Senate (SD) - Jr, Republican",
   "on_the_ballot": "Running, Republican for U.S. Senate (SD) - Jr",
@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/7455/mike-rounds",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-life",
       "position_type": "inferred",
       "evidence": [
@@ -28,8 +29,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -54,8 +56,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -81,7 +85,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -94,8 +99,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -135,7 +142,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -220,8 +228,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -246,8 +255,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -279,7 +289,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -345,7 +356,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Border security is national security. Glad to see @realDonaldTrump âs border wall system is working.\"",
+          "text": "\"Border security is national security. Glad to see @realDonaldTrump ’s border wall system is working.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenatorRounds/status/1237795489938112513"
         },
@@ -430,8 +441,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

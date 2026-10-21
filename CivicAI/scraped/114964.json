@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/114964/dan-sullivan",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-life",
       "position_type": "inferred",
       "evidence": [
@@ -34,8 +35,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -66,8 +68,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -87,7 +91,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -100,8 +105,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -139,7 +146,7 @@
         },
         {
           "type": "statement",
-          "text": "\"The overwhelmingly bipartisan passage of FY18 #NDAA is a significant & long overdue step toward rebuilding Americaâs military strength.\"",
+          "text": "\"The overwhelmingly bipartisan passage of FY18 #NDAA is a significant & long overdue step toward rebuilding America’s military strength.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenDanSullivan/status/910252700742406144"
         }
@@ -147,7 +154,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -250,8 +258,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -276,8 +285,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -303,7 +313,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -321,7 +332,7 @@
         },
         {
           "type": "statement",
-          "text": "\"I had a good time last weekend meeting with Alaskans at the Eagle River Lions Club Gun Show. The clubhouse was filled with #2A advocatesâgreat Alaskans who recognize the importance of this right to the 49th state and our way of life.\"",
+          "text": "\"I had a good time last weekend meeting with Alaskans at the Eagle River Lions Club Gun Show. The clubhouse was filled with #2A advocates—great Alaskans who recognize the importance of this right to the 49th state and our way of life.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenDanSullivan/status/1191757221841047552"
         },
@@ -375,7 +386,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Addressing the serious challenges in our immigration system â including a resolution for the beneficiaries of the DACA program â requires compassion, securing our border, and respect for the rule of law.\"",
+          "text": "\"Addressing the serious challenges in our immigration system – including a resolution for the beneficiaries of the DACA program – requires compassion, securing our border, and respect for the rule of law.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenDanSullivan/status/964357164167909378"
         },
@@ -407,7 +418,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Addressing the serious challenges in our immigration system â including a resolution for the beneficiaries of the DACA program â requires compassion, securing our border, and respect for the rule of law.\"",
+          "text": "\"Addressing the serious challenges in our immigration system – including a resolution for the beneficiaries of the DACA program – requires compassion, securing our border, and respect for the rule of law.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenDanSullivan/status/964357164167909378"
         },
@@ -465,7 +476,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Appreciate @RealDonaldTrumpâs recent decision to leave contingent of U.S. troops in #Syria. We cannot allow for the resurgence of ISIS nor permit Iran to increase its arc of influence in the region.\"",
+          "text": "\"Appreciate @RealDonaldTrump‘s recent decision to leave contingent of U.S. troops in #Syria. We cannot allow for the resurgence of ISIS nor permit Iran to increase its arc of influence in the region.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenDanSullivan/status/1100094395519590400"
         },
@@ -490,8 +501,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

@@ -1,20 +1,22 @@
 {
-  "name": "Annie Andrews' Issue Positions (Political Courage Test)",
+  "name": "Annie Andrews",
   "page_title": "Annie Andrews' Issue Positions (Political Courage Test)",
+  "office": "U.S. Senate (SC) - II, Democratic",
   "on_the_ballot": "Running, Democratic for U.S. Senate (SC) - II",
   "candidate_id": "205516",
   "test_year": "2022",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/205516/annie-andrews",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"6-week abortion bans are unconstitutional, unscientific, and disproportionately disadvantage minority women, young women, and women living in poverty. This decision is good news for today, but I remain deeply concerned about the future of a womanâs right to choose.\"",
+          "text": "\"6-week abortion bans are unconstitutional, unscientific, and disproportionately disadvantage minority women, young women, and women living in poverty. This decision is good news for today, but I remain deeply concerned about the future of a woman’s right to choose.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/AnnieAndrewsMD/status/1496302697728856067?s=20&t=bX2AimJGmM3bYfGBc6kd7A"
         },
@@ -39,8 +41,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -52,7 +55,7 @@
         },
         {
           "type": "statement",
-          "text": "\"We have so much work to do to improve the healthcare system in the US. We must put every Americanâs health over profits for insurance and pharmaceutical companies. States like South Carolina are getting left behind because we did not expand Medicaid.\"",
+          "text": "\"We have so much work to do to improve the healthcare system in the US. We must put every American’s health over profits for insurance and pharmaceutical companies. States like South Carolina are getting left behind because we did not expand Medicaid.\"",
           "source": "www.drannieandrews.com",
           "url": "https://www.drannieandrews.com/issues"
         },
@@ -72,7 +75,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -85,8 +89,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -114,13 +120,14 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"I believe infrastructure should be a nonpartisan issue that requires a non-partisan approach. As our next Congresswoman, I will fight for every penny I can to continue to modernize and rebuild the Lowcountryâs roads, bridges, ports, high-speed internet, and overall infrastructure resiliency.\"",
+          "text": "\"I believe infrastructure should be a nonpartisan issue that requires a non-partisan approach. As our next Congresswoman, I will fight for every penny I can to continue to modernize and rebuild the Lowcountry’s roads, bridges, ports, high-speed internet, and overall infrastructure resiliency.\"",
           "source": "www.drannieandrews.com",
           "url": "https://www.drannieandrews.com/issues"
         },
@@ -195,8 +202,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -221,8 +229,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -248,7 +257,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -274,7 +284,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "original_question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -300,7 +311,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support expanding paid family AND/OR medical leave opportunities?",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "original_question": "Do you support expanding paid family AND/OR medical leave opportunities?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -354,7 +366,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"If #DACA ends, SC stands to lose over $252 million in GDP. We canât afford the loss. @AGAlanWilson follow TNâs lead, #DefendDACA\"",
+          "text": "\"If #DACA ends, SC stands to lose over $252 million in GDP. We can’t afford the loss. @AGAlanWilson follow TN’s lead, #DefendDACA\"",
           "source": "twitter.com",
           "url": "https://twitter.com/AnnieAndrewsMD/status/904526622631612416?s=20&t=bX2AimJGmM3bYfGBc6kd7A"
         },
@@ -382,7 +394,8 @@
     },
     {
       "category": "National Security",
-      "question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "original_question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -395,8 +408,9 @@
       ]
     },
     {
-      "category": "Taxes",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support raising taxes, on any income or on any entity, to promote economic growth?",
+      "original_category": "Taxes",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -409,8 +423,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [

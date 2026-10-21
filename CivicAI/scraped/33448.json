@@ -1,14 +1,17 @@
 {
   "name": "Melissa Bean",
   "page_title": "Melissa Bean's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (IL) - District 8, Democratic",
   "on_the_ballot": "Running, Democratic for U.S. House (IL) - District 8",
   "candidate_id": "33448",
   "test_year": "2010",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/33448/melissa-bean",
   "positions": [
     {
-      "category": "Abortion Issues",
-      "question": "Do you consider yourself pro-choice or pro-life?",
+      "category": "Abortion and Reproductive Health",
+      "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_question": "Do you consider yourself pro-choice or pro-life?",
+      "original_category": "Abortion Issues",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -57,8 +60,9 @@
       ]
     },
     {
-      "category": "Budget, Spending, and Tax Issues",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support the elimination of the federal estate tax?",
+      "original_category": "Budget, Spending, and Tax Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -95,8 +99,9 @@
       ]
     },
     {
-      "category": "Budget, Spending, and Tax Issues",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support using government funds in an effort to stimulate and improve the economy?",
+      "original_category": "Budget, Spending, and Tax Issues",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -133,8 +138,9 @@
       ]
     },
     {
-      "category": "Business and Employment Issues",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support privatizing elements of Social Security?",
+      "original_category": "Business and Employment Issues",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -147,8 +153,9 @@
       ]
     },
     {
-      "category": "Crime Issues",
+      "category": "Crime & Public Safety",
       "question": "Do you support capital punishment for certain crimes?",
+      "original_category": "Crime Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -167,8 +174,9 @@
       ]
     },
     {
-      "category": "Education Issues",
+      "category": "Education",
       "question": "Do you support federal education standards and testing requirements for K-12 students?",
+      "original_category": "Education Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -181,8 +189,9 @@
       ]
     },
     {
-      "category": "Environment and Energy Issues",
+      "category": "Energy & Environment",
       "question": "Do you support enacting environmental regulations aimed at reducing the effects of climate change?",
+      "original_category": "Environment and Energy Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -213,8 +222,10 @@
       ]
     },
     {
-      "category": "Gun Issues",
-      "question": "Do you support restrictions on the purchase and possession of guns?",
+      "category": "Guns",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you support restrictions on the purchase and possession of guns?",
+      "original_category": "Gun Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -239,8 +250,9 @@
       ]
     },
     {
-      "category": "Health Issues",
+      "category": "Health Care",
       "question": "Do you support a publicly-administered health insurance option?",
+      "original_category": "Health Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -271,8 +283,9 @@
       ]
     },
     {
-      "category": "Immigration Issues",
+      "category": "Immigration",
       "question": "Do you support a pathway to citizenship for illegal immigrants?",
+      "original_category": "Immigration Issues",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -297,8 +310,9 @@
       ]
     },
     {
-      "category": "International Policy Issues",
+      "category": "National Security",
       "question": "Do you support United States military action in Afghanistan?",
+      "original_category": "International Policy Issues",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

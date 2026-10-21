@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/71547/john-hickenlooper",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -28,8 +29,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -66,8 +68,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -87,7 +91,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -106,8 +111,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -119,7 +126,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Jacob Blake's three sons were in the car when he was shot by police â in the back, seven times. We must demand accountability and root out racism in policing and our justice system. Black Lives Matter. My thoughts are with Jacob Blake as we all pray he survives.\"",
+          "text": "\"Jacob Blake's three sons were in the car when he was shot by police — in the back, seven times. We must demand accountability and root out racism in policing and our justice system. Black Lives Matter. My thoughts are with Jacob Blake as we all pray he survives.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/Hickenlooper/status/1297956986265329664?s=20"
         },
@@ -147,7 +154,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -207,7 +215,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Early childhood education is one of the best investments we can make as a nation to help ensure that every child is prepared for kindergarten and beyond. In addition, we know that parents cannot work without access to high-quality, affordable child care. That is why, as mayor of Denver, I helped create the Denver Preschool Program, which established free, high-quality early childhood education for more than 55,000 Denver students. As senator, I would support Senator Patty Murrayâs Child Care for Working Families Act, which would provide universal access to preschool for 3- and 4-year olds and help ensure that child care is affordable for all Colorado families.\"",
+          "text": "\"Early childhood education is one of the best investments we can make as a nation to help ensure that every child is prepared for kindergarten and beyond. In addition, we know that parents cannot work without access to high-quality, affordable child care. That is why, as mayor of Denver, I helped create the Denver Preschool Program, which established free, high-quality early childhood education for more than 55,000 Denver students. As senator, I would support Senator Patty Murray’s Child Care for Working Families Act, which would provide universal access to preschool for 3- and 4-year olds and help ensure that child care is affordable for all Colorado families.\"",
           "source": "hickenlooper.com",
           "url": "https://hickenlooper.com/issues/education/"
         },
@@ -219,15 +227,16 @@
         },
         {
           "type": "statement",
-          "text": "\"In the Senate, I will fight to ensure we are investing in our childrenâs education, particularly through Title I. Those much-needed dollars can help reduce class sizes, increase enrichment opportunities such as after-school and summer literacy programs, and expand free and reduced lunch programs and Breakfast After the Bell. In doing so, we will work to ensure that every child in America is receiving a world-class education, which prepares them to compete in an increasingly global and competitive market.\"",
+          "text": "\"In the Senate, I will fight to ensure we are investing in our children’s education, particularly through Title I. Those much-needed dollars can help reduce class sizes, increase enrichment opportunities such as after-school and summer literacy programs, and expand free and reduced lunch programs and Breakfast After the Bell. In doing so, we will work to ensure that every child in America is receiving a world-class education, which prepares them to compete in an increasingly global and competitive market.\"",
           "source": "hickenlooper.com",
           "url": "https://hickenlooper.com/issues/education/"
         }
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -246,8 +255,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -267,7 +277,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -299,7 +310,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Republicans are still supporting a lawsuit to repeal the ACAâand strip away health care in the middle of a pandemic. We can't let them succeed.\"",
+          "text": "\"Republicans are still supporting a lawsuit to repeal the ACA—and strip away health care in the middle of a pandemic. We can't let them succeed.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/Hickenlooper/status/1257409230790782976"
         }
@@ -367,13 +378,13 @@
         },
         {
           "type": "statement",
-          "text": "\"@realDonaldTrump âs reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
+          "text": "\"@realDonaldTrump ’s reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/Hickenlooper/status/1148007703647645696"
         },
         {
           "type": "statement",
-          "text": "\"@realDonaldTrumpâs reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
+          "text": "\"@realDonaldTrump’s reckless withdrawal from the multilateral Iran agreement and incoherence on the global stage have made us less safe. We need to rejoin the nuclear deal and rebuild coalitions to address the broader threat of Iran.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/Hickenlooper/status/1148007703647645696?s=20"
         },
@@ -406,8 +417,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -425,7 +437,7 @@
         },
         {
           "type": "statement",
-          "text": "\"We have to ensure that trade is fair to our workers, our entrepreneurs and our environment. But we canât do that with walls and tariffs.\"",
+          "text": "\"We have to ensure that trade is fair to our workers, our entrepreneurs and our environment. But we can’t do that with walls and tariffs.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/Hickenlooper/status/1159889997660676097"
         }

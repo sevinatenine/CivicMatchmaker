@@ -20,7 +20,7 @@ export default function SelectTypePage() {
         {city}, {state} · {Object.keys(parsed).length} answers received
       </ScreenSubtitle>
 
-      <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+      <PrimaryButton tone="red" title="Back to start" onPress={() => router.dismissAll()} />
     </Screen>
   );
 }

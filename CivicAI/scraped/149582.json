@@ -1,14 +1,16 @@
 {
   "name": "Mark Elworth, Jr.",
   "page_title": "Mark Elworth, Jr.'s Issue Positions (Political Courage Test)",
+  "office": "U.S. House (CO) - District 5, Libertarian",
   "on_the_ballot": "Running, Libertarian for U.S. House (CO) - District 5",
   "candidate_id": "149582",
   "test_year": "2022",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/149582/mark-elworth-jr",
   "positions": [
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -22,7 +24,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -35,8 +38,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -64,7 +69,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -133,8 +139,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -147,8 +154,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -162,7 +170,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -176,7 +185,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "original_question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -190,7 +200,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support expanding paid family AND/OR medical leave opportunities?",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "original_question": "Do you support expanding paid family AND/OR medical leave opportunities?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -260,7 +271,8 @@
     },
     {
       "category": "National Security",
-      "question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "original_question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -273,8 +285,9 @@
       ]
     },
     {
-      "category": "Taxes",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support raising taxes, on any income or on any entity, to promote economic growth?",
+      "original_category": "Taxes",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -287,8 +300,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

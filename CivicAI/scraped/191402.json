@@ -1,14 +1,16 @@
 {
   "name": "Casey Askar",
   "page_title": "Casey Askar's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (FL) - District 22, Republican",
   "on_the_ballot": "Running, Republican for U.S. House (FL) - District 22",
   "candidate_id": "191402",
   "test_year": "2020",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-life",
       "position_type": "inferred",
       "evidence": [
@@ -21,22 +23,25 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"The Trump tax cuts jolted the economy, created 2.6 million jobs in the first year, led to wage hikes and pension increases for our workers, and saved the average married couple close to $3,000 a year. I will always pursue tax policies that create greater opportunities. Washingtonâs problem is not that it taxes too little, but that it spends too much.\"",
+          "text": "\"The Trump tax cuts jolted the economy, created 2.6 million jobs in the first year, led to wage hikes and pension increases for our workers, and saved the average married couple close to $3,000 a year. I will always pursue tax policies that create greater opportunities. Washington’s problem is not that it taxes too little, but that it spends too much.\"",
           "source": "www.caseyaskar.com",
           "url": "https://www.caseyaskar.com/issues"
         }
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -50,7 +55,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -78,13 +84,14 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"âMake sure Complete Street provisions are included in all federal transportation bills. Promote public transportation investment. Federal regulations of safety and efficiency in personal automobile transportation sales. Investment in existing infrastructure improvements.\"",
+          "text": "\"​Make sure Complete Street provisions are included in all federal transportation bills. Promote public transportation investment. Federal regulations of safety and efficiency in personal automobile transportation sales. Investment in existing infrastructure improvements.\"",
           "source": "www.cindybanyai.com",
           "url": "https://www.cindybanyai.com/transportation"
         }
@@ -98,7 +105,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"The Trump tax cuts jolted the economy, created 2.6 million jobs in the first year, led to wage hikes and pension increases for our workers, and saved the average married couple close to $3,000 a year. I will always pursue tax policies that create greater opportunities. Washingtonâs problem is not that it taxes too little, but that it spends too much.\"",
+          "text": "\"The Trump tax cuts jolted the economy, created 2.6 million jobs in the first year, led to wage hikes and pension increases for our workers, and saved the average married couple close to $3,000 a year. I will always pursue tax policies that create greater opportunities. Washington’s problem is not that it taxes too little, but that it spends too much.\"",
           "source": "www.caseyaskar.com",
           "url": "https://www.caseyaskar.com/issues"
         }
@@ -133,8 +140,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -147,8 +155,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -162,7 +171,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -259,8 +269,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [

@@ -5,10 +5,12 @@ export function PrimaryButton({
   title,
   onPress,
   disabled,
+  tone = 'blue',
 }: {
   title: string;
   onPress: () => void;
   disabled?: boolean;
+  tone?: 'blue' | 'red';
 }) {
   return (
     <Pressable
@@ -17,6 +19,7 @@ export function PrimaryButton({
       onPress={onPress}
       style={({ pressed }) => [
         styles.button,
+        { backgroundColor: Colors[tone] },
         disabled && styles.disabled,
         pressed && !disabled && styles.pressed,
       ]}
@@ -28,7 +31,6 @@ export function PrimaryButton({
 
 const styles = StyleSheet.create({
   button: {
-    backgroundColor: Colors.button,
     paddingVertical: 16,
     borderRadius: 14,
     alignItems: 'center',

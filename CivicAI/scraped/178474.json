@@ -1,14 +1,16 @@
 {
   "name": "Robb Ryerse",
   "page_title": "Robb Ryerse's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (AR) - District 3, Democratic",
   "on_the_ballot": "Running, Democratic for U.S. House (AR) - District 3",
   "candidate_id": "178474",
   "test_year": "2018",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/178474/robb-ryerse",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -21,8 +23,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -35,8 +38,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support reducing defense spending?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -50,7 +54,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -76,7 +81,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -118,7 +124,8 @@
     },
     {
       "category": "Energy & Environment",
-      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)?",
+      "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, thermal)?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -146,7 +153,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -207,8 +215,9 @@
       ]
     },
     {
-      "category": "Marijuana",
+      "category": "Crime & Public Safety",
       "question": "Do you support the legalization of marijuana for recreational purposes?",
+      "original_category": "Marijuana",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [

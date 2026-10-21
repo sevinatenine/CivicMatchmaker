@@ -172,7 +172,7 @@ export default function LearnPage() {
         with your state election office.
       </Text>
 
-      <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+      <PrimaryButton tone="red" title="Back to start" onPress={() => router.dismissAll()} />
     </Screen>
   );
 }
@@ -192,7 +192,7 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.card,
     alignItems: 'center',
   },
-  tabSelected: { backgroundColor: Colors.button, borderColor: Colors.button },
+  tabSelected: { backgroundColor: Colors.blue, borderColor: Colors.blue },
   tabText: { ...typography.label, color: Colors.text },
   tabTextSelected: { color: Colors.onButton },
   card: {
@@ -225,6 +225,6 @@ const styles = StyleSheet.create({
     marginBottom: 10,
   },
   linkText: { flex: 1, fontSize: 16, color: Colors.button, fontWeight: '500' },
-  linkArrow: { color: Colors.button, fontSize: 16 },
+  linkArrow: { color: Colors.red, fontSize: 16 },
   footnote: { ...typography.label, color: Colors.textMuted, marginTop: 10, marginBottom: 24 },
 });

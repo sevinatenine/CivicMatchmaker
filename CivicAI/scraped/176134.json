@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/176134/jon-ossoff",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -28,8 +29,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -48,8 +50,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -67,7 +71,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Weâve squandered trillions on needless war, bank bailouts, & tax cuts for the wealthiest Americans â then weâre told thereâs no money for health care, Social Security, or infrastructure. Thatâs corruption. Together weâll clean up our democracy & deliver for the people.\"",
+          "text": "\"We’ve squandered trillions on needless war, bank bailouts, & tax cuts for the wealthiest Americans — then we’re told there’s no money for health care, Social Security, or infrastructure. That’s corruption. Together we’ll clean up our democracy & deliver for the people.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1222229362759675904"
         }
@@ -75,7 +79,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -100,8 +105,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -135,7 +142,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -159,7 +167,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Weâre ready to register voters & GOTV in Morgan Co.! Weâll unite Georgians & WIN to ensure every American has health care, invest in infrastructure & our environment, & attack political corruption. Thank you Dutton Morehouse, Jeanne Dufort, & Morgan Co. Dems for your hard work!\"",
+          "text": "\"We’re ready to register voters & GOTV in Morgan Co.! We’ll unite Georgians & WIN to ensure every American has health care, invest in infrastructure & our environment, & attack political corruption. Thank you Dutton Morehouse, Jeanne Dufort, & Morgan Co. Dems for your hard work!\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1218213148597149696"
         }
@@ -187,7 +195,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Iâll support policies that help Georgiaâs families make and save more money: fast and generous direct emergency relief during economic crises, lower taxes for all but the wealthiest Americans, debt-free public college, free vocational training, and health care guaranteed at an affordable price.\"",
+          "text": "\"I’ll support policies that help Georgia’s families make and save more money: fast and generous direct emergency relief during economic crises, lower taxes for all but the wealthiest Americans, debt-free public college, free vocational training, and health care guaranteed at an affordable price.\"",
           "source": "electjon.com",
           "url": "https://electjon.com/policy/"
         },
@@ -214,8 +222,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -234,8 +243,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -255,25 +265,26 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Honored to receive the Gun Sense Candidate designation from @MomsDemand. In the Senate, Iâll fight the corrupt influence of the NRA.\"",
+          "text": "\"Honored to receive the Gun Sense Candidate designation from @MomsDemand. In the Senate, I’ll fight the corrupt influence of the NRA.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1255581471848480768"
         },
         {
           "type": "statement",
-          "text": "\"The constant gun violence in America is intolerable â and preventable. On Sunday, 8-year-old Secoriea Turner was shot to death in Atlanta. Georgia unites in grief and support for her family. We need peace. We need sensible gun laws. Nonviolence is the way.\"",
+          "text": "\"The constant gun violence in America is intolerable — and preventable. On Sunday, 8-year-old Secoriea Turner was shot to death in Atlanta. Georgia unites in grief and support for her family. We need peace. We need sensible gun laws. Nonviolence is the way.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1280522234759655427"
         },
         {
           "type": "statement",
-          "text": "\"Today Iâm endorsing Lucy McBath (@LucyWins2018), an inspiring Democratic candidate for GAâs 37th State House District. After losing her son to a senseless act of gun violence, Lucy became a relentless fighter for reforms to make our communities safer.\"",
+          "text": "\"Today I’m endorsing Lucy McBath (@LucyWins2018), an inspiring Democratic candidate for GA’s 37th State House District. After losing her son to a senseless act of gun violence, Lucy became a relentless fighter for reforms to make our communities safer.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/968911809582419969"
         }
@@ -307,25 +318,25 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Doctors & nurses prepare for risky round-the-clock work treating COVID-19. The House expedites free testing & sick leave to slow the spread. Trumpâs incompetence has hamstrung preparations, and time is of the essence.\"",
+          "text": "\"Doctors & nurses prepare for risky round-the-clock work treating COVID-19. The House expedites free testing & sick leave to slow the spread. Trump’s incompetence has hamstrung preparations, and time is of the essence.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1238289436187779074"
         },
         {
           "type": "statement",
-          "text": "\"My opponent wants to rip health care away from Georgians during a pandemic and gut protections for women, young people, and those with pre-existing conditions. I have a better idea: letâs protect and strengthen the ACA and ensure every Georgian has health care.\"",
+          "text": "\"My opponent wants to rip health care away from Georgians during a pandemic and gut protections for women, young people, and those with pre-existing conditions. I have a better idea: let’s protect and strengthen the ACA and ensure every Georgian has health care.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1280216555515772929"
         },
         {
           "type": "statement",
-          "text": "\"We are the only major country that does not guarantee paid sick leave.When we win the Senate, weâll ensure American workers are afforded the flexibility, dignity, and respect to stay home when theyâre sick without losing their pay or their jobs.\"",
+          "text": "\"We are the only major country that does not guarantee paid sick leave.When we win the Senate, we’ll ensure American workers are afforded the flexibility, dignity, and respect to stay home when they’re sick without losing their pay or their jobs.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1273761242415587328"
         },
         {
           "type": "statement",
-          "text": "\"McConnell says free virus tests, paid sick leave, and unemployment insurance will \"kill jobs.\" Where does Sen. Perdue stand? This governmentâs continued incompetence and denialism wonât just kill jobs, theyâll kill people.\"",
+          "text": "\"McConnell says free virus tests, paid sick leave, and unemployment insurance will \"kill jobs.\" Where does Sen. Perdue stand? This government’s continued incompetence and denialism won’t just kill jobs, they’ll kill people.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/ossoff/status/1238121174921547776"
         }
@@ -388,8 +399,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [

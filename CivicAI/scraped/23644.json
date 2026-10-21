@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/23644/jeff-merkley",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -34,14 +35,15 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"If @realDonaldTrump and Republicans were serious about reducing our national debt, they wouldnât have passed tax giveaways for the ultra-rich that exploded our deficits.\"",
+          "text": "\"If @realDonaldTrump and Republicans were serious about reducing our national debt, they wouldn’t have passed tax giveaways for the ultra-rich that exploded our deficits.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/1067427784413380609"
         },
@@ -59,15 +61,17 @@
         },
         {
           "type": "statement",
-          "text": "\"These tax cuts for billionaires and big corporations wonât pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
+          "text": "\"These tax cuts for billionaires and big corporations won’t pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/936692163106177025"
         }
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -99,7 +103,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -118,8 +123,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -159,7 +166,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -203,7 +211,7 @@
         },
         {
           "type": "statement",
-          "text": "\"These tax cuts for billionaires and big corporations wonât pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
+          "text": "\"These tax cuts for billionaires and big corporations won’t pay for themselves. #GOPTaxScam would cut into critical funds for farmers. @RealDonaldTrump and the GOP have completely misplaced priorities.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/936692163106177025"
         }
@@ -250,8 +258,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -282,8 +291,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -303,13 +313,14 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Enough is enough. Weâve lost too many loved ones to senseless gun violence. If not commonsense gun reform now, when?\"",
+          "text": "\"Enough is enough. We’ve lost too many loved ones to senseless gun violence. If not commonsense gun reform now, when?\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/927539212479533057"
         },
@@ -341,7 +352,7 @@
         },
         {
           "type": "statement",
-          "text": "\"The #ACA has literally been a lifesaver. Iâll keep fighting to make sure that its protections are not going to go anywhere.\"",
+          "text": "\"The #ACA has literally been a lifesaver. I’ll keep fighting to make sure that its protections are not going to go anywhere.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/895306492563390465"
         }
@@ -375,7 +386,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Trumpâs wall will waste our scarce resources: a 21-ft ladder defeats a 20-ft wall. We must focus on smart infrastructure investment instead.\"",
+          "text": "\"Trump’s wall will waste our scarce resources: a 21-ft ladder defeats a 20-ft wall. We must focus on smart infrastructure investment instead.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/824369820938436608"
         },
@@ -407,7 +418,7 @@
         },
         {
           "type": "statement",
-          "text": "\"We made a promise to nearly 700,000 young people that, if they trusted us enough to come forward, we would protect them. Trumpâs betrayal of DREAMers must not stand. I will fight to honor the promise made to DREAMers who know no other land. #HomeIsHere #HereToStay #DACA\"",
+          "text": "\"We made a promise to nearly 700,000 young people that, if they trusted us enough to come forward, we would protect them. Trump’s betrayal of DREAMers must not stand. I will fight to honor the promise made to DREAMers who know no other land. #HomeIsHere #HereToStay #DACA\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJeffMerkley/status/1194311827775270912"
         }
@@ -472,8 +483,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

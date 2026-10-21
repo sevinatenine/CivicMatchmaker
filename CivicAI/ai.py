@@ -324,6 +324,9 @@ def _from_scraped(d, reg=None):
         "level": level,
         "position": position,
         "district": district,
+        # Vote Smart says "Running, ..." for people on the 2026 ballot; current officeholders
+        # who aren't running say "Not on the 2026 ballot"
+        "onBallot": not ballot_txt.startswith("Not on"),
         "positions": [(p["category"], p["question"], p["answer"]) for p in d["positions"]],
     }
 
@@ -628,9 +631,17 @@ def registry_candidates(loc, scored):
                 "party": r.get("party") or None, "level": level, "position": position,
                 "district": district, "state": r.get("state"),
                 "score": None, "coverage": 0, "sections": {}, "reasons": [],
-                "ballotOnly": True, "url": None,   # the app labels url "Campaign website"
+                "ballotOnly": True, "onBallot": True,
+                "url": None,   # the app labels url "Campaign website"
             })
     return out
+
+
+def ballot_measures(contests):
+    """Referendums / ballot questions from the Google Civic contests."""
+    return [{"title": c["office"], "subtitle": c["referendum_subtitle"] or None,
+             "district": c["district"] or None, "url": c["referendum_url"] or None}
+            for c in contests if c["category"] == "Ballot measures" and c["office"]]
 
 
 def ballot_candidates(contests, state):
@@ -654,7 +665,7 @@ def ballot_candidates(contests, state):
                 "party": cand["party"] or None, "level": level, "position": position,
                 "district": None, "state": state,
                 "score": None, "coverage": 0, "sections": {}, "reasons": [],
-                "ballotOnly": True, "url": cand["url"] or None,
+                "ballotOnly": True, "onBallot": True, "url": cand["url"] or None,
             })
     return out
 
@@ -893,7 +904,7 @@ def run_match(data, emit, cancelled):
         out.append({"id": cand["id"], "name": cand["name"], "office": cand["office"],
                     "party": cand["party"], "level": cand["level"],
                     "position": cand["position"], "district": cand["district"],
-                    "state": cand["state"], **res})
+                    "state": cand["state"], "onBallot": cand.get("onBallot", True), **res})
         emit("progress", {"done": i, "of": len(candidates), "candidate": cand["name"]})
 
     out.sort(key=lambda m: (m["score"] is None, -(m["score"] or 0)))
@@ -911,5 +922,6 @@ def run_match(data, emit, cancelled):
         "answered": len(items),
         "location": {**loc, "districtKnown": loc["district"] is not None},
         "ballot": {"loaded": bool(contests), "note": ballot_note,
-                   "elections": elections_found, "extra": len(extra)},
+                   "elections": elections_found, "extra": len(extra),
+                   "measures": ballot_measures(contests)},
     }

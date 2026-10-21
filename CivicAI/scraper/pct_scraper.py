@@ -256,9 +256,25 @@ def pct_url(candidate_id, name: str = "") -> str:
     return f"{BASE}/candidate/political-courage-test/{candidate_id}/{slug}".rstrip("/")
 
 
+# UTF-8 bytes that were decoded as Latin-1 somewhere upstream ("â\x80\x99" instead of "’")
+_MOJIBAKE = re.compile(r"[\xc2-\xdf][\x80-\xbf]|[\xe0-\xef][\x80-\xbf]{2}|[\xf0-\xf4][\x80-\xbf]{3}")
+
+
+def unmojibake(text: str) -> str:
+    def fix(m):
+        try:
+            return m.group(0).encode("latin-1").decode("utf-8")
+        except UnicodeDecodeError:
+            return m.group(0)
+    prev = None
+    while prev != text:   # some statements are garbled twice
+        prev, text = text, _MOJIBAKE.sub(fix, text)
+    return text
+
+
 def clean(text: str) -> str:
     # The site double-escapes some entities (e.g. "&amp;amp;"), so unescape twice
-    text = html.unescape(html.unescape(text or ""))
+    text = unmojibake(html.unescape(html.unescape(text or "")))
     return re.sub(r"\s+", " ", text).strip()
 
 
