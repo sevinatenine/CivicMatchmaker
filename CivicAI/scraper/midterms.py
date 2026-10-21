@@ -432,6 +432,8 @@ def process_candidate(c, ps, out_dir, cookie, ua, delay) -> bool:
 
 
 def pct_needs(c: dict, refresh_days: float, retry_missing: bool) -> bool:
+    if c.get("pct_excluded"):
+        return False                      # removed by hand (e.g. their test is for a local office)
     if c.get("pct_id") and c.get("pct_status") != "linked":
         return True                       # id was filled in by hand
     if not c.get("pct_checked"):

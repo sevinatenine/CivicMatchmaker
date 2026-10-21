@@ -1,7 +1,8 @@
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
-import { Colors } from '@/constants/Colors';
+import { Colors, partyColor } from '@/constants/Colors';
 import { QUESTIONS } from '@/constants/questions';
+import { setLastResult } from '@/lib/lastResult';
 import { CandidateMatch, Level, MatchResult, runMatch } from '@/lib/matchApi';
 import { typography } from '@/theme/typography';
 import { useLocalSearchParams, useRouter } from 'expo-router';
@@ -38,10 +39,12 @@ function Chip({
   label,
   selected,
   onPress,
+  tone,
 }: {
   label: string;
   selected: boolean;
   onPress: () => void;
+  tone: 'blue' | 'red';
 }) {
   return (
     <Pressable
@@ -50,7 +53,7 @@ function Chip({
       onPress={onPress}
       style={({ pressed }) => [
         styles.chip,
-        selected && styles.chipSelected,
+        selected && { backgroundColor: Colors[tone], borderColor: Colors[tone] },
         pressed && !selected && { backgroundColor: Colors.cardAlt },
       ]}
     >
@@ -64,11 +67,13 @@ function ChipRow({
   options,
   value,
   onChange,
+  tone,
 }: {
   title: string;
   options: { value: string; label: string }[];
   value: string;
   onChange: (v: string) => void;
+  tone: 'blue' | 'red';
 }) {
   return (
     <View style={{ gap: 8 }}>
@@ -80,6 +85,7 @@ function ChipRow({
             label={o.label}
             selected={value === o.value}
             onPress={() => onChange(o.value)}
+            tone={tone}
           />
         ))}
       </ScrollView>
@@ -87,25 +93,36 @@ function ChipRow({
   );
 }
 
-function ScoreBar({ score }: { score: number }) {
+function ScoreBar({ score, color }: { score: number; color: string }) {
   return (
     <View style={styles.track}>
-      <View style={[styles.fill, { width: `${Math.max(2, score)}%` }]} />
+      <View style={[styles.fill, { width: `${Math.max(2, score)}%`, backgroundColor: color }]} />
     </View>
   );
 }
 
 function CandidateCard({ match }: { match: CandidateMatch }) {
   const [open, setOpen] = useState(false);
-  const meta = [match.party, districtLabel(match)].filter(Boolean).join(' · ');
+  const office = districtLabel(match);
 
   return (
-    <View style={styles.card}>
+    <View style={[styles.card, { borderLeftColor: partyColor(match.party) }]}>
       <View style={styles.cardTop}>
         <View style={{ flex: 1 }}>
           <Text style={styles.name}>{match.name}</Text>
-          {!!meta && <Text style={styles.meta}>{meta}</Text>}
-          <Text style={styles.level}>{match.level}</Text>
+          {!!(match.party || office) && (
+            <Text style={styles.meta}>
+              {!!match.party && (
+                <Text style={{ color: partyColor(match.party) }}>{match.party}</Text>
+              )}
+              {match.party && office ? ' · ' : ''}
+              {office}
+            </Text>
+          )}
+          <Text style={styles.level}>
+            {match.level}
+            {match.onBallot === false ? ' · Current officeholder, not on the 2026 ballot' : ''}
+          </Text>
         </View>
         <Text style={styles.score}>{match.score === null ? '—' : `${match.score}%`}</Text>
       </View>
@@ -125,7 +142,7 @@ function CandidateCard({ match }: { match: CandidateMatch }) {
         <Text style={styles.meta}>Not enough overlapping positions to compare.</Text>
       ) : (
         <>
-          <ScoreBar score={match.score} />
+          <ScoreBar score={match.score} color={partyColor(match.party)} />
           <Text style={styles.meta}>
             Based on {match.coverage} matching position{match.coverage === 1 ? '' : 's'}
           </Text>
@@ -214,7 +231,10 @@ export default function ResultsPage() {
         else if (event === 'started') setStatus('Matching your answers…');
         else if (event === 'progress' && data.candidate)
           setStatus(`Checked ${data.candidate} (${data.done}/${data.of})`);
-        else if (event === 'result') setResult(data);
+        else if (event === 'result') {
+          setResult(data);
+          setLastResult({ result: data, state, city });
+        }
         else if (event === 'error') setError(data.message);
       },
       ctrl.signal,
@@ -311,6 +331,7 @@ export default function ResultsPage() {
           <View style={styles.filters}>
             <ChipRow
               title="Level"
+              tone="red"
               options={levelOptions}
               value={level}
               onChange={(v) => {
@@ -320,6 +341,7 @@ export default function ResultsPage() {
             />
             <ChipRow
               title="Position"
+              tone="blue"
               options={positionOptions}
               value={position}
               onChange={setPosition}
@@ -342,6 +364,12 @@ export default function ResultsPage() {
 
       <View style={styles.buttons}>
         <PrimaryButton
+          title="View sample ballot"
+          disabled={!result}
+          onPress={() => router.push('/ballot')}
+        />
+        <PrimaryButton
+          tone="red"
           title="Learn how to vote"
           onPress={() => router.push({ pathname: '/learn', params: { state } })}
         />
@@ -353,7 +381,7 @@ export default function ResultsPage() {
 
 const styles = StyleSheet.create({
   loading: { alignItems: 'center', gap: 12, paddingVertical: 32 },
-  error: { ...typography.body, color: '#E8A0A0', marginBottom: 24 },
+  error: { ...typography.body, color: Colors.red, marginBottom: 24 },
   locNote: { ...typography.label, color: Colors.textMuted, lineHeight: 18, marginBottom: 16 },
   filters: { gap: 14, marginBottom: 20 },
   filterTitle: {
@@ -370,7 +398,6 @@ const styles = StyleSheet.create({
     borderColor: Colors.border,
     backgroundColor: Colors.card,
   },
-  chipSelected: { backgroundColor: Colors.button, borderColor: Colors.button },
   chipText: { fontSize: 14, fontWeight: '600', color: Colors.text },
   chipTextSelected: { color: Colors.onButton },
   card: {
@@ -378,6 +405,7 @@ const styles = StyleSheet.create({
     borderRadius: 18,
     borderWidth: StyleSheet.hairlineWidth,
     borderColor: Colors.border,
+    borderLeftWidth: 4, // tinted by party
     padding: 18,
     marginBottom: 16,
     gap: 10,
@@ -385,15 +413,15 @@ const styles = StyleSheet.create({
   cardTop: { flexDirection: 'row', alignItems: 'center', gap: 12 },
   name: { ...typography.heading, color: Colors.text },
   meta: { ...typography.label, color: Colors.textMuted },
-  level: { ...typography.label, color: Colors.button, marginTop: 2 },
-  score: { ...typography.title, color: Colors.button },
+  level: { ...typography.label, color: Colors.textMuted, marginTop: 2 },
+  score: { ...typography.title, color: Colors.text },
   track: { height: 8, borderRadius: 4, backgroundColor: Colors.background, overflow: 'hidden' },
-  fill: { height: 8, borderRadius: 4, backgroundColor: Colors.button },
-  toggle: { ...typography.label, color: Colors.button },
+  fill: { height: 8, borderRadius: 4 },
+  toggle: { ...typography.label, color: Colors.red },
   details: { gap: 8, marginTop: 4 },
   detailLine: { ...typography.label, color: Colors.text },
   reason: { backgroundColor: Colors.background, borderRadius: 12, padding: 12, gap: 4 },
-  reasonTag: { ...typography.label, color: Colors.button },
+  reasonTag: { ...typography.label, color: Colors.red },
   reasonText: { fontSize: 14, color: Colors.text },
   reasonSub: { fontSize: 13, color: Colors.textMuted },
   footnote: { ...typography.label, color: Colors.textMuted, marginBottom: 24 },

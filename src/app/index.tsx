@@ -17,7 +17,7 @@ export default function Home() {
         resizeMode="contain"
       />
 
-      <PrimaryButton title="Get started" onPress={() => router.push('/locationSelect')} />
+      <PrimaryButton tone="red" title="Get started" onPress={() => router.push('/locationSelect')} />
     </Screen>
   );
 }

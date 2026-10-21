@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/76151/cory-booker",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -33,13 +34,13 @@
         },
         {
           "type": "statement",
-          "text": "\"The right to control your own body is sacrosanct. Thatâs why, as president, Iâll codify Roe v. Wade, create an Office of Reproductive Freedom in the White House, repeal Hyde, and more. We must ensure everyone has access to quality health careâincluding contraception and abortion.\"",
+          "text": "\"The right to control your own body is sacrosanct. That’s why, as president, I’ll codify Roe v. Wade, create an Office of Reproductive Freedom in the White House, repeal Hyde, and more. We must ensure everyone has access to quality health care—including contraception and abortion.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387572/tweet-the-right-to-control-your-own-body-is-sacrosanct-thats-why-as-president-ill-codify-roe-v-wade-create-an-office-of-reproductive-freedom-in-the-white-house-repeal-hyde-and-more-we-must-ensure-everyone-has-access-to-quality-health-care-including-contraception-and-abortion"
         },
         {
           "type": "statement",
-          "text": "\"All people deserve to control their own bodies. Thatâs why Cory fights alongside those working to protect the constitutional right to abortion and to ensure that everyone has real access to reproductive health care.\"",
+          "text": "\"All people deserve to control their own bodies. That’s why Cory fights alongside those working to protect the constitutional right to abortion and to ensure that everyone has real access to reproductive health care.\"",
           "source": "corybooker.com",
           "url": "https://corybooker.com/issues/reproductive-rights/"
         },
@@ -52,8 +53,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -83,15 +85,17 @@
         },
         {
           "type": "vote",
-          "text": "Voted in opposition of HR 1 â Tax Cuts and Jobs Act.",
+          "text": "Voted in opposition of HR 1 – Tax Cuts and Jobs Act.",
           "source": "votesmart.org",
           "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
         }
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -109,19 +113,19 @@
         },
         {
           "type": "statement",
-          "text": "\"Access to affordable health care is so much more than that. Itâs an education issue, an economic issue. We have to do things immediately that provide better care. That means fighting for Medicare for All & acting with urgency to protect health care for all people. #DemDebate\"",
+          "text": "\"Access to affordable health care is so much more than that. It’s an education issue, an economic issue. We have to do things immediately that provide better care. That means fighting for Medicare for All & acting with urgency to protect health care for all people. #DemDebate\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387575/tweet-access-to-affordable-health-care-is-so-much-more-than-that-its-an-education-issue-an-economic-issue-we-have-to-do-things-immediately-that-provide-better-care-that-means-fighting-for-medicare-for-all-acting-with-urgency-to-protect-health-care-for-all-people-demdebate"
         },
         {
           "type": "statement",
-          "text": "\"I believe Medicare for All is the best way to rationalize our broken health care systemâand Iâll work toward this ideal of health coverage being a right for all Americans. But every day I'll join with others to make progress happen for the people who are struggling now.\"",
+          "text": "\"I believe Medicare for All is the best way to rationalize our broken health care system—and I’ll work toward this ideal of health coverage being a right for all Americans. But every day I'll join with others to make progress happen for the people who are struggling now.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387574/tweet-i-believe-medicare-for-all-is-the-best-way-to-rationalize-our-broken-health-care-system-and-ill-work-toward-this-ideal-of-health-coverage-being-a-right-for-all-americans-but-every-day-ill-join-with-others-to-make-progress-happen-for-the-people-who-are-struggling-now"
         },
         {
           "type": "statement",
-          "text": "\"Our health care system is clearly brokenâAmericans should not have to make the drastic choice between seeking medical care or considering whether that care will cost too much or result in personal bankruptcy. This is one of the many reasons why we should adopt Medicare for all.\"",
+          "text": "\"Our health care system is clearly broken—Americans should not have to make the drastic choice between seeking medical care or considering whether that care will cost too much or result in personal bankruptcy. This is one of the many reasons why we should adopt Medicare for all.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387578/tweet-our-health-care-system-is-clearly-broken-americans-should-not-have-to-make-the-drastic-choice-between-seeking-medical-care-or-considering-whether-that-care-will-cost-too-much-or-result-in-personal-bankruptcy-this-is-one-of-the-many-reasons-why-we-should-adopt-medicare-for-all"
         },
@@ -153,7 +157,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -177,7 +182,7 @@
         },
         {
           "type": "statement",
-          "text": "\"It's been 9 years since the Supreme Court handed down its disastrous 5-4 #CitizensUnited ruling. Since then, countless corporate campaign contributions have flooded our elections drowning out the voices of millions of votersâwe must overturn Citizens United.\"",
+          "text": "\"It's been 9 years since the Supreme Court handed down its disastrous 5-4 #CitizensUnited ruling. Since then, countless corporate campaign contributions have flooded our elections drowning out the voices of millions of voters—we must overturn Citizens United.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387581/tweet-its-been-9-years-since-the-supreme-court-handed-down-its-disastrous-5-4-citizensunited-ruling-since-then-countless-corporate-campaign-contributions-have-flooded-our-elections-drowning-out-the-voices-of-millions-of-voters-we-must-overturn-citizens-united"
         },
@@ -221,7 +226,7 @@
         },
         {
           "type": "statement",
-          "text": "\"We need to make sure that we have a military thatâs well-resourced and prepared, but right now, we spend nearly as much on defense as the next eight countries combined. I voted against the FY 2020 National Defense Authorization Act because $750 billion is too much to spend on defense while we scale-back our military operations and under-resource essential services that make us stronger at home, like veteransâ health care, public education, and infrastructure.\"",
+          "text": "\"We need to make sure that we have a military that’s well-resourced and prepared, but right now, we spend nearly as much on defense as the next eight countries combined. I voted against the FY 2020 National Defense Authorization Act because $750 billion is too much to spend on defense while we scale-back our military operations and under-resource essential services that make us stronger at home, like veterans’ health care, public education, and infrastructure.\"",
           "source": "www.militarytimes.com",
           "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
         },
@@ -247,7 +252,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -321,7 +327,7 @@
         },
         {
           "type": "vote",
-          "text": "Voted in opposition of HR 1 â Tax Cuts and Jobs Act.",
+          "text": "Voted in opposition of HR 1 – Tax Cuts and Jobs Act.",
           "source": "votesmart.org",
           "url": "https://votesmart.org/bill/votes/62173#.XVv2lnU3kfI"
         },
@@ -449,7 +455,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -537,7 +544,7 @@
         },
         {
           "type": "statement",
-          "text": "\"All AmericansâRepublicans & Democratsâare all being hurt by the government shutdown that was caused by President Trump's demand for an ineffective & wasteful border wall.\"",
+          "text": "\"All Americans—Republicans & Democrats—are all being hurt by the government shutdown that was caused by President Trump's demand for an ineffective & wasteful border wall.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387597/tweet-all-americans-republicans-democrats-are-all-being-hurt-by-the-government-shutdown-that-was-caused-by-president-trumps-demand-for-an-ineffective-wasteful-border-wall-trump-must-end-his-trumpshutdown-now"
         },
@@ -575,7 +582,7 @@
         },
         {
           "type": "statement",
-          "text": "\"We need to provide a pathway to citizenship that recognizes Dreamers as Americans and removes the uncertainty from their lives. Everyone deserves to feel like they belong in this country and we will fight until thatâs a reality.\"",
+          "text": "\"We need to provide a pathway to citizenship that recognizes Dreamers as Americans and removes the uncertainty from their lives. Everyone deserves to feel like they belong in this country and we will fight until that’s a reality.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1387601/tweet-we-need-to-provide-a-pathway-to-citizenship-that-recognizes-dreamers-as-americans-and-removes-the-uncertainty-from-their-lives-everyone-deserves-to-feel-like-they-belong-in-this-country-and-we-will-fight-until-thats-a-reality"
         },
@@ -625,7 +632,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Look, Iâm a strong supporter of that deal. I think it was the thing that best protected Israel and Israelâs safety.\"",
+          "text": "\"Look, I’m a strong supporter of that deal. I think it was the thing that best protected Israel and Israel’s safety.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1341403/msnbc-hardball-transcript-interview-with-sen-cory-booker"
         },
@@ -663,7 +670,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Iâve also signed on to the pledge to end the endless wars in over a dozen countries â including Afghanistan, Iraq, Syria, Yemen, Jordan, Niger, Somalia, and Thailand â and, as President, I will act to bring these military engagements to a responsible and expedient conclusion.\"",
+          "text": "\"I’ve also signed on to the pledge to end the endless wars in over a dozen countries – including Afghanistan, Iraq, Syria, Yemen, Jordan, Niger, Somalia, and Thailand — and, as President, I will act to bring these military engagements to a responsible and expedient conclusion.\"",
           "source": "www.militarytimes.com",
           "url": "https://www.militarytimes.com/news/pentagon-congress/2019/11/18/military-times-questionnaire-what-will-the-democratic-presidential-candidates-do-for-troops-veterans/"
         },
@@ -688,8 +695,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [

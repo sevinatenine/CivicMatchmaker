@@ -8,14 +8,15 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/128466/bill-hagerty",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-life",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"As a father of four, Bill fully appreciates the precious right to life. Heâll always stand up for the most vulnerable among us, and he will protect the rights of the unborn.\"",
+          "text": "\"As a father of four, Bill fully appreciates the precious right to life. He’ll always stand up for the most vulnerable among us, and he will protect the rights of the unborn.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         },
@@ -34,40 +35,43 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Tennesseans know firsthand the value of low taxes and small government, and Washington, D.C. could learn a lot from our example. President Trumpâs tax cuts are working. Bill believes we need to continue to make the tax code simple, fair, low, and permanent, and heâll fight to make sure our tax policy encourages job creation and makes our economy globally competitive.\"",
+          "text": "\"Tennesseans know firsthand the value of low taxes and small government, and Washington, D.C. could learn a lot from our example. President Trump’s tax cuts are working. Bill believes we need to continue to make the tax code simple, fair, low, and permanent, and he’ll fight to make sure our tax policy encourages job creation and makes our economy globally competitive.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         }
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Medicare for All â a key component of their liberal socialist agenda â would wreck health care and put us on a VA style health care system. All while raising our taxes. #DemDebate.\"",
+          "text": "\"Medicare for All — a key component of their liberal socialist agenda — would wreck health care and put us on a VA style health care system. All while raising our taxes. #DemDebate.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/BillHagertyTN/status/1207859993241903104"
         },
         {
           "type": "statement",
-          "text": "\"Medicare for All is the free lunch of the liberal left. Lots of promises but at the end of the day, youâll lose your health insurance you get at your job, your taxes will be doubled, and youâll have fewer options. #TNSen #DemDebate.\"",
+          "text": "\"Medicare for All is the free lunch of the liberal left. Lots of promises but at the end of the day, you’ll lose your health insurance you get at your job, your taxes will be doubled, and you’ll have fewer options. #TNSen #DemDebate.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/BillHagertyTN/status/1232473491263250432"
         },
         {
           "type": "statement",
-          "text": "\"Medicare for All - which these Dems proudly support - would eliminate the health insurance you get at your job and double your taxes. We cannot afford these liberal socialistsâ agendas.\"",
+          "text": "\"Medicare for All - which these Dems proudly support - would eliminate the health insurance you get at your job and double your taxes. We cannot afford these liberal socialists’ agendas.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/BillHagertyTN/status/1225952419873509379"
         }
@@ -75,7 +79,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -88,8 +93,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -123,13 +130,14 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Bill will fight to ensure Washington is more careful with how it spends your federal tax dollars, encourage public-private partnerships, and work closely with President Trump to advocate for Tennesseeâs highways and waterways.\"",
+          "text": "\"Bill will fight to ensure Washington is more careful with how it spends your federal tax dollars, encourage public-private partnerships, and work closely with President Trump to advocate for Tennessee’s highways and waterways.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         },
@@ -147,7 +155,7 @@
         },
         {
           "type": "statement",
-          "text": "\"With more and more Americans choosing to make Tennessee their home, we must ensure our infrastructure system keeps up. Bill will fight to ensure Washington is more careful with how it spends your federal tax dollars, encourage public-private partnerships, and work closely with President Trump to advocate for Tennesseeâs highways and waterways. But 21st Century infrastructure isnât limited to our roadways, it also includes reliable internet access. Bill will work with members of both parties to close the digital divide and ensure that all Tennesseans have access to reliable internet.\"",
+          "text": "\"With more and more Americans choosing to make Tennessee their home, we must ensure our infrastructure system keeps up. Bill will fight to ensure Washington is more careful with how it spends your federal tax dollars, encourage public-private partnerships, and work closely with President Trump to advocate for Tennessee’s highways and waterways. But 21st Century infrastructure isn’t limited to our roadways, it also includes reliable internet access. Bill will work with members of both parties to close the digital divide and ensure that all Tennesseans have access to reliable internet.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         }
@@ -167,7 +175,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Tennesseans know firsthand the value of low taxes and small government, and Washington, D.C. could learn a lot from our example. President Trumpâs tax cuts are working. Bill believes we need to continue to make the tax code simple, fair, low, and permanent, and heâll fight to make sure our tax policy encourages job creation and makes our economy globally competitive.\"",
+          "text": "\"Tennesseans know firsthand the value of low taxes and small government, and Washington, D.C. could learn a lot from our example. President Trump’s tax cuts are working. Bill believes we need to continue to make the tax code simple, fair, low, and permanent, and he’ll fight to make sure our tax policy encourages job creation and makes our economy globally competitive.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         }
@@ -202,8 +210,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -216,8 +225,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -237,7 +247,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -257,7 +268,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Bill knows Obamacare reduced patient choice and made health care too expensive to afford. Democrats think that Obamacare did not go far enough and now, they are pushing for socialized medicine that would eliminate our private insurance and lead to rationed care and astronomical costs. He believes the best fix would be to reduce the federal governmentâs power to make health care decisions for you and to return that power to the patients and the free market.\"",
+          "text": "\"Bill knows Obamacare reduced patient choice and made health care too expensive to afford. Democrats think that Obamacare did not go far enough and now, they are pushing for socialized medicine that would eliminate our private insurance and lead to rationed care and astronomical costs. He believes the best fix would be to reduce the federal government’s power to make health care decisions for you and to return that power to the patients and the free market.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         },
@@ -352,8 +363,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -365,7 +377,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Heâll work to get government out of the way, cut unnecessary bureaucratic regulation, continue President Trumpâs winning streak on taxes, promote free trade, remove barriers to trade, strengthen the regulatory review process, and encourage companies to do business in Tennessee.\"",
+          "text": "\"He’ll work to get government out of the way, cut unnecessary bureaucratic regulation, continue President Trump’s winning streak on taxes, promote free trade, remove barriers to trade, strengthen the regulatory review process, and encourage companies to do business in Tennessee.\"",
           "source": "teamhagerty.com",
           "url": "https://teamhagerty.com/the-issues/"
         }

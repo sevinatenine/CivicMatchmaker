@@ -8,14 +8,15 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/102842/ben-luj-n-jr",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"As we work to expand health care coverage, we must ensure that access to comprehensive reproductive health care is protected. Thatâs why @brianschatz and I plan to include abortion coverage in our federal Medicaid Buy-In bill this congress. #RoevWade\"",
+          "text": "\"As we work to expand health care coverage, we must ensure that access to comprehensive reproductive health care is protected. That’s why @brianschatz and I plan to include abortion coverage in our federal Medicaid Buy-In bill this congress. #RoevWade\"",
           "source": "twitter.com",
           "url": "https://twitter.com/repbenraylujan/status/1088804611950104576"
         },
@@ -34,8 +35,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -54,14 +56,16 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Congressman LujÃ¡n is a cosponsor of the Social Security 2100 Act to protect and expand social security benefits for current and future generations. T The Congressman supported the full repeal of the Medicare Access to Rehabilitation Services Act. This ensures seniors have full access to outpatient therapy covered by their Medicare plan.\"",
+          "text": "\"Congressman Luján is a cosponsor of the Social Security 2100 Act to protect and expand social security benefits for current and future generations. T The Congressman supported the full repeal of the Medicare Access to Rehabilitation Services Act. This ensures seniors have full access to outpatient therapy covered by their Medicare plan.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/seniors"
         }
@@ -69,21 +73,24 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Congressman LujÃ¡n is also a cosponsor of the Democracy for All Amendment, a resolution to restore limits on the influence of money in our elections through a constitutional amendment to overturn the Citizens United decision.\"",
+          "text": "\"Congressman Luján is also a cosponsor of the Democracy for All Amendment, a resolution to restore limits on the influence of money in our elections through a constitutional amendment to overturn the Citizens United decision.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/protecting-our-democracy"
         }
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -123,7 +130,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -135,7 +143,7 @@
         },
         {
           "type": "statement",
-          "text": "\"The COVID-19 public health crisis is impacting communities across New Mexico each day. It's crucial that the next coronavirus response package includes significant investments to alleviate the public health and economic impacts of this virus, boost our economy, and create new jobs for New Mexicans, said LujÃ¡n. \"As Congress develops this next legislative package, I will fight to ensure investments in New Mexico's public health, economy, and infrastructure are included. This crisis requires a bold response to uplift New Mexico families and businesses.\"",
+          "text": "\"The COVID-19 public health crisis is impacting communities across New Mexico each day. It's crucial that the next coronavirus response package includes significant investments to alleviate the public health and economic impacts of this virus, boost our economy, and create new jobs for New Mexicans, said Luján. \"As Congress develops this next legislative package, I will fight to ensure investments in New Mexico's public health, economy, and infrastructure are included. This crisis requires a bold response to uplift New Mexico families and businesses.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1414088/lujan-statement-on-house-democrats-plan-to-bolster-infrastructure-investments-in-fourth-coronavirus-response-package"
         },
@@ -175,7 +183,7 @@
         },
         {
           "type": "statement",
-          "text": "\"The Paycheck Protection Program has served as a lifeline for thousands of small businesses in New Mexico. When the program ended last week, it still had $130 billion in available funds to help struggling businesses. With its reopening, small business owners can once again access forgivable loans to keep workers on payroll and pay basic expenses like rent, mortgage interest, and utilities,\" said LujÃ¡n. \"I urge New Mexico's small businesses to take advantage of this new opportunity and reach out to my office if they need assistance with the process.\"",
+          "text": "\"The Paycheck Protection Program has served as a lifeline for thousands of small businesses in New Mexico. When the program ended last week, it still had $130 billion in available funds to help struggling businesses. With its reopening, small business owners can once again access forgivable loans to keep workers on payroll and pay basic expenses like rent, mortgage interest, and utilities,\" said Luján. \"I urge New Mexico's small businesses to take advantage of this new opportunity and reach out to my office if they need assistance with the process.\"",
           "source": "votesmart.org",
           "url": "https://votesmart.org/public-statement/1443609/lujan-applauds-reopening-of-paycheck-protection-program"
         }
@@ -195,41 +203,43 @@
         },
         {
           "type": "statement",
-          "text": "\"Rep. LujÃ¡n supported the Every Student Succeeds Act, a long-overdue bipartisan effort to replace the flawed No Child Left Behind law. It increases flexibility for states and school districts, while ensuring that our most vulnerable students are not neglected. The Every Student Succeeds Act provides resources for states to audit and streamline their standardized testing systems, eliminates unnecessary and duplicative assessments, and allows states to limit the time students spend taking annual tests.\"",
+          "text": "\"Rep. Luján supported the Every Student Succeeds Act, a long-overdue bipartisan effort to replace the flawed No Child Left Behind law. It increases flexibility for states and school districts, while ensuring that our most vulnerable students are not neglected. The Every Student Succeeds Act provides resources for states to audit and streamline their standardized testing systems, eliminates unnecessary and duplicative assessments, and allows states to limit the time students spend taking annual tests.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/education"
         }
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Rep. LujÃ¡n worked with Congressman Peter Welch to introduce the American Renewable Energy and Efficiency Act to create a federal standard for renewable energy. The legislation incentivizes investment in low-carbon initiatives and requires electric utilities, by 2030, to obtain at least 30% of their electricity supply from renewable sources. It would also achieve a 20% reduction in electricity use and a 13% reduction in natural gas use.\"",
+          "text": "\"Rep. Luján worked with Congressman Peter Welch to introduce the American Renewable Energy and Efficiency Act to create a federal standard for renewable energy. The legislation incentivizes investment in low-carbon initiatives and requires electric utilities, by 2030, to obtain at least 30% of their electricity supply from renewable sources. It would also achieve a 20% reduction in electricity use and a 13% reduction in natural gas use.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/energy"
         },
         {
           "type": "statement",
-          "text": "\"That is why Rep. LujÃ¡n worked with Congressman John Delaney and Senator Ben Cardin to push Congress to support a national goal of more than 50% clean and carbon-free energy by 2030. In a show of significant support for this initiative, the \"50x30 Resolutions\" were cosponsored by 30 Senators and 103 House Members. A national goal of 50% clean and carbon free electricity by 2030 establishes a realistic marker to challenge our country and accelerate action that is good for our economy, our national security, and our health.\"",
+          "text": "\"That is why Rep. Luján worked with Congressman John Delaney and Senator Ben Cardin to push Congress to support a national goal of more than 50% clean and carbon-free energy by 2030. In a show of significant support for this initiative, the \"50x30 Resolutions\" were cosponsored by 30 Senators and 103 House Members. A national goal of 50% clean and carbon free electricity by 2030 establishes a realistic marker to challenge our country and accelerate action that is good for our economy, our national security, and our health.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/energy"
         }
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"President Trumpâs move to withdraw the U.S. from the Paris Agreement was reckless â Iâm proud to introduce legislation with @SenTinaSmith to put us back on the right path to #ActOnClimate and curb greenhouse gasses.\"",
+          "text": "\"President Trump’s move to withdraw the U.S. from the Paris Agreement was reckless — I’m proud to introduce legislation with @SenTinaSmith to put us back on the right path to #ActOnClimate and curb greenhouse gasses.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/repbenraylujan/status/1127984829398536192"
         },
@@ -241,7 +251,7 @@
         },
         {
           "type": "statement",
-          "text": "\"That is why Rep. LujÃ¡n worked with Congressman John Delaney and Senator Ben Cardin to push Congress to support a national goal of more than 50% clean and carbon-free energy by 2030. In a show of significant support for this initiative, the \"50x30 Resolutions\" were cosponsored by 30 Senators and 103 House Members. A national goal of 50% clean and carbon free electricity by 2030 establishes a realistic marker to challenge our country and accelerate action that is good for our economy, our national security, and our health.\"",
+          "text": "\"That is why Rep. Luján worked with Congressman John Delaney and Senator Ben Cardin to push Congress to support a national goal of more than 50% clean and carbon-free energy by 2030. In a show of significant support for this initiative, the \"50x30 Resolutions\" were cosponsored by 30 Senators and 103 House Members. A national goal of 50% clean and carbon free electricity by 2030 establishes a realistic marker to challenge our country and accelerate action that is good for our economy, our national security, and our health.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/energy"
         }
@@ -249,7 +259,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -275,7 +286,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Rep. LujÃ¡n supported the Affordable Care Act (ACA), and has since opposed House Republican attempts to repeal or undermine health care reform.\"",
+          "text": "\"Rep. Luján supported the Affordable Care Act (ACA), and has since opposed House Republican attempts to repeal or undermine health care reform.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/health-care"
         },
@@ -315,7 +326,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Native American sacred sites must be protected â not blown up and destroyed to pave way for a reckless border wall.\"",
+          "text": "\"Native American sacred sites must be protected – not blown up and destroyed to pave way for a reckless border wall.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/repbenraylujan/status/1232713686503964672"
         },
@@ -335,7 +346,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Congressman LujÃ¡n is a cosponsor of the DREAM Act, which would provide certainty for the 800,000 young people in the Deferred Action for Childhood Arrivals who entered the United States as children.\"",
+          "text": "\"Congressman Luján is a cosponsor of the DREAM Act, which would provide certainty for the 800,000 young people in the Deferred Action for Childhood Arrivals who entered the United States as children.\"",
           "source": "lujan.house.gov",
           "url": "https://lujan.house.gov/issues/immigration"
         },
@@ -382,8 +393,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [

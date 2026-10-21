@@ -26,6 +26,7 @@ export type CandidateMatch = {
   sections: Record<string, number | null>;
   reasons: Reason[];
   ballotOnly?: boolean; // on your ballot, but no recorded positions to score
+  onBallot?: boolean; // false = current officeholder who isn't running in 2026
   url?: string | null; // campaign website, when known
 };
 
@@ -40,11 +41,19 @@ export type MatchLocation = {
   matchedAddress: string | null;
 };
 
+export type BallotMeasure = {
+  title: string;
+  subtitle: string | null;
+  district: string | null;
+  url: string | null;
+};
+
 export type BallotInfo = {
   loaded: boolean;
   note: string | null;
   elections: string[];
   extra: number;
+  measures?: BallotMeasure[];
 };
 
 export type MatchResult = {

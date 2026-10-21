@@ -1,14 +1,16 @@
 {
   "name": "Elaine Luria",
   "page_title": "Elaine Luria's Issue Positions (Political Courage Test)",
+  "office": "U.S. House (VA) - District 2, Democratic",
   "on_the_ballot": "Running, Democratic for U.S. House (VA) - District 2",
   "candidate_id": "179677",
   "test_year": "2022",
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/179677/elaine-luria",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -20,7 +22,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Today marks the 47th anniversary of the landmark Roe v. Wade Supreme Court case. Now more than ever, it is critical that we take steps to protect a womanâs right to chooseâ and I plan to work every day to stand up for this right.\"",
+          "text": "\"Today marks the 47th anniversary of the landmark Roe v. Wade Supreme Court case. Now more than ever, it is critical that we take steps to protect a woman’s right to choose— and I plan to work every day to stand up for this right.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/RepElaineLuria/status/1220018051199963136?s=20"
         },
@@ -39,8 +41,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -78,7 +81,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations,unions, and individuals?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -109,8 +113,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "No",
       "position_type": "inferred",
       "evidence": [
@@ -174,7 +180,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -309,8 +316,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -334,7 +342,7 @@
         },
         {
           "type": "statement",
-          "text": "Signed Letter to Speaker Pelosi: \"These outlined policies would go a long way in providing planning certainty for clean energy investments, furthering the advancement of clean energy across the country, and helping us strive towards and ultimately beyond our Paris Agreement commitments. In addition, these policies, along with others that ensure strong labor standards and incentives for domestic manufacturing, can help ensure American leadership in clean energy technology, drive domestic manufacturing, and the support the creation and maintenance of good American jobs in the next generation of technology. With only a decade to take transformative action, we canât miss a single opportunity to pass pro-active climate policies.\"",
+          "text": "Signed Letter to Speaker Pelosi: \"These outlined policies would go a long way in providing planning certainty for clean energy investments, furthering the advancement of clean energy across the country, and helping us strive towards and ultimately beyond our Paris Agreement commitments. In addition, these policies, along with others that ensure strong labor standards and incentives for domestic manufacturing, can help ensure American leadership in clean energy technology, drive domestic manufacturing, and the support the creation and maintenance of good American jobs in the next generation of technology. With only a decade to take transformative action, we can’t miss a single opportunity to pass pro-active climate policies.\"",
           "source": "justfacts.votesmart.org",
           "url": "https://justfacts.votesmart.org/public-statement/1380163/letter-to-the-hon-nancy-pelosi-speaker-of-the-house-of-representatives-and-the-hon-steny-h-hoyer-majority-leader-of-the-house-of-representatives-more-than-160-members-urge-house-democratic-leadership-to-prioritize-clean-energy-tax-policies"
         },
@@ -353,14 +361,15 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Iâve fought to ensure the cleanup efforts in The Bay continue to be fully funded to protect our economy and way of life. Thatâs why I introduced bipartisan legislation to secure $85 billion to advance our shared goals of a clean and healthy Bay. I am also helping lead the critical fight against drilling off the coast of Virginia. Offshore drilling threatens our national security and safety of our sailors and our tourism economy by spoiling our beautiful beaches and shorelines. I was proud to cosponsor bipartisan legislation to protect our precious coastline.\"",
+          "text": "\"I’ve fought to ensure the cleanup efforts in The Bay continue to be fully funded to protect our economy and way of life. That’s why I introduced bipartisan legislation to secure $85 billion to advance our shared goals of a clean and healthy Bay. I am also helping lead the critical fight against drilling off the coast of Virginia. Offshore drilling threatens our national security and safety of our sailors and our tourism economy by spoiling our beautiful beaches and shorelines. I was proud to cosponsor bipartisan legislation to protect our precious coastline.\"",
           "source": "elaineforcongress.com",
           "url": "https://elaineforcongress.com/issues/"
         },
@@ -392,7 +401,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -424,7 +434,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
+      "question": "Do you support a government-run (e.g. single-payer) healthcare program, such as Medicare-for-All?",
+      "original_question": "Do you support a government-run (single-payer) healthcare program, such as Medicare-for-All?",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -450,7 +461,8 @@
     },
     {
       "category": "Health Care",
-      "question": "Do you support expanding paid family AND/OR medical leave opportunities?",
+      "question": "Do you support expanding paid family AND/OR medical leave benefits (e.g. maternity leave)?",
+      "original_question": "Do you support expanding paid family AND/OR medical leave opportunities?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -598,7 +610,8 @@
     },
     {
       "category": "National Security",
-      "question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
+      "question": "Do you support the US providing increased offensive military aid to Ukraine?",
+      "original_question": "Do you support the U.S. providing increased offensive military aid to Ukraine?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -629,8 +642,9 @@
       ]
     },
     {
-      "category": "Taxes",
+      "category": "Budget, Spending, and Taxes",
       "question": "Do you support raising taxes, on any income or on any entity, to promote economic growth?",
+      "original_category": "Taxes",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -649,8 +663,9 @@
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -662,7 +677,7 @@
         },
         {
           "type": "statement",
-          "text": "\"The passage of USMCA is a huge win for Virginians. By modernizing NAFTA, we are securing better jobs and wages and restoring confidence in the United Statesâ trade relationship with our North American allies.\"",
+          "text": "\"The passage of USMCA is a huge win for Virginians. By modernizing NAFTA, we are securing better jobs and wages and restoring confidence in the United States’ trade relationship with our North American allies.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/RepElaineLuria/status/1207783380340883456?s=20"
         },

@@ -320,7 +320,7 @@ const styles = StyleSheet.create({
     borderRadius: 14,
   },
   fieldText: { flex: 1, fontSize: 16, color: Colors.text },
-  chevron: { color: Colors.button, fontSize: 18 },
+  chevron: { color: Colors.red, fontSize: 18 },
   input: {
     paddingHorizontal: 16,
     paddingVertical: 16,
@@ -341,7 +341,7 @@ const styles = StyleSheet.create({
     paddingVertical: 18,
   },
   sheetTitle: { ...typography.heading, fontSize: 20, color: Colors.text },
-  sheetDone: { color: Colors.button, fontSize: 16, fontWeight: '600' },
+  sheetDone: { color: Colors.red, fontSize: 16, fontWeight: '600' },
   search: {
     marginHorizontal: 20,
     marginBottom: 8,

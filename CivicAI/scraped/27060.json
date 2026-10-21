@@ -8,8 +8,9 @@
   "source": "https://justfacts.votesmart.org/candidate/political-courage-test/27060/jack-reed",
   "positions": [
     {
-      "category": "Abortion",
+      "category": "Abortion and Reproductive Health",
       "question": "Do you generally support pro-choice or pro-life legislation?",
+      "original_category": "Abortion",
       "answer": "Pro-choice",
       "position_type": "inferred",
       "evidence": [
@@ -28,8 +29,9 @@
       ]
     },
     {
-      "category": "Budget",
+      "category": "Budget, Spending, and Taxes",
       "question": "In order to balance the budget, do you support an income tax increase on any tax bracket?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -60,8 +62,10 @@
       ]
     },
     {
-      "category": "Budget",
-      "question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "category": "Budget, Spending, and Taxes",
+      "question": "Do you support expanding federal funding to support social safety net programs such as Social Security and Medicare?",
+      "original_question": "Do you support expanding federal funding to support entitlement programs such as Social Security and Medicare?",
+      "original_category": "Budget",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -93,7 +97,8 @@
     },
     {
       "category": "Campaign Finance",
-      "question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
+      "question": "Do you support the regulation of indirect campaign contributions from corporations, unions, and individuals?",
+      "original_question": "Do you support the regulation of indirect campaign contributions from corporations and unions?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -124,8 +129,10 @@
       ]
     },
     {
-      "category": "Crime",
-      "question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "category": "Crime & Public Safety",
+      "question": "Do you support protecting government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_question": "Do you support the protection of government officials, including law enforcement officers, from personal liability in civil lawsuits concerning alleged misconduct?",
+      "original_category": "Crime",
       "answer": "Unknown Position",
       "position_type": "unknown",
       "evidence": [
@@ -157,13 +164,13 @@
         },
         {
           "type": "statement",
-          "text": "\"Reed has also secured billions of dollars in federal funding to modernize our military and bolster Rhode Islandâs defense industry to create more high-paying jobs and expand opportunities for local businesses. Rhode Islandâs 16,000 defense workers make a valuable contribution to our national security and generate more than $1.75 billion in local economic activity each year. Reed has worked hard to maintain and expand the U.S. Navyâs presence in Rhode Island by bringing additional commands, institutions, and projects to Naval Station Newport and Quonset Point.\"",
+          "text": "\"Reed has also secured billions of dollars in federal funding to modernize our military and bolster Rhode Island’s defense industry to create more high-paying jobs and expand opportunities for local businesses. Rhode Island’s 16,000 defense workers make a valuable contribution to our national security and generate more than $1.75 billion in local economic activity each year. Reed has worked hard to maintain and expand the U.S. Navy’s presence in Rhode Island by bringing additional commands, institutions, and projects to Naval Station Newport and Quonset Point.\"",
           "source": "www.reed.senate.gov",
           "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
         },
         {
           "type": "statement",
-          "text": "\"Through his work on the Armed Services and Appropriations Committees, he works tirelessly to ensure that Americaâs fighting men and women have the equipment they need and the benefits they deserve.\"",
+          "text": "\"Through his work on the Armed Services and Appropriations Committees, he works tirelessly to ensure that America’s fighting men and women have the equipment they need and the benefits they deserve.\"",
           "source": "www.reed.senate.gov",
           "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
         },
@@ -189,7 +196,8 @@
     },
     {
       "category": "Economy",
-      "question": "Do you support federal spending as a means of promoting economic growth?",
+      "question": "Do you support federal spending as a means of promoting economic growth (e.g. grants, tax incentives)?",
+      "original_question": "Do you support federal spending as a means of promoting economic growth?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -370,8 +378,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support government funding for the development of renewable energy (e.g. solar, wind, geo-thermal)?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -408,8 +417,9 @@
       ]
     },
     {
-      "category": "Energy and Environment",
+      "category": "Energy & Environment",
       "question": "Do you support the federal regulation of greenhouse gas emissions?",
+      "original_category": "Energy and Environment",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -459,7 +469,8 @@
     },
     {
       "category": "Guns",
-      "question": "Do you generally support gun-control legislation?",
+      "question": "Do you generally support gun-control legislation (e.g. red flag laws, boyfriend loopholes)?",
+      "original_question": "Do you generally support gun-control legislation?",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -533,7 +544,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & govât to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
+          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & gov’t to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1248631159162109955"
         },
@@ -559,7 +570,7 @@
       "evidence": [
         {
           "type": "statement",
-          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & govât to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
+          "text": "\"Even if you're #LeslieKnope, nobody wants sick coworkers showing up to work. Paid #sickleave saves lives. We need businesses & gov’t to work together to enhance paid sick leave & #familyleave policies to protect employees, customers, & communities.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1248631159162109955"
         },
@@ -645,7 +656,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Pres Trumpâs heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
+          "text": "\"Pres Trump’s heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/905099860537466882"
         }
@@ -677,7 +688,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Pres Trumpâs heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
+          "text": "\"Pres Trump’s heartless decision to revoke #DACA is un-American. #DefendDACA & support #Dreamers.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/905099860537466882"
         },
@@ -727,13 +738,13 @@
         },
         {
           "type": "statement",
-          "text": "\"Pres Trumpâs claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put Americaâs security interests at risk.\"",
+          "text": "\"Pres Trump’s claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put America’s security interests at risk.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1187129094514888705"
         },
         {
           "type": "statement",
-          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nationâs international affairs arsenal. That is why he voted against the Iraq War.\"",
+          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nation’s international affairs arsenal. That is why he voted against the Iraq War.\"",
           "source": "www.reed.senate.gov",
           "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
         },
@@ -771,13 +782,13 @@
         },
         {
           "type": "statement",
-          "text": "\"Pres Trumpâs claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put Americaâs security interests at risk.\"",
+          "text": "\"Pres Trump’s claim that he achieved a \"great outcome\" in Syria is misleading and delusional. He has not saved thousands of Kurdish lives, but he has benefited our adversaries and put America’s security interests at risk.\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1187129094514888705"
         },
         {
           "type": "statement",
-          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nationâs international affairs arsenal. That is why he voted against the Iraq War.\"",
+          "text": "\"Senator Reed firmly believes that the deployment of our men and women in uniform is a decision not to be taken lightly, and that military force represents only one tool in our nation’s international affairs arsenal. That is why he voted against the Iraq War.\"",
           "source": "www.reed.senate.gov",
           "url": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"
         },
@@ -795,15 +806,16 @@
         },
         {
           "type": "statement",
-          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but heâs failing manufacturers & our farmers!\"",
+          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but he’s failing manufacturers & our farmers!\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1157042463753850880"
         }
       ]
     },
     {
-      "category": "Trade",
+      "category": "Economy",
       "question": "Do you generally support removing barriers to international trade (for example: tariffs, quotas, etc.)?",
+      "original_category": "Trade",
       "answer": "Yes",
       "position_type": "inferred",
       "evidence": [
@@ -821,7 +833,7 @@
         },
         {
           "type": "statement",
-          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but heâs failing manufacturers & our farmers!\"",
+          "text": "\"Trump's escalating trade war w/ China has been a total disaster. Pres Trump's failed trade policies & twitter tantrums are hurting middle-class families, costing America jobs & slowing economic growth. Trump talked a lot about winning but he’s failing manufacturers & our farmers!\"",
           "source": "twitter.com",
           "url": "https://twitter.com/SenJackReed/status/1157042463753850880"
         }

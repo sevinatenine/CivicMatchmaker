@@ -14,6 +14,15 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 type Answers = Record<string, number | string>;
 
+/** Each question card gets one accent; cards alternate pastel red and pastel blue. */
+type Accent = { color: string; soft: string };
+const ACCENTS: Accent[] = [
+  { color: Colors.red, soft: Colors.redSoft },
+  { color: Colors.blue, soft: Colors.blueSoft },
+];
+
+const pick = <T,>(items: readonly T[]): T => items[Math.floor(Math.random() * items.length)];
+
 /* ---------- How much does this question matter? ---------- */
 
 const IMPORTANCE = [
@@ -23,7 +32,15 @@ const IMPORTANCE = [
   { label: 'Top priority', value: 3 },
 ];
 
-function ImportanceRow({ value, onChange }: { value: number; onChange: (v: number) => void }) {
+function ImportanceRow({
+  value,
+  onChange,
+  accent,
+}: {
+  value: number;
+  onChange: (v: number) => void;
+  accent: Accent;
+}) {
   return (
     <View style={styles.importance}>
       <Text style={styles.importanceTitle}>How much does this matter to you?</Text>
@@ -38,11 +55,11 @@ function ImportanceRow({ value, onChange }: { value: number; onChange: (v: numbe
               onPress={() => onChange(o.value)}
               style={({ pressed }) => [
                 styles.importanceChip,
-                selected && styles.importanceChipSelected,
+                selected && { backgroundColor: accent.soft, borderColor: accent.color },
                 pressed && !selected && styles.buttonPressed,
               ]}
             >
-              <Text style={[styles.importanceText, selected && styles.importanceTextSelected]}>
+              <Text style={[styles.importanceText, selected && { color: accent.color }]}>
                 {o.label}
               </Text>
             </Pressable>
@@ -55,7 +72,7 @@ function ImportanceRow({ value, onChange }: { value: number; onChange: (v: numbe
 
 /* ---------- Question title + (i) explanation ---------- */
 
-function QuestionHeader({ title, info }: { title: string; info?: string }) {
+function QuestionHeader({ title, info, accent }: { title: string; info?: string; accent: Accent }) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -71,11 +88,14 @@ function QuestionHeader({ title, info }: { title: string; info?: string }) {
             onPress={() => setOpen((o) => !o)}
             style={({ pressed }) => [
               styles.infoButton,
-              open && styles.infoButtonOpen,
+              { borderColor: accent.color },
+              open && { backgroundColor: accent.color },
               pressed && { opacity: 0.7 },
             ]}
           >
-            <Text style={[styles.infoIcon, open && styles.infoIconOpen]}>i</Text>
+            <Text style={[styles.infoIcon, { color: accent.color }, open && styles.infoIconOpen]}>
+              i
+            </Text>
           </Pressable>
         )}
       </View>
@@ -94,10 +114,12 @@ function QuestionButton({
   title,
   selected,
   onPress,
+  accent,
 }: {
   title: string;
   selected: boolean;
   onPress: () => void;
+  accent: Accent;
 }) {
   return (
     <Pressable
@@ -105,7 +127,7 @@ function QuestionButton({
       accessibilityState={{ selected }}
       style={({ pressed }) => [
         styles.button,
-        selected && styles.buttonSelected,
+        selected && { backgroundColor: accent.color, borderColor: accent.color },
         pressed && !selected && styles.buttonPressed,
       ]}
       onPress={onPress}
@@ -121,16 +143,18 @@ function ScaleQuestion({
   onChange,
   importance,
   onImportance,
+  accent,
 }: {
   def: ScaleQuestionDef;
   value: number | undefined;
   onChange: (value: number) => void;
   importance: number;
   onImportance: (value: number) => void;
+  accent: Accent;
 }) {
   return (
-    <View style={styles.question}>
-      <QuestionHeader title={def.question} info={def.info} />
+    <View style={[styles.question, { borderLeftColor: accent.color }]}>
+      <QuestionHeader title={def.question} info={def.info} accent={accent} />
       <View style={styles.options}>
         {[1, 2, 3, 4, 5].map((n) => (
           <QuestionButton
@@ -138,6 +162,7 @@ function ScaleQuestion({
             title={String(n)}
             selected={value === n}
             onPress={() => onChange(n)}
+            accent={accent}
           />
         ))}
       </View>
@@ -150,7 +175,7 @@ function ScaleQuestion({
           {def.highLabel ?? 'Highest'}
         </Text>
       </View>
-      <ImportanceRow value={importance} onChange={onImportance} />
+      <ImportanceRow value={importance} onChange={onImportance} accent={accent} />
     </View>
   );
 }
@@ -161,10 +186,12 @@ function ChoiceOption({
   label,
   selected,
   onPress,
+  accent,
 }: {
   label: string;
   selected: boolean;
   onPress: () => void;
+  accent: Accent;
 }) {
   return (
     <Pressable
@@ -172,7 +199,7 @@ function ChoiceOption({
       accessibilityState={{ selected, checked: selected }}
       style={({ pressed }) => [
         styles.choice,
-        selected && styles.choiceSelected,
+        selected && { backgroundColor: accent.color, borderColor: accent.color },
         pressed && !selected && styles.buttonPressed,
       ]}
       onPress={onPress}
@@ -189,14 +216,16 @@ function ChoiceQuestion({
   def,
   value,
   onChange,
+  accent,
 }: {
   def: ChoiceQuestionDef;
   value: string | undefined;
   onChange: (value: string) => void;
+  accent: Accent;
 }) {
   return (
-    <View style={styles.question} accessibilityRole="radiogroup">
-      <QuestionHeader title={def.question} info={def.info} />
+    <View style={[styles.question, { borderLeftColor: accent.color }]} accessibilityRole="radiogroup">
+      <QuestionHeader title={def.question} info={def.info} accent={accent} />
       <View style={styles.choices}>
         {def.choices.map((choice) => (
           <ChoiceOption
@@ -204,6 +233,7 @@ function ChoiceQuestion({
             label={choice}
             selected={value === choice}
             onPress={() => onChange(choice)}
+            accent={accent}
           />
         ))}
       </View>
@@ -219,12 +249,14 @@ function QuestionRenderer({
   onChange,
   importance,
   onImportance,
+  accent,
 }: {
   def: QuestionDef;
   value: number | string | undefined;
   onChange: (value: number | string) => void;
   importance: number;
   onImportance: (value: number) => void;
+  accent: Accent;
 }) {
   switch (def.type) {
     case 'scale':
@@ -235,10 +267,18 @@ function QuestionRenderer({
           onChange={onChange}
           importance={importance}
           onImportance={onImportance}
+          accent={accent}
         />
       );
     case 'choice':
-      return <ChoiceQuestion def={def} value={value as string | undefined} onChange={onChange} />;
+      return (
+        <ChoiceQuestion
+          def={def}
+          value={value as string | undefined}
+          onChange={onChange}
+          accent={accent}
+        />
+      );
   }
 }
 
@@ -263,8 +303,33 @@ export default function QuestionsPage() {
 
   const isFormValid = QUESTIONS.every((q) => answers[q.id] !== undefined);
 
+  // Development only: fill every answer and importance level with random values
+  const randomize = () => {
+    const nextAnswers: Answers = {};
+    const nextWeights: Record<string, number> = {};
+    for (const q of QUESTIONS) {
+      if (q.type === 'scale') {
+        nextAnswers[q.id] = pick([1, 2, 3, 4, 5]);
+        nextWeights[q.id] = pick(IMPORTANCE).value;
+      } else {
+        nextAnswers[q.id] = pick(q.choices);
+      }
+    }
+    setAnswers(nextAnswers);
+    setWeights(nextWeights);
+  };
+
   return (
     <Screen scroll>
+      {__DEV__ && (
+        <Pressable
+          accessibilityRole="button"
+          onPress={randomize}
+          style={({ pressed }) => [styles.devButton, pressed && styles.buttonPressed]}
+        >
+          <Text style={styles.devButtonText}>Randomize answers (dev)</Text>
+        </Pressable>
+      )}
       <ScreenTitle>Questions</ScreenTitle>
       <ScreenSubtitle>
         Tap the (i) on any question for a plain-language explanation. You can also mark how much
@@ -281,10 +346,12 @@ export default function QuestionsPage() {
             onChange={(value) => setAnswer(def.id, value)}
             importance={weights[def.id] ?? 1}
             onImportance={(value) => setWeight(def.id, value)}
+            accent={ACCENTS[i % ACCENTS.length]}
           />
         </Fragment>
       ))}
       <PrimaryButton
+        tone="red"
         title="Continue"
         disabled={!isFormValid}
         onPress={() =>
@@ -312,9 +379,20 @@ const styles = StyleSheet.create({
     borderRadius: 18,
     borderWidth: StyleSheet.hairlineWidth,
     borderColor: Colors.border,
+    borderLeftWidth: 4, // accent color
     padding: 18,
     marginBottom: 16,
   },
+  devButton: {
+    alignSelf: 'flex-end',
+    paddingVertical: 6,
+    paddingHorizontal: 12,
+    borderRadius: 999,
+    borderWidth: 1,
+    borderStyle: 'dashed',
+    borderColor: Colors.textMuted,
+  },
+  devButtonText: { ...typography.label, color: Colors.textMuted },
 
   // Title + info button
   header: { marginBottom: 16 },
@@ -329,13 +407,11 @@ const styles = StyleSheet.create({
     height: 28,
     borderRadius: 14,
     borderWidth: 1.5,
-    borderColor: Colors.button,
     alignItems: 'center',
     justifyContent: 'center',
     marginTop: 1,
   },
-  infoButtonOpen: { backgroundColor: Colors.button },
-  infoIcon: { color: Colors.button, fontSize: 15, fontWeight: '700' },
+  infoIcon: { fontSize: 15, fontWeight: '700' },
   infoIconOpen: { color: Colors.onButton },
   infoBox: {
     marginTop: 12,
@@ -368,9 +444,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  importanceChipSelected: { backgroundColor: Colors.buttonSoft, borderColor: Colors.button },
   importanceText: { fontSize: 12, fontWeight: '600', color: Colors.textMuted, textAlign: 'center' },
-  importanceTextSelected: { color: Colors.button },
 
   options: { flexDirection: 'row', gap: 8 },
   button: {
@@ -384,10 +458,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   buttonPressed: { backgroundColor: Colors.cardAlt },
-  buttonSelected: {
-    backgroundColor: Colors.button,
-    borderColor: Colors.button,
-  },
   buttonTitle: { fontSize: 17, fontWeight: '600', color: Colors.text },
   buttonTitleSelected: { color: Colors.onButton },
   scaleLabels: {
@@ -409,10 +479,6 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: Colors.border,
     backgroundColor: Colors.background,
-  },
-  choiceSelected: {
-    backgroundColor: Colors.button,
-    borderColor: Colors.button,
   },
   choiceLabel: { flex: 1, fontSize: 16, fontWeight: '500', color: Colors.text },
   choiceLabelSelected: { color: Colors.onButton },
