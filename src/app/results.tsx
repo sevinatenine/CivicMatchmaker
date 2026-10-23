@@ -370,6 +370,16 @@ export default function ResultsPage() {
         />
         <PrimaryButton
           tone="red"
+          title="Find where to drop off your ballot"
+          onPress={() =>
+            router.push({
+              pathname: '/dropoff',
+              params: { state, city, address: address ?? '', zip: zip ?? '' },
+            })
+          }
+        />
+        <PrimaryButton
+          tone="red"
           title="Learn how to vote"
           onPress={() => router.push({ pathname: '/learn', params: { state } })}
         />

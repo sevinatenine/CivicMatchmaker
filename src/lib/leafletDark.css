@@ -1,0 +1,26 @@
+/* OpenStreetMap tiles are light; flip them dark to match the app (VotingMap.web.tsx). */
+.dark-tiles {
+  filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.6);
+}
+
+.leaflet-container {
+  background: #1C1E22;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Popups in the app's card colors (Colors.card / Colors.text) */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #292D33;
+  color: #E8EAED;
+  box-shadow: 0 3px 14px rgba(0, 0, 0, 0.5);
+}
+
+.leaflet-popup-content {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  color: #9AA1AB;
+}

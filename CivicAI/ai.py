@@ -24,7 +24,7 @@ LOCATION
 
 BALLOT (local/state races)
     With GOOGLE_CIVIC_API_KEY set and a street address given, ballot_candidates() adds
-    the races on the user's real ballot (mayor, county, school board, ...) via elections.py.
+    the races on the user's real ballot (mayor, county, school board, ...) via scraper/elections.py.
     Candidates are loaded from JSON files made by pct_scraper.py (folder ../scraped,
 or $CANDIDATES_DIR). If candidates.json (made by midterms.py) sits in the same folder,
 it supplies the exact office + district. With no files, the mock candidates in
@@ -435,13 +435,28 @@ def _dnum(value):
     return int(digits) if digits else None
 
 
-def _census(endpoint, params):
+CENSUS_TIMEOUT = 10   # seconds per request; the Census API sometimes stalls
+CENSUS_TRIES = 2      # per query shape, so one stall doesn't fail the lookup
+
+
+def _census(endpoint, params, layers="54,82"):
+    """layers: 54 = current Congressional Districts, 82 = Counties (much smaller than "all")."""
     params = {**params, "benchmark": "Public_AR_Current", "vintage": "Current_Current",
-              "layers": "all", "format": "json"}
+              "layers": layers, "format": "json"}
     url = f"{CENSUS_GEO}/{endpoint}?{urllib.parse.urlencode(params)}"
     req = urllib.request.Request(url, headers={"User-Agent": "civicmatchmaker/1.0"})
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return json.load(r)
+    last = None
+    for _ in range(CENSUS_TRIES):
+        try:
+            with urllib.request.urlopen(req, timeout=CENSUS_TIMEOUT) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code < 500:
+                raise
+            last = e
+        except (TimeoutError, urllib.error.URLError, OSError) as e:
+            last = e
+    raise last
 
 
 def _parse_geo(data):
@@ -480,12 +495,14 @@ def geocode_address(address, city, state, zip_):
     for endpoint, params in attempts:
         try:
             info = _parse_geo(_census(endpoint, params))
+            if info and info["district"] is None:   # layer IDs moved? fall back to everything
+                info = _parse_geo(_census(endpoint, params, layers="all")) or info
         except urllib.error.HTTPError as e:
             last_error = f"Census geocoder error (HTTP {e.code})."
             continue
         except Exception as e:  # noqa: BLE001  (timeout, no internet, bad JSON...)
             last_error = f"Could not reach the Census geocoder: {e}"
-            continue
+            break                     # a network problem won't be fixed by rephrasing the address
         if info and info["district"] is not None:
             return info, None
         if info:
@@ -542,7 +559,7 @@ def in_area(cand, loc):
 
 # ------------------------------------------------------------------ ballot (local races)
 # FEC only knows federal candidates. Local and state races come from the Google Civic
-# Information API (via elections.py), which needs a street address and a key:
+# Information API (via scraper/elections.py), which needs a street address and a key:
 #     export GOOGLE_CIVIC_API_KEY=...      (enable "Google Civic Information API")
 # These candidates usually have no recorded issue positions, so they are listed
 # unscored ("ballotOnly") unless a scraped Vote Smart file exists for the same person.
@@ -573,7 +590,7 @@ def fetch_ballot(loc, address, city, zip_):
         return [], [], "Your state wasn't recognized, so local races can't be loaded."
     full = ", ".join(p for p in [address, city, f"{state} {zip_}".strip()] if p)
     try:
-        import elections as civic          # stdlib-only helper next to ai.py
+        from scraper import elections as civic   # stdlib-only helper in scraper/
         contests, names = [], []
         for e in civic.upcoming_elections(key, state)[:3]:
             try:

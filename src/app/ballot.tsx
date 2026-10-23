@@ -355,6 +355,11 @@ export default function BallotPage() {
       )}
 
       <View style={styles.buttons}>
+        <PrimaryButton
+          tone="red"
+          title="Find where to drop off your ballot"
+          onPress={() => router.push('/dropoff')}
+        />
         <PrimaryButton tone="red" title="Back to matches" onPress={() => router.back()} />
         <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
       </View>

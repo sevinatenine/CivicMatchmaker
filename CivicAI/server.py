@@ -33,12 +33,23 @@ from collections import deque
 from flask import Flask, Response, jsonify, request, stream_with_context
 
 import ai
+import voting_places
 
 MAX_CONCURRENT = int(os.environ.get("MAX_CONCURRENT", 2))
 MAX_QUEUED = int(os.environ.get("MAX_QUEUED", 50))
 KEEPALIVE_SECONDS = 5
 
 app = Flask(__name__)
+
+
+@app.after_request
+def allow_browsers(resp):
+    """The web app is served from a different origin (e.g. :8081), so browsers need CORS.
+    Flask answers the OPTIONS preflight itself; this adds the headers to it and every reply."""
+    resp.headers["Access-Control-Allow-Origin"] = "*"
+    resp.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+    resp.headers["Access-Control-Allow-Headers"] = "Content-Type"
+    return resp
 
 def generate_response_task(data: dict, emit, cancelled: threading.Event):
     """
@@ -195,6 +206,15 @@ def run():
             "X-Accel-Buffering": "no",
         },
     )
+
+@app.get("/voting-places")
+def voting_places_route():
+    """?address=&city=&state=&zip=  ->  drop-off / early vote / polling locations (JSON)."""
+    a = request.args
+    return jsonify(voting_places.lookup(
+        (a.get("address") or "").strip(), (a.get("city") or "").strip(),
+        ai._state_abbr(a.get("state")) or "", (a.get("zip") or "").strip(),
+    ))
 
 @app.get("/status")
 def status():
