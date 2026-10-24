@@ -1,0 +1,23 @@
+// Cloudflare deploy of the web app (free Workers plan). Run `npm run deploy`, not wrangler directly:
+// it exports the web app with the right API URL and points API_ORIGIN at the Render backend.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "civicmatchmaker",
+  "main": "cloudflare/worker.ts",
+  "compatibility_date": "2026-10-01",
+
+  // Web app from `expo export -p web`. /api/* goes to the Worker, everything else is static.
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"],
+    "not_found_handling": "404-page"
+  },
+
+  // Python API server on Render (render.yaml). Set from BACKEND_URL in .env by `npm run deploy`.
+  "vars": {
+    "API_ORIGIN": ""
+  },
+
+  "observability": { "enabled": true }
+}

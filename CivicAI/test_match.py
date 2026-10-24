@@ -1,7 +1,9 @@
 """
 Run the matcher without the server or the app:
 
-    JULIA_DEBUG=1 python test_match.py
+    python test_match.py                            # provider from .env (LLM_PROVIDER / APP_ENV)
+    LLM_PROVIDER=openrouter python test_match.py    # force OpenRouter
+    DEBUG=1 python test_match.py                    # print every pairing the model made
 
 Uses the same payload shape the app sends. The fake user is progressive
 (supports taxing high earners, renewables, public healthcare, easier voting,
@@ -9,7 +11,7 @@ legal immigration pathways; opposes expanding fossil fuels).
 """
 import threading
 
-import ai
+import matcher
 
 ANSWERS = [
     ("higher-income-taxes", "Taxes & Government Spending",
@@ -38,7 +40,7 @@ payload = {
 }
 
 if __name__ == "__main__":
-    result = ai.run_match(payload, lambda e, p: print(e, p), threading.Event())
+    result = matcher.run_match(payload, lambda e, p: print(e, p), threading.Event())
     print()
     for m in result["matches"]:
         score = "n/a" if m["score"] is None else f"{m['score']}%"

@@ -15,16 +15,19 @@ If the client disconnects at any point, the job is cancelled:
   - still queued  -> removed from the queue, never runs
   - already running -> its cancel_event is set; the task should check it
 
+Also:
+  GET /voting-places?address=&city=&state=&zip=   drop-off / early vote / polling places
+  GET /status                                     queue size, decision model, candidates
+
 Run:   python main.py
 Test:  curl -N -X POST localhost:4000/run -H 'Content-Type: application/json' -d '{"steps": 8}'
        (Ctrl-C in curl to simulate a disconnect)
 
-NOTE: state lives in memory, so run a SINGLE process. For production use e.g.
-       gunicorn -w 1 -k gthread --threads 100 server:app
+NOTE: state lives in memory, so run a SINGLE process. For production (the Docker image):
+       gunicorn -w 1 -k gthread --threads 32 server:app
 """
 
 import json
-import os
 import threading
 import time
 import uuid
@@ -32,11 +35,15 @@ from collections import deque
 
 from flask import Flask, Response, jsonify, request, stream_with_context
 
-import ai
+import candidates
+import config
+import llm
+import matcher
 import voting_places
+from location import state_abbr
 
-MAX_CONCURRENT = int(os.environ.get("MAX_CONCURRENT", 2))
-MAX_QUEUED = int(os.environ.get("MAX_QUEUED", 50))
+MAX_CONCURRENT = config.MAX_CONCURRENT
+MAX_QUEUED = config.MAX_QUEUED
 KEEPALIVE_SECONDS = 5
 
 app = Flask(__name__)
@@ -61,7 +68,7 @@ def generate_response_task(data: dict, emit, cancelled: threading.Event):
     """
     # Real work: the app sends {"state", "city", "answers": [...]}
     if "answers" in data:
-        return ai.run_match(data, emit, cancelled)
+        return matcher.run_match(data, emit, cancelled)
 
     # Demo task (curl test)
     steps = int(data.get("steps", 5))
@@ -213,23 +220,28 @@ def voting_places_route():
     a = request.args
     return jsonify(voting_places.lookup(
         (a.get("address") or "").strip(), (a.get("city") or "").strip(),
-        ai._state_abbr(a.get("state")) or "", (a.get("zip") or "").strip(),
+        state_abbr(a.get("state")) or "", (a.get("zip") or "").strip(),
     ))
 
 @app.get("/status")
 def status():
     with scheduler.cond:
         waiting = len(scheduler.pending)
-    return jsonify(max_concurrent=MAX_CONCURRENT, waiting=waiting)
+    return jsonify(max_concurrent=MAX_CONCURRENT, waiting=waiting, app_env=config.APP_ENV,
+                   provider=config.LLM_PROVIDER, model=llm.describe(),
+                   candidates=len(candidates.load_candidates()))
 
 def _warmup():
+    """Load candidate files and the local model now, so the first request isn't slow."""
     try:
-        ai.warmup()
-        print("Julia 1 loaded.")
+        print(f"{len(candidates.load_candidates())} candidates loaded.", flush=True)
+        llm.warmup()
+        print(f"Decision model ready: {llm.describe()}", flush=True)
     except Exception as e:  # noqa: BLE001
-        print(f"Could not load Julia 1: {e}")
+        print(f"Could not load the decision model ({llm.describe()}): {e}", flush=True)
 
-def run_server(port=4000, host="0.0.0.0"):
-    # Load the model now so the first request isn't slow
-    threading.Thread(target=_warmup, daemon=True).start()
+# Runs under both `python main.py` and gunicorn
+threading.Thread(target=_warmup, daemon=True).start()
+
+def run_server(host=config.HOST, port=config.PORT):
     app.run(host=host, port=port, threaded=True)

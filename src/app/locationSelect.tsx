@@ -2,17 +2,20 @@ import { PrimaryButton } from '@/components/PrimaryButton';
 import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 import { Colors } from '@/constants/Colors';
 import { typography } from '@/theme/typography';
+import { useLayout } from '@/lib/useLayout';
 import { City, State } from 'country-state-city';
 import { useRouter } from 'expo-router';
 import { useMemo, useState } from 'react';
 import {
   FlatList,
   Modal,
+  Platform,
   Pressable,
   SafeAreaView,
   StyleSheet,
   Text,
   TextInput,
+  useWindowDimensions,
   View,
 } from 'react-native';
 
@@ -40,6 +43,10 @@ function SelectField({
   onSelect: (v: string) => void;
   disabled?: boolean;
 }) {
+  // On web a full-window sheet looks odd on a laptop, so show a centered dialog instead
+  const dialog = Platform.OS === 'web';
+  const { isWide } = useLayout();
+  const { height: windowHeight } = useWindowDimensions();
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState('');
 
@@ -55,7 +62,7 @@ function SelectField({
   };
 
   return (
-    <View style={{ opacity: disabled ? 0.4 : 1 }}>
+    <View style={[isWide && styles.cell, { opacity: disabled ? 0.4 : 1 }]}>
       <Text style={styles.fieldLabel}>{label}</Text>
       <Pressable
         disabled={disabled}
@@ -73,58 +80,68 @@ function SelectField({
 
       <Modal
         visible={open}
-        animationType="slide"
-        presentationStyle="pageSheet"
+        animationType={dialog ? 'fade' : 'slide'}
+        presentationStyle={dialog ? undefined : 'pageSheet'}
+        transparent={dialog}
         onRequestClose={close}
       >
-        <SafeAreaView style={styles.sheet}>
-          <View style={styles.sheetHeader}>
-            <Text style={styles.sheetTitle}>{label}</Text>
-            <Pressable onPress={close} hitSlop={12}>
-              <Text style={styles.sheetDone}>Done</Text>
-            </Pressable>
-          </View>
-
-          <TextInput
-            value={query}
-            onChangeText={setQuery}
-            placeholder={`Search ${label.toLowerCase()}...`}
-            placeholderTextColor={Colors.textMuted}
-            selectionColor={Colors.button}
-            keyboardAppearance="dark"
-            autoCorrect={false}
-            style={styles.search}
-          />
-
-          <FlatList
-            data={filtered}
-            keyExtractor={(o, i) => `${o.value}-${i}`}
-            keyboardShouldPersistTaps="handled"
-            initialNumToRender={20}
-            renderItem={({ item }) => {
-              const isSelected = item.value === value;
-              return (
-                <Pressable
-                  onPress={() => {
-                    onSelect(item.value);
-                    close();
-                  }}
-                  style={({ pressed }) => [
-                    styles.row,
-                    isSelected && { backgroundColor: Colors.buttonSoft },
-                    pressed && { backgroundColor: Colors.cardAlt },
-                  ]}
-                >
-                  <Text style={[styles.rowText, isSelected && { color: Colors.button }]}>
-                    {item.label}
-                  </Text>
-                  {isSelected && <Text style={styles.check}>✓</Text>}
-                </Pressable>
-              );
-            }}
-            ListEmptyComponent={<Text style={styles.empty}>No results</Text>}
-          />
-        </SafeAreaView>
+        <View style={dialog ? styles.dialogWrap : styles.sheet}>
+          {dialog && <Pressable style={styles.backdrop} onPress={close} accessibilityLabel="Close" />}
+          <SafeAreaView
+            style={
+              dialog
+                ? [styles.dialog, { height: Math.min(640, windowHeight * 0.8) }]
+                : styles.sheet
+            }
+          >
+            <View style={styles.sheetHeader}>
+              <Text style={styles.sheetTitle}>{label}</Text>
+              <Pressable onPress={close} hitSlop={12}>
+                <Text style={styles.sheetDone}>Done</Text>
+              </Pressable>
+            </View>
+  
+            <TextInput
+              value={query}
+              onChangeText={setQuery}
+              placeholder={`Search ${label.toLowerCase()}...`}
+              placeholderTextColor={Colors.textMuted}
+              selectionColor={Colors.button}
+              keyboardAppearance="dark"
+              autoCorrect={false}
+              style={styles.search}
+            />
+  
+            <FlatList
+              data={filtered}
+              keyExtractor={(o, i) => `${o.value}-${i}`}
+              keyboardShouldPersistTaps="handled"
+              initialNumToRender={20}
+              renderItem={({ item }) => {
+                const isSelected = item.value === value;
+                return (
+                  <Pressable
+                    onPress={() => {
+                      onSelect(item.value);
+                      close();
+                    }}
+                    style={({ pressed }) => [
+                      styles.row,
+                      isSelected && { backgroundColor: Colors.buttonSoft },
+                      pressed && { backgroundColor: Colors.cardAlt },
+                    ]}
+                  >
+                    <Text style={[styles.rowText, isSelected && { color: Colors.button }]}>
+                      {item.label}
+                    </Text>
+                    {isSelected && <Text style={styles.check}>✓</Text>}
+                  </Pressable>
+                );
+              }}
+              ListEmptyComponent={<Text style={styles.empty}>No results</Text>}
+            />
+          </SafeAreaView>
+        </View>
       </Modal>
     </View>
   );
@@ -145,8 +162,9 @@ function TextField({
   keyboardType?: 'default' | 'number-pad';
   autoComplete?: 'street-address' | 'postal-code';
 }) {
+  const { isWide } = useLayout();
   return (
-    <View>
+    <View style={isWide && styles.cell}>
       <Text style={styles.fieldLabel}>{label}</Text>
       <TextInput
         value={value}
@@ -167,6 +185,8 @@ function TextField({
 const COUNTRY_CODE = 'US';
 
 export function LocationForm({ onChange }: { onChange?: (l: Location) => void }) {
+  const { isWide } = useLayout();
+  const pair = isWide ? styles.pair : styles.form;
   const [stateCode, setStateCode] = useState('');
   const [city, setCity] = useState('');
   const [address, setAddress] = useState('');
@@ -205,55 +225,59 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
 
   return (
     <View style={styles.form}>
-      <SelectField
-        label="State"
-        placeholder="Select state"
-        value={stateCode}
-        options={states}
-        onSelect={(v) => {
-          setStateCode(v);
-          setCity('');
-          emit(v, '', address, zip);
-        }}
-      />
-      <SelectField
-        label="City"
-        placeholder="Select city"
-        value={city}
-        options={cities}
-        disabled={!stateCode || cities.length === 0}
-        onSelect={(v) => {
-          setCity(v);
-          emit(stateCode, v, address, zip);
-        }}
-      />
+      <View style={pair}>
+        <SelectField
+          label="State"
+          placeholder="Select state"
+          value={stateCode}
+          options={states}
+          onSelect={(v) => {
+            setStateCode(v);
+            setCity('');
+            emit(v, '', address, zip);
+          }}
+        />
+        <SelectField
+          label="City"
+          placeholder="Select city"
+          value={city}
+          options={cities}
+          disabled={!stateCode || cities.length === 0}
+          onSelect={(v) => {
+            setCity(v);
+            emit(stateCode, v, address, zip);
+          }}
+        />
+      </View>
 
       <Text style={styles.hint}>
         Optional: add your street address and ZIP so we can find your exact U.S. House district.
         Without it, we show House candidates from every district in your state.
       </Text>
 
-      <TextField
-        label="Street address (optional)"
-        placeholder="123 Main St"
-        value={address}
-        autoComplete="street-address"
-        onChangeText={(v) => {
-          setAddress(v);
-          emit(stateCode, city, v, zip);
-        }}
-      />
-      <TextField
-        label="ZIP code (optional)"
-        placeholder="80020"
-        value={zip}
-        keyboardType="number-pad"
-        autoComplete="postal-code"
-        onChangeText={(v) => {
-          setZip(v);
-          emit(stateCode, city, address, v);
-        }}
-      />
+      <View style={pair}>
+        <TextField
+          label="Street address (optional)"
+          placeholder="123 Main St"
+          value={address}
+          autoComplete="street-address"
+          onChangeText={(v) => {
+            setAddress(v);
+            emit(stateCode, city, v, zip);
+          }}
+        />
+        <TextField
+          label="ZIP code (optional)"
+          placeholder="80020"
+          value={zip}
+          keyboardType="number-pad"
+          autoComplete="postal-code"
+          onChangeText={(v) => {
+            setZip(v);
+            emit(stateCode, city, address, v);
+          }}
+        />
+      </View>
     </View>
   );
 }
@@ -271,7 +295,7 @@ export default function LocationSelectPage() {
   const isFormValid = !!(location.state && location.city);
 
   return (
-    <Screen scroll>
+    <Screen scroll width="narrow">
       <ScreenTitle>Select your location</ScreenTitle>
       <ScreenSubtitle>
         We ask this so we can find candidates near you. Note: This is only available for US
@@ -303,6 +327,8 @@ export default function LocationSelectPage() {
 
 const styles = StyleSheet.create({
   form: { gap: 20 },
+  pair: { flexDirection: 'row', gap: 16 },
+  cell: { flex: 1 },
   fieldLabel: {
     ...typography.label,
     color: Colors.textMuted,
@@ -333,6 +359,18 @@ const styles = StyleSheet.create({
   },
 
   sheet: { flex: 1, backgroundColor: Colors.background },
+  backdrop: { ...StyleSheet.absoluteFill, backgroundColor: 'rgba(0, 0, 0, 0.6)' },
+  dialogWrap: { flex: 1, alignItems: 'center', justifyContent: 'center', padding: 16 },
+  dialog: {
+    backgroundColor: Colors.background,
+    width: '100%',
+    maxWidth: 480,
+    borderRadius: 20,
+    borderWidth: StyleSheet.hairlineWidth,
+    borderColor: Colors.border,
+    overflow: 'hidden',
+    boxShadow: '0 24px 64px rgba(0, 0, 0, 0.5)',
+  },
   sheetHeader: {
     flexDirection: 'row',
     justifyContent: 'space-between',

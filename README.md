@@ -1,56 +1,265 @@
-# Welcome to your Expo app 👋
+# CivicMatchmaker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A non-partisan app that matches voters with the candidates on their ballot. You answer a short questionnaire about the issues you care about, and CivicMatchmaker compares your answers with each candidate's recorded positions. It then shows who agrees with you most, and why.
 
-## Get started
+It runs on **web, Android and iOS** from one Expo / React Native codebase. A small Python API does the matching.
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- **Issue questionnaire.** 23 statements across 12 topics: taxes, healthcare, energy, immigration, voting and more. Answers use a 1–5 agree/disagree scale, and you can mark how important each one is to you.
+- **Location-aware.** Your state and address narrow the list to the races you can vote in. The address is turned into a U.S. House district with the free Census geocoder.
+- **Explained matches.** Each candidate gets an overall score, a score per topic, and the statements that drove the score.
+- **Sample ballot.** Shows local and state races and ballot measures from the Google Civic Information API, when Google has data for that address.
+- **Where to vote.** Ballot drop boxes, early-voting sites and Election Day polling places on a map, with Leaflet/OpenStreetMap on web and Android and Apple Maps on iOS.
+- **Learn how to vote.** State-specific voting guidance.
 
-2. Start the app
+## Architecture
 
-   ```bash
-   npx expo start
-   ```
+```mermaid
+flowchart LR
+  subgraph Clients
+    W[Web app]
+    A[Android app]
+    I[iOS app]
+  end
 
-In the output, you'll find options to open the app in a
+  subgraph API["Python API · CivicAI/"]
+    S["server.py<br/>Flask, job queue,<br/>server-sent events"]
+    M["matcher.py<br/>scoring"]
+    L["llm.py<br/>decision model"]
+    D[("scraped/<br/>Vote Smart + FEC<br/>candidate JSON")]
+  end
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+  W & A & I -->|"POST /run · GET /voting-places"| S
+  S --> M --> L
+  M --> D
+  M -->|district lookup| C[Census geocoder]
+  M -->|ballot, voting places| G[Google Civic API]
+  L -->|"LLM_PROVIDER=julia"| J["Julia 1<br/>(in-process, CPU/GPU)"]
+  L -->|"LLM_PROVIDER=openrouter"| O["OpenRouter decisions<br/>Microsoft-Decision-1 / Jev 1.14"]
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+The app runs in one of two modes, set by `APP_ENV` in `.env`:
 
-### Other setup steps
+| | `APP_ENV=local` | `APP_ENV=hosted` |
+|---|---|---|
+| API server | Your computer (`python main.py`) | Render free web service (`render.yaml`), behind the Cloudflare Worker |
+| Decision model | **Julia 1** in-process, or **OpenRouter** with `LLM_PROVIDER=openrouter` | **OpenRouter** decision model (`microsoft/microsoft-decision-1` by default) |
+| Web app | Expo dev server | Static export on a free Cloudflare Worker (`npm run deploy`) |
+| Android / iOS | Expo Go, talking to your computer over Wi-Fi | Expo Go from your dev server, talking to the deployed API |
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+Both decision models answer the **same classification questions in the same format**: `{state, questions}` in, `{choice, probabilities}` out. The matching code doesn't depend on which one is running.
 
-## Learn more
+In hosted mode, one Cloudflare Worker (free plan) serves the web app and proxies the API:
 
-To learn more about developing your project with Expo, look at the following resources:
+```
+https://<worker>.workers.dev/          -> web app (dist/)
+https://<worker>.workers.dev/api/...   -> Python API on Render (BACKEND_URL)
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Only the web app is deployed. The mobile app always runs from your Expo dev server in Expo Go.
 
-## Join the community
+## How matching works
 
-Join our community of developers creating universal apps.
+1. **Direct matches (no model).** Most app statements are worded to mirror a question from Vote Smart's *Political Courage Test* (`DIRECT` in `matcher.py`). For those, the candidate's Yes/No answer is used as-is.
+2. **Model matches.** For other statements, the decision model is asked three narrow multiple-choice questions:
+   - **route:** which of the candidate's positions is about the same issue?
+   - **same issue:** is it really the *same* specific issue? This second check rejects near misses.
+   - **direction:** does "yes" to that position agree or disagree with the statement?
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   Free-text answers such as "Yes, with conditions" are also classified as supports, opposes or mixed.
+3. **Scoring is plain arithmetic.** Agreement between your 1–5 answer and the candidate's stance is weighted by:
+   - the model's confidence,
+   - how strongly you feel,
+   - how important you said the question is.
+
+   The result is an overall score, per-topic scores and the top three reasons.
+4. **Unscored candidates still appear.** Candidates on your ballot without recorded positions are listed so nobody silently disappears. These come from the FEC registry and the Google Civic ballot.
+
+## Repository layout
+
+```
+.env.example            configuration template (copy to .env)
+scripts/app.js          npm start | web | android | ios | server | deploy
+src/                    Expo app (Expo Router)
+  app/                  screens: index → locationSelect → questions → results → ballot / dropoff / learn
+  components/           Screen, PrimaryButton, VotingMap (native + web), PartyStripe
+  constants/            questions, colours, API URL
+  lib/                  API clients (matchApi, votingPlacesApi), web-only setup
+CivicAI/                Python API server
+  main.py               entry point: python main.py
+  config.py             every setting, read from .env
+  server.py             Flask app: job queue + server-sent events
+  matcher.py            scoring and the decision-model questions
+  llm.py                decision model backends: julia | openrouter
+  candidates.py         load candidate files, classify offices
+  location.py           state codes, Census district lookup
+  ballot.py             Google Civic ballot races and measures
+  voting_places.py      drop-off / early vote / polling places
+  sample_candidates.py  demo data, used when scraped/ is empty
+  scraped/              candidate data (Vote Smart positions + FEC registry)
+  scraper/              scripts that refresh scraped/
+  diagnose.py           why does a candidate have few matches?
+  test_match.py         run the matcher without the app
+  Dockerfile            API image for Render (hosted mode)
+cloudflare/worker.ts    Worker: serves the web app, proxies /api to Render
+wrangler.jsonc          Cloudflare config
+render.yaml             Render Blueprint for the hosted API server
+```
+
+## Configuration
+
+All configuration is in **one file, `.env`, at the repo root.** It is gitignored. Start from the template:
+
+```bash
+cp .env.example .env
+```
+
+| Key | Needed for | Description |
+|---|---|---|
+| `APP_ENV` | always | `local` or `hosted` |
+| `LLM_PROVIDER` | optional | `julia` or `openrouter`. Empty means local uses `julia` and hosted uses `openrouter` |
+| `JULIA_MODEL_DIR`, `JULIA_DEVICE` | local | Julia 1 model folder (relative to `CivicAI/`) and `cpu` / `cuda` |
+| `OPENROUTER_API_KEY` | OpenRouter | OpenRouter API key (local with `LLM_PROVIDER=openrouter`; set it in Render for hosted) |
+| `OPENROUTER_MODEL` | OpenRouter | `microsoft/microsoft-decision-1` (default) or `typesafe/jev-1.14` |
+| `GOOGLE_CIVIC_API_KEY` | optional | Turns on sample ballots and voting places |
+| `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` | deploy | Cloudflare account and an API token with *Workers Scripts: Edit* |
+| `BACKEND_URL` | deploy | Your Render API URL, e.g. `https://civicmatchmaker-api.onrender.com` |
+| `HOSTED_URL` | hosted | Your Worker URL, e.g. `https://civicmatchmaker.<you>.workers.dev`. Printed by the first deploy |
+| `PORT`, `MAX_CONCURRENT`, `MAX_QUEUED`, `DEBUG` | optional | Server tuning. `DEBUG=1` prints every pairing the model makes |
+
+How the values are used:
+- **Real environment variables override `.env`.**
+- **Only the API URL reaches the app.** Expo only bundles `EXPO_PUBLIC_*` variables, so no key from `.env` ends up in the app.
+- **The scripts set the API URL for you.** `scripts/app.js` sets `EXPO_PUBLIC_API_URL` from the mode.
+
+## Run locally (`APP_ENV=local`)
+
+Prerequisites: Node 20+ and Python 3.11+. To use Julia 1, you also need the downloaded **`CivicAI/Julia-1/`** model folder. It is about 600 MB and gitignored.
+
+```bash
+npm install
+
+# Python API (one time)
+cd CivicAI
+python3 -m venv .venv
+.venv/bin/pip install -r requirements-julia.txt   # Flask + Julia 1 (torch, transformers)
+cd ..
+```
+
+Then choose a platform. Each command starts the API server if it isn't already running, then opens the app pointed at it. Once Metro is up it prints two QR codes: **Web** (the dev web app at `http://<LAN IP>:8081`) and **App** (`exp://<LAN IP>:8081` for Expo Go).
+
+```bash
+npm start         # dev server only: open web / Android / iOS from the QR codes
+npm run web       # browser
+npm run android   # Android emulator or Expo Go on your phone
+npm run ios       # iOS simulator (macOS); on Linux/Windows scan the QR code with Expo Go
+npm run server    # API server only
+```
+
+- **Use `npm start`, not `npx expo start`.** Only the npm scripts start the API server, set the API URL and print the web QR code. Extra flags pass through to Expo, e.g. `npm start -- -c` to clear the bundler cache.
+- **Expo Go must match the SDK.** The project is on Expo SDK 58, so install the current Expo Go from the store.
+- **Phones and emulators** reach the server through your computer's LAN IP, which is detected automatically. Keep them on the same Wi-Fi.
+- **Native builds:** add `-- --native` to build and run the native app (`expo run:android|ios`) instead of using Expo Go.
+- **OpenRouter instead of Julia 1:** set `LLM_PROVIDER=openrouter` and add an `OPENROUTER_API_KEY`. Then install only `requirements.txt`, which needs no torch.
+
+## Hosted mode: web on Cloudflare, API on Render (both free)
+
+Cloudflare's free plan can serve the web app but can't run the Python API, so the API runs on Render's free plan and the Worker proxies `/api/*` to it.
+
+**1. API server on Render (one time).** Push the repo to GitHub, then in the Render dashboard choose **New → Blueprint** and pick the repo. `render.yaml` creates `civicmatchmaker-api` from `CivicAI/Dockerfile`. Enter `OPENROUTER_API_KEY` (and optionally `GOOGLE_CIVIC_API_KEY`) when asked. Render redeploys on every push. Put the service URL in `BACKEND_URL` in `.env`, then check it:
+
+```bash
+curl "$BACKEND_URL/status"   # {"provider": "openrouter", ...}
+```
+
+**2. Web app on Cloudflare.** With `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` and `BACKEND_URL` in `.env` (any `APP_ENV`):
+
+```bash
+npm run deploy
+```
+
+This exports the web app with `EXPO_PUBLIC_API_URL=/api`, deploys it to the Worker with `API_ORIGIN=$BACKEND_URL`, wakes the Render server, and prints a QR code for the site. After the first deploy, put the printed `https://….workers.dev` URL in `HOSTED_URL`:
+
+```bash
+curl "$HOSTED_URL/api/status"
+```
+
+**3. Phones against the deployed API.** Set `APP_ENV=hosted` and run `npm start`. Expo Go uses `$HOSTED_URL/api`, and the Web QR code points at `HOSTED_URL`.
+
+Notes:
+- **Cold start.** Render's free instance sleeps after 15 idle minutes, and the next request takes about a minute to wake it.
+- **One instance.** The server keeps its job queue in memory, so it runs as a single instance.
+
+## Choosing the decision model
+
+| Model | Where | Notes |
+|---|---|---|
+| **Julia 1** (Supersonic Labs) | local, in-process | No API costs. CPU works but is slow, about 4 min for `test_match.py` |
+| **Microsoft-Decision-1** (`microsoft/microsoft-decision-1`) | OpenRouter | Default for hosted. About 0.7 s per call and about $0.000003 per call. Its results are close to Julia 1's |
+| **Jev 1.14** (`typesafe/jev-1.14`) | OpenRouter | Stricter on the "same issue?" check, so fewer model-based matches. About 5 s per call |
+
+- **Switch with one line:** `OPENROUTER_MODEL=...` in `.env`, then redeploy for hosted.
+
+## Refreshing candidate data
+
+`CivicAI/scraped/` holds the candidate data, and the scripts in `CivicAI/scraper/` refresh it:
+- **FEC registry:** federal candidates from the FEC, written to `candidates.json`.
+- **Vote Smart answers:** Political Courage Test answers, one `<id>.json` file per candidate.
+
+```bash
+cd CivicAI
+.venv/bin/pip install -r scraper/requirements.txt
+export FEC_API_KEY=...                                 # free: https://api.data.gov/signup/
+.venv/bin/python scraper/midterms.py --all-states      # FEC candidates -> candidates.json
+.venv/bin/python scraper/midterms.py --pct-only --cookie-file scraper/cookie.txt
+                                                       # link + scrape Vote Smart answers
+```
+
+See the docstrings at the top of `scraper/midterms.py` and `scraper/pct_scraper.py` for every option.
+
+The server reads the files once at startup:
+- **Local:** restart the server after refreshing.
+- **Hosted:** push to GitHub; Render rebuilds the image with the new data.
+
+## Developer commands
+
+```bash
+npm run lint                         # ESLint (Expo config)
+npm run typecheck                    # app + Cloudflare Worker
+npm run cf:types                     # regenerate Worker types after editing wrangler.jsonc
+npx expo-doctor                      # dependency / config check
+
+cd CivicAI
+.venv/bin/python test_match.py       # run the matcher on a sample voter (DEBUG=1 for detail)
+.venv/bin/python diagnose.py bennet  # why does a candidate have few matches?
+```
+
+## API reference
+
+| Endpoint | Description |
+|---|---|
+| `POST /run` | Body: `{state, city, address?, zip?, answers: [{id, section, type, question, answer, weight?}]}`. Responds with a `text/event-stream` |
+| `GET /voting-places?address=&city=&state=&zip=` | Drop-off, early voting and polling places as JSON |
+| `GET /status` | Queue size, mode, decision model and number of candidates loaded |
+
+`/run` streams these events:
+
+| Event | Meaning |
+|---|---|
+| `queued` | `{position}`: waiting for a free worker |
+| `started` | A worker picked up the job |
+| `progress` | `{done, of, candidate}` |
+| `result` | The final `{matches, answered, location, ballot}` |
+| `error` | `{message}` |
+
+Closing the connection cancels the job.
+
+## Security
+
+- **Never commit secrets.** `.env` (and any local `secrets` file) holds real keys. Both are gitignored, so keep it that way.
+- **Restrict or rotate the Google Maps key.** `app.json` contains a Google Maps API key (`iosGoogleMapsApiKey`) in plain text. Restrict it to the app's bundle ID in the Google Cloud console, or rotate it and supply it at build time.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

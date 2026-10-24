@@ -1,8 +1,7 @@
 import { PartyStripe } from '@/components/PartyStripe';
 import { Colors } from '@/constants/Colors';
 import { keepFocusedInputVisible } from '@/lib/webSetup';
-import { Stack } from 'expo-router';
-import { DefaultTheme, ThemeProvider } from 'expo-router/react-navigation';
+import { DefaultTheme, Stack, ThemeProvider } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
 import { View } from 'react-native';
@@ -45,7 +44,7 @@ export default function RootLayout() {
           headerTintColor: Colors.button,
         }}
       >
-        <Stack.Screen name="index" options={{ title: 'Civic Matchmaker' }} />
+        <Stack.Screen name="index" options={{ title: 'Civic Matchmaker', headerShown: false }} />
         <Stack.Screen name="locationSelect" options={{ title: 'Your location' }} />
         <Stack.Screen name="about" options={{ title: 'About Us' }} />
         <Stack.Screen name="questions" options={{ title: 'Questions' }} />
