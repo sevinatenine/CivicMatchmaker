@@ -5,14 +5,14 @@
  *   npm start | web | android | ios [-- --native]
  *       local:  starts the Python API server (Julia 1 or OpenRouter, see LLM_PROVIDER) and the
  *               Expo dev server pointed at it
- *       hosted: starts only the Expo dev server, pointed at the deployed API (HOSTED_URL)
+ *       hosted: starts only the Expo dev server, pointed at the deployed API (BACKEND_URL)
  *       Both print QR codes for the web app and for Expo Go once Metro is up.
  *       --native: build and run the native app (expo run:android|ios) instead of Expo Go
  *   npm run server                  API server only (local)
- *   npm run deploy                  export the web app + deploy it to Cloudflare (free Worker),
- *                                   with /api proxied to the Render API server (BACKEND_URL)
+ *
+ * Deploying is a git push: Render builds the API and the web app from render.yaml.
  */
-const { spawn, spawnSync } = require('child_process');
+const { spawn } = require('child_process');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
@@ -63,11 +63,6 @@ function lanIp() {
   return 'localhost';
 }
 
-function run(cmd, args, env = {}) {
-  const r = spawnSync(cmd, args, { cwd: ROOT, stdio: 'inherit', env: { ...process.env, ...env } });
-  if (r.status !== 0) fail(`${cmd} ${args.join(' ')} failed.`);
-}
-
 function python() {
   const venv = path.join(API_DIR, '.venv', 'bin', 'python');
   return fs.existsSync(venv) ? venv : 'python3';
@@ -114,8 +109,8 @@ async function start(platform) {
   let server = null;
   const ip = lanIp();
   if (APP_ENV === 'hosted') {
-    requireKeys('HOSTED_URL');
-    apiUrl = `${HOSTED_URL}/api`;
+    requireKeys('BACKEND_URL');
+    apiUrl = BACKEND_URL;
   } else {
     server = await startServer();
     // LAN IP so emulators and phones on the same Wi-Fi can reach it too
@@ -148,7 +143,8 @@ async function start(platform) {
 
   // After Metro is up, so Expo's own startup output doesn't push them off screen
   if (await waitFor(`http://localhost:${METRO_PORT}/status`)) {
-    printQr('Web (phone on the same Wi-Fi)', APP_ENV === 'hosted' ? HOSTED_URL : `http://${ip}:${METRO_PORT}`);
+    const webUrl = APP_ENV === 'hosted' ? HOSTED_URL : `http://${ip}:${METRO_PORT}`;
+    if (webUrl) printQr('Web (phone on the same Wi-Fi)', webUrl);
     printQr('App (scan with Expo Go on Android / the Camera app on iOS)', `exp://${ip}:${METRO_PORT}`);
   }
 }
@@ -156,27 +152,6 @@ async function start(platform) {
 async function serverOnly() {
   const child = await startServer();
   if (child) child.on('exit', (code) => process.exit(code ?? 0));
-}
-
-async function deploy() {
-  requireKeys('CLOUDFLARE_ACCOUNT_ID', 'CLOUDFLARE_API_TOKEN', 'BACKEND_URL');
-
-  // Same origin as the Worker, so the web app calls a relative /api
-  run('npx', ['expo', 'export', '-p', 'web'], { EXPO_PUBLIC_API_URL: '/api' });
-  run('npx', ['wrangler', 'deploy', '--var', `API_ORIGIN:${BACKEND_URL}`], {
-    CLOUDFLARE_ACCOUNT_ID: config.CLOUDFLARE_ACCOUNT_ID,
-    CLOUDFLARE_API_TOKEN: config.CLOUDFLARE_API_TOKEN,
-  });
-
-  // Render's free plan sleeps when idle; wake it so the first visitor doesn't wait
-  console.log(`\nWaking the API server at ${BACKEND_URL} ...`);
-  console.log((await waitFor(`${BACKEND_URL}/status`, 30)) ? 'API server is up.' : 'API server did not answer yet (still starting?).');
-
-  if (HOSTED_URL) {
-    printQr('Web', HOSTED_URL);
-  } else {
-    console.log('\nNext: copy the workers.dev URL above into HOSTED_URL in .env (for QR codes and APP_ENV=hosted).');
-  }
 }
 
 // ------------------------------------------------------------------ main
@@ -187,7 +162,6 @@ const commands = {
   ios: () => start('ios'),
   start: () => start(null),
   server: serverOnly,
-  deploy,
 };
 if (!commands[cmd]) fail(`Unknown command "${cmd}". Use one of: ${Object.keys(commands).join(', ')}`);
 commands[cmd]();

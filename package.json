@@ -38,8 +38,7 @@
     "eslint": "^9.0.0",
     "eslint-config-expo": "~58.0.4",
     "qrcode-terminal": "^0.12.0",
-    "typescript": "~6.0.3",
-    "wrangler": "^4.152.0"
+    "typescript": "~6.0.3"
   },
   "scripts": {
     "start": "node scripts/app.js start",
@@ -47,10 +46,8 @@
     "android": "node scripts/app.js android",
     "ios": "node scripts/app.js ios",
     "server": "node scripts/app.js server",
-    "deploy": "node scripts/app.js deploy",
     "lint": "expo lint",
-    "typecheck": "tsc --noEmit && tsc -p cloudflare/tsconfig.json",
-    "cf:types": "wrangler types cloudflare/worker-configuration.d.ts --env-file /dev/null --strict-vars=false"
+    "typecheck": "tsc --noEmit"
   },
   "private": true
 }

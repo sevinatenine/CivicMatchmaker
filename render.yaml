@@ -1,6 +1,6 @@
-# Python API server for hosted mode, on Render's free plan (Blueprint: New > Blueprint in the
-# Render dashboard, pick this repo). Builds CivicAI/Dockerfile; redeploys on every push.
-# Free instances sleep after 15 idle minutes; the next request wakes it in about a minute.
+# Hosted mode on Render's free plan (Blueprint: New > Blueprint in the Render dashboard, pick
+# this repo). Creates the Python API and the web app; both redeploy on every push.
+# Free API instances sleep after 15 idle minutes; the next request wakes it in about a minute.
 services:
   - type: web
     name: civicmatchmaker-api
@@ -17,3 +17,20 @@ services:
         sync: false
       - key: OPENROUTER_MODEL
         value: microsoft/microsoft-decision-1
+
+  # Web app: static export of the Expo app (free, served from Render's CDN, never sleeps).
+  # It calls the API above directly; the API sends CORS headers.
+  - type: web
+    name: civicmatchmaker-web
+    runtime: static
+    buildCommand: npm ci && npx expo export -p web
+    staticPublishPath: ./dist
+    envVars:
+      # The API service's URL (no trailing slash). Change it if Render gave the API another name.
+      - key: EXPO_PUBLIC_API_URL
+        value: https://civicmatchmaker-api.onrender.com
+    routes:
+      # Only used when no exported file matches the path; the router then renders the route
+      - type: rewrite
+        source: /*
+        destination: /index.html
