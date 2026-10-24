@@ -19,17 +19,17 @@ Where to vote / drop off a ballot, from the Google Civic Information API (voteri
 
 Each list holds at most MAX_PER_KIND places, nearest first.
 
-Needs GOOGLE_CIVIC_API_KEY (same key as the ballot lookup in ai.py). Google only loads
+Needs GOOGLE_CIVIC_API_KEY (same key as the ballot lookup in ballot.py). Google only loads
 this data close to an election, and coverage varies by county, so empty lists are normal.
 """
 
 import json
 import math
-import os
 import time
 import urllib.parse
 import urllib.request
 
+import config
 from scraper import elections as civic
 
 CENSUS_LOCATIONS = "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress"
@@ -121,7 +121,7 @@ def _empty(note, origin=None):
 
 def lookup(address, city, state, zip_):
     """Never raises; problems come back in "note"."""
-    key = os.environ.get("GOOGLE_CIVIC_API_KEY")
+    key = config.GOOGLE_CIVIC_API_KEY
     if not key:
         return _empty("Voting locations are off: set GOOGLE_CIVIC_API_KEY on the server.")
     if not address or not state:

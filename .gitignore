@@ -30,9 +30,13 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local env files
+# local env files (.env.example is the committed template)
 .env*.local
 .env
+.dev.vars*
+
+# Cloudflare
+.wrangler/
 
 # typescript
 *.tsbuildinfo

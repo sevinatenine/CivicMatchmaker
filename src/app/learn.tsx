@@ -172,7 +172,7 @@ export default function LearnPage() {
         with your state election office.
       </Text>
 
-      <PrimaryButton tone="red" title="Back to start" onPress={() => router.dismissAll()} />
+      <PrimaryButton tone="red" variant="ghost" title="Back to start" onPress={() => router.dismissTo('/')} />
     </Screen>
   );
 }

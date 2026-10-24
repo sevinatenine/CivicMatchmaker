@@ -1,3 +1,4 @@
+import { ButtonGroup } from '@/components/ButtonGroup';
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 import { Colors, partyColor } from '@/constants/Colors';
@@ -241,7 +242,7 @@ export default function BallotPage() {
         <ScreenSubtitle>
           Finish the questions first. Your sample ballot is built from your location and matches.
         </ScreenSubtitle>
-        <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+        <PrimaryButton title="Back to start" onPress={() => router.dismissTo('/')} />
       </Screen>
     );
   }
@@ -354,15 +355,15 @@ export default function BallotPage() {
         </Text>
       )}
 
-      <View style={styles.buttons}>
+      <ButtonGroup style={styles.buttons}>
         <PrimaryButton
           tone="red"
           title="Find where to drop off your ballot"
           onPress={() => router.push('/dropoff')}
         />
-        <PrimaryButton tone="red" title="Back to matches" onPress={() => router.back()} />
-        <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
-      </View>
+        <PrimaryButton title="Back to matches" onPress={() => router.back()} />
+        <PrimaryButton title="Back to start" variant="ghost" onPress={() => router.dismissTo('/')} />
+      </ButtonGroup>
     </Screen>
   );
 }
@@ -432,5 +433,5 @@ const styles = StyleSheet.create({
   match: { fontSize: 16, fontWeight: '700', color: Colors.text },
   matchLabel: { fontSize: 11, fontWeight: '600', color: Colors.textMuted },
   footnote: { ...typography.label, color: Colors.textMuted, marginTop: 12, lineHeight: 18 },
-  buttons: { gap: 12, marginTop: 24 },
+  buttons: { marginTop: 24 },
 });

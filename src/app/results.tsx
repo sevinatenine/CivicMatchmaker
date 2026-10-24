@@ -1,8 +1,10 @@
+import { ButtonGroup } from '@/components/ButtonGroup';
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 import { Colors, partyColor } from '@/constants/Colors';
 import { QUESTIONS } from '@/constants/questions';
 import { setLastResult } from '@/lib/lastResult';
+import { useLayout } from '@/lib/useLayout';
 import { CandidateMatch, Level, MatchResult, runMatch } from '@/lib/matchApi';
 import { typography } from '@/theme/typography';
 import { useLocalSearchParams, useRouter } from 'expo-router';
@@ -12,9 +14,11 @@ import {
   Linking,
   Pressable,
   ScrollView,
+  StyleProp,
   StyleSheet,
   Text,
   View,
+  ViewStyle,
 } from 'react-native';
 
 const LABELS = ['Strongly oppose', 'Oppose', 'Neutral', 'Support', 'Strongly support'];
@@ -75,20 +79,26 @@ function ChipRow({
   onChange: (v: string) => void;
   tone: 'blue' | 'red';
 }) {
+  const { isWide } = useLayout();
+  const chips = options.map((o) => (
+    <Chip
+      key={o.value}
+      label={o.label}
+      selected={value === o.value}
+      onPress={() => onChange(o.value)}
+      tone={tone}
+    />
+  ));
   return (
     <View style={{ gap: 8 }}>
       <Text style={styles.filterTitle}>{title}</Text>
-      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.chips}>
-        {options.map((o) => (
-          <Chip
-            key={o.value}
-            label={o.label}
-            selected={value === o.value}
-            onPress={() => onChange(o.value)}
-            tone={tone}
-          />
-        ))}
-      </ScrollView>
+      {isWide ? (
+        <View style={[styles.chips, styles.chipsWrap]}>{chips}</View>
+      ) : (
+        <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.chips}>
+          {chips}
+        </ScrollView>
+      )}
     </View>
   );
 }
@@ -101,12 +111,12 @@ function ScoreBar({ score, color }: { score: number; color: string }) {
   );
 }
 
-function CandidateCard({ match }: { match: CandidateMatch }) {
+function CandidateCard({ match, style }: { match: CandidateMatch; style?: StyleProp<ViewStyle> }) {
   const [open, setOpen] = useState(false);
   const office = districtLabel(match);
 
   return (
-    <View style={[styles.card, { borderLeftColor: partyColor(match.party) }]}>
+    <View style={[styles.card, { borderLeftColor: partyColor(match.party) }, style]}>
       <View style={styles.cardTop}>
         <View style={{ flex: 1 }}>
           <Text style={styles.name}>{match.name}</Text>
@@ -124,7 +134,10 @@ function CandidateCard({ match }: { match: CandidateMatch }) {
             {match.onBallot === false ? ' · Current officeholder, not on the 2026 ballot' : ''}
           </Text>
         </View>
-        <Text style={styles.score}>{match.score === null ? '—' : `${match.score}%`}</Text>
+        <View style={[styles.scorePill, match.score !== null && { borderColor: partyColor(match.party) }]}>
+          <Text style={styles.score}>{match.score === null ? '—' : `${match.score}%`}</Text>
+          {match.score !== null && <Text style={styles.scoreLabel}>match</Text>}
+        </View>
       </View>
 
       {match.ballotOnly ? (
@@ -281,9 +294,10 @@ export default function ResultsPage() {
   );
 
   const loc = result?.location;
+  const { isDesktop } = useLayout();
 
   return (
-    <Screen scroll>
+    <Screen scroll width={isDesktop ? 'wide' : 'normal'}>
       <ScreenTitle>Your matches</ScreenTitle>
       <ScreenSubtitle>
         {city}, {state}
@@ -351,7 +365,11 @@ export default function ResultsPage() {
           {visible.length === 0 ? (
             <Text style={styles.meta}>No candidates match these filters.</Text>
           ) : (
-            visible.map((m) => <CandidateCard key={m.id} match={m} />)
+            <View style={isDesktop && styles.grid}>
+              {visible.map((m) => (
+                <CandidateCard key={m.id} match={m} style={isDesktop ? styles.gridCell : undefined} />
+              ))}
+            </View>
           )}
 
           <Text style={styles.footnote}>
@@ -362,7 +380,7 @@ export default function ResultsPage() {
         </>
       )}
 
-      <View style={styles.buttons}>
+      <ButtonGroup>
         <PrimaryButton
           title="View sample ballot"
           disabled={!result}
@@ -383,8 +401,8 @@ export default function ResultsPage() {
           title="Learn how to vote"
           onPress={() => router.push({ pathname: '/learn', params: { state } })}
         />
-        <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
-      </View>
+        <PrimaryButton title="Back to start" variant="ghost" onPress={() => router.dismissTo('/')} />
+      </ButtonGroup>
     </Screen>
   );
 }
@@ -400,6 +418,9 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   chips: { gap: 8, paddingRight: 8 },
+  chipsWrap: { flexDirection: 'row', flexWrap: 'wrap' },
+  grid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },
+  gridCell: { width: '49%' },
   chip: {
     paddingVertical: 9,
     paddingHorizontal: 14,
@@ -424,7 +445,18 @@ const styles = StyleSheet.create({
   name: { ...typography.heading, color: Colors.text },
   meta: { ...typography.label, color: Colors.textMuted },
   level: { ...typography.label, color: Colors.textMuted, marginTop: 2 },
-  score: { ...typography.title, color: Colors.text },
+  scorePill: {
+    alignItems: 'center',
+    minWidth: 72,
+    paddingVertical: 6,
+    paddingHorizontal: 10,
+    borderRadius: 14,
+    borderWidth: 1.5,
+    borderColor: Colors.border,
+    backgroundColor: Colors.background,
+  },
+  score: { fontSize: 22, fontWeight: '800', color: Colors.text },
+  scoreLabel: { fontSize: 11, fontWeight: '600', color: Colors.textMuted, marginTop: -2 },
   track: { height: 8, borderRadius: 4, backgroundColor: Colors.background, overflow: 'hidden' },
   fill: { height: 8, borderRadius: 4 },
   toggle: { ...typography.label, color: Colors.red },
@@ -435,5 +467,4 @@ const styles = StyleSheet.create({
   reasonText: { fontSize: 14, color: Colors.text },
   reasonSub: { fontSize: 13, color: Colors.textMuted },
   footnote: { ...typography.label, color: Colors.textMuted, marginBottom: 24 },
-  buttons: { gap: 12 },
 });

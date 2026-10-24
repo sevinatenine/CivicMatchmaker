@@ -1,0 +1,19 @@
+# Python API server for hosted mode, on Render's free plan (Blueprint: New > Blueprint in the
+# Render dashboard, pick this repo). Builds CivicAI/Dockerfile; redeploys on every push.
+# Free instances sleep after 15 idle minutes; the next request wakes it in about a minute.
+services:
+  - type: web
+    name: civicmatchmaker-api
+    runtime: docker
+    plan: free
+    rootDir: CivicAI
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /status
+    envVars:
+      - key: OPENROUTER_API_KEY
+        sync: false   # entered in the dashboard when the Blueprint is created
+      - key: GOOGLE_CIVIC_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: microsoft/microsoft-decision-1

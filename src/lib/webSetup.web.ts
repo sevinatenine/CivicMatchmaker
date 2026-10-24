@@ -1,5 +1,5 @@
 // Web-only setup, imported once from the root layout.
-import 'leaflet/dist/leaflet.css';
+// leaflet.css comes from the CDN <link> in src/app/+html.tsx (Metro can't bundle its url(images/...))
 import './leafletDark.css';
 
 /**

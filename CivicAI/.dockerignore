@@ -1,0 +1,8 @@
+.venv
+Julia-1
+.env
+**/__pycache__
+*.pyc
+scraper/cookie.txt
+scraper/scrape.sh
+requirements-julia.txt

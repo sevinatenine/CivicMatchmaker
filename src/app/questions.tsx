@@ -301,7 +301,8 @@ export default function QuestionsPage() {
   const setWeight = (id: string, value: number) =>
     setWeights((prev) => ({ ...prev, [id]: value }));
 
-  const isFormValid = QUESTIONS.every((q) => answers[q.id] !== undefined);
+  const answered = QUESTIONS.filter((q) => answers[q.id] !== undefined).length;
+  const isFormValid = answered === QUESTIONS.length;
 
   // Development only: fill every answer and importance level with random values
   const randomize = () => {
@@ -335,6 +336,20 @@ export default function QuestionsPage() {
         Tap the (i) on any question for a plain-language explanation. You can also mark how much
         each question matters to you, and the important ones will count for more.
       </ScreenSubtitle>
+      <View style={styles.progress}>
+        <View style={styles.progressTrack}>
+          <View
+            style={[
+              styles.progressFill,
+              { width: `${(answered / QUESTIONS.length) * 100}%` },
+              isFormValid && { backgroundColor: Colors.blue },
+            ]}
+          />
+        </View>
+        <Text style={styles.progressText}>
+          {answered} of {QUESTIONS.length} answered
+        </Text>
+      </View>
       {QUESTIONS.map((def, i) => (
         <Fragment key={def.id}>
           {def.section !== QUESTIONS[i - 1]?.section && (
@@ -352,7 +367,7 @@ export default function QuestionsPage() {
       ))}
       <PrimaryButton
         tone="red"
-        title="Continue"
+        title={isFormValid ? 'See my matches' : `Answer ${QUESTIONS.length - answered} more to continue`}
         disabled={!isFormValid}
         onPress={() =>
           router.navigate({
@@ -373,6 +388,16 @@ export default function QuestionsPage() {
 }
 
 const styles = StyleSheet.create({
+  progress: { flexDirection: 'row', alignItems: 'center', gap: 12, marginTop: -12, marginBottom: 24 },
+  progressTrack: {
+    flex: 1,
+    height: 6,
+    borderRadius: 3,
+    backgroundColor: Colors.card,
+    overflow: 'hidden',
+  },
+  progressFill: { height: 6, borderRadius: 3, backgroundColor: Colors.red },
+  progressText: { ...typography.label, color: Colors.textMuted },
   question: {
     alignSelf: 'stretch',
     backgroundColor: Colors.card,

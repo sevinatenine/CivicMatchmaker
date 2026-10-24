@@ -4,6 +4,7 @@ import { VotingMap } from '@/components/VotingMap';
 import { Colors } from '@/constants/Colors';
 import { getLastResult } from '@/lib/lastResult';
 import { fetchVotingPlaces, VotingPlace, VotingPlaces } from '@/lib/votingPlacesApi';
+import { useLayout } from '@/lib/useLayout';
 import { typography } from '@/theme/typography';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from 'react';
@@ -144,6 +145,7 @@ function PlaceCard({
 
 export default function DropOffPage() {
   const router = useRouter();
+  const { isWide } = useLayout();
   const params = useLocalSearchParams<{
     state?: string;
     city?: string;
@@ -224,7 +226,7 @@ export default function DropOffPage() {
         <ScreenSubtitle>
           Pick your location first so we know which state’s election to look up.
         </ScreenSubtitle>
-        <PrimaryButton title="Back to start" onPress={() => router.dismissAll()} />
+        <PrimaryButton title="Back to start" onPress={() => router.dismissTo('/')} />
       </Screen>
     );
   }
@@ -242,21 +244,25 @@ export default function DropOffPage() {
       </ScreenSubtitle>
 
       <View style={styles.form}>
-        <Field
-          label="Street address"
-          placeholder="123 Main St"
-          value={street}
-          autoComplete="street-address"
-          onChangeText={setStreet}
-        />
-        <Field
-          label="ZIP code"
-          placeholder="80020"
-          value={zip}
-          keyboardType="number-pad"
-          autoComplete="postal-code"
-          onChangeText={setZip}
-        />
+        <View style={isWide ? styles.pair : styles.form}>
+          <Field
+            label="Street address"
+            placeholder="123 Main St"
+            value={street}
+            autoComplete="street-address"
+            onChangeText={setStreet}
+            style={isWide ? { flex: 2 } : undefined}
+          />
+          <Field
+            label="ZIP code"
+            placeholder="80020"
+            value={zip}
+            keyboardType="number-pad"
+            autoComplete="postal-code"
+            onChangeText={setZip}
+            style={isWide ? { flex: 1 } : undefined}
+          />
+        </View>
         <PrimaryButton
           title={loading ? 'Searching…' : 'Find places near me'}
           disabled={loading || !street.trim()}
@@ -357,7 +363,7 @@ export default function DropOffPage() {
       </View>
 
       <View style={styles.buttons}>
-        <PrimaryButton tone="red" title="Back" onPress={() => router.back()} />
+        <PrimaryButton tone="red" variant="ghost" title="Back" onPress={() => router.back()} />
       </View>
     </Screen>
   );
@@ -365,6 +371,7 @@ export default function DropOffPage() {
 
 const styles = StyleSheet.create({
   form: { gap: 16, marginBottom: 8 },
+  pair: { flexDirection: 'row', gap: 16 },
   fieldLabel: { ...typography.label, color: Colors.textMuted, marginBottom: 8 },
   input: {
     paddingHorizontal: 16,

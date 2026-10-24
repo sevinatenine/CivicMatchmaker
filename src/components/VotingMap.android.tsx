@@ -1,11 +1,16 @@
 import { Colors } from '@/constants/Colors';
 import { buildLeafletHtml } from '@/lib/leafletMap';
 import { VotingPlace } from '@/lib/votingPlacesApi';
-import { useEffect, useRef } from 'react';
+import { ComponentType, RefAttributes, useEffect, useRef } from 'react';
 import { Linking, StyleSheet, View } from 'react-native';
-import { WebView, WebViewMessageEvent } from 'react-native-webview';
+import { WebView as RNWebView, WebViewMessageEvent, WebViewProps } from 'react-native-webview';
 
 type Point = { lat: number; lng: number };
+
+// react-native-webview 14 declares `WebView<P = undefined>`, and `WebViewProps & undefined` is
+// `never`, so plain <WebView> rejects every prop. Same component, typed with the real props.
+type WebViewHandle = RNWebView<object>;
+const WebView = RNWebView as unknown as ComponentType<WebViewProps & RefAttributes<WebViewHandle>>;
 
 // Android: Leaflet + OpenStreetMap in a WebView, the same free map as the website.
 // (react-native-maps on Android is Google Maps, which needs a key and a billing account.)
@@ -25,7 +30,7 @@ export function VotingMap({
   selected: number | null;
   onSelect: (index: number) => void;
 }) {
-  const web = useRef<WebView>(null);
+  const web = useRef<WebViewHandle>(null);
   const ready = useRef(false);
   const latest = useRef({ places, origin, selected, onSelect });
   useEffect(() => {

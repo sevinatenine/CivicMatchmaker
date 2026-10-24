@@ -1,0 +1,4 @@
+# Local decision model (APP_ENV=local). Installs torch, transformers, safetensors, numpy
+# from the downloaded Julia-1 folder. Not used by the Docker / Cloudflare image.
+-r requirements.txt
+-e ./Julia-1
