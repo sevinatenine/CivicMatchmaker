@@ -1,8 +1,10 @@
 import { PartyStripe } from '@/components/PartyStripe';
 import { Colors } from '@/constants/Colors';
+import { keepFocusedInputVisible } from '@/lib/webSetup';
 import { Stack } from 'expo-router';
 import { DefaultTheme, ThemeProvider } from 'expo-router/react-navigation';
 import { StatusBar } from 'expo-status-bar';
+import { useEffect } from 'react';
 import { View } from 'react-native';
 
 function HeaderBackground() {
@@ -27,6 +29,8 @@ const CustomTheme = {
 };
 
 export default function RootLayout() {
+  useEffect(() => keepFocusedInputVisible(), []);
+
   return (
     <ThemeProvider value={CustomTheme}>
       <StatusBar style="light" />
@@ -48,6 +52,7 @@ export default function RootLayout() {
         <Stack.Screen name="selectType" options={{ title: 'Select type' }} />
         <Stack.Screen name="results" options={{ title: 'Your matches' }} />
         <Stack.Screen name="ballot" options={{ title: 'Sample ballot' }} />
+        <Stack.Screen name="dropoff" options={{ title: 'Where to vote' }} />
       </Stack>
     </ThemeProvider>
   );

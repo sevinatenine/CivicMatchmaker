@@ -1,23 +1,36 @@
 import { Colors } from '@/constants/Colors';
 import { typography } from '@/theme/typography';
+import { useHeaderHeight } from 'expo-router/react-navigation';
 import { ReactNode } from 'react';
-import { ScrollView, StyleSheet, Text } from 'react-native';
+import { KeyboardAvoidingView, ScrollView, StyleSheet, Text } from 'react-native';
 import Animated, { FadeInDown } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 export function Screen({ children, scroll = false }: { children: ReactNode; scroll?: boolean }) {
+  // The keyboard's position is measured from the top of the screen, but this view starts
+  // below the header, so offset by the header's height. On Android, if the window already
+  // shrank for the keyboard, there's no overlap and this adds nothing.
+  const headerHeight = useHeaderHeight();
+
   if (scroll) {
     return (
-      <SafeAreaView style={styles.screen}>
-        <ScrollView
-          style={styles.scroll}
-          contentContainerStyle={styles.scrollContent}
-          showsVerticalScrollIndicator={false}
-          keyboardShouldPersistTaps="handled"
-        >
-          <Animated.View entering={FadeInDown.duration(350)}>{children}</Animated.View>
-        </ScrollView>
-      </SafeAreaView>
+      <KeyboardAvoidingView
+        style={styles.screen}
+        behavior="padding"
+        keyboardVerticalOffset={headerHeight}
+      >
+        <SafeAreaView style={styles.screen}>
+          <ScrollView
+            style={styles.scroll}
+            contentContainerStyle={styles.scrollContent}
+            showsVerticalScrollIndicator={false}
+            keyboardShouldPersistTaps="handled"
+            keyboardDismissMode="on-drag"
+          >
+            <Animated.View entering={FadeInDown.duration(350)}>{children}</Animated.View>
+          </ScrollView>
+        </SafeAreaView>
+      </KeyboardAvoidingView>
     );
   }
 
