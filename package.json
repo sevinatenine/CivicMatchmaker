@@ -46,6 +46,7 @@
     "android": "node scripts/app.js android",
     "ios": "node scripts/app.js ios",
     "server": "node scripts/app.js server",
+    "qr": "node scripts/app.js qr",
     "lint": "expo lint",
     "typecheck": "tsc --noEmit"
   },

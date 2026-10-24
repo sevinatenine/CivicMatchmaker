@@ -80,6 +80,9 @@ export type MatchPayload = {
 
 export type MatchEvent = { event: string; data: any };
 
+/** The server's waiting line is full (HTTP 503). Try again in a little while. */
+export class QueueFullError extends Error {}
+
 /** POSTs to /run and calls onEvent for every server-sent event. Resolves when the stream ends. */
 export async function runMatch(
   payload: MatchPayload,
@@ -93,6 +96,7 @@ export async function runMatch(
     signal,
   });
 
+  if (res.status === 503) throw new QueueFullError('The server is busy.');
   if (!res.ok || !res.body) {
     let msg = `Server error (${res.status})`;
     try {

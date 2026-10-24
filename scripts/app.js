@@ -9,6 +9,7 @@
  *       Both print QR codes for the web app and for Expo Go once Metro is up.
  *       --native: build and run the native app (expo run:android|ios) instead of Expo Go
  *   npm run server                  API server only (local)
+ *   npm run qr                      QR code for the deployed web app (HOSTED_URL); wakes the API
  *
  * Deploying is a git push: Render builds the API and the web app from render.yaml.
  */
@@ -154,6 +155,15 @@ async function serverOnly() {
   if (child) child.on('exit', (code) => process.exit(code ?? 0));
 }
 
+async function qr() {
+  requireKeys('HOSTED_URL');
+  printQr('Web', HOSTED_URL);
+  if (!BACKEND_URL) return;
+  // Render's free plan sleeps when idle; wake it so whoever scans doesn't wait
+  console.log(`Waking the API server at ${BACKEND_URL} ...`);
+  console.log((await waitFor(`${BACKEND_URL}/status`, 90)) ? 'API server is up.' : 'API server did not answer yet (still starting?).');
+}
+
 // ------------------------------------------------------------------ main
 const [cmd, ...extra] = process.argv.slice(2);
 const commands = {
@@ -162,6 +172,7 @@ const commands = {
   ios: () => start('ios'),
   start: () => start(null),
   server: serverOnly,
+  qr,
 };
 if (!commands[cmd]) fail(`Unknown command "${cmd}". Use one of: ${Object.keys(commands).join(', ')}`);
 commands[cmd]();

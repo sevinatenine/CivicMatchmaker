@@ -5,7 +5,15 @@ import { Colors, partyColor } from '@/constants/Colors';
 import { QUESTIONS } from '@/constants/questions';
 import { setLastResult } from '@/lib/lastResult';
 import { useLayout } from '@/lib/useLayout';
-import { CandidateMatch, Level, MatchResult, runMatch } from '@/lib/matchApi';
+import { QueueNotice } from '@/components/QueueNotice';
+import {
+  CandidateMatch,
+  Level,
+  MatchEvent,
+  MatchResult,
+  QueueFullError,
+  runMatch,
+} from '@/lib/matchApi';
 import { typography } from '@/theme/typography';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
@@ -23,6 +31,7 @@ import {
 
 const LABELS = ['Strongly oppose', 'Oppose', 'Neutral', 'Support', 'Strongly support'];
 const LEVEL_ORDER: Level[] = ['Federal', 'State', 'Local', 'Other'];
+const QUEUE_RETRY_MS = 10_000; // server line full (503): try again this often
 
 function importanceLabel(w?: number): string | null {
   if (!w || w === 1) return null;
@@ -207,6 +216,8 @@ export default function ResultsPage() {
   const [status, setStatus] = useState('Connecting…');
   const [result, setResult] = useState<MatchResult | null>(null);
   const [error, setError] = useState<string | null>(null);
+  // Waiting for a free server slot: null = not waiting, 0 = place unknown, N = place in line
+  const [queue, setQueue] = useState<number | null>(null);
 
   const [level, setLevel] = useState<string>('All');
   const [position, setPosition] = useState<string>('All');
@@ -237,23 +248,39 @@ export default function ResultsPage() {
     setLevel('All');
     setPosition('All');
 
-    runMatch(
-      payload,
-      ({ event, data }) => {
-        if (event === 'queued') setStatus(`Waiting in line (position ${data.position})…`);
-        else if (event === 'started') setStatus('Matching your answers…');
-        else if (event === 'progress' && data.candidate)
-          setStatus(`Checked ${data.candidate} (${data.done}/${data.of})`);
-        else if (event === 'result') {
-          setResult(data);
-          setLastResult({ result: data, state, city });
+    setQueue(null);
+
+    const onEvent = ({ event, data }: MatchEvent) => {
+      if (event === 'queued') setQueue(data.position);
+      else if (event === 'started') {
+        setQueue(null);
+        setStatus('Matching your answers…');
+      } else if (event === 'progress' && data.candidate)
+        setStatus(`Checked ${data.candidate} (${data.done}/${data.of})`);
+      else if (event === 'result') {
+        setResult(data);
+        setLastResult({ result: data, state, city });
+      }
+      else if (event === 'error') setError(data.message);
+    };
+
+    // When the server's line is full, keep showing the queue notice and retry until we get in
+    (async () => {
+      while (!ctrl.signal.aborted) {
+        try {
+          await runMatch(payload, onEvent, ctrl.signal);
+          return;
+        } catch (e: any) {
+          if (ctrl.signal.aborted) return;
+          if (!(e instanceof QueueFullError)) {
+            setError(e?.message ?? String(e));
+            return;
+          }
+          setQueue(0);
+          await new Promise((r) => setTimeout(r, QUEUE_RETRY_MS));
         }
-        else if (event === 'error') setError(data.message);
-      },
-      ctrl.signal,
-    ).catch((e) => {
-      if (!ctrl.signal.aborted) setError(e?.message ?? String(e));
-    });
+      }
+    })();
 
     return () => ctrl.abort(); // leaving the screen cancels the job on the server
   }, [state, city, address, zip, answers, weights]);
@@ -305,6 +332,8 @@ export default function ResultsPage() {
 
       {error ? (
         <Text style={styles.error}>{error}</Text>
+      ) : !result && queue !== null ? (
+        <QueueNotice position={queue || null} />
       ) : !result ? (
         <View style={styles.loading}>
           <ActivityIndicator color={Colors.button} />

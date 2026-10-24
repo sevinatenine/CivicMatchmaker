@@ -83,7 +83,7 @@ The web app calls the API directly (the API sends CORS headers). Only the web ap
 scripts/app.js          npm start | web | android | ios | server
 src/                    Expo app (Expo Router)
   app/                  screens: index → locationSelect → questions → results → ballot / dropoff / learn
-  components/           Screen, PrimaryButton, VotingMap (native + web), PartyStripe
+  components/           Screen, PrimaryButton, VotingMap (native + web), PartyStripe, QueueNotice
   constants/            questions, colours, API URL
   lib/                  API clients (matchApi, votingPlacesApi), web-only setup
 CivicAI/                Python API server
@@ -123,7 +123,7 @@ cp .env.example .env
 | `GOOGLE_CIVIC_API_KEY` | optional | Turns on sample ballots and voting places |
 | `BACKEND_URL` | hosted | Your Render API URL, e.g. `https://civicmatchmaker-api.onrender.com` |
 | `HOSTED_URL` | hosted | Your Render web app URL, e.g. `https://civicmatchmaker-web.onrender.com`. Used for the web QR code |
-| `PORT`, `MAX_CONCURRENT`, `MAX_QUEUED`, `DEBUG` | optional | Server tuning. `DEBUG=1` prints every pairing the model makes |
+| `PORT`, `MAX_CONCURRENT`, `MAX_QUEUED`, `DEBUG` | optional | Server tuning: matches run at once (default 2), how many can wait in line (default 50). `DEBUG=1` prints every pairing the model makes |
 
 How the values are used:
 - **Real environment variables override `.env`.**
@@ -172,11 +172,14 @@ After that, every push redeploys both. Put the two URLs in `.env` (`BACKEND_URL`
 curl "$BACKEND_URL/status"   # {"provider": "openrouter", ...}
 ```
 
-**2. Phones against the deployed API.** Set `APP_ENV=hosted` and run `npm start`. Expo Go uses `BACKEND_URL`, and the Web QR code points at `HOSTED_URL`.
+**2. QR codes.**
+- **Website:** `npm run qr` prints a QR code for `HOSTED_URL` and wakes the API. Nothing else needs to run.
+- **Expo Go:** set `APP_ENV=hosted` and run `npm start`, then scan the App QR code (same Wi-Fi as your computer). The app uses `BACKEND_URL`.
 
 Notes:
 - **Cold start.** Render's free instance sleeps after 15 idle minutes, and the next request takes about a minute to wake it.
 - **One instance.** The server keeps its job queue in memory, so it runs as a single instance.
+- **Busy server.** Only `MAX_CONCURRENT` matches run at once. Anyone else sees a "You're in line" card on the results screen. It explains that the project is self-funded by Peak to Peak students, shows their place in line, and asks them to wait about 30 seconds. Their results replace the card automatically. If the line is full too (`MAX_QUEUED`, HTTP 503), the app keeps showing the card and retries every 10 seconds. The card stays on the results screen, not on a separate page, because leaving the screen cancels the queued job.
 
 ## Choosing the decision model
 
