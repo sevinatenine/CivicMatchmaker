@@ -35,9 +35,6 @@ yarn-error.*
 .env
 .dev.vars*
 
-# Cloudflare
-.wrangler/
-
 # typescript
 *.tsbuildinfo
 

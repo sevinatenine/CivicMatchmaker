@@ -43,21 +43,21 @@ The app runs in one of two modes, set by `APP_ENV` in `.env`:
 
 | | `APP_ENV=local` | `APP_ENV=hosted` |
 |---|---|---|
-| API server | Your computer (`python main.py`) | Render free web service (`render.yaml`), behind the Cloudflare Worker |
+| API server | Your computer (`python main.py`) | Render free web service (`render.yaml`) |
 | Decision model | **Julia 1** in-process, or **OpenRouter** with `LLM_PROVIDER=openrouter` | **OpenRouter** decision model (`microsoft/microsoft-decision-1` by default) |
-| Web app | Expo dev server | Static export on a free Cloudflare Worker (`npm run deploy`) |
+| Web app | Expo dev server | Static export on a free Render Static Site (`render.yaml`) |
 | Android / iOS | Expo Go, talking to your computer over Wi-Fi | Expo Go from your dev server, talking to the deployed API |
 
 Both decision models answer the **same classification questions in the same format**: `{state, questions}` in, `{choice, probabilities}` out. The matching code doesn't depend on which one is running.
 
-In hosted mode, one Cloudflare Worker (free plan) serves the web app and proxies the API:
+In hosted mode, both run on Render's free plan from one Blueprint (`render.yaml`):
 
 ```
-https://<worker>.workers.dev/          -> web app (dist/)
-https://<worker>.workers.dev/api/...   -> Python API on Render (BACKEND_URL)
+https://civicmatchmaker-web.onrender.com/   -> web app (dist/)        HOSTED_URL
+https://civicmatchmaker-api.onrender.com/   -> Python API (CivicAI/)  BACKEND_URL
 ```
 
-Only the web app is deployed. The mobile app always runs from your Expo dev server in Expo Go.
+The web app calls the API directly (the API sends CORS headers). Only the web app is deployed. The mobile app always runs from your Expo dev server in Expo Go.
 
 ## How matching works
 
@@ -80,7 +80,7 @@ Only the web app is deployed. The mobile app always runs from your Expo dev serv
 
 ```
 .env.example            configuration template (copy to .env)
-scripts/app.js          npm start | web | android | ios | server | deploy
+scripts/app.js          npm start | web | android | ios | server
 src/                    Expo app (Expo Router)
   app/                  screens: index → locationSelect → questions → results → ballot / dropoff / learn
   components/           Screen, PrimaryButton, VotingMap (native + web), PartyStripe
@@ -102,9 +102,7 @@ CivicAI/                Python API server
   diagnose.py           why does a candidate have few matches?
   test_match.py         run the matcher without the app
   Dockerfile            API image for Render (hosted mode)
-cloudflare/worker.ts    Worker: serves the web app, proxies /api to Render
-wrangler.jsonc          Cloudflare config
-render.yaml             Render Blueprint for the hosted API server
+render.yaml             Render Blueprint for the hosted API server and web app
 ```
 
 ## Configuration
@@ -123,9 +121,8 @@ cp .env.example .env
 | `OPENROUTER_API_KEY` | OpenRouter | OpenRouter API key (local with `LLM_PROVIDER=openrouter`; set it in Render for hosted) |
 | `OPENROUTER_MODEL` | OpenRouter | `microsoft/microsoft-decision-1` (default) or `typesafe/jev-1.14` |
 | `GOOGLE_CIVIC_API_KEY` | optional | Turns on sample ballots and voting places |
-| `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` | deploy | Cloudflare account and an API token with *Workers Scripts: Edit* |
-| `BACKEND_URL` | deploy | Your Render API URL, e.g. `https://civicmatchmaker-api.onrender.com` |
-| `HOSTED_URL` | hosted | Your Worker URL, e.g. `https://civicmatchmaker.<you>.workers.dev`. Printed by the first deploy |
+| `BACKEND_URL` | hosted | Your Render API URL, e.g. `https://civicmatchmaker-api.onrender.com` |
+| `HOSTED_URL` | hosted | Your Render web app URL, e.g. `https://civicmatchmaker-web.onrender.com`. Used for the web QR code |
 | `PORT`, `MAX_CONCURRENT`, `MAX_QUEUED`, `DEBUG` | optional | Server tuning. `DEBUG=1` prints every pairing the model makes |
 
 How the values are used:
@@ -163,29 +160,19 @@ npm run server    # API server only
 - **Native builds:** add `-- --native` to build and run the native app (`expo run:android|ios`) instead of using Expo Go.
 - **OpenRouter instead of Julia 1:** set `LLM_PROVIDER=openrouter` and add an `OPENROUTER_API_KEY`. Then install only `requirements.txt`, which needs no torch.
 
-## Hosted mode: web on Cloudflare, API on Render (both free)
+## Hosted mode: everything on Render (free)
 
-Cloudflare's free plan can serve the web app but can't run the Python API, so the API runs on Render's free plan and the Worker proxies `/api/*` to it.
+**1. Deploy (one time).** Push the repo to GitHub, then in the Render dashboard choose **New → Blueprint** and pick the repo. `render.yaml` creates two services:
+- `civicmatchmaker-api`, built from `CivicAI/Dockerfile`. Enter `OPENROUTER_API_KEY` (and optionally `GOOGLE_CIVIC_API_KEY`) when asked.
+- `civicmatchmaker-web`, a static site built with `npx expo export -p web`. Its `EXPO_PUBLIC_API_URL` is set in `render.yaml` to `https://civicmatchmaker-api.onrender.com`. If Render gives the API a different URL, change it there and redeploy the site.
 
-**1. API server on Render (one time).** Push the repo to GitHub, then in the Render dashboard choose **New → Blueprint** and pick the repo. `render.yaml` creates `civicmatchmaker-api` from `CivicAI/Dockerfile`. Enter `OPENROUTER_API_KEY` (and optionally `GOOGLE_CIVIC_API_KEY`) when asked. Render redeploys on every push. Put the service URL in `BACKEND_URL` in `.env`, then check it:
+After that, every push redeploys both. Put the two URLs in `.env` (`BACKEND_URL` for the API, `HOSTED_URL` for the site), then check the API:
 
 ```bash
 curl "$BACKEND_URL/status"   # {"provider": "openrouter", ...}
 ```
 
-**2. Web app on Cloudflare.** With `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` and `BACKEND_URL` in `.env` (any `APP_ENV`):
-
-```bash
-npm run deploy
-```
-
-This exports the web app with `EXPO_PUBLIC_API_URL=/api`, deploys it to the Worker with `API_ORIGIN=$BACKEND_URL`, wakes the Render server, and prints a QR code for the site. After the first deploy, put the printed `https://….workers.dev` URL in `HOSTED_URL`:
-
-```bash
-curl "$HOSTED_URL/api/status"
-```
-
-**3. Phones against the deployed API.** Set `APP_ENV=hosted` and run `npm start`. Expo Go uses `$HOSTED_URL/api`, and the Web QR code points at `HOSTED_URL`.
+**2. Phones against the deployed API.** Set `APP_ENV=hosted` and run `npm start`. Expo Go uses `BACKEND_URL`, and the Web QR code points at `HOSTED_URL`.
 
 Notes:
 - **Cold start.** Render's free instance sleeps after 15 idle minutes, and the next request takes about a minute to wake it.
@@ -226,8 +213,7 @@ The server reads the files once at startup:
 
 ```bash
 npm run lint                         # ESLint (Expo config)
-npm run typecheck                    # app + Cloudflare Worker
-npm run cf:types                     # regenerate Worker types after editing wrangler.jsonc
+npm run typecheck                    # TypeScript
 npx expo-doctor                      # dependency / config check
 
 cd CivicAI

@@ -2,7 +2,7 @@
 All server settings, in one place.
 
 Values come from the repo-root .env file (gitignored; copy .env.example to start).
-Real environment variables win over the file, which is how Docker / Cloudflare pass them in.
+Real environment variables win over the file, which is how Docker / Render pass them in.
 Every other module reads settings from here instead of os.environ.
 """
 
@@ -39,7 +39,7 @@ def _path(key, default):
 
 
 # local  = server on this machine, Julia 1 running in-process
-# hosted = server on Cloudflare, decisions through OpenRouter
+# hosted = server on Render, decisions through OpenRouter
 APP_ENV = _get("APP_ENV", "local")
 
 # Which decision model answers the classification questions: "julia" or "openrouter".

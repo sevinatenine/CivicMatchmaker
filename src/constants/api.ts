@@ -1,9 +1,10 @@
 import Constants from 'expo-constants';
 import { Platform } from 'react-native';
 
-// Where the API server is. Set by `npm start|web|android|ios|deploy` from APP_ENV in .env:
-// - local:  http://<this computer's LAN IP>:4000  (reachable from emulators and phones on the same Wi-Fi)
-// - hosted: https://<worker>.workers.dev/api        (web build on Cloudflare uses the relative "/api")
+// Where the API server is. Set by `npm start|web|android|ios` from APP_ENV in .env, and by render.yaml
+// for the hosted web build:
+// - local:  http://<this computer's LAN IP>:4000      (reachable from emulators and phones on the same Wi-Fi)
+// - hosted: https://civicmatchmaker-api.onrender.com  (BACKEND_URL)
 // Without it (e.g. plain `npx expo start`), use port 4000 on the machine serving the app. On a
 // phone "localhost" is the phone itself, so take the dev server's host from Expo instead.
 function devApiUrl() {
