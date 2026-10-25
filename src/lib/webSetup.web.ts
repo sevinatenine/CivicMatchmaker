@@ -2,6 +2,40 @@
 // leaflet.css comes from the CDN <link> in src/app/+html.tsx (Metro can't bundle its url(images/...))
 import './leafletDark.css';
 
+// Expo Router's navigation calls Array.prototype.findLast and structuredClone, which Safari
+// only has from iOS 15.4. Without these, older iPhones go gray on the first screen change.
+if (!Array.prototype.findLast) {
+  // eslint-disable-next-line no-extend-native -- polyfill, only when missing
+  Object.defineProperty(Array.prototype, 'findLast', {
+    configurable: true,
+    writable: true,
+    value: function <T>(this: T[], pred: (v: T, i: number, a: T[]) => unknown, thisArg?: unknown) {
+      for (let i = this.length - 1; i >= 0; i--) {
+        if (pred.call(thisArg, this[i], i, this)) return this[i];
+      }
+      return undefined;
+    },
+  });
+}
+if (!Array.prototype.findLastIndex) {
+  // eslint-disable-next-line no-extend-native -- polyfill, only when missing
+  Object.defineProperty(Array.prototype, 'findLastIndex', {
+    configurable: true,
+    writable: true,
+    value: function <T>(this: T[], pred: (v: T, i: number, a: T[]) => unknown, thisArg?: unknown) {
+      for (let i = this.length - 1; i >= 0; i--) {
+        if (pred.call(thisArg, this[i], i, this)) return i;
+      }
+      return -1;
+    },
+  });
+}
+// Navigation state is plain JSON, so a JSON round trip is enough
+if (typeof globalThis.structuredClone !== 'function') {
+  globalThis.structuredClone = <T>(value: T): T =>
+    value === undefined ? value : JSON.parse(JSON.stringify(value));
+}
+
 /**
  * Phone browsers don't always scroll a text box above the on-screen keyboard, especially when
  * it's inside a scrolling area (every Screen is). So after a text box gets focus, and again

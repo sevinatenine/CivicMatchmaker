@@ -1,10 +1,11 @@
 import { PartyStripe } from '@/components/PartyStripe';
 import { Colors } from '@/constants/Colors';
 import { keepFocusedInputVisible } from '@/lib/webSetup';
-import { DefaultTheme, Stack, ThemeProvider } from 'expo-router';
+import { PrimaryButton } from '@/components/PrimaryButton';
+import { DefaultTheme, ErrorBoundaryProps, Stack, ThemeProvider } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
-import { View } from 'react-native';
+import { Text, View } from 'react-native';
 
 function HeaderBackground() {
   return (
@@ -26,6 +27,33 @@ const CustomTheme = {
     primary: Colors.button,
   },
 };
+
+/**
+ * Shown when any screen throws, instead of an empty gray page. Plain Views, not Screen:
+ * this renders outside the Stack, where the header hooks Screen uses aren't available.
+ */
+export function ErrorBoundary({ error, retry }: ErrorBoundaryProps) {
+  return (
+    <View
+      style={{
+        flex: 1,
+        backgroundColor: Colors.background,
+        justifyContent: 'center',
+        padding: 24,
+        gap: 12,
+      }}
+    >
+      <StatusBar style="light" />
+      <Text style={{ color: Colors.text, fontSize: 24, fontWeight: '700' }}>
+        Something went wrong
+      </Text>
+      <Text style={{ color: Colors.textMuted, fontSize: 15, marginBottom: 12 }} selectable>
+        {error.message}
+      </Text>
+      <PrimaryButton title="Try again" onPress={retry} />
+    </View>
+  );
+}
 
 export default function RootLayout() {
   useEffect(() => keepFocusedInputVisible(), []);
