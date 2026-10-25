@@ -54,6 +54,10 @@ OPENROUTER_MODEL = _get("OPENROUTER_MODEL", "microsoft/microsoft-decision-1")
 OPENROUTER_URL = _get("OPENROUTER_URL", "https://openrouter.ai/api/alpha/decisions")
 
 GOOGLE_CIVIC_API_KEY = _get("GOOGLE_CIVIC_API_KEY")
+
+# Usage counters (stats.py). Without these, counts live in memory and reset on restart.
+UPSTASH_REDIS_REST_URL = _get("UPSTASH_REDIS_REST_URL")
+UPSTASH_REDIS_REST_TOKEN = _get("UPSTASH_REDIS_REST_TOKEN")
 CANDIDATES_DIR = _path("CANDIDATES_DIR", "scraped")
 
 HOST = _get("HOST", "0.0.0.0")

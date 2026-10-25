@@ -1,6 +1,7 @@
 import { PartyStripe } from '@/components/PartyStripe';
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { Colors } from '@/constants/Colors';
+import { useUsageStats } from '@/lib/usageStats';
 import { useLayout } from '@/lib/useLayout';
 import { typography } from '@/theme/typography';
 import { Href, useRouter } from 'expo-router';
@@ -63,6 +64,37 @@ function Glow({ size }: { size: number }) {
   );
 }
 
+const count = (n: number, one: string, many: string) =>
+  `${n.toLocaleString('en-US')} ${n === 1 ? one : many}`;
+
+/** "2,100 voting decisions powered across 1,234 devices". Hidden until the server answers. */
+function UsageBadge({ align }: { align: 'flex-start' | 'center' }) {
+  const stats = useUsageStats();
+  if (!stats || stats.decisions === 0) return null;
+
+  const decisions = count(stats.decisions, 'voting decision', 'voting decisions');
+  const devices = count(stats.unique_devices, 'device', 'devices');
+  const [decisionsNum, ...decisionsWords] = decisions.split(' ');
+  const [devicesNum, ...devicesWords] = devices.split(' ');
+
+  // alignSelf goes on a plain View: on web the entering animation's styles override it
+  return (
+    <View style={[styles.usage, { alignSelf: align }]}>
+      <Animated.View
+        entering={FadeIn.duration(400)}
+        style={styles.eyebrow}
+        accessible
+        accessibilityLabel={`${decisions} powered across ${devices}`}
+      >
+        <Text style={styles.usageText}>
+          <Text style={styles.usageNumber}>{decisionsNum}</Text> {decisionsWords.join(' ')} powered
+          across <Text style={styles.usageNumber}>{devicesNum}</Text> {devicesWords.join(' ')}
+        </Text>
+      </Animated.View>
+    </View>
+  );
+}
+
 export default function Home() {
   const router = useRouter();
   const { isWide, isDesktop, gutter } = useLayout();
@@ -99,6 +131,7 @@ export default function Home() {
             entering={FadeInDown.duration(450)}
             style={[styles.heroText, isDesktop && { flex: 1 }, !isDesktop && styles.centered]}
           >
+            <UsageBadge align={isDesktop ? 'flex-start' : 'center'} />
             <View style={[styles.eyebrow, { alignSelf: isDesktop ? 'flex-start' : 'center' }]}>
               <View style={[styles.dot, { backgroundColor: Colors.red }]} />
               <View style={[styles.dot, { backgroundColor: Colors.blue, marginLeft: -3 }]} />
@@ -261,6 +294,9 @@ const styles = StyleSheet.create({
   },
   dot: { width: 8, height: 8, borderRadius: 4 },
   eyebrowText: { ...typography.eyebrow, color: Colors.textMuted },
+  usage: { maxWidth: '100%' },
+  usageText: { ...typography.label, color: Colors.textMuted, flexShrink: 1, textAlign: 'center' },
+  usageNumber: { color: Colors.text, fontWeight: '800' },
   headline: { ...typography.display, fontSize: 36, lineHeight: 42, color: Colors.text },
   headlineLarge: { fontSize: 56, lineHeight: 62, letterSpacing: -1.8 },
   lede: { ...typography.body, fontSize: 17, lineHeight: 26, color: Colors.textMuted },

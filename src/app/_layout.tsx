@@ -1,5 +1,6 @@
 import { PartyStripe } from '@/components/PartyStripe';
 import { Colors } from '@/constants/Colors';
+import { recordVisit } from '@/lib/usageStats';
 import { keepFocusedInputVisible } from '@/lib/webSetup';
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { DefaultTheme, ErrorBoundaryProps, Stack, ThemeProvider } from 'expo-router';
@@ -75,6 +76,9 @@ export function ErrorBoundary({ error, retry }: ErrorBoundaryProps) {
 
 export default function RootLayout() {
   useEffect(() => keepFocusedInputVisible(), []);
+  useEffect(() => {
+    recordVisit(); // count this launch, whichever screen it opens on
+  }, []);
 
   return (
     <ThemeProvider value={CustomTheme}>

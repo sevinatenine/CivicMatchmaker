@@ -17,6 +17,11 @@ services:
         sync: false
       - key: OPENROUTER_MODEL
         value: microsoft/microsoft-decision-1
+      # Usage counters (CivicAI/stats.py) live in Upstash Redis so they survive redeploys
+      - key: UPSTASH_REDIS_REST_URL
+        sync: false
+      - key: UPSTASH_REDIS_REST_TOKEN
+        sync: false
 
   # Web app: static export of the Expo app (free, served from Render's CDN, never sleeps).
   # It calls the API above directly; the API sends CORS headers.
