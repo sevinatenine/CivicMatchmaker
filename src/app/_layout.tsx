@@ -5,7 +5,7 @@ import { PrimaryButton } from '@/components/PrimaryButton';
 import { DefaultTheme, ErrorBoundaryProps, Stack, ThemeProvider } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect } from 'react';
-import { Text, View } from 'react-native';
+import { ScrollView, Text, View } from 'react-native';
 
 function HeaderBackground() {
   return (
@@ -33,6 +33,14 @@ const CustomTheme = {
  * this renders outside the Stack, where the header hooks Screen uses aren't available.
  */
 export function ErrorBoundary({ error, retry }: ErrorBoundaryProps) {
+  // The stack is for screenshots from phones we can't attach a debugger to. Drop the long
+  // bundle URLs so each frame fits on one line: "fn@entry-abc123.js:2:34567".
+  const stack = (error.stack ?? '')
+    .split('\n')
+    .slice(0, 40)
+    .map((line) => line.replace(/https?:\/\/[^\s)]*\//g, ''))
+    .join('\n');
+
   return (
     <View
       style={{
@@ -47,9 +55,19 @@ export function ErrorBoundary({ error, retry }: ErrorBoundaryProps) {
       <Text style={{ color: Colors.text, fontSize: 24, fontWeight: '700' }}>
         Something went wrong
       </Text>
-      <Text style={{ color: Colors.textMuted, fontSize: 15, marginBottom: 12 }} selectable>
+      <Text style={{ color: Colors.textMuted, fontSize: 15 }} selectable>
         {error.message}
       </Text>
+      {!!stack && (
+        <ScrollView style={{ maxHeight: 360, marginBottom: 12 }}>
+          <Text
+            style={{ color: Colors.textMuted, fontSize: 10, fontFamily: 'monospace' }}
+            selectable
+          >
+            {stack}
+          </Text>
+        </ScrollView>
+      )}
       <PrimaryButton title="Try again" onPress={retry} />
     </View>
   );
