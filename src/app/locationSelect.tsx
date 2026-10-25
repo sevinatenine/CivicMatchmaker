@@ -1,9 +1,9 @@
 import { PrimaryButton } from '@/components/PrimaryButton';
 import { Screen, ScreenSubtitle, ScreenTitle } from '@/components/Screen';
 import { Colors } from '@/constants/Colors';
+import { US_STATES, citiesOfState } from '@/constants/usLocations';
 import { typography } from '@/theme/typography';
 import { useLayout } from '@/lib/useLayout';
-import { City, State } from 'country-state-city';
 import { useRouter } from 'expo-router';
 import { useMemo, useState } from 'react';
 import {
@@ -182,7 +182,6 @@ function TextField({
   );
 }
 
-const COUNTRY_CODE = 'US';
 
 export function LocationForm({ onChange }: { onChange?: (l: Location) => void }) {
   const { isWide } = useLayout();
@@ -192,32 +191,17 @@ export function LocationForm({ onChange }: { onChange?: (l: Location) => void })
   const [address, setAddress] = useState('');
   const [zip, setZip] = useState('');
 
-  const states = useMemo(() => {
-    // Collect every state code that has at least one city
-    const stateCodesWithCities = new Set(
-      (City.getCitiesOfCountry(COUNTRY_CODE) ?? []).map((c) => c.stateCode),
-    );
-
-    return State.getStatesOfCountry(COUNTRY_CODE)
-      .filter((s) => stateCodesWithCities.has(s.isoCode))
-      .map((s) => ({ label: s.name, value: s.isoCode }));
-  }, []);
+  const states = useMemo(() => US_STATES.map((s) => ({ label: s.name, value: s.code })), []);
 
   const cities = useMemo(
-    () =>
-      stateCode
-        ? City.getCitiesOfState(COUNTRY_CODE, stateCode).map((c) => ({
-            label: c.name,
-            value: c.name,
-          }))
-        : [],
+    () => citiesOfState(stateCode).map((name) => ({ label: name, value: name })),
     [stateCode],
   );
 
   const emit = (s: string, ci: string, a: string, z: string) =>
     onChange?.({
       country: 'United States',
-      state: s ? State.getStateByCodeAndCountry(s, COUNTRY_CODE)?.name ?? null : null,
+      state: US_STATES.find((st) => st.code === s)?.name ?? null,
       city: ci || null,
       address: a.trim() || null,
       zip: z.trim() || null,
