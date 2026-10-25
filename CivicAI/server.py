@@ -18,6 +18,8 @@ If the client disconnects at any point, the job is cancelled:
 Also:
   GET /voting-places?address=&city=&state=&zip=   drop-off / early vote / polling places
   GET /status                                     queue size, decision model, candidates
+  POST /visit  {"device": "<id>"}                 count an app launch; returns the usage counts
+  GET /stats                                      usage counts (opens, decisions, IPs, devices)
 
 Run:   python main.py
 Test:  curl -N -X POST localhost:4000/run -H 'Content-Type: application/json' -d '{"steps": 8}'
@@ -39,6 +41,7 @@ import candidates
 import config
 import llm
 import matcher
+import stats
 import voting_places
 from location import state_abbr
 
@@ -68,7 +71,10 @@ def generate_response_task(data: dict, emit, cancelled: threading.Event):
     """
     # Real work: the app sends {"state", "city", "answers": [...]}
     if "answers" in data:
-        return matcher.run_match(data, emit, cancelled)
+        result = matcher.run_match(data, emit, cancelled)
+        if result is not None and not cancelled.is_set():
+            stats.record_decision()
+        return result
 
     # Demo task (curl test)
     steps = int(data.get("steps", 5))
@@ -222,6 +228,18 @@ def voting_places_route():
         (a.get("address") or "").strip(), (a.get("city") or "").strip(),
         state_abbr(a.get("state")) or "", (a.get("zip") or "").strip(),
     ))
+
+@app.post("/visit")
+def visit():
+    """The app calls this once per launch. Render's proxy puts the caller's IP first in
+    X-Forwarded-For; locally there is no proxy, so use the socket's address."""
+    ip = (request.headers.get("X-Forwarded-For") or "").split(",")[0].strip() or request.remote_addr
+    device = str((request.get_json(silent=True) or {}).get("device") or "")[:64]
+    return jsonify(stats.record_open(ip, device))
+
+@app.get("/stats")
+def stats_route():
+    return jsonify(stats.counts())
 
 @app.get("/status")
 def status():
