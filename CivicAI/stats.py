@@ -41,7 +41,16 @@ def _pipeline(commands):
                  "Content-Type": "application/json"},
     )
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return [item.get("result") for item in json.load(r)]
+        items = json.load(r)
+    errors = [item["error"] for item in items if "error" in item]
+    if errors:
+        raise RuntimeError(f"Upstash: {errors[0]}")
+    return [item.get("result") for item in items]
+
+
+if not _persistent():
+    print("Usage stats: UPSTASH_REDIS_REST_URL/TOKEN not set, so counts are kept in memory "
+          "and reset on restart", flush=True)
 
 
 _READS = [["GET", OPENS], ["GET", DECISIONS], ["PFCOUNT", IPS], ["PFCOUNT", DEVICES]]
